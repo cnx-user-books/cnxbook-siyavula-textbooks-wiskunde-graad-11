@@ -1,0 +1,428 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Die verspreiding van die data</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m39197</md:content-id>
+  <md:title>Die verspreiding van die data</md:title>
+  <md:abstract/>
+  <md:uuid>464c73fc-8c55-46e9-8e89-4384a8663da8</md:uuid>
+</metadata>
+
+<content>
+
+    <section id="cid5">
+      <title>Verspreiding van data</title>
+      <section id="uid66">
+        <title>Simmetries en Skewe Data</title>
+        <para id="id167262">Die vorm van 'n data stel is belangrik om te weet.</para>
+<definition id="fhsst_id1155"><label>Definisie</label><term id="termfhsst_id1155"> Vorm van 'n data stel</term> <meaning id="meaningfhsst_id1155">
+        <para id="id167272">Hierdie beskryf hoe die data versprei is relatief tot die gemiddelde en die mediaan. </para>
+        </meaning></definition>
+        <list id="id167284" display="block" list-type="bulleted"><item id="uid67"> Simmetriese data is gebalanseer op beide kante van die mediaan.
+<figure id="id167304"><label>Figuur </label><media id="id167304_media" alt=""><image mime-type="image/png" src="../../media/MG11C18_005.png" id="id167304_onlineimage" width="229"><!-- NOTE: attribute width changes image size online (pixels). original width is 229. --></image><image mime-type="application/postscript" for="pdf" src="../../media/MG11C18_005.eps" id="id167304_printimage"/></media></figure></item>
+          <item id="uid68">Data wat skeef is, is versprei op een kant meer as die ander. Dit kan skeef na links of skeef na regs wees.
+<figure id="id167326"><label>Figuur</label><media id="id167326_media" alt=""><image mime-type="image/png" src="../../media/MG11C18_006.png" id="id167326_onlineimage" width="234"><!-- NOTE: attribute width changes image size online (pixels). original width is 234. --></image><image mime-type="application/postscript" for="pdf" src="../../media/MG11C18_006.eps" id="id167326_printimage"/></media></figure></item>
+        </list>
+      </section>
+      <section id="uid69">
+        <title>Verhouding tussen gemiddelde, mediaan en modus</title>
+        <para id="id167344">Die verhouding van die gemiddelde, mediaan en modus ten opsigte van mekaar kan inligting verskaf oor die relatiewe vorm van die data verspreiding. As die gemiddelde, mediaan en modus min of meer dieselfde is, kan die verspreiding aangeneem word as simmetries. Met die gemiddelde en mediaan bekend, kan die volgende afgelei word:</para>
+        <list id="id167350" display="block" list-type="bulleted"><item id="uid70">(gemiddelde - mediaan) <m:math overflow="scroll"><m:mrow><m:mo>≈</m:mo><m:mn>0</m:mn></m:mrow></m:math> dan is die data simmetries
+</item>
+          <item id="uid71">(gemiddelde - mediaan) <m:math overflow="scroll"><m:mrow><m:mo>&gt;</m:mo><m:mn>0</m:mn></m:mrow></m:math> dan is die data positief skeef (Skeef na regs). Dit beteken dat die mediaan naby is aan die begin van die data stel.
+</item>
+          <item id="uid72">(gemiddelde - mediaan) <m:math overflow="scroll"><m:mrow><m:mo>&lt;</m:mo><m:mn>0</m:mn></m:mrow></m:math> dan is die data negatief skeef (skeef na links). Dit beteken dat die mediaan naby is aan die einde van die data stel.
+</item>
+        </list>
+<section id="secfhsst_id1177"><title>Verspreiding van data</title>
+        <list id="id167438" display="block" list-type="enumerated"><item id="uid73">Drie stelle van 12 leerlinge elk het 'n toets geskryf en se punte is aangeteken. Die toets het uit 50 getel. Gebruik die gegewe data om die volgende vrae te beantwoord.
+<table id="uid74" summary="Kumulatiewe frekwensies vir data stel 2."><label>Tabel</label>
+<tgroup cols="3"><tbody><row><entry>Stel 1</entry><entry>Stel 2</entry><entry>Stel 3</entry></row><row><entry>25</entry><entry>32</entry><entry>43</entry></row><row><entry>47</entry><entry>34</entry><entry>47</entry></row><row><entry>15</entry><entry>35</entry><entry>16</entry></row><row><entry>17</entry><entry>32</entry><entry>43</entry></row><row><entry>16</entry><entry>25</entry><entry>38</entry></row><row><entry>26</entry><entry>16</entry><entry>44</entry></row><row><entry>24</entry><entry>38</entry><entry>42</entry></row><row><entry>27</entry><entry>47</entry><entry>50</entry></row><row><entry>22</entry><entry>43</entry><entry>50</entry></row><row><entry>24</entry><entry>29</entry><entry>44</entry></row><row><entry>12</entry><entry>18</entry><entry>43</entry></row><row><entry>31</entry><entry>25</entry><entry>42</entry></row></tbody>
+</tgroup><caption>Kumulatiewe frekwensies vir data stel 2. </caption>
+</table><list id="id167826" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid75">Vir elke stel, bereken die gemiddelde en die vyf-getal opsomming.
+</item><item id="uid76">Vir elke klas, bereken die verskil tussen die gemiddelde en die mediaan. Skets 'n houer- en puntdiagram op dieselfde stel asse
+</item><item id="uid77">Sê watter van die drie stelle skeef is (of regs of links)
+</item><item id="uid78">Is stel A skeef of simmetries?
+</item><item id="uid79">Is stel C simmetries? Hoekom of hoekom nie?
+</item></list></item>
+          <item id="uid80">Twee stelle data het dieselfde omvang, maar een is skeef na regs en die ander een is skeef na links. Skets die houer- en puntdiagram en dan vind data (6 punte in elke stel) wat die vereistes voldoen.
+</item>
+        </list>
+        
+</section>
+      </section>
+    </section>
+    <section id="cid6"><title>Verspreidingsgrafieke</title><para id="id167927">'n Verspreidingsgrafiek wys die verhouding tussen twee veranderlikes. Ons sê hierdie is tweeveranderlike data en ons plot die data van twee verskillende stelle deur middel van georde pare. 
+Byvoorbeeld, ons kan massa op die horisontale as (eerste veranderlike) en hoogte op die tweede as (tweede veranderlike), of ons kan stroom op die horisontale as en spanning op die vertikale as hê.
+</para>
+      <para id="id162655">Ohm se wet is 'n belangrike verhouding in fisika. Dit beskryf die verhouding tussen stroom en spanning in 'n geleier, soos 'n stuk draad. Wanneer ons die spanning meet (afhanklike veranderlike) wat verkry is deur 'n sekere stroom (onafhanklike veranderlike) in 'n draad, kry ons die data punte soos volg <link target-id="uid81"/>.</para>
+      <table id="uid81" summary="Stroom en spanning waardes gemeet in 'n stuk draad.">
+<label>Tabel</label><tgroup cols="4"><tbody>
+            <row>
+              <entry>
+                <emphasis effect="bold">Stroom</emphasis>
+              </entry>
+              <entry>
+                <emphasis effect="bold">Spanning</emphasis>
+              </entry>
+              <entry>
+                <emphasis effect="bold">Stroom</emphasis>
+              </entry>
+              <entry>
+                <emphasis effect="bold">Spanning</emphasis>
+              </entry>
+            </row>
+            <row>
+              <entry>0</entry>
+              <entry>0,4</entry>
+              <entry>2,4</entry>
+              <entry>1,4</entry>
+            </row>
+            <row>
+              <entry>0,2</entry>
+              <entry>0,3</entry>
+              <entry>2,6</entry>
+              <entry>1,6</entry>
+            </row>
+            <row>
+              <entry>0,4</entry>
+              <entry>0,6</entry>
+              <entry>2,8</entry>
+              <entry>1,9</entry>
+            </row>
+            <row>
+              <entry>0,6</entry>
+              <entry>0,6</entry>
+              <entry>3</entry>
+              <entry>1,9</entry>
+            </row>
+            <row>
+              <entry>0,8</entry>
+              <entry>0,4</entry>
+              <entry>3,2</entry>
+              <entry>2</entry>
+            </row>
+            <row>
+              <entry>1</entry>
+              <entry>1</entry>
+              <entry>3,4</entry>
+              <entry>1,9</entry>
+            </row>
+            <row>
+              <entry>1,2</entry>
+              <entry>0,9</entry>
+              <entry>3,6</entry>
+              <entry>2,1</entry>
+            </row>
+            <row>
+              <entry>1,4</entry>
+              <entry>0,7</entry>
+              <entry>3,8</entry>
+              <entry>2,1</entry>
+            </row>
+            <row>
+              <entry>1,6</entry>
+              <entry>1</entry>
+              <entry>4</entry>
+              <entry>2,4</entry>
+            </row>
+            <row>
+              <entry>1,8</entry>
+              <entry>1,1</entry>
+              <entry>4,2</entry>
+              <entry>2,4</entry>
+            </row>
+            <row>
+              <entry>2</entry>
+              <entry>1,3</entry>
+              <entry>4,4</entry>
+              <entry>2,5</entry>
+            </row>
+            <row>
+              <entry>2,2</entry>
+              <entry>1,1</entry>
+              <entry>4,6</entry>
+              <entry>2,5</entry>
+            </row>
+          </tbody>
+        
+
+
+</tgroup><caption>Stroom en spanning waardes gemeet in 'n stuk draad.</caption>
+</table>
+      <para id="id168521">As ons hierdie data plot, kry ons die volgende verspreidingsgrafiek <link target-id="id168531"/>.</para>
+      <para id="id168528">
+        <figure id="id168531"><label>Figuur</label><media id="id168531_media" alt="">
+            <image mime-type="image/png" src="../../media/MG11C18_007.png" id="id168531_onlineimage" width="170"><!-- NOTE: attribute width changes image size online (pixels). original width is 170. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/MG11C18_007.eps" id="id168531_printimage"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id168538">As ons 'n funksie moet kies wat die data op die beste beskryf, sal 'n reguit lyn die beste opsie wees.</para>
+<section id="secfhsst_id1300"><title>Ohm se wet</title>
+      <para id="id168554">Ohm se wet beskryf die verhouding tussen stroom en spanning in 'n geleier. Die gradiënt van die grafiek van spanning teenoor stroom is bekend as die <emphasis effect="italics">weerstand</emphasis> van die geleier.</para>
+</section>
+<section id="secfhsst_id1304"><title>Navorsingsprojek : Spreidiagram</title>
+      <para id="id168580">Die funksie wat 'n stel data beste beskryf kan in enige vorm wees. Ons sal onsself aan die vorms wat reeds bestudeer is beperk, dit is, lineêre-, kwadratiese- of eksponensiële funksies.
+Plot die volgende stel data as 'n verspreidingsgrafiek, en besluit op 'n funksie wat die data beste beskryf. Die funksie kan of kwadraties of eksponensieel wees.
+</para>
+      <list id="id168588" display="block" list-type="enumerated"><item id="uid82">
+          <table id="id168599" summary="Data stel vir oefening 1">
+<label>Tabel</label><tgroup cols="8"><tbody>
+                <row>
+                  <entry>
+                    <emphasis effect="bold">x</emphasis>
+                  </entry>
+                  <entry>
+                    <emphasis effect="bold">y</emphasis>
+                  </entry>
+                  <entry>
+                    <emphasis effect="bold">x</emphasis>
+                  </entry>
+                  <entry>
+                    <emphasis effect="bold">y</emphasis>
+                  </entry>
+                  <entry>
+                    <emphasis effect="bold">x</emphasis>
+                  </entry>
+                  <entry>
+                    <emphasis effect="bold">y</emphasis>
+                  </entry>
+                  <entry>
+                    <emphasis effect="bold">x</emphasis>
+                  </entry>
+                  <entry>
+                    <emphasis effect="bold">y</emphasis>
+                  </entry>
+                </row>
+                <row>
+                  <entry>-5</entry>
+                  <entry>9,8</entry>
+                  <entry>0</entry>
+                  <entry>14,2</entry>
+                  <entry>-2,5</entry>
+                  <entry>11,9</entry>
+                  <entry>2,5</entry>
+                  <entry>49,3</entry>
+                </row>
+                <row>
+                  <entry>-4,5</entry>
+                  <entry>4,4</entry>
+                  <entry>0,5</entry>
+                  <entry>22,5</entry>
+                  <entry>-2</entry>
+                  <entry>6,9</entry>
+                  <entry>3</entry>
+                  <entry>68,9</entry>
+                </row>
+                <row>
+                  <entry>-4</entry>
+                  <entry>7,6</entry>
+                  <entry>1</entry>
+                  <entry>21,5</entry>
+                  <entry>-1,5</entry>
+                  <entry>8,2</entry>
+                  <entry>3,5</entry>
+                  <entry>88,4</entry>
+                </row>
+                <row>
+                  <entry>-3,5</entry>
+                  <entry>7,9</entry>
+                  <entry>1,5</entry>
+                  <entry>27,5</entry>
+                  <entry>-1</entry>
+                  <entry>7,8</entry>
+                  <entry>4</entry>
+                  <entry>117,2</entry>
+                </row>
+                <row>
+                  <entry>-3</entry>
+                  <entry>7,5</entry>
+                  <entry>2</entry>
+                  <entry>41,9</entry>
+                  <entry>-0,5</entry>
+                  <entry>14,4</entry>
+                  <entry>4,5</entry>
+                  <entry>151,4</entry>
+                </row>
+              </tbody>
+            
+
+
+</tgroup>
+</table>
+        </item>
+        <item id="uid83">
+          <table id="id169049" summary="data set for exercise 2">
+<label>Tabel</label><tgroup cols="8"><tbody>
+                <row>
+                  <entry>
+                    <emphasis effect="bold">x</emphasis>
+                  </entry>
+                  <entry>
+                    <emphasis effect="bold">y</emphasis>
+                  </entry>
+                  <entry>
+                    <emphasis effect="bold">x</emphasis>
+                  </entry>
+                  <entry>
+                    <emphasis effect="bold">y</emphasis>
+                  </entry>
+                  <entry>
+                    <emphasis effect="bold">x</emphasis>
+                  </entry>
+                  <entry>
+                    <emphasis effect="bold">y</emphasis>
+                  </entry>
+                  <entry>
+                    <emphasis effect="bold">x</emphasis>
+                  </entry>
+                  <entry>
+                    <emphasis effect="bold">y</emphasis>
+                  </entry>
+                </row>
+                <row>
+                  <entry>-5</entry>
+                  <entry>75</entry>
+                  <entry>0</entry>
+                  <entry>5</entry>
+                  <entry>-2,5</entry>
+                  <entry>27,5</entry>
+                  <entry>2,5</entry>
+                  <entry>7,5</entry>
+                </row>
+                <row>
+                  <entry>-4,5</entry>
+                  <entry>63,5</entry>
+                  <entry>0,5</entry>
+                  <entry>3,5</entry>
+                  <entry>-2</entry>
+                  <entry>21</entry>
+                  <entry>3</entry>
+                  <entry>11</entry>
+                </row>
+                <row>
+                  <entry>-4</entry>
+                  <entry>53</entry>
+                  <entry>1</entry>
+                  <entry>3</entry>
+                  <entry>-1,5</entry>
+                  <entry>15,5</entry>
+                  <entry>3,5</entry>
+                  <entry>15,5</entry>
+                </row>
+                <row>
+                  <entry>-3,5</entry>
+                  <entry>43,5</entry>
+                  <entry>1,5</entry>
+                  <entry>3,5</entry>
+                  <entry>-1</entry>
+                  <entry>11</entry>
+                  <entry>4</entry>
+                  <entry>21</entry>
+                </row>
+                <row>
+                  <entry>-3</entry>
+                  <entry>35</entry>
+                  <entry>2</entry>
+                  <entry>5</entry>
+                  <entry>-0,5</entry>
+                  <entry>7,5</entry>
+                  <entry>4,5</entry>
+                  <entry>27,5</entry>
+                </row>
+              </tbody>
+            
+</tgroup>
+</table>
+        </item>
+        <item id="uid84">
+          <table id="id169498" summary="">
+            <label>Tabel</label><tgroup cols="9">
+              <tbody>
+                <row>
+                  <entry>Hoogte (cm)</entry>
+                  <entry>147</entry>
+                  <entry>150</entry>
+                  <entry>152</entry>
+                  <entry>155</entry>
+                  <entry>157</entry>
+                  <entry>160</entry>
+                  <entry>163</entry>
+                  <entry>165</entry>
+                </row>
+                <row>
+                  <entry/>
+                  <entry>168</entry>
+                  <entry>170</entry>
+                  <entry>173</entry>
+                  <entry>175</entry>
+                  <entry>178</entry>
+                  <entry>180</entry>
+                  <entry>183</entry>
+                  <entry/>
+                </row>
+                <row>
+                  <entry>Gewig (kg)</entry>
+                  <entry>52</entry>
+                  <entry>53</entry>
+                  <entry>54</entry>
+                  <entry>56</entry>
+                  <entry>57</entry>
+                  <entry>59</entry>
+                  <entry>60</entry>
+                  <entry>61</entry>
+                </row>
+                <row>
+                  <entry/>
+                  <entry>63</entry>
+                  <entry>64</entry>
+                  <entry>66</entry>
+                  <entry>68</entry>
+                  <entry>70</entry>
+                  <entry>72</entry>
+                  <entry>74</entry>
+                  <entry/>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+        </item>
+      </list>
+      
+</section>
+<definition id="fhsst_id1531"><label>Definisie </label><term id="termfhsst_id1531"> uitskieter </term> <meaning id="meaningfhsst_id1531">
+      <para id="id169816">'n Punt op 'n verspreidingsgrafiek wat wyd geskei is van die ander punte staan bekend as 'n uitskieter.</para>
+      </meaning></definition>
+<para id="eip-912">Die volgende simulasie laat jou toe om verskillende verspreidingsgrafiek-punte te plot sowel as 'n kromme op die plot. Ignoreer die fout bars (blou lyne) op die punte.
+ <figure id="curve-fitting" class="phetsim"><label>Figuur</label><title>Phet simulasie vir verspreidingsgrafieke</title><media id="phet_sim" display="block" alt="verspreidingsgrafieke phet simulasie">
+	  <flash id="phet-simulasie" mime-type="application/x-shockwave-flash" src="curve-fitting.swf" width="425" height="344">
+	  </flash>
+	  </media>
+	  </figure></para><section id="secfhsst_id1534"><title> Scatter Plots </title>
+      <list id="id169836" display="block" list-type="enumerated"><item id="uid85">'n Klas se punte vir 'n toets was aangeteken saam met die hoeveelheid leertyd gespandeer daarvoor. Die resultate is gegee hieronder.
+<table id="id169852" summary=""><label>Tabel</label><tgroup cols="2"><tbody><row><entry>Punt (persentasie)</entry><entry>Tyd spandeer op leer (minute)</entry></row><row><entry>67</entry><entry>100</entry></row><row><entry>55</entry><entry>85</entry></row><row><entry>70</entry><entry>150</entry></row><row><entry>90</entry><entry>180</entry></row><row><entry>45</entry><entry>70</entry></row><row><entry>75</entry><entry>160</entry></row><row><entry>50</entry><entry>80</entry></row><row><entry>60</entry><entry>90</entry></row><row><entry>84</entry><entry>110</entry></row><row><entry>30</entry><entry>60</entry></row><row><entry>66</entry><entry>96</entry></row><row><entry>96</entry><entry>200</entry></row></tbody></tgroup></table><list id="id170112" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid86">Teken 'n diagram met beskryfte vir elke as
+</item><item id="uid87">Sê met rede, die doel of onafhanklike veranderlike en die effek of afhanklike veranderlike.
+</item><item id="uid88">Plot die data pare
+</item><item id="uid89">Wat kom jy agter oor die diagram?
+</item><item id="uid90">Is daar enige patroon wat volg?
+</item></list></item>
+        <item id="uid91">Die posisies van agt tennisspelers is gegee saam met die tyd wat hulle spandeer het op oefening.
+<table id="id170191" summary=""><label>Tabel</label><tgroup cols="2"><tbody><row><entry>Oefentyd (min)</entry><entry>Posisie</entry></row><row><entry>154</entry><entry>5</entry></row><row><entry>390</entry><entry>1</entry></row><row><entry>130</entry><entry>6</entry></row><row><entry>70</entry><entry>8</entry></row><row><entry>240</entry><entry>3</entry></row><row><entry>280</entry><entry>2</entry></row><row><entry>175</entry><entry>4</entry></row><row><entry>103</entry><entry>7</entry></row></tbody></tgroup></table><list id="id170377" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid92">Skets 'n verspreidingsgrafiek en verduidelik hoe jy die afhanklike veranderlike (doel) en onafhanklike afhanklike (effek) gekies het.
+</item><item id="uid93">Watter patroon neem jy waar?
+</item></list></item>
+        <item id="uid94">Agt kinders se lekkergoed verbruik en slaapgewoontes was aangeteken. Die data is gegee op die volgende tabel.
+<table id="id170420" summary="data for childrens sweet consumption">
+<label>Tabel</label><tgroup cols="2"><tbody><row><entry>getal lekkers (per week)</entry><entry>gemiddelde slaaptyd (per dag)</entry></row><row><entry>15</entry><entry>4</entry></row><row><entry>12</entry><entry>4,5</entry></row><row><entry>5</entry><entry>8</entry></row><row><entry>3</entry><entry>8,5</entry></row><row><entry>18</entry><entry>3</entry></row><row><entry>23</entry><entry>2</entry></row><row><entry>11</entry><entry>5</entry></row><row><entry>4</entry><entry>8</entry></row></tbody>
+</tgroup>
+</table><list id="id170604" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid95">Wat is die afhanklike veranderlike?
+</item><item id="uid96">Wat is die onafhanklike veranderlike?
+</item><item id="uid97">Skets 'n verspreidingsgrafiek vir die data.
+</item><item id="uid98">Watter patroon neem jy waar?
+</item></list></item>
+      </list>
+      
+</section>
+    </section>
+ 
+  </content>
+</document>

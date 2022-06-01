@@ -1,0 +1,588 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Gradiënt by 'n punt</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m39222</md:content-id>
+  <md:title>Gradiënt by 'n punt</md:title>
+  <md:abstract/>
+  <md:uuid>ca2f38e7-6938-4e3b-97ec-8688d75d34c1</md:uuid>
+</metadata>
+
+<content>
+    
+    <section id="cid2"><title>Inleiding</title><para id="id62184">In Graad 10 het ons die idee van <emphasis effect="italics"> gemiddelde gradiënt</emphasis> ondersoek and gesien dat die gradiënt van sommige funksies verskillend is by verskillende intervalle. In Graad 11 kyk ons verder na die idee van gemiddelde gradiënt, en stel die idee van 'n gradiënt van 'n kurwe by 'n punt bekend. </para>
+    </section>
+    <section id="cid3">
+      <title>Gemiddelde Gradiënt</title>
+      <para id="id62542">Ons het gesien dat die gemiddelde gradiënt tussen twee punte op 'n kurwe die gradiënt is van die reguitlyn wat deur twee punte gaan.
+</para>
+      <figure id="uid1"><media id="uid1_media" alt="">
+          <image mime-type="image/png" src="../../media/MG11C14_001.png" id="uid1_onlineimage" width="170"><!-- NOTE: attribute width changes image size online (pixels). original width is 170. --></image>
+          <image mime-type="application/postscript" for="pdf" src="../../media/MG11C14_001.eps" id="uid1_printimage"/>
+        </media>
+        
+      <caption>The gemiddelde gradiënt tussen twee punte op 'n kurwe is die gradiënt van die reguitlyn wat deur die twee punte gaan. </caption></figure>
+      <para id="id62559">Wat gebeur met die gradiënt as ons die posisie van een punt vasstel en die tweede punt nader aan die vaste punt beweeg?
+</para>
+<section id="secfhsst_id81"><title>Ondersoek: Gradiënt by 'n Enkele Punt op 'n Kurwe </title>
+      <para id="id62570">Die kurwe gewys is gedefineër deur  <m:math overflow="scroll"><m:mrow><m:mi>y</m:mi><m:mo>=</m:mo><m:mo>-</m:mo><m:mn>2</m:mn><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>-</m:mo><m:mn>5</m:mn></m:mrow></m:math>. Punt B is vasgestel by koördinate (0, -5). Die posisie van punt A wissel. Voltooi die tabel hieronder deur die <m:math overflow="scroll"><m:mi>y</m:mi></m:math>-koördinate van punt A te bereken vir die gegewe <m:math overflow="scroll"><m:mi>x</m:mi></m:math>-koördinate. Bereken dan die gemiddelde gradiënt tussen punte A en B.
+</para>
+      <para id="id62621">
+        <table id="id62627" summary="Table of average gradients">
+<tgroup cols="3"><tbody>
+              <row>
+                <entry>
+                  <m:math overflow="scroll">
+                    <m:msub>
+                      <m:mi>x</m:mi>
+                      <m:mi>A</m:mi>
+                    </m:msub>
+                  </m:math>
+                </entry>
+                <entry>
+                  <m:math overflow="scroll">
+                    <m:msub>
+                      <m:mi>y</m:mi>
+                      <m:mi>A</m:mi>
+                    </m:msub>
+                  </m:math>
+                </entry>
+                <entry>gemiddelde gradiënt</entry>
+              </row>
+              <row>
+                <entry>-2</entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>-1.5</entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>-1</entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>-0.5</entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>0</entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>0.5</entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>1</entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>1.5</entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>2</entry>
+                <entry/>
+                <entry/>
+              </row>
+            </tbody>
+          
+</tgroup>
+</table>
+        <figure id="id62906">
+          <media id="id62906_media" alt="">
+            <image mime-type="image/png" src="../../media/MG11C14_002.png" id="id62906_onlineimage" width="85"><!-- NOTE: attribute width changes image size online (pixels). original width is 85. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/MG11C14_002.eps" id="id62906_printimage"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id62913">Wat gebeur met die gemiddelde gradiënt soos A in die rigting van B beweeg?
+Wat gebreur met die gemiddelde gradieënt soos A wegbeweeg van B?
+Wat is die gemiddelde gradiënt wanneer A oorvleuel met B?
+</para>
+</section>
+      <para id="id62923">In <link target-id="uid2"/> verander die gradiënt van die reguitlyn wat deur punte A en C gaan soos A nader beweeg aan C. By die punt wat A en C oorvleuel gaan die reguitlyn slegs deur een punt op die kurwe. So 'n lyn is bekend as 'n <emphasis effect="italics"> raaklyn</emphasis> aan die kurwe. 
+</para>
+      <figure id="uid2" orient="vertical"><subfigure id="id62953">
+          <media id="id62953_media" alt="">
+            <image mime-type="image/png" src="../../media/MG11C14_003.png" id="id62953_onlineimage" width="84"><!-- NOTE: attribute width changes image size online (pixels). original width is 84. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/MG11C14_003.eps" id="id62953_printimage"/>
+          </media>
+        </subfigure>
+        <subfigure id="id62962">
+          <media id="id62962_media" alt="">
+            <image mime-type="image/png" src="../../media/MG11C14_004.png" id="id62962_onlineimage" width="83"><!-- NOTE: attribute width changes image size online (pixels). original width is 83. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/MG11C14_004.eps" id="id62962_printimage"/>
+          </media>
+        </subfigure>
+        <subfigure id="id62973">
+          <media id="id62973_media" alt="">
+            <image mime-type="image/png" src="../../media/MG11C14_005.png" id="id62973_onlineimage" width="83"><!-- NOTE: attribute width changes image size online (pixels). original width is 83. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/MG11C14_005.eps" id="id62973_printimage"/>
+          </media>
+        </subfigure>
+        <subfigure id="id62982">
+          <media id="id62982_media" alt="">
+            <image mime-type="image/png" src="../../media/MG11C14_006.png" id="id62982_onlineimage" width="83"><!-- NOTE: attribute width changes image size online (pixels). original width is 83. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/MG11C14_006.eps" id="id62982_printimage"/>
+          </media>
+        </subfigure>
+        
+      <caption>Die gradiënt van die reguitlyn tussen A en C verander soos die punt A between langs die kurwe na C toe. Daar
+kom 'n punt wat A en C oorvleuel (soos gewys in (c)). By daardie punt is die lyn 'n raaklyn aan die kurwe.</caption></figure>
+      <para id="id62989">Ons stel dan die idee bekend van 'n gradiënt by 'n enkele punt op 'n kurwe. Die gradiënt by 'n punt op 'n kurwe is eenvoudig die gradiënt van die raaklyn aan die kurwe by die gegewe punt. 
+</para>
+<exercise id="secfhsst_id198"><title>Gemiddelde Gradiënt</title><problem id="probfhsst_id199">
+      <para id="id63005">Kry die gemiddelde gradiënt tussen twee punte P<m:math overflow="scroll"><m:mrow><m:mo>(</m:mo><m:mi>a</m:mi><m:mo>;</m:mo><m:mi>g</m:mi><m:mo>(</m:mo><m:mi>a</m:mi><m:mo>)</m:mo><m:mo>)</m:mo></m:mrow></m:math> en Q<m:math overflow="scroll"><m:mrow><m:mo>(</m:mo><m:mi>a</m:mi><m:mo>+</m:mo><m:mi>h</m:mi><m:mo>;</m:mo><m:mi>g</m:mi><m:mo>(</m:mo><m:mi>a</m:mi><m:mo>+</m:mo><m:mi>h</m:mi><m:mo>)</m:mo><m:mo>)</m:mo></m:mrow></m:math> op die kurwe <m:math overflow="scroll"><m:mrow><m:mi>g</m:mi><m:mrow><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>)</m:mo></m:mrow><m:mo>=</m:mo><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:math>. Kry dan die gemiddelde gradiënt tussen P<m:math overflow="scroll"><m:mrow><m:mo>(</m:mo><m:mn>2</m:mn><m:mo>;</m:mo><m:mi>g</m:mi><m:mo>(</m:mo><m:mn>2</m:mn><m:mo>)</m:mo><m:mo>)</m:mo></m:mrow></m:math> en Q<m:math overflow="scroll"><m:mrow><m:mo>(</m:mo><m:mn>4</m:mn><m:mo>;</m:mo><m:mi>g</m:mi><m:mo>(</m:mo><m:mn>4</m:mn><m:mo>)</m:mo><m:mo>)</m:mo></m:mrow></m:math>. Laastens, verduidelik wat gebeur met die gemiddelde gradiënt soos P nader beweeg aan Q.  </para>
+      </problem>
+      <solution id="solfhsst_id202"> <list id="listfhsst_id202" list-type="enumerated" number-style="arabic" class="stepwise"><item> <label> Benoem die <m:math overflow="scroll"><m:mi>x</m:mi></m:math>-koördinate</label>
+      <equation id="id63345">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:msub>
+              <m:mi>x</m:mi>
+              <m:mn>1</m:mn>
+            </m:msub>
+            <m:mo>=</m:mo>
+            <m:mi>a</m:mi>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <equation id="id63366">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:msub>
+              <m:mi>x</m:mi>
+              <m:mn>2</m:mn>
+            </m:msub>
+            <m:mo>=</m:mo>
+            <m:mi>a</m:mi>
+            <m:mo>+</m:mo>
+            <m:mi>h</m:mi>
+          </m:mrow>
+        </m:math>
+      </equation>
+      </item> <item> <label> Bepaal die <m:math overflow="scroll"><m:mi>y</m:mi></m:math> -koördinate</label>
+      <para id="id63402">Deur die funksie <m:math overflow="scroll"><m:mrow><m:mi>g</m:mi><m:mrow><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>)</m:mo></m:mrow><m:mo>=</m:mo><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:math> te gebruik, kry ons:</para>
+      <equation id="id63432">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:msub>
+              <m:mi>y</m:mi>
+              <m:mn>1</m:mn>
+            </m:msub>
+            <m:mo>=</m:mo>
+            <m:mi>g</m:mi>
+            <m:mrow>
+              <m:mo>(</m:mo>
+              <m:mi>a</m:mi>
+              <m:mo>)</m:mo>
+            </m:mrow>
+            <m:mo>=</m:mo>
+            <m:msup>
+              <m:mi>a</m:mi>
+              <m:mn>2</m:mn>
+            </m:msup>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <equation id="id63469">
+        <m:math overflow="scroll" mode="display">
+          <m:mtable displaystyle="true">
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:msub>
+                  <m:mi>y</m:mi>
+                  <m:mn>2</m:mn>
+                </m:msub>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mi>g</m:mi>
+                  <m:mo>(</m:mo>
+                  <m:mi>a</m:mi>
+                  <m:mo>+</m:mo>
+                  <m:mi>h</m:mi>
+                  <m:mo>)</m:mo>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:msup>
+                  <m:mrow>
+                    <m:mo>(</m:mo>
+                    <m:mi>a</m:mi>
+                    <m:mo>+</m:mo>
+                    <m:mi>h</m:mi>
+                    <m:mo>)</m:mo>
+                  </m:mrow>
+                  <m:mn>2</m:mn>
+                </m:msup>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:msup>
+                    <m:mi>a</m:mi>
+                    <m:mn>2</m:mn>
+                  </m:msup>
+                  <m:mo>+</m:mo>
+                  <m:mn>2</m:mn>
+                  <m:mi>a</m:mi>
+                  <m:mi>h</m:mi>
+                  <m:mo>+</m:mo>
+                  <m:msup>
+                    <m:mi>h</m:mi>
+                    <m:mn>2</m:mn>
+                  </m:msup>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+          </m:mtable>
+        </m:math>
+      </equation>
+      </item> <item> <label> Bereken die gemiddelde gradiënt</label>
+      <equation id="uid3">
+        <m:math overflow="scroll" mode="display">
+          <m:mtable displaystyle="true">
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mfrac>
+                  <m:mrow>
+                    <m:msub>
+                      <m:mi>y</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msub>
+                    <m:mo>-</m:mo>
+                    <m:msub>
+                      <m:mi>y</m:mi>
+                      <m:mn>1</m:mn>
+                    </m:msub>
+                  </m:mrow>
+                  <m:mrow>
+                    <m:msub>
+                      <m:mi>x</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msub>
+                    <m:mo>-</m:mo>
+                    <m:msub>
+                      <m:mi>x</m:mi>
+                      <m:mn>1</m:mn>
+                    </m:msub>
+                  </m:mrow>
+                </m:mfrac>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mfrac>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:msup>
+                        <m:mi>a</m:mi>
+                        <m:mn>2</m:mn>
+                      </m:msup>
+                      <m:mo>+</m:mo>
+                      <m:mn>2</m:mn>
+                      <m:mi>a</m:mi>
+                      <m:mi>h</m:mi>
+                      <m:mo>+</m:mo>
+                      <m:msup>
+                        <m:mi>h</m:mi>
+                        <m:mn>2</m:mn>
+                      </m:msup>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:mo>-</m:mo>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:msup>
+                        <m:mi>a</m:mi>
+                        <m:mn>2</m:mn>
+                      </m:msup>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                  </m:mrow>
+                  <m:mrow>
+                    <m:mo>(</m:mo>
+                    <m:mi>a</m:mi>
+                    <m:mo>+</m:mo>
+                    <m:mi>h</m:mi>
+                    <m:mo>)</m:mo>
+                    <m:mo>-</m:mo>
+                    <m:mo>(</m:mo>
+                    <m:mi>a</m:mi>
+                    <m:mo>)</m:mo>
+                  </m:mrow>
+                </m:mfrac>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mrow/>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mfrac>
+                  <m:mrow>
+                    <m:msup>
+                      <m:mi>a</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msup>
+                    <m:mo>+</m:mo>
+                    <m:mn>2</m:mn>
+                    <m:mi>a</m:mi>
+                    <m:mi>h</m:mi>
+                    <m:mo>+</m:mo>
+                    <m:msup>
+                      <m:mi>h</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msup>
+                    <m:mo>-</m:mo>
+                    <m:msup>
+                      <m:mi>a</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msup>
+                  </m:mrow>
+                  <m:mrow>
+                    <m:mi>a</m:mi>
+                    <m:mo>+</m:mo>
+                    <m:mi>h</m:mi>
+                    <m:mo>-</m:mo>
+                    <m:mi>a</m:mi>
+                  </m:mrow>
+                </m:mfrac>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mrow/>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mfrac>
+                  <m:mrow>
+                    <m:mn>2</m:mn>
+                    <m:mi>a</m:mi>
+                    <m:mi>h</m:mi>
+                    <m:mo>+</m:mo>
+                    <m:msup>
+                      <m:mi>h</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msup>
+                  </m:mrow>
+                  <m:mi>h</m:mi>
+                </m:mfrac>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mrow/>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mfrac>
+                  <m:mrow>
+                    <m:mi>h</m:mi>
+                    <m:mo>(</m:mo>
+                    <m:mn>2</m:mn>
+                    <m:mi>a</m:mi>
+                    <m:mo>+</m:mo>
+                    <m:mi>h</m:mi>
+                    <m:mo>)</m:mo>
+                  </m:mrow>
+                  <m:mi>h</m:mi>
+                </m:mfrac>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mn>2</m:mn>
+                  <m:mi>a</m:mi>
+                  <m:mo>+</m:mo>
+                  <m:mi>h</m:mi>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+          </m:mtable>
+        </m:math>
+      </equation>
+      <para id="id63853">Die gemiddelde gradiënt tussen P<m:math overflow="scroll"><m:mrow><m:mo>(</m:mo><m:mi>a</m:mi><m:mo>;</m:mo><m:mi>g</m:mi><m:mo>(</m:mo><m:mi>a</m:mi><m:mo>)</m:mo><m:mo>)</m:mo></m:mrow></m:math> en Q<m:math overflow="scroll"><m:mrow><m:mo>(</m:mo><m:mi>a</m:mi><m:mo>+</m:mo><m:mi>h</m:mi><m:mo>;</m:mo><m:mi>g</m:mi><m:mo>(</m:mo><m:mi>a</m:mi><m:mo>+</m:mo><m:mi>h</m:mi><m:mo>)</m:mo><m:mo>)</m:mo></m:mrow></m:math> op die kurwe <m:math overflow="scroll"><m:mrow><m:mi>g</m:mi><m:mrow><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>)</m:mo></m:mrow><m:mo>=</m:mo><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:math> is <m:math overflow="scroll"><m:mrow><m:mn>2</m:mn><m:mi>a</m:mi><m:mo>+</m:mo><m:mi>h</m:mi></m:mrow></m:math>.</para>
+      </item> <item> <label> Bereken die gemiddelde gradiënt tussen P<m:math overflow="scroll"><m:mrow><m:mo>(</m:mo><m:mn>2</m:mn><m:mo>;</m:mo><m:mi>g</m:mi><m:mo>(</m:mo><m:mn>2</m:mn><m:mo>)</m:mo><m:mo>)</m:mo></m:mrow></m:math> en Q<m:math overflow="scroll"><m:mrow><m:mo>(</m:mo><m:mn>4</m:mn><m:mo>;</m:mo><m:mi>g</m:mi><m:mo>(</m:mo><m:mn>4</m:mn><m:mo>)</m:mo><m:mo>)</m:mo></m:mrow></m:math> </label>
+      <para id="id64006">Ons kan die resultaat in <link target-id="uid3"/> gebruik, maar ons sal moet bepaal wat <m:math overflow="scroll"><m:mi>a</m:mi></m:math> en <m:math overflow="scroll"><m:mi>h</m:mi></m:math> is. Ons doen dit deur te kyk na die definisies van P en Q. Die <m:math overflow="scroll"><m:mi>x</m:mi></m:math>-koërdinaat van P is <m:math overflow="scroll"><m:mi>a</m:mi></m:math> en die <m:math overflow="scroll"><m:mi>x</m:mi></m:math>-koördinaat van Q is <m:math overflow="scroll"><m:mrow><m:mi>a</m:mi><m:mo>+</m:mo><m:mi>h</m:mi></m:mrow></m:math>. Daarom as ons aanneem dat <m:math overflow="scroll"><m:mrow><m:mi>a</m:mi><m:mo>=</m:mo><m:mn>2</m:mn></m:mrow></m:math> en <m:math overflow="scroll"><m:mrow><m:mi>a</m:mi><m:mo>+</m:mo><m:mi>h</m:mi><m:mo>=</m:mo><m:mn>4</m:mn></m:mrow></m:math>, dan is <m:math overflow="scroll"><m:mrow><m:mi>h</m:mi><m:mo>=</m:mo><m:mn>2</m:mn></m:mrow></m:math>.</para>
+      <para id="id64110">Dan is die gemiddelde gradiënt</para>
+      <equation id="id64113">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mn>2</m:mn>
+            <m:mi>a</m:mi>
+            <m:mo>+</m:mo>
+            <m:mi>h</m:mi>
+            <m:mo>=</m:mo>
+            <m:mn>2</m:mn>
+            <m:mo>(</m:mo>
+            <m:mn>2</m:mn>
+            <m:mo>)</m:mo>
+            <m:mo>+</m:mo>
+            <m:mo>(</m:mo>
+            <m:mn>2</m:mn>
+            <m:mo>)</m:mo>
+            <m:mo>=</m:mo>
+            <m:mn>6</m:mn>
+          </m:mrow>
+        </m:math>
+      </equation>
+      </item> <item> <label> Soos P nader beweeg aan Q... </label>
+      <para id="id64158">soos punt P nader beweeg aan punt Q, word <m:math overflow="scroll"><m:mi>h</m:mi></m:math> kleiner. Dit beteken dat die gemiddelde gradiënt ook kleiner word. As die punt Q oorvleuel met die punt P, is <m:math overflow="scroll"><m:mrow><m:mi>h</m:mi><m:mo>=</m:mo><m:mn>0</m:mn></m:mrow></m:math> en die gemiddelde gradiënt word gegee deur <m:math overflow="scroll"><m:mrow><m:mn>2</m:mn><m:mi>a</m:mi></m:mrow></m:math>.
+ </para>
+      </item> </list> </solution>
+</exercise>
+      <para id="id64206">Ons sien nou dat ons die vergelyking kan skryf om die gemiddelde gradiënt op 'n effens anderse manier
+te bereken. As ons 'n kurwe het gedefineer deur <m:math overflow="scroll"><m:mrow><m:mi>f</m:mi><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>)</m:mo></m:mrow></m:math>, dan vir twee punte P en Q met P<m:math overflow="scroll"><m:mrow><m:mo>(</m:mo><m:mi>a</m:mi><m:mo>;</m:mo><m:mi>f</m:mi><m:mo>(</m:mo><m:mi>a</m:mi><m:mo>)</m:mo><m:mo>)</m:mo></m:mrow></m:math> en Q<m:math overflow="scroll"><m:mrow><m:mo>(</m:mo><m:mi>a</m:mi><m:mo>+</m:mo><m:mi>h</m:mi><m:mo>;</m:mo><m:mi>f</m:mi><m:mo>(</m:mo><m:mi>a</m:mi><m:mo>+</m:mo><m:mi>h</m:mi><m:mo>)</m:mo><m:mo>)</m:mo></m:mrow></m:math>, word die gemiddelde gradiënt tussen P en Q gegee deur <m:math overflow="scroll"><m:mrow><m:mi>f</m:mi><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>)</m:mo></m:mrow></m:math>:</para>
+      <equation id="id64297">
+        <m:math overflow="scroll" mode="display">
+          <m:mtable displaystyle="true">
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mfrac>
+                  <m:mrow>
+                    <m:msub>
+                      <m:mi>y</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msub>
+                    <m:mo>-</m:mo>
+                    <m:msub>
+                      <m:mi>y</m:mi>
+                      <m:mn>1</m:mn>
+                    </m:msub>
+                  </m:mrow>
+                  <m:mrow>
+                    <m:msub>
+                      <m:mi>x</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msub>
+                    <m:mo>-</m:mo>
+                    <m:msub>
+                      <m:mi>x</m:mi>
+                      <m:mn>1</m:mn>
+                    </m:msub>
+                  </m:mrow>
+                </m:mfrac>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mfrac>
+                  <m:mrow>
+                    <m:mi>f</m:mi>
+                    <m:mo>(</m:mo>
+                    <m:mi>a</m:mi>
+                    <m:mo>+</m:mo>
+                    <m:mi>h</m:mi>
+                    <m:mo>)</m:mo>
+                    <m:mo>-</m:mo>
+                    <m:mi>f</m:mi>
+                    <m:mo>(</m:mo>
+                    <m:mi>a</m:mi>
+                    <m:mo>)</m:mo>
+                  </m:mrow>
+                  <m:mrow>
+                    <m:mo>(</m:mo>
+                    <m:mi>a</m:mi>
+                    <m:mo>+</m:mo>
+                    <m:mi>h</m:mi>
+                    <m:mo>)</m:mo>
+                    <m:mo>-</m:mo>
+                    <m:mo>(</m:mo>
+                    <m:mi>a</m:mi>
+                    <m:mo>)</m:mo>
+                  </m:mrow>
+                </m:mfrac>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mfrac>
+                  <m:mrow>
+                    <m:mi>f</m:mi>
+                    <m:mo>(</m:mo>
+                    <m:mi>a</m:mi>
+                    <m:mo>+</m:mo>
+                    <m:mi>h</m:mi>
+                    <m:mo>)</m:mo>
+                    <m:mo>-</m:mo>
+                    <m:mi>f</m:mi>
+                    <m:mo>(</m:mo>
+                    <m:mi>a</m:mi>
+                    <m:mo>)</m:mo>
+                  </m:mrow>
+                  <m:mi>h</m:mi>
+                </m:mfrac>
+              </m:mtd>
+            </m:mtr>
+          </m:mtable>
+        </m:math>
+      </equation>
+      <para id="id64441">Hierdie resultaat is belangrik om die gradiënt te bereken by 'n punt op 'n kurwe en dit sal in groter detail ondersoek word in Graad 12. </para>
+    </section>
+    <section id="cid4">
+      <title>Hoofstukoefeninge</title>
+      <list id="id64457" display="block" list-type="enumerated"><item id="uid4">
+          <list id="id64467" display="block" list-type="enumerated"><item id="uid5"> Bepaal die gemiddelde gradiënt van die kurwe <m:math overflow="scroll"><m:mrow><m:mi>f</m:mi><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>)</m:mo><m:mo>=</m:mo><m:mi>x</m:mi><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>3</m:mn><m:mo>)</m:mo></m:mrow></m:math> tussen <m:math overflow="scroll"><m:mrow><m:mi>x</m:mi><m:mo>=</m:mo><m:mi>Â</m:mi><m:mi></m:mi><m:mn>5</m:mn></m:mrow></m:math> en <m:math overflow="scroll"><m:mrow><m:mi>x</m:mi><m:mo>=</m:mo><m:mi>Â</m:mi><m:mi></m:mi><m:mn>3</m:mn></m:mrow></m:math>.
+</item>
+            <item id="uid6"> Sê nou wat jy kan aflei oor die funksie <m:math overflow="scroll"><m:mi>f</m:mi></m:math> tussen <m:math overflow="scroll"><m:mrow><m:mi>x</m:mi><m:mo>=</m:mo><m:mi>Â</m:mi><m:mi></m:mi><m:mn>5</m:mn></m:mrow></m:math> en <m:math overflow="scroll"><m:mrow><m:mi>x</m:mi><m:mo>=</m:mo><m:mi>Â</m:mi><m:mi></m:mi><m:mn>3</m:mn></m:mrow></m:math>.
+</item>
+          </list>
+        </item>
+        <item id="uid7">A(1;3) is 'n punt op <m:math overflow="scroll"><m:mrow><m:mi>f</m:mi><m:mrow><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>)</m:mo></m:mrow><m:mo>=</m:mo><m:mn>3</m:mn><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:math>.
+<list id="id64651" display="block" list-type="enumerated"><item id="uid8">Bepaal die gradiënt van die kurwe by punt A.
+</item><item id="uid9"> Bepaal nou die vergelyking van die raaklyn by A.
+</item></list></item>
+        <item id="uid10">Given: <m:math overflow="scroll"><m:mrow><m:mi>f</m:mi><m:mrow><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>)</m:mo></m:mrow><m:mo>=</m:mo><m:mn>2</m:mn><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:math>.
+<list id="id64721" display="block" list-type="enumerated"><item id="uid11">
+Bepaal die gemiddelde gradiënt tussen <m:math overflow="scroll"><m:mrow><m:mi>x</m:mi><m:mo>=</m:mo><m:mo>-</m:mo><m:mn>2</m:mn></m:mrow></m:math> en <m:math overflow="scroll"><m:mrow><m:mi>x</m:mi><m:mo>=</m:mo><m:mn>1</m:mn></m:mrow></m:math>.
+</item><item id="uid12">Bepaal die gradiënt van die kurwe van <m:math overflow="scroll"><m:mi>f</m:mi></m:math> waar <m:math overflow="scroll"><m:mrow><m:mi>x</m:mi><m:mo>=</m:mo><m:mn>2</m:mn></m:mrow></m:math>.
+</item></list></item>
+      </list>
+    </section>
+  </content>
+</document>

@@ -1,0 +1,2398 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Driehoeke meetkunde</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m39210</md:content-id>
+  <md:title>Driehoeke meetkunde</md:title>
+  <md:abstract/>
+  <md:uuid>5a1f6fda-f068-4c1c-84f3-2284b154c181</md:uuid>
+</metadata>
+
+<content>
+    <section id="cid5">
+      <title>Driehoek Meetkunde</title>
+      <section id="uid17">
+        <title>Proporsie</title>
+        <para id="id64560">Twee lynstukke is verdeel in die <emphasis effect="italics">dieselfde</emphasis> proporsie as die verhoudings tussen die dele gelyk is.</para>
+        <equation id="id64570">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mfrac>
+                <m:mrow>
+                  <m:mi>A</m:mi>
+                  <m:mi>B</m:mi>
+                </m:mrow>
+                <m:mrow>
+                  <m:mi>B</m:mi>
+                  <m:mi>C</m:mi>
+                </m:mrow>
+              </m:mfrac>
+              <m:mo>=</m:mo>
+              <m:mfrac>
+                <m:mi>x</m:mi>
+                <m:mi>y</m:mi>
+              </m:mfrac>
+              <m:mo>=</m:mo>
+              <m:mfrac>
+                <m:mrow>
+                  <m:mi>k</m:mi>
+                  <m:mi>x</m:mi>
+                </m:mrow>
+                <m:mrow>
+                  <m:mi>k</m:mi>
+                  <m:mi>y</m:mi>
+                </m:mrow>
+              </m:mfrac>
+              <m:mo>=</m:mo>
+              <m:mfrac>
+                <m:mrow>
+                  <m:mi>D</m:mi>
+                  <m:mi>E</m:mi>
+                </m:mrow>
+                <m:mrow>
+                  <m:mi>E</m:mi>
+                  <m:mi>F</m:mi>
+                </m:mrow>
+              </m:mfrac>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <equation id="id64632"><m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mo>∴</m:mo>
+              <m:mtext>die</m:mtext>
+              <m:mspace width="4.pt"/>
+              <m:mtext/>
+              <m:mspace width="4.pt"/>
+              <m:mtext>lynstukke</m:mtext>
+              <m:mspace width="4.pt"/>
+              <m:mtext>is</m:mtext>
+              <m:mspace width="4.pt"/>
+              <m:mtext>in</m:mtext>
+              <m:mspace width="4.pt"/>
+              <m:mtext/>
+              <m:mspace width="4.pt"/>
+              <m:mtext>dieselfde</m:mtext>
+              <m:mspace width="4.pt"/>
+              <m:mtext>proporsie</m:mtext>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id64685">
+          <figure id="id64689">
+            <media id="id64689_media" alt="">
+              <image mime-type="image/png" src="../../media/MG11C16_009.png" id="id64689_onlineimage" width="193"><!-- NOTE: attribute width changes image size online (pixels). original width is 193. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/MG11C16_009.eps" id="id64689_printimage"/>
+            </media>
+          </figure>
+        </para>
+        <para id="id64695">As die lynstukke eweredig is, is die volgende ook waar</para>
+        <list id="id64699" display="block" list-type="enumerated"><item id="uid18">
+            <m:math overflow="scroll">
+              <m:mrow>
+                <m:mfrac>
+                  <m:mrow>
+                    <m:mi>C</m:mi>
+                    <m:mi>B</m:mi>
+                  </m:mrow>
+                  <m:mrow>
+                    <m:mi>A</m:mi>
+                    <m:mi>C</m:mi>
+                  </m:mrow>
+                </m:mfrac>
+                <m:mo>=</m:mo>
+                <m:mfrac>
+                  <m:mrow>
+                    <m:mi>F</m:mi>
+                    <m:mi>E</m:mi>
+                  </m:mrow>
+                  <m:mrow>
+                    <m:mi>D</m:mi>
+                    <m:mi>F</m:mi>
+                  </m:mrow>
+                </m:mfrac>
+              </m:mrow>
+            </m:math>
+          </item>
+          <item id="uid19">
+            <m:math overflow="scroll">
+              <m:mrow>
+                <m:mi>A</m:mi>
+                <m:mi>C</m:mi>
+                <m:mo>·</m:mo>
+                <m:mi>F</m:mi>
+                <m:mi>E</m:mi>
+                <m:mo>=</m:mo>
+                <m:mi>C</m:mi>
+                <m:mi>B</m:mi>
+                <m:mo>·</m:mo>
+                <m:mi>D</m:mi>
+                <m:mi>F</m:mi>
+              </m:mrow>
+            </m:math>
+          </item>
+          <item id="uid20"><m:math overflow="scroll"><m:mrow><m:mfrac><m:mrow><m:mi>A</m:mi><m:mi>B</m:mi></m:mrow><m:mrow><m:mi>B</m:mi><m:mi>C</m:mi></m:mrow></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mrow><m:mi>D</m:mi><m:mi>E</m:mi></m:mrow><m:mrow><m:mi>F</m:mi><m:mi>E</m:mi></m:mrow></m:mfrac></m:mrow></m:math> en <m:math overflow="scroll"><m:mrow><m:mfrac><m:mrow><m:mi>B</m:mi><m:mi>C</m:mi></m:mrow><m:mrow><m:mi>A</m:mi><m:mi>B</m:mi></m:mrow></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mrow><m:mi>F</m:mi><m:mi>E</m:mi></m:mrow><m:mrow><m:mi>D</m:mi><m:mi>E</m:mi></m:mrow></m:mfrac></m:mrow></m:math></item>
+          <item id="uid21"><m:math overflow="scroll"><m:mrow><m:mfrac><m:mrow><m:mi>A</m:mi><m:mi>B</m:mi></m:mrow><m:mrow><m:mi>A</m:mi><m:mi>C</m:mi></m:mrow></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mrow><m:mi>D</m:mi><m:mi>E</m:mi></m:mrow><m:mrow><m:mi>D</m:mi><m:mi>F</m:mi></m:mrow></m:mfrac></m:mrow></m:math> en <m:math overflow="scroll"><m:mrow><m:mfrac><m:mrow><m:mi>A</m:mi><m:mi>C</m:mi></m:mrow><m:mrow><m:mi>A</m:mi><m:mi>B</m:mi></m:mrow></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mrow><m:mi>D</m:mi><m:mi>F</m:mi></m:mrow><m:mrow><m:mi>D</m:mi><m:mi>E</m:mi></m:mrow></m:mfrac></m:mrow></m:math></item>
+        </list>
+        <section id="id64952">
+          <title>Evenredigheid van Driehoeke</title>
+          <para id="id64958">Driehoeke met gelyke hoogtes het gebiede wat in dieselfde proporsie is tot mekaar as die basisse van die driehoeke.</para>
+          <equation id="id64962"><m:math overflow="scroll" mode="display">
+              <m:mtable displaystyle="true">
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:msub>
+                      <m:mi>h</m:mi>
+                      <m:mn>1</m:mn>
+                    </m:msub>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:msub>
+                      <m:mi>h</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msub>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mrow>
+                      <m:mo>∴</m:mo>
+                      <m:mfrac>
+                        <m:mrow>
+                          <m:mtext>gebied</m:mtext>
+                          <m:mspace width="4.pt"/>
+                          <m:mi>▵</m:mi>
+                          <m:mi>A</m:mi>
+                          <m:mi>B</m:mi>
+                          <m:mi>C</m:mi>
+                        </m:mrow>
+                        <m:mrow>
+                          <m:mtext>gebied</m:mtext>
+                          <m:mspace width="4.pt"/>
+                          <m:mi>▵</m:mi>
+                          <m:mi>D</m:mi>
+                          <m:mi>E</m:mi>
+                          <m:mi>F</m:mi>
+                        </m:mrow>
+                      </m:mfrac>
+                    </m:mrow>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mfrac>
+                        <m:mrow>
+                          <m:mfrac>
+                            <m:mn>1</m:mn>
+                            <m:mn>2</m:mn>
+                          </m:mfrac>
+                          <m:mi>B</m:mi>
+                          <m:mi>C</m:mi>
+                          <m:mo>×</m:mo>
+                          <m:msub>
+                            <m:mi>h</m:mi>
+                            <m:mn>1</m:mn>
+                          </m:msub>
+                        </m:mrow>
+                        <m:mrow>
+                          <m:mfrac>
+                            <m:mn>1</m:mn>
+                            <m:mn>2</m:mn>
+                          </m:mfrac>
+                          <m:mi>E</m:mi>
+                          <m:mi>F</m:mi>
+                          <m:mo>×</m:mo>
+                          <m:msub>
+                            <m:mi>h</m:mi>
+                            <m:mn>2</m:mn>
+                          </m:msub>
+                        </m:mrow>
+                      </m:mfrac>
+                      <m:mo>=</m:mo>
+                      <m:mfrac>
+                        <m:mrow>
+                          <m:mi>B</m:mi>
+                          <m:mi>C</m:mi>
+                        </m:mrow>
+                        <m:mrow>
+                          <m:mi>E</m:mi>
+                          <m:mi>F</m:mi>
+                        </m:mrow>
+                      </m:mfrac>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+              </m:mtable>
+            </m:math>
+          </equation>
+          <para id="id65109">
+            <figure id="id65112">
+              <media id="id65112_media" alt="">
+                <image mime-type="image/png" src="../../media/MG11C16_010.png" id="id65112_onlineimage" width="242"><!-- NOTE: attribute width changes image size online (pixels). original width is 242. --></image>
+                <image mime-type="application/postscript" for="pdf" src="../../media/MG11C16_010.eps" id="id65112_printimage"/>
+              </media>
+            </figure>
+          </para>
+          <list id="id65119" display="block" list-type="bulleted"><item id="uid22">'n Spesiale geval van hierdie gebeur wanneer die basisse van die driehoeke gelyk is:
+Die Driehoeke met gelyke basisse tussen dieselfde ewewydige lyne het dieselfde gebied.
+<equation id="id65141"><m:math overflow="scroll" mode="display"><m:mrow><m:mtext>gebied</m:mtext><m:mspace width="4.pt"/><m:mi>▵</m:mi><m:mi>A</m:mi><m:mi>B</m:mi><m:mi>C</m:mi><m:mo>=</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mo>·</m:mo><m:mi>h</m:mi><m:mo>·</m:mo><m:mi>B</m:mi><m:mi>C</m:mi><m:mo>=</m:mo><m:mspace width="4.pt"/><m:mtext>gebied</m:mtext><m:mspace width="4.pt"/><m:mi>▵</m:mi><m:mi>D</m:mi><m:mi>B</m:mi><m:mi>C</m:mi></m:mrow></m:math></equation><figure id="id65208"><media id="id65208_media" alt=""><image mime-type="image/png" src="../../media/MG11C16_011.png" id="id65208_onlineimage" width="166"><!-- NOTE: attribute width changes image size online (pixels). original width is 166. --></image><image mime-type="application/postscript" for="pdf" src="../../media/MG11C16_011.eps" id="id65208_printimage"/></media></figure></item>
+            <item id="uid23">Driehoeke op die dieselfde kant van dieselfde basis, met gelyke gebiede, lê tussen parallelle lyne.
+<equation id="id65228"><m:math overflow="scroll" mode="display"><m:mrow><m:mtext>As</m:mtext><m:mspace width="4.pt"/><m:mtext>gebied</m:mtext><m:mspace width="4.pt"/><m:mi>▵</m:mi><m:mspace width="4.pt"/><m:mtext>ABC</m:mtext><m:mspace width="4.pt"/><m:mtext>=</m:mtext><m:mspace width="4.pt"/><m:mtext>gebied</m:mtext><m:mspace width="4.pt"/><m:mi>▵</m:mi><m:mspace width="4.pt"/><m:mtext>BDC,</m:mtext></m:mrow></m:math></equation><equation id="id65279"><m:math overflow="scroll" mode="display"><m:mrow><m:mtext>Dan</m:mtext><m:mspace width="4.pt"/><m:mtext>AD</m:mtext><m:mspace width="4.pt"/><m:mo>∥</m:mo><m:mspace width="4.pt"/><m:mtext>BC.</m:mtext></m:mrow></m:math></equation><figure id="id65312"><media id="id65312_media" alt=""><image mime-type="image/png" src="../../media/MG11C16_012.png" id="id65312_onlineimage" width="166"><!-- NOTE: attribute width changes image size online (pixels). original width is 166. --></image><image mime-type="application/postscript" for="pdf" src="../../media/MG11C16_012.eps" id="id65312_printimage"/></media></figure></item>
+          </list>
+          <para id="id65320"><emphasis effect="bold">Stelling 1</emphasis> Proporsie Stelling: 'n streep parallel aan die een kant van' n driehoek verdeel die ander twee sye eweredig.</para>
+          <para id="id65333">
+            <figure id="id65336">
+              <media id="id65336_media" alt="">
+                <image mime-type="image/png" src="../../media/MG11C16_013.png" id="id65336_onlineimage" width="344"><!-- NOTE: attribute width changes image size online (pixels). original width is 344. --></image>
+                <image mime-type="application/postscript" for="pdf" src="../../media/MG11C16_013.eps" id="id65336_printimage"/>
+              </media>
+            </figure>
+          </para>
+          <para id="id65343"><emphasis effect="bold">Gegee</emphasis>:<m:math overflow="scroll"><m:mi>▵</m:mi></m:math>ABC met lyn DE <m:math overflow="scroll"><m:mo>∥</m:mo></m:math> BC</para>
+          <para id="id65369"><emphasis effect="bold">nodig om te bewys</emphasis>:</para>
+          <equation id="id65377">
+            <m:math overflow="scroll" mode="display">
+              <m:mrow>
+                <m:mfrac>
+                  <m:mrow>
+                    <m:mi>A</m:mi>
+                    <m:mi>D</m:mi>
+                  </m:mrow>
+                  <m:mrow>
+                    <m:mi>D</m:mi>
+                    <m:mi>B</m:mi>
+                  </m:mrow>
+                </m:mfrac>
+                <m:mo>=</m:mo>
+                <m:mfrac>
+                  <m:mrow>
+                    <m:mi>A</m:mi>
+                    <m:mi>E</m:mi>
+                  </m:mrow>
+                  <m:mrow>
+                    <m:mi>E</m:mi>
+                    <m:mi>C</m:mi>
+                  </m:mrow>
+                </m:mfrac>
+              </m:mrow>
+            </m:math>
+          </equation>
+          <para id="id65415"><emphasis effect="bold">Bewys</emphasis>:
+Teken<m:math overflow="scroll"><m:msub><m:mi>h</m:mi><m:mn>1</m:mn></m:msub></m:math> van E loodreg op AD, en<m:math overflow="scroll"><m:msub><m:mi>h</m:mi><m:mn>2</m:mn></m:msub></m:math> van D loodreg op AE.</para>
+          <para id="id65451">Teken BE en CD.</para>
+          <equation id="id65456"><m:math overflow="scroll" mode="display">
+              <m:mtable displaystyle="true">
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mfrac>
+                      <m:mrow>
+                        <m:mtext>gebied</m:mtext>
+                        <m:mspace width="4.pt"/>
+                        <m:mi>▵</m:mi>
+                        <m:mtext>ADE</m:mtext>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:mtext>gebied</m:mtext>
+                        <m:mspace width="4.pt"/>
+                        <m:mi>▵</m:mi>
+                        <m:mtext>BDE</m:mtext>
+                      </m:mrow>
+                    </m:mfrac>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mfrac>
+                        <m:mrow>
+                          <m:mfrac>
+                            <m:mn>1</m:mn>
+                            <m:mn>2</m:mn>
+                          </m:mfrac>
+                          <m:mi>A</m:mi>
+                          <m:mi>D</m:mi>
+                          <m:mo>·</m:mo>
+                          <m:msub>
+                            <m:mi>h</m:mi>
+                            <m:mn>1</m:mn>
+                          </m:msub>
+                        </m:mrow>
+                        <m:mrow>
+                          <m:mfrac>
+                            <m:mn>1</m:mn>
+                            <m:mn>2</m:mn>
+                          </m:mfrac>
+                          <m:mi>D</m:mi>
+                          <m:mi>B</m:mi>
+                          <m:mo>·</m:mo>
+                          <m:msub>
+                            <m:mi>h</m:mi>
+                            <m:mn>1</m:mn>
+                          </m:msub>
+                        </m:mrow>
+                      </m:mfrac>
+                      <m:mo>=</m:mo>
+                      <m:mfrac>
+                        <m:mrow>
+                          <m:mi>A</m:mi>
+                          <m:mi>D</m:mi>
+                        </m:mrow>
+                        <m:mrow>
+                          <m:mi>D</m:mi>
+                          <m:mi>B</m:mi>
+                        </m:mrow>
+                      </m:mfrac>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mfrac>
+                      <m:mrow>
+                        <m:mtext>gebied</m:mtext>
+                        <m:mspace width="4.pt"/>
+                        <m:mi>▵</m:mi>
+                        <m:mtext>ADE</m:mtext>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:mtext>gebied</m:mtext>
+                        <m:mspace width="4.pt"/>
+                        <m:mi>▵</m:mi>
+                        <m:mtext>CED</m:mtext>
+                      </m:mrow>
+                    </m:mfrac>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mfrac>
+                        <m:mrow>
+                          <m:mfrac>
+                            <m:mn>1</m:mn>
+                            <m:mn>2</m:mn>
+                          </m:mfrac>
+                          <m:mi>A</m:mi>
+                          <m:mi>E</m:mi>
+                          <m:mo>·</m:mo>
+                          <m:msub>
+                            <m:mi>h</m:mi>
+                            <m:mn>2</m:mn>
+                          </m:msub>
+                        </m:mrow>
+                        <m:mrow>
+                          <m:mfrac>
+                            <m:mn>1</m:mn>
+                            <m:mn>2</m:mn>
+                          </m:mfrac>
+                          <m:mi>E</m:mi>
+                          <m:mi>C</m:mi>
+                          <m:mo>·</m:mo>
+                          <m:msub>
+                            <m:mi>h</m:mi>
+                            <m:mn>2</m:mn>
+                          </m:msub>
+                        </m:mrow>
+                      </m:mfrac>
+                      <m:mo>=</m:mo>
+                      <m:mfrac>
+                        <m:mrow>
+                          <m:mi>A</m:mi>
+                          <m:mi>E</m:mi>
+                        </m:mrow>
+                        <m:mrow>
+                          <m:mi>E</m:mi>
+                          <m:mi>C</m:mi>
+                        </m:mrow>
+                      </m:mfrac>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mrow>
+                      <m:mtext>maar</m:mtext>
+                      <m:mspace width="4.pt"/>
+                      <m:mtext>gebied</m:mtext>
+                      <m:mspace width="4.pt"/>
+                      <m:mi>▵</m:mi>
+                      <m:mtext>BDE</m:mtext>
+                      <m:mspace width="4.pt"/>
+                    </m:mrow>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mspace width="4.pt"/>
+                      <m:mtext>gebied</m:mtext>
+                      <m:mspace width="4.pt"/>
+                      <m:mi>▵</m:mi>
+                      <m:mtext>CED</m:mtext>
+                      <m:mspace width="4.pt"/>
+                      <m:mtext>(gelyk aan</m:mtext>
+                      <m:mspace width="4.pt"/>
+                      <m:mtext>basis</m:mtext>
+                      <m:mspace width="4.pt"/>
+                      <m:mtext>en</m:mtext>
+                      <m:mspace width="4.pt"/>
+                      <m:mtext>hoogte)</m:mtext>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mrow>
+                      <m:mo>∴</m:mo>
+                      <m:mfrac>
+                        <m:mrow>
+                          <m:mtext>gebied</m:mtext>
+                          <m:mspace width="4.pt"/>
+                          <m:mi>▵</m:mi>
+                          <m:mtext>ADE</m:mtext>
+                        </m:mrow>
+                        <m:mrow>
+                          <m:mtext>gebied</m:mtext>
+                          <m:mspace width="4.pt"/>
+                          <m:mi>▵</m:mi>
+                          <m:mtext>BDE</m:mtext>
+                        </m:mrow>
+                      </m:mfrac>
+                    </m:mrow>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mfrac>
+                      <m:mrow>
+                        <m:mtext>gebied</m:mtext>
+                        <m:mspace width="4.pt"/>
+                        <m:mi>▵</m:mi>
+                        <m:mtext>ADE</m:mtext>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:mtext>gebied</m:mtext>
+                        <m:mspace width="4.pt"/>
+                        <m:mi>▵</m:mi>
+                        <m:mtext>CED</m:mtext>
+                      </m:mrow>
+                    </m:mfrac>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mrow>
+                      <m:mo>∴</m:mo>
+                      <m:mfrac>
+                        <m:mrow>
+                          <m:mi>A</m:mi>
+                          <m:mi>D</m:mi>
+                        </m:mrow>
+                        <m:mrow>
+                          <m:mi>D</m:mi>
+                          <m:mi>B</m:mi>
+                        </m:mrow>
+                      </m:mfrac>
+                    </m:mrow>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mfrac>
+                      <m:mrow>
+                        <m:mi>A</m:mi>
+                        <m:mi>E</m:mi>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:mi>E</m:mi>
+                        <m:mi>C</m:mi>
+                      </m:mrow>
+                    </m:mfrac>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mrow>
+                      <m:mo>∴</m:mo>
+                      <m:mtext>DE</m:mtext>
+                      <m:mspace width="4.pt"/>
+                      <m:mtext>deel</m:mtext>
+                      <m:mspace width="4.pt"/>
+                      <m:mtext>AB</m:mtext>
+                      <m:mspace width="4.pt"/>
+                      <m:mtext>en</m:mtext>
+                      <m:mspace width="4.pt"/>
+                      <m:mtext>AC</m:mtext>
+                      <m:mspace width="4.pt"/>
+                      <m:mtext>proporsioneel.</m:mtext>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+              </m:mtable>
+            </m:math>
+          </equation>
+          <para id="id65873">Sortgelyk,</para>
+          <equation id="id65878">
+            <m:math overflow="scroll" mode="display">
+              <m:mtable displaystyle="true">
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mfrac>
+                      <m:mrow>
+                        <m:mi>A</m:mi>
+                        <m:mi>D</m:mi>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:mi>A</m:mi>
+                        <m:mi>B</m:mi>
+                      </m:mrow>
+                    </m:mfrac>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mfrac>
+                      <m:mrow>
+                        <m:mi>A</m:mi>
+                        <m:mi>E</m:mi>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:mi>A</m:mi>
+                        <m:mi>C</m:mi>
+                      </m:mrow>
+                    </m:mfrac>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mfrac>
+                      <m:mrow>
+                        <m:mi>A</m:mi>
+                        <m:mi>B</m:mi>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:mi>B</m:mi>
+                        <m:mi>D</m:mi>
+                      </m:mrow>
+                    </m:mfrac>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mfrac>
+                      <m:mrow>
+                        <m:mi>A</m:mi>
+                        <m:mi>C</m:mi>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:mi>C</m:mi>
+                        <m:mi>E</m:mi>
+                      </m:mrow>
+                    </m:mfrac>
+                  </m:mtd>
+                </m:mtr>
+              </m:mtable>
+            </m:math>
+          </equation>
+          <para id="id65963">Na aanleiding van die stelling <link target-id="uid17">"Proporsie"</link>, kan ons die middelpunt stelling bewys.</para>
+          <para id="id65972"><emphasis effect="bold">Stelling 2</emphasis> Middelpuntstelling:'n lyn wat die middelpunte van die twee kante van 'n driehoek aansluit is parallel aan die derde sy en gelyk aan die helfte van die lengte van die derde kant.</para>
+          <para id="id65986"><emphasis effect="bold">Bewys</emphasis>:
+Dit is 'n spesiale geval van die Proporsie Stelling (Stelling <link target-id="uid17">"Proporsie"</link>).
+As AB = BD en  AC = AE,
+en
+AD = AB + BD = 2AB
+AE = AC + CB = 2AC
+dan DE <m:math overflow="scroll"><m:mo>∥</m:mo></m:math> BC en BC = 2DE.
+
+
+<figure id="id66041"><media id="id66041_media" alt=""><image mime-type="image/png" src="../../media/MG11C16_014.png" id="id66041_onlineimage" width="130"><!-- NOTE: attribute width changes image size online (pixels). original width is 130. --></image><image mime-type="application/postscript" for="pdf" src="../../media/MG11C16_014.eps" id="id66041_printimage"/></media></figure></para>
+          <para id="id66048"><emphasis effect="bold">Stelling 3</emphasis> Gelykvormigheid Stelling 1: Gelykhoekig driehoeke het hul sye in verhouding en is dus soortgelyk.</para>
+          <para id="id66061">
+            <figure id="id66064">
+              <media id="id66064_media" alt="">
+                <image mime-type="image/png" src="../../media/MG11C16_015.png" id="id66064_onlineimage" width="241"><!-- NOTE: attribute width changes image size online (pixels). original width is 241. --></image>
+                <image mime-type="application/postscript" for="pdf" src="../../media/MG11C16_015.eps" id="id66064_printimage"/>
+              </media>
+            </figure>
+          </para>
+          <para id="id66071"><emphasis effect="bold">Gegee</emphasis>:<m:math overflow="scroll"><m:mi>▵</m:mi></m:math>ABC en <m:math overflow="scroll"><m:mi>▵</m:mi></m:math>DEF met <m:math overflow="scroll"><m:mrow><m:mover accent="true"><m:mi>A</m:mi><m:mo>^</m:mo></m:mover><m:mo>=</m:mo><m:mover accent="true"><m:mi>D</m:mi><m:mo>^</m:mo></m:mover></m:mrow></m:math>; <m:math overflow="scroll"><m:mrow><m:mover accent="true"><m:mi>B</m:mi><m:mo>^</m:mo></m:mover><m:mo>=</m:mo><m:mover accent="true"><m:mi>E</m:mi><m:mo>^</m:mo></m:mover></m:mrow></m:math>; <m:math overflow="scroll"><m:mrow><m:mover accent="true"><m:mi>C</m:mi><m:mo>^</m:mo></m:mover><m:mo>=</m:mo><m:mover accent="true"><m:mi>F</m:mi><m:mo>^</m:mo></m:mover></m:mrow></m:math></para>
+          <para id="id66178"><emphasis effect="bold">nodig om te bewys</emphasis>:</para>
+          <equation id="id66186">
+            <m:math overflow="scroll" mode="display">
+              <m:mrow>
+                <m:mfrac>
+                  <m:mrow>
+                    <m:mi>A</m:mi>
+                    <m:mi>B</m:mi>
+                  </m:mrow>
+                  <m:mrow>
+                    <m:mi>D</m:mi>
+                    <m:mi>E</m:mi>
+                  </m:mrow>
+                </m:mfrac>
+                <m:mo>=</m:mo>
+                <m:mfrac>
+                  <m:mrow>
+                    <m:mi>A</m:mi>
+                    <m:mi>C</m:mi>
+                  </m:mrow>
+                  <m:mrow>
+                    <m:mi>D</m:mi>
+                    <m:mi>F</m:mi>
+                  </m:mrow>
+                </m:mfrac>
+              </m:mrow>
+            </m:math>
+          </equation>
+          <para id="id66225"><emphasis effect="bold">Konstrueer:</emphasis> G op AB, so dat AG = DE, H op AC, so dat AH = DF</para>
+          <para id="id66234"><emphasis effect="bold">Bewys</emphasis>:
+In <m:math overflow="scroll"><m:mi>▵</m:mi></m:math>'s AGH en DEF</para>
+          <equation id="id66252"><m:math overflow="scroll" mode="display">
+              <m:mtable displaystyle="true">
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                      <m:mi>AG</m:mi></m:mtd>
+                      <m:mtd><m:mo>=</m:mo></m:mtd>
+                      <m:mtd columnalign="left"><m:mi>DE</m:mi></m:mtd>
+                      <m:mtd><m:mi>(Konst.)</m:mi></m:mtd></m:mtr>
+                      <m:mtr><m:mtd columnalign="right">
+                      <m:mi>AH</m:mi></m:mtd>
+                      <m:mtd><m:mo>=</m:mo></m:mtd>
+                      <m:mtd columnalign="left"><m:mi>D</m:mi></m:mtd><m:mtd>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:mi> Konst. </m:mi>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mrow>
+                      <m:mover accent="true">
+                        <m:mi>A</m:mi>
+                        <m:mo>^</m:mo>
+                      </m:mover></m:mrow></m:mtd>
+                      <m:mtd><m:mo>=</m:mo></m:mtd>
+                      <m:mtd columnalign="left"><m:mrow><m:mover accent="true">
+                        <m:mi>D</m:mi>
+                        <m:mo>^</m:mo>
+                      </m:mover></m:mrow></m:mtd>
+                      <m:mtd><m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:mi> gegee</m:mi>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mo>∴</m:mo><m:mspace width="3pt"/>
+                      <m:mi>▵</m:mi>
+                      <m:mi>AGH</m:mi></m:mtd>
+                      <m:mtd><m:mo>≡</m:mo></m:mtd>
+                      <m:mtd columnalign="left"><m:mi>▵</m:mi>
+                      <m:mi>DEF</m:mi></m:mtd>
+                      <m:mtd><m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:mi> SHS </m:mi>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mo>∴</m:mo>
+                  <m:mspace width="3pt"/>
+                    <m:mrow>
+                      <m:mi>A</m:mi>
+                      <m:mover accent="true">
+                        <m:mi>G</m:mi>
+                        <m:mo>^</m:mo>
+                      </m:mover>
+                      <m:mi>H</m:mi></m:mrow></m:mtd>
+                      <m:mtd><m:mo>=</m:mo></m:mtd>
+                      <m:mtd columnalign="left"><m:mrow><m:mover accent="true">
+                        <m:mi>E</m:mi>
+                        <m:mo>^</m:mo>
+                      </m:mover>
+                      <m:mo>=</m:mo>
+                      <m:mover accent="true">
+                        <m:mi>B</m:mi>
+                        <m:mo>^</m:mo>
+                      </m:mover>
+                    </m:mrow>
+                  </m:mtd><m:mtd/>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="left">
+                    <m:mo>∴</m:mo><m:mspace width="3pt"/>
+                    <m:mrow>
+                      <m:mi>G</m:mi>
+                      <m:mi>H</m:mi></m:mrow></m:mtd>
+                      <m:mtd><m:mo>∥</m:mo></m:mtd>
+                      <m:mtd columnalign="left"><m:mi>BC</m:mi></m:mtd>
+                      <m:mtd><m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:mi> ooreenstemmende </m:mi>
+                      </m:mrow>
+                      <m:mi>∠</m:mi>
+                        <m:mrow>
+                          <m:mi mathvariant="normal">'s equal</m:mi>
+                          <m:mo>)</m:mo>
+                        </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mo>∴</m:mo><m:mspace width="3pt"/>
+                    <m:mrow>
+                      <m:mfrac>
+                        <m:mrow>
+                          <m:mi>AG</m:mi>
+                        </m:mrow>
+                        <m:mrow>
+                          <m:mi>AB</m:mi>
+                        </m:mrow>
+                      </m:mfrac></m:mrow></m:mtd>
+                      <m:mtd><m:mo>=</m:mo></m:mtd>
+                      <m:mtd columnalign="left"><m:mfrac>
+                        <m:mrow>
+                          <m:mi>A</m:mi>
+                          <m:mi>H</m:mi>
+                        </m:mrow>
+                        <m:mrow>
+                          <m:mi>A</m:mi>
+                          <m:mi>C</m:mi>
+                        </m:mrow>
+                      </m:mfrac></m:mtd>
+                      <m:mtd><m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:mi> proporsie stelling </m:mi>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mo>∴</m:mo><m:mspace width="3pt"/>
+                    <m:mrow>
+                      <m:mfrac>
+                        <m:mrow>
+                          <m:mi>DE</m:mi>
+                        </m:mrow>
+                        <m:mrow>
+                          <m:mi>AB</m:mi>
+                        </m:mrow>
+                      </m:mfrac></m:mrow></m:mtd>
+                      <m:mtd><m:mo>=</m:mo></m:mtd>
+                      <m:mtd columnalign="left"><m:mfrac>
+                        <m:mrow>
+                          <m:mi>D</m:mi>
+                          <m:mi>F</m:mi>
+                        </m:mrow>
+                        <m:mrow>
+                          <m:mi>A</m:mi>
+                          <m:mi>C</m:mi>
+                        </m:mrow>
+                      </m:mfrac></m:mtd>
+                      <m:mtd><m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:mi> AG </m:mi>
+                        <m:mo>=</m:mo>
+                        <m:mi> DE </m:mi>
+                        <m:mo>;</m:mo>
+                        <m:mi> AH </m:mi>
+                        <m:mo>=</m:mo>
+                        <m:mi> DF </m:mi>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mo>∴</m:mo><m:mspace width="3pt"/>
+                    <m:mrow>
+                      <m:mi>▵</m:mi>
+                      <m:mi>ABC</m:mi></m:mrow></m:mtd>
+                      <m:mtd><m:mo>|</m:mo>
+                      <m:mo>|</m:mo>
+                      <m:mo>|</m:mo></m:mtd>
+                      <m:mtd columnalign="left">
+                      <m:mi>▵</m:mi>
+                      <m:mi>DEF</m:mi>
+                  </m:mtd>
+                </m:mtr>
+              </m:mtable>
+            </m:math>
+          </equation>
+<note id="notfhsst_id1555" type="tip"><m:math overflow="scroll"><m:mrow><m:mo>|</m:mo><m:mo>|</m:mo><m:mo>|</m:mo></m:mrow></m:math> bedoel “is soortgelyk aan"</note>
+          <para id="id66642"><emphasis effect="bold">Stelling 4</emphasis> Gelykvormigheid Stelling 2: Driehoeke met sye in verhouding is gelykhoekig en daarom soortgelyke.</para>
+          <para id="id66654">
+            <figure id="id66657">
+              <media id="id66657_media" alt="">
+                <image mime-type="image/png" src="../../media/MG11C16_016.png" id="id66657_onlineimage" width="93"><!-- NOTE: attribute width changes image size online (pixels). original width is 93. --></image>
+                <image mime-type="application/postscript" for="pdf" src="../../media/MG11C16_016.eps" id="id66657_printimage"/>
+              </media>
+            </figure>
+          </para>
+          <para id="id66664"><emphasis effect="bold">Gegee</emphasis>:<m:math overflow="scroll"><m:mi>▵</m:mi></m:math>ABC met lyn DE sodanig dat</para>
+          <equation id="id66682">
+            <m:math overflow="scroll" mode="display">
+              <m:mrow>
+                <m:mfrac>
+                  <m:mrow>
+                    <m:mi>A</m:mi>
+                    <m:mi>D</m:mi>
+                  </m:mrow>
+                  <m:mrow>
+                    <m:mi>D</m:mi>
+                    <m:mi>B</m:mi>
+                  </m:mrow>
+                </m:mfrac>
+                <m:mo>=</m:mo>
+                <m:mfrac>
+                  <m:mrow>
+                    <m:mi>A</m:mi>
+                    <m:mi>E</m:mi>
+                  </m:mrow>
+                  <m:mrow>
+                    <m:mi>E</m:mi>
+                    <m:mi>C</m:mi>
+                  </m:mrow>
+                </m:mfrac>
+              </m:mrow>
+            </m:math>
+          </equation>
+          <para id="id66719"><emphasis effect="bold">nodig om te bewys</emphasis>:<m:math overflow="scroll"><m:mrow><m:mi>D</m:mi><m:mi>E</m:mi><m:mo>∥</m:mo><m:mi>B</m:mi><m:mi>C</m:mi></m:mrow></m:math>; <m:math overflow="scroll"><m:mi>▵</m:mi></m:math>ADE <m:math overflow="scroll"><m:mrow><m:mo>|</m:mo><m:mo>|</m:mo><m:mo>|</m:mo></m:mrow></m:math><m:math overflow="scroll"><m:mi>▵</m:mi></m:math>ABC</para>
+          <para id="id66777"><emphasis effect="bold">Bewys</emphasis>:
+Teken <m:math overflow="scroll"><m:msub><m:mi>h</m:mi><m:mn>1</m:mn></m:msub></m:math> vanaf E loodreg op AD, en <m:math overflow="scroll"><m:msub><m:mi>h</m:mi><m:mn>2</m:mn></m:msub></m:math> vanaf D loodreg op AE.</para>
+          <para id="id66814">Teken BE en CD.</para>
+          <equation id="id66819"><m:math overflow="scroll" mode="display">
+              <m:mtable displaystyle="true">
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mfrac>
+                      <m:mrow>
+                        <m:mtext>gebied</m:mtext>
+                        <m:mspace width="4.pt"/>
+                        <m:mi>▵</m:mi>
+                        <m:mtext>ADE</m:mtext>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:mtext>gebied</m:mtext>
+                        <m:mspace width="4.pt"/>
+                        <m:mi>▵</m:mi>
+                        <m:mtext>BDE</m:mtext>
+                      </m:mrow>
+                    </m:mfrac>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mfrac>
+                        <m:mrow>
+                          <m:mfrac>
+                            <m:mn>1</m:mn>
+                            <m:mn>2</m:mn>
+                          </m:mfrac>
+                          <m:mi>A</m:mi>
+                          <m:mi>D</m:mi>
+                          <m:mo>·</m:mo>
+                          <m:msub>
+                            <m:mi>h</m:mi>
+                            <m:mn>1</m:mn>
+                          </m:msub>
+                        </m:mrow>
+                        <m:mrow>
+                          <m:mfrac>
+                            <m:mn>1</m:mn>
+                            <m:mn>2</m:mn>
+                          </m:mfrac>
+                          <m:mi>D</m:mi>
+                          <m:mi>B</m:mi>
+                          <m:mo>·</m:mo>
+                          <m:msub>
+                            <m:mi>h</m:mi>
+                            <m:mn>1</m:mn>
+                          </m:msub>
+                        </m:mrow>
+                      </m:mfrac>
+                      <m:mo>=</m:mo>
+                      <m:mfrac>
+                        <m:mrow>
+                          <m:mi>A</m:mi>
+                          <m:mi>D</m:mi>
+                        </m:mrow>
+                        <m:mrow>
+                          <m:mi>D</m:mi>
+                          <m:mi>B</m:mi>
+                        </m:mrow>
+                      </m:mfrac>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mfrac>
+                      <m:mrow>
+                        <m:mtext>gebied</m:mtext>
+                        <m:mspace width="4.pt"/>
+                        <m:mi>▵</m:mi>
+                        <m:mtext>ADE</m:mtext>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:mtext>gebied</m:mtext>
+                        <m:mspace width="4.pt"/>
+                        <m:mi>▵</m:mi>
+                        <m:mtext>CED</m:mtext>
+                      </m:mrow>
+                    </m:mfrac>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mfrac>
+                        <m:mrow>
+                          <m:mfrac>
+                            <m:mn>1</m:mn>
+                            <m:mn>2</m:mn>
+                          </m:mfrac>
+                          <m:mi>A</m:mi>
+                          <m:mi>E</m:mi>
+                          <m:mo>·</m:mo>
+                          <m:msub>
+                            <m:mi>h</m:mi>
+                            <m:mn>2</m:mn>
+                          </m:msub>
+                        </m:mrow>
+                        <m:mrow>
+                          <m:mfrac>
+                            <m:mn>1</m:mn>
+                            <m:mn>2</m:mn>
+                          </m:mfrac>
+                          <m:mi>E</m:mi>
+                          <m:mi>C</m:mi>
+                          <m:mo>·</m:mo>
+                          <m:msub>
+                            <m:mi>h</m:mi>
+                            <m:mn>2</m:mn>
+                          </m:msub>
+                        </m:mrow>
+                      </m:mfrac>
+                      <m:mo>=</m:mo>
+                      <m:mfrac>
+                        <m:mrow>
+                          <m:mi>A</m:mi>
+                          <m:mi>E</m:mi>
+                        </m:mrow>
+                        <m:mrow>
+                          <m:mi>E</m:mi>
+                          <m:mi>C</m:mi>
+                        </m:mrow>
+                      </m:mfrac>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mrow>
+                      <m:mtext>maar</m:mtext>
+                      <m:mspace width="4.pt"/>
+                      <m:mfrac>
+                        <m:mrow>
+                          <m:mi>A</m:mi>
+                          <m:mi>D</m:mi>
+                        </m:mrow>
+                        <m:mrow>
+                          <m:mi>D</m:mi>
+                          <m:mi>B</m:mi>
+                        </m:mrow>
+                      </m:mfrac>
+                    </m:mrow>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mfrac>
+                        <m:mrow>
+                          <m:mi>A</m:mi>
+                          <m:mi>E</m:mi>
+                        </m:mrow>
+                        <m:mrow>
+                          <m:mi>E</m:mi>
+                          <m:mi>C</m:mi>
+                        </m:mrow>
+                      </m:mfrac>
+                      <m:mspace width="4.pt"/>
+                      <m:mtext>(gegee)</m:mtext>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mrow>
+                      <m:mo>∴</m:mo>
+                      <m:mfrac>
+                        <m:mrow>
+                          <m:mtext>gebied</m:mtext>
+                          <m:mspace width="4.pt"/>
+                          <m:mi>▵</m:mi>
+                          <m:mtext>ADE</m:mtext>
+                        </m:mrow>
+                        <m:mrow>
+                          <m:mtext>gebied</m:mtext>
+                          <m:mspace width="4.pt"/>
+                          <m:mi>▵</m:mi>
+                          <m:mtext>BDE</m:mtext>
+                        </m:mrow>
+                      </m:mfrac>
+                    </m:mrow>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mfrac>
+                      <m:mrow>
+                        <m:mtext>gebied</m:mtext>
+                        <m:mspace width="4.pt"/>
+                        <m:mi>▵</m:mi>
+                        <m:mtext>ADE</m:mtext>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:mtext>gebied</m:mtext>
+                        <m:mspace width="4.pt"/>
+                        <m:mi>▵</m:mi>
+                        <m:mtext>CED</m:mtext>
+                      </m:mrow>
+                    </m:mfrac>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mrow>
+                      <m:mo>∴</m:mo>
+                      <m:mtext>gebied</m:mtext>
+                      <m:mspace width="4.pt"/>
+                      <m:mi>▵</m:mi>
+                      <m:mtext>BDE</m:mtext>
+                      <m:mspace width="4.pt"/>
+                    </m:mrow>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mspace width="4.pt"/>
+                      <m:mtext>gebied</m:mtext>
+                      <m:mspace width="4.pt"/>
+                      <m:mi>▵</m:mi>
+                      <m:mtext>CED</m:mtext>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mrow>
+                      <m:mo>∴</m:mo>
+                      <m:mi>D</m:mi>
+                      <m:mi>E</m:mi>
+                      <m:mo>∥</m:mo>
+                      <m:mi>B</m:mi>
+                      <m:mi>C</m:mi>
+                    </m:mrow>
+                  </m:mtd>
+                  <m:mtd/>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mspace width="4.pt"/>
+                      <m:mtext>(dieselfde</m:mtext>
+                      <m:mspace width="4.pt"/>
+                      <m:mtext>kant</m:mtext>
+                      <m:mspace width="4.pt"/>
+                      <m:mtext>met</m:mtext>
+                      <m:mspace width="4.pt"/>
+                      <m:mtext>gelyke</m:mtext>
+                      <m:mspace width="4.pt"/>
+                      <m:mtext>basis</m:mtext>
+                      <m:mspace width="4.pt"/>
+                      <m:mtext>DE,</m:mtext>
+                      <m:mspace width="4.pt"/>
+                      <m:mtext>dieselfde</m:mtext>
+                      <m:mspace width="4.pt"/>
+                      <m:mtext>gebied)</m:mtext>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mrow>
+                      <m:mo>∴</m:mo>
+                      <m:mi>A</m:mi>
+                      <m:mover accent="true">
+                        <m:mi>D</m:mi>
+                        <m:mo>^</m:mo>
+                      </m:mover>
+                      <m:mi>E</m:mi>
+                    </m:mrow>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mi>A</m:mi>
+                      <m:mover accent="true">
+                        <m:mi>B</m:mi>
+                        <m:mo>^</m:mo>
+                      </m:mover>
+                      <m:mi>C</m:mi>
+                      <m:mspace width="4.pt"/>
+                      <m:mtext>(ooreenstemmende</m:mtext>
+                      <m:mspace width="4.pt"/>
+                      <m:mi>∠</m:mi>
+                      <m:mtext>'s)</m:mtext>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mrow>
+                      <m:mtext>en</m:mtext>
+                      <m:mspace width="4.pt"/>
+                      <m:mi>A</m:mi>
+                      <m:mover accent="true">
+                        <m:mi>E</m:mi>
+                        <m:mo>^</m:mo>
+                      </m:mover>
+                      <m:mi>D</m:mi>
+                    </m:mrow>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mi>A</m:mi>
+                      <m:mover accent="true">
+                        <m:mi>C</m:mi>
+                        <m:mo>^</m:mo>
+                      </m:mover>
+                      <m:mi>B</m:mi>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+              </m:mtable>
+            </m:math>
+          </equation>
+          <equation id="id67351"><m:math overflow="scroll" mode="display">
+              <m:mrow>
+                <m:mo>∴</m:mo>
+                <m:mi>▵</m:mi>
+                <m:mtext>ADE</m:mtext>
+                <m:mspace width="4.pt"/>
+                <m:mtext>en</m:mtext>
+                <m:mspace width="4.pt"/>
+                <m:mi>▵</m:mi>
+                <m:mtext>ABC</m:mtext>
+                <m:mspace width="4.pt"/>
+                <m:mtext>is</m:mtext>
+                <m:mspace width="4.pt"/>
+                <m:mtext>gelykhoekig</m:mtext>
+              </m:mrow>
+            </m:math>
+          </equation>
+          <equation id="id67393">
+            <m:math overflow="scroll" mode="display">
+              <m:mrow>
+                <m:mo>∴</m:mo>
+                <m:mi>▵</m:mi>
+                <m:mi>A</m:mi>
+                <m:mi>D</m:mi>
+                <m:mi>E</m:mi>
+                <m:mspace width="0.277778em"/>
+                <m:mo>|</m:mo>
+                <m:mo>|</m:mo>
+                <m:mo>|</m:mo>
+                <m:mspace width="0.277778em"/>
+                <m:mi>▵</m:mi>
+                <m:mi>A</m:mi>
+                <m:mi>B</m:mi>
+                <m:mi>C</m:mi>
+                <m:mspace width="4.pt"/>
+                <m:mtext>(AAA)</m:mtext>
+              </m:mrow>
+            </m:math>
+          </equation>
+          <para id="id67441"><emphasis effect="bold">Stelling 5</emphasis> Pythagoras se Stelling: Tdie vierkant op die skuinssy van 'n reghoekige driehoek is gelyk aan die som van die vierkante van die ander twee kante</para>
+          <para id="id67455"><emphasis effect="bold">Gegee</emphasis>:<m:math overflow="scroll"><m:mi>▵</m:mi></m:math> ABC met<m:math overflow="scroll"><m:mrow><m:mover accent="true"><m:mi>A</m:mi><m:mo>^</m:mo></m:mover><m:mo>=</m:mo><m:msup><m:mn>90</m:mn><m:mo>∘</m:mo></m:msup></m:mrow></m:math></para>
+          <para id="id67497">
+            <figure id="id67501">
+              <media id="id67501_media" alt="">
+                <image mime-type="image/png" src="../../media/MG11C16_017.png" id="id67501_onlineimage" width="190"><!-- NOTE: attribute width changes image size online (pixels). original width is 190. --></image>
+                <image mime-type="application/postscript" for="pdf" src="../../media/MG11C16_017.eps" id="id67501_printimage"/>
+              </media>
+            </figure>
+          </para>
+          <para id="id67507"><emphasis effect="bold">Nodig om te bewys</emphasis>:<m:math overflow="scroll"><m:mrow><m:mi>B</m:mi><m:msup><m:mi>C</m:mi><m:mn>2</m:mn></m:msup><m:mo>=</m:mo><m:mi>A</m:mi><m:msup><m:mi>B</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mi>A</m:mi><m:msup><m:mi>C</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:math></para>
+          <para id="id67556"><emphasis effect="bold">Proef</emphasis>:</para>
+          <equation id="id67563"><m:math overflow="scroll" mode="display">
+              <m:mtable displaystyle="true">
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mrow>
+                      <m:mi> Laat </m:mi><m:mspace width="3pt"/>
+                      <m:mover accent="true">
+                        <m:mi>C</m:mi>
+                        <m:mo>^</m:mo>
+                      </m:mover>
+                    </m:mrow>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mi>x</m:mi>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mrow>
+                      <m:mo>∴</m:mo><m:mspace width="3pt"/>
+                      <m:mi>D</m:mi>
+                      <m:mover accent="true">
+                        <m:mi>A</m:mi>
+                        <m:mo>^</m:mo>
+                      </m:mover>
+                      <m:mi>C</m:mi>
+                    </m:mrow>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:msup>
+                        <m:mn>90</m:mn>
+                        <m:mo>∘</m:mo>
+                      </m:msup>
+                      <m:mo>-</m:mo>
+                      <m:mi>x</m:mi><m:mspace width="3pt"/>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:mi>∠</m:mi>
+                        <m:mrow>
+                          <m:mi mathvariant="normal">'e van 'n</m:mi><m:mspace width="2pt"/>
+                        </m:mrow>
+                        <m:mi>▵</m:mi>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mrow>
+                      <m:mo>∴</m:mo><m:mspace width="3pt"/>
+                      <m:mi>D</m:mi>
+                      <m:mover accent="true">
+                        <m:mi>A</m:mi>
+                        <m:mo>^</m:mo>
+                      </m:mover>
+                      <m:mi>B</m:mi>
+                    </m:mrow>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mi>x</m:mi>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mrow>
+                      <m:mi>A</m:mi>
+                      <m:mover accent="true">
+                        <m:mi>B</m:mi>
+                        <m:mo>^</m:mo>
+                      </m:mover>
+                      <m:mi>D</m:mi>
+                    </m:mrow>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:msup>
+                        <m:mn>90</m:mn>
+                        <m:mo>∘</m:mo>
+                      </m:msup>
+                      <m:mo>-</m:mo>
+                      <m:mi>x</m:mi><m:mspace width="3pt"/>
+                      <m:mo>(</m:mo><m:mi>∠</m:mi>
+                      <m:mrow>
+                        <m:mi mathvariant="normal">'e van 'n </m:mi><m:mspace width="2pt"/>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:mi>▵</m:mi>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mrow>
+                      <m:mi>B</m:mi>
+                      <m:mover accent="true">
+                        <m:mi>D</m:mi>
+                        <m:mo>^</m:mo>
+                      </m:mover>
+                      <m:mi>A</m:mi>
+                    </m:mrow>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mi>C</m:mi>
+                      <m:mover accent="true">
+                        <m:mi>D</m:mi>
+                        <m:mo>^</m:mo>
+                      </m:mover>
+                      <m:mi>A</m:mi>
+                      <m:mo>=</m:mo>
+                      <m:mover accent="true">
+                        <m:mi>A</m:mi>
+                        <m:mo>^</m:mo>
+                      </m:mover>
+                      <m:mo>=</m:mo>
+                      <m:msup>
+                        <m:mn>90</m:mn>
+                        <m:mo>∘</m:mo>
+                      </m:msup>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+              </m:mtable>
+            </m:math>
+          </equation>
+          <equation id="id67825"><m:math overflow="scroll" mode="display">
+              <m:mrow>
+                <m:mo>∴</m:mo>
+                <m:mi>▵</m:mi>
+                <m:mi> ABD </m:mi>
+                <m:mo>|</m:mo>
+                <m:mo>|</m:mo>
+                <m:mo>|</m:mo>
+                <m:mi>▵</m:mi>
+                <m:mi> CBA</m:mi><m:mspace width="3pt"/><m:mi> en </m:mi>
+                <m:mi>▵</m:mi>
+                <m:mi> CAD </m:mi>
+                <m:mo>|</m:mo>
+                <m:mo>|</m:mo>
+                <m:mo>|</m:mo>
+                <m:mi>▵</m:mi>
+                <m:mi> CBA </m:mi>
+                <m:mo>(</m:mo>
+                <m:mi> AAA </m:mi>
+                <m:mo>)</m:mo>
+              </m:mrow>
+            </m:math>
+          </equation>
+          <equation id="id67876"><m:math overflow="scroll" mode="display">
+              <m:mrow>
+                <m:mo>∴</m:mo>
+                <m:mfrac>
+                  <m:mrow>
+                    <m:mi>A</m:mi>
+                    <m:mi>B</m:mi>
+                  </m:mrow>
+                  <m:mrow>
+                    <m:mi>C</m:mi>
+                    <m:mi>B</m:mi>
+                  </m:mrow>
+                </m:mfrac>
+                <m:mo>=</m:mo>
+                <m:mfrac>
+                  <m:mrow>
+                    <m:mi>B</m:mi>
+                    <m:mi>D</m:mi>
+                  </m:mrow>
+                  <m:mrow>
+                    <m:mi>B</m:mi>
+                    <m:mi>A</m:mi>
+                  </m:mrow>
+                </m:mfrac>
+                <m:mo>=</m:mo>
+                <m:mfenced separators="" open="(" close=")">
+                  <m:mfrac>
+                    <m:mrow>
+                      <m:mi>A</m:mi>
+                      <m:mi>D</m:mi>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mi>C</m:mi>
+                      <m:mi>A</m:mi>
+                    </m:mrow>
+                  </m:mfrac>
+                </m:mfenced>
+                <m:mi> en </m:mi>
+                <m:mfrac>
+                  <m:mrow>
+                    <m:mi>C</m:mi>
+                    <m:mi>A</m:mi>
+                  </m:mrow>
+                  <m:mrow>
+                    <m:mi>C</m:mi>
+                    <m:mi>B</m:mi>
+                  </m:mrow>
+                </m:mfrac>
+                <m:mo>=</m:mo>
+                <m:mfrac>
+                  <m:mrow>
+                    <m:mi>C</m:mi>
+                    <m:mi>D</m:mi>
+                  </m:mrow>
+                  <m:mrow>
+                    <m:mi>C</m:mi>
+                    <m:mi>A</m:mi>
+                  </m:mrow>
+                </m:mfrac>
+                <m:mo>=</m:mo>
+                <m:mfenced separators="" open="(" close=")">
+                  <m:mfrac>
+                    <m:mrow>
+                      <m:mi>A</m:mi>
+                      <m:mi>D</m:mi>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mi>B</m:mi>
+                      <m:mi>A</m:mi>
+                    </m:mrow>
+                  </m:mfrac>
+                </m:mfenced>
+              </m:mrow>
+            </m:math>
+          </equation>
+          <equation id="id67990"><m:math overflow="scroll" mode="display">
+              <m:mrow>
+                <m:mo>∴</m:mo>
+                <m:mi>A</m:mi>
+                <m:msup>
+                  <m:mi>B</m:mi>
+                  <m:mn>2</m:mn>
+                </m:msup>
+                <m:mo>=</m:mo>
+                <m:mi>C</m:mi>
+                <m:mi>B</m:mi>
+                <m:mo>×</m:mo>
+                <m:mi>B</m:mi>
+                <m:mi>D</m:mi><m:mspace width="3pt"/>
+                <m:mi> en </m:mi><m:mspace width="3pt"/>
+                <m:mi>A</m:mi>
+                <m:msup>
+                  <m:mi>C</m:mi>
+                  <m:mn>2</m:mn>
+                </m:msup>
+                <m:mo>=</m:mo>
+                <m:mi>C</m:mi>
+                <m:mi>B</m:mi>
+                <m:mo>×</m:mo>
+                <m:mi>C</m:mi>
+                <m:mi>D</m:mi>
+              </m:mrow>
+            </m:math>
+          </equation>
+          <equation id="id68050">
+            <m:math overflow="scroll" mode="display">
+              <m:mtable displaystyle="true">
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mrow>
+                      <m:mo>∴</m:mo>
+                      <m:mi>A</m:mi>
+                      <m:msup>
+                        <m:mi>B</m:mi>
+                        <m:mn>2</m:mn>
+                      </m:msup>
+                      <m:mo>+</m:mo>
+                      <m:mi>A</m:mi>
+                      <m:msup>
+                        <m:mi>C</m:mi>
+                        <m:mn>2</m:mn>
+                      </m:msup>
+                    </m:mrow>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mi>C</m:mi>
+                      <m:mi>B</m:mi>
+                      <m:mo>(</m:mo>
+                      <m:mi>B</m:mi>
+                      <m:mi>D</m:mi>
+                      <m:mo>+</m:mo>
+                      <m:mi>C</m:mi>
+                      <m:mi>D</m:mi>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd/>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mi>C</m:mi>
+                      <m:mi>B</m:mi>
+                      <m:mo>(</m:mo>
+                      <m:mi>C</m:mi>
+                      <m:mi>B</m:mi>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd/>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mi>C</m:mi>
+                      <m:msup>
+                        <m:mi>B</m:mi>
+                        <m:mn>2</m:mn>
+                      </m:msup>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mrow>
+                      <m:mi mathvariant="normal">i</m:mi>
+                      <m:mo>.</m:mo>
+                      <m:mi mathvariant="normal">e</m:mi>
+                      <m:mo>.</m:mo>
+                      <m:mi>B</m:mi>
+                      <m:msup>
+                        <m:mi>C</m:mi>
+                        <m:mn>2</m:mn>
+                      </m:msup>
+                    </m:mrow>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mi>A</m:mi>
+                      <m:msup>
+                        <m:mi>B</m:mi>
+                        <m:mn>2</m:mn>
+                      </m:msup>
+                      <m:mo>+</m:mo>
+                      <m:mi>A</m:mi>
+                      <m:msup>
+                        <m:mi>C</m:mi>
+                        <m:mn>2</m:mn>
+                      </m:msup>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+              </m:mtable>
+            </m:math>
+          </equation>
+<exercise id="secfhsst_id2366"><title>Driehoek Meetkunde 1 </title><problem id="probfhsst_id2367">
+          <para id="id68230">In <m:math overflow="scroll"><m:mi>▵</m:mi></m:math> GHI, GH <m:math overflow="scroll"><m:mo>∥</m:mo></m:math> LJ; GJ <m:math overflow="scroll"><m:mo>∥</m:mo></m:math> LK en <m:math overflow="scroll"><m:mfrac><m:mrow><m:mi>J</m:mi><m:mi>K</m:mi></m:mrow><m:mrow><m:mi>K</m:mi><m:mi>I</m:mi></m:mrow></m:mfrac></m:math> = <m:math overflow="scroll"><m:mfrac><m:mn>5</m:mn><m:mn>3</m:mn></m:mfrac></m:math>. Bepaal <m:math overflow="scroll"><m:mfrac><m:mrow><m:mi>H</m:mi><m:mi>J</m:mi></m:mrow><m:mrow><m:mi>K</m:mi><m:mi>I</m:mi></m:mrow></m:mfrac></m:math>.</para>
+          <para id="id68315">
+            <figure id="id68318">
+              <media id="id68318_media" alt="">
+                <image mime-type="image/png" src="../../media/MG11C16_018.png" id="id68318_onlineimage" width="599"><!-- NOTE: attribute width changes image size online (pixels). original width is 599. --></image>
+                <image mime-type="application/postscript" for="pdf" src="../../media/MG11C16_018.eps" id="id68318_printimage"/>
+              </media>
+            </figure>
+          </para>
+          
+          </problem>
+          <solution id="solfhsst_id2379"> <list id="listfhsst_id2379" list-type="enumerated" number-style="arabic" class="stepwise"><item> <label> Identifiseer gelykvormige driehoeke </label>
+          <equation id="id68346"><m:math overflow="scroll" mode="display">
+              <m:mtable displaystyle="true">
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mrow>
+                      <m:mi>L</m:mi>
+                      <m:mover accent="true">
+                        <m:mi>I</m:mi>
+                        <m:mo>^</m:mo>
+                      </m:mover>
+                      <m:mi>J</m:mi>
+                    </m:mrow>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mi>G</m:mi>
+                      <m:mover accent="true">
+                        <m:mi>I</m:mi>
+                        <m:mo>^</m:mo>
+                      </m:mover>
+                      <m:mi>H</m:mi>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mrow>
+                      <m:mi>J</m:mi>
+                      <m:mover accent="true">
+                        <m:mi>L</m:mi>
+                        <m:mo>^</m:mo>
+                      </m:mover>
+                      <m:mi>I</m:mi>
+                    </m:mrow>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mi>H</m:mi>
+                      <m:mover accent="true">
+                        <m:mi>G</m:mi>
+                        <m:mo>^</m:mo>
+                      </m:mover>
+                      <m:mi>I</m:mi>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:mi> ooreenstemmende </m:mi>
+                        <m:mo>.</m:mo>
+                      </m:mrow>
+                      <m:mi>∠</m:mi>
+                      <m:mrow>
+                        <m:mi mathvariant="normal">e</m:mi>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mrow>
+                      <m:mo>∴</m:mo>
+                      <m:mi>▵</m:mi>
+                      <m:mi>L</m:mi>
+                      <m:mi>I</m:mi>
+                      <m:mi>J</m:mi>
+                    </m:mrow>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mrow>
+                      <m:mo>|</m:mo>
+                      <m:mo>|</m:mo>
+                      <m:mo>|</m:mo>
+                    </m:mrow>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mi>▵</m:mi>
+                      <m:mi>G</m:mi>
+                      <m:mi>I</m:mi>
+                      <m:mi>H</m:mi>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:mi> gelykhoekige </m:mi>
+                      </m:mrow>
+                      <m:mi>▵</m:mi>
+                      <m:mrow>
+                        <m:mi mathvariant="normal">e</m:mi>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+              </m:mtable>
+            </m:math>
+          </equation>
+          <equation id="id68509"><m:math overflow="scroll" mode="display">
+              <m:mtable displaystyle="true">
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mrow>
+                      <m:mi>L</m:mi>
+                      <m:mover accent="true">
+                        <m:mi>I</m:mi>
+                        <m:mo>^</m:mo>
+                      </m:mover>
+                      <m:mi>K</m:mi>
+                    </m:mrow>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mi>G</m:mi>
+                      <m:mover accent="true">
+                        <m:mi>I</m:mi>
+                        <m:mo>^</m:mo>
+                      </m:mover>
+                      <m:mi>J</m:mi>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mrow>
+                      <m:mi>K</m:mi>
+                      <m:mover accent="true">
+                        <m:mi>L</m:mi>
+                        <m:mo>^</m:mo>
+                      </m:mover>
+                      <m:mi>I</m:mi>
+                    </m:mrow>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mi>J</m:mi>
+                      <m:mover accent="true">
+                        <m:mi>G</m:mi>
+                        <m:mo>^</m:mo>
+                      </m:mover>
+                      <m:mi>I</m:mi>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:mi> Ooreenstemmende </m:mi>
+                        <m:mo/>
+                      </m:mrow>
+                      <m:mi>∠</m:mi>
+                      <m:mrow>
+                        <m:mi mathvariant="normal">e</m:mi>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mrow>
+                      <m:mo>∴</m:mo>
+                      <m:mi>▵</m:mi>
+                      <m:mi>L</m:mi>
+                      <m:mi>I</m:mi>
+                      <m:mi>K</m:mi>
+                    </m:mrow>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mrow>
+                      <m:mo>|</m:mo>
+                      <m:mo>|</m:mo>
+                      <m:mo>|</m:mo>
+                    </m:mrow>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mi>▵</m:mi>
+                      <m:mi>G</m:mi>
+                      <m:mi>I</m:mi>
+                      <m:mi>J</m:mi>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:mi> Gelykhoekige </m:mi>
+                      </m:mrow>
+                      <m:mi>▵</m:mi>
+                      <m:mrow>
+                        <m:mi mathvariant="normal">e</m:mi>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+              </m:mtable>
+            </m:math>
+          </equation>
+          </item> <item> <label> Use proportional sides </label>
+          <equation id="id68676"><m:math overflow="scroll" mode="display">
+              <m:mtable displaystyle="true">
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mfrac>
+                      <m:mrow>
+                        <m:mi>H</m:mi>
+                        <m:mi>J</m:mi>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:mi>J</m:mi>
+                        <m:mi>I</m:mi>
+                      </m:mrow>
+                    </m:mfrac>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mfrac>
+                        <m:mrow>
+                          <m:mi>G</m:mi>
+                          <m:mi>L</m:mi>
+                        </m:mrow>
+                        <m:mrow>
+                          <m:mi>L</m:mi>
+                          <m:mi>I</m:mi>
+                        </m:mrow>
+                      </m:mfrac>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:mi>▵</m:mi>
+                        <m:mi>L</m:mi>
+                        <m:mi>I</m:mi>
+                        <m:mi>J</m:mi>
+                        <m:mspace width="0.277778em"/>
+                        <m:mo>|</m:mo>
+                        <m:mo>|</m:mo>
+                        <m:mo>|</m:mo>
+                        <m:mspace width="0.277778em"/>
+                        <m:mi>▵</m:mi>
+                        <m:mi>G</m:mi>
+                        <m:mi>I</m:mi>
+                        <m:mi>H</m:mi>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mrow>
+                      <m:mtext>en</m:mtext>
+                      <m:mspace width="4.pt"/>
+                      <m:mfrac>
+                        <m:mrow>
+                          <m:mi>G</m:mi>
+                          <m:mi>L</m:mi>
+                        </m:mrow>
+                        <m:mrow>
+                          <m:mi>L</m:mi>
+                          <m:mi>I</m:mi>
+                        </m:mrow>
+                      </m:mfrac>
+                    </m:mrow>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mfrac>
+                        <m:mrow>
+                          <m:mi>J</m:mi>
+                          <m:mi>K</m:mi>
+                        </m:mrow>
+                        <m:mrow>
+                          <m:mi>K</m:mi>
+                          <m:mi>I</m:mi>
+                        </m:mrow>
+                      </m:mfrac>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:mi>▵</m:mi>
+                        <m:mi>L</m:mi>
+                        <m:mi>I</m:mi>
+                        <m:mi>K</m:mi>
+                        <m:mspace width="0.277778em"/>
+                        <m:mo>|</m:mo>
+                        <m:mo>|</m:mo>
+                        <m:mo>|</m:mo>
+                        <m:mspace width="0.277778em"/>
+                        <m:mi>▵</m:mi>
+                        <m:mi>G</m:mi>
+                        <m:mi>I</m:mi>
+                        <m:mi>J</m:mi>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd/>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mfrac>
+                      <m:mn>5</m:mn>
+                      <m:mn>3</m:mn>
+                    </m:mfrac>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mrow>
+                      <m:mo>∴</m:mo>
+                      <m:mfrac>
+                        <m:mrow>
+                          <m:mi>H</m:mi>
+                          <m:mi>J</m:mi>
+                        </m:mrow>
+                        <m:mrow>
+                          <m:mi>J</m:mi>
+                          <m:mi>I</m:mi>
+                        </m:mrow>
+                      </m:mfrac>
+                    </m:mrow>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mfrac>
+                      <m:mn>5</m:mn>
+                      <m:mn>3</m:mn>
+                    </m:mfrac>
+                  </m:mtd>
+                </m:mtr>
+              </m:mtable>
+            </m:math>
+          </equation>
+          </item> <item> <label> Rearrange to find the required ratio </label>
+          <equation id="id68894">
+            <m:math overflow="scroll" mode="display">
+              <m:mtable displaystyle="true">
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mfrac>
+                      <m:mrow>
+                        <m:mi>H</m:mi>
+                        <m:mi>J</m:mi>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:mi>K</m:mi>
+                        <m:mi>I</m:mi>
+                      </m:mrow>
+                    </m:mfrac>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mfrac>
+                        <m:mrow>
+                          <m:mi>H</m:mi>
+                          <m:mi>J</m:mi>
+                        </m:mrow>
+                        <m:mrow>
+                          <m:mi>J</m:mi>
+                          <m:mi>I</m:mi>
+                        </m:mrow>
+                      </m:mfrac>
+                      <m:mo>×</m:mo>
+                      <m:mfrac>
+                        <m:mrow>
+                          <m:mi>J</m:mi>
+                          <m:mi>I</m:mi>
+                        </m:mrow>
+                        <m:mrow>
+                          <m:mi>K</m:mi>
+                          <m:mi>I</m:mi>
+                        </m:mrow>
+                      </m:mfrac>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+              </m:mtable>
+            </m:math>
+          </equation>
+          <para id="id68959">Ons moet die volgende bereken <m:math overflow="scroll"><m:mfrac><m:mrow><m:mi>J</m:mi><m:mi>I</m:mi></m:mrow><m:mrow><m:mi>K</m:mi><m:mi>I</m:mi></m:mrow></m:mfrac></m:math>:
+Ons is gegee <m:math overflow="scroll"><m:mrow><m:mfrac><m:mrow><m:mi>J</m:mi><m:mi>K</m:mi></m:mrow><m:mrow><m:mi>K</m:mi><m:mi>I</m:mi></m:mrow></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mn>5</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:math>
+Na herrangskiking, het ons <m:math overflow="scroll"><m:mrow><m:mi>J</m:mi><m:mi>K</m:mi><m:mo>=</m:mo><m:mfrac><m:mn>5</m:mn><m:mn>3</m:mn></m:mfrac><m:mi>K</m:mi><m:mi>I</m:mi></m:mrow></m:math>
+En:</para>
+          <equation id="id69038">
+            <m:math overflow="scroll" mode="display">
+              <m:mtable displaystyle="true">
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mrow>
+                      <m:mi>J</m:mi>
+                      <m:mi>I</m:mi>
+                    </m:mrow>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mi>J</m:mi>
+                      <m:mi>K</m:mi>
+                      <m:mo>+</m:mo>
+                      <m:mi>K</m:mi>
+                      <m:mi>I</m:mi>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd/>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mfrac>
+                        <m:mn>5</m:mn>
+                        <m:mn>3</m:mn>
+                      </m:mfrac>
+                      <m:mi>K</m:mi>
+                      <m:mi>I</m:mi>
+                      <m:mo>+</m:mo>
+                      <m:mi>K</m:mi>
+                      <m:mi>I</m:mi>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd/>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mfrac>
+                        <m:mn>8</m:mn>
+                        <m:mn>3</m:mn>
+                      </m:mfrac>
+                      <m:mi>K</m:mi>
+                      <m:mi>I</m:mi>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mfrac>
+                      <m:mrow>
+                        <m:mi>J</m:mi>
+                        <m:mi>I</m:mi>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:mi>K</m:mi>
+                        <m:mi>I</m:mi>
+                      </m:mrow>
+                    </m:mfrac>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mfrac>
+                      <m:mn>8</m:mn>
+                      <m:mn>3</m:mn>
+                    </m:mfrac>
+                  </m:mtd>
+                </m:mtr>
+              </m:mtable>
+            </m:math>
+          </equation>
+          <para id="id69156">Met die gebruik van hierdie verhouding:</para>
+          <equation id="id69161">
+            <m:math overflow="scroll" mode="display">
+              <m:mtable displaystyle="true">
+                <m:mtr>
+                  <m:mtd/>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mfrac>
+                        <m:mn>5</m:mn>
+                        <m:mn>3</m:mn>
+                      </m:mfrac>
+                      <m:mo>×</m:mo>
+                      <m:mfrac>
+                        <m:mn>8</m:mn>
+                        <m:mn>3</m:mn>
+                      </m:mfrac>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd/>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mfrac>
+                      <m:mn>40</m:mn>
+                      <m:mn>9</m:mn>
+                    </m:mfrac>
+                  </m:mtd>
+                </m:mtr>
+              </m:mtable>
+            </m:math>
+          </equation>
+          
+          </item> </list> </solution>
+</exercise>
+<exercise id="secfhsst_id2906"><title> Triangle Geometry 2 </title>
+          <problem id="probfhsst_id2907">
+          <para id="id69244">PQRS is 'n trapesium, met PQ <m:math overflow="scroll"><m:mo>∥</m:mo></m:math> RS. Bewys dat  PT <m:math overflow="scroll"><m:mo>·</m:mo></m:math> TR = ST <m:math overflow="scroll"><m:mo>·</m:mo></m:math> TQ.</para>
+          <para id="id69277">
+            <figure id="id69280">
+              <media id="id69280_media" alt="">
+                <image mime-type="image/png" src="../../media/MG11C16_019.png" id="id69280_onlineimage" width="385"><!-- NOTE: attribute width changes image size online (pixels). original width is 385. --></image>
+                <image mime-type="application/postscript" for="pdf" src="../../media/MG11C16_019.eps" id="id69280_printimage"/>
+              </media>
+            </figure>
+          </para>
+          
+          </problem>
+          <solution id="solfhsst_id2919"> <list id="listfhsst_id2919" list-type="enumerated" number-style="arabic" class="stepwise">
+          <item> <label> Identify similar triangles </label>
+          <equation id="id69308"><m:math overflow="scroll" mode="display">
+              <m:mtable displaystyle="true">
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mover accent="true">
+                      <m:msub>
+                        <m:mi>P</m:mi>
+                        <m:mn>1</m:mn>
+                      </m:msub>
+                      <m:mo>^</m:mo>
+                    </m:mover>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mover accent="true">
+                        <m:msub>
+                          <m:mi>S</m:mi>
+                          <m:mn>1</m:mn>
+                        </m:msub>
+                        <m:mo>^</m:mo>
+                      </m:mover>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:mi> Alt </m:mi>
+                        <m:mo>.</m:mo>
+                      </m:mrow>
+                      <m:mi>∠</m:mi>
+                      <m:mrow>
+                        <m:mi mathvariant="normal">s</m:mi>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mover accent="true">
+                      <m:msub>
+                        <m:mi>Q</m:mi>
+                        <m:mn>1</m:mn>
+                      </m:msub>
+                      <m:mo>^</m:mo>
+                    </m:mover>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mover accent="true">
+                        <m:msub>
+                          <m:mi>R</m:mi>
+                          <m:mn>1</m:mn>
+                        </m:msub>
+                        <m:mo>^</m:mo>
+                      </m:mover>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:mi> Alt </m:mi>
+                        <m:mo>.</m:mo>
+                      </m:mrow>
+                      <m:mi>∠</m:mi>
+                      <m:mrow>
+                        <m:mi mathvariant="normal">s</m:mi>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mrow>
+                      <m:mo>∴</m:mo>
+                      <m:mi>▵</m:mi>
+                      <m:mi>P</m:mi>
+                      <m:mi>T</m:mi>
+                      <m:mi>Q</m:mi>
+                    </m:mrow>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mrow>
+                      <m:mo>|</m:mo>
+                      <m:mo>|</m:mo>
+                      <m:mo>|</m:mo>
+                    </m:mrow>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mi>▵</m:mi>
+                      <m:mi>S</m:mi>
+                      <m:mi>T</m:mi>
+                      <m:mi>R</m:mi>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:mi> gelykhoekige </m:mi>
+                      </m:mrow>
+                      <m:mi>▵</m:mi>
+                      <m:mrow>
+                        <m:mi mathvariant="normal">e</m:mi>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+              </m:mtable>
+            </m:math>
+          </equation>
+          </item> <item> <label> Use proportional sides </label>
+          <equation id="id69494">
+            <m:math overflow="scroll" mode="display">
+              <m:mtable displaystyle="true">
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mfrac>
+                      <m:mrow>
+                        <m:mi>P</m:mi>
+                        <m:mi>T</m:mi>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:mi>T</m:mi>
+                        <m:mi>Q</m:mi>
+                      </m:mrow>
+                    </m:mfrac>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mfrac>
+                        <m:mrow>
+                          <m:mi>S</m:mi>
+                          <m:mi>T</m:mi>
+                        </m:mrow>
+                        <m:mrow>
+                          <m:mi>T</m:mi>
+                          <m:mi>R</m:mi>
+                        </m:mrow>
+                      </m:mfrac>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:mi>▵</m:mi>
+                        <m:mi>P</m:mi>
+                        <m:mi>T</m:mi>
+                        <m:mi>Q</m:mi>
+                        <m:mo>|</m:mo>
+                        <m:mo>|</m:mo>
+                        <m:mo>|</m:mo>
+                        <m:mi>▵</m:mi>
+                        <m:mi>S</m:mi>
+                        <m:mi>T</m:mi>
+                        <m:mi>R</m:mi>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mrow>
+                      <m:mo>∴</m:mo>
+                      <m:mi>P</m:mi>
+                      <m:mi>T</m:mi>
+                      <m:mo>·</m:mo>
+                      <m:mi>T</m:mi>
+                      <m:mi>R</m:mi>
+                    </m:mrow>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mi>S</m:mi>
+                      <m:mi>T</m:mi>
+                      <m:mo>·</m:mo>
+                      <m:mi>T</m:mi>
+                      <m:mi>Q</m:mi>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+              </m:mtable>
+            </m:math>
+          </equation>
+          
+          </item> </list> </solution>
+</exercise>
+<section id="secfhsst_id3112"><title>Driehoekige Meetkunde</title>
+          <list id="id69635" display="block" list-type="enumerated"><item id="uid29">Bereken SV
+<figure id="id69654"><media id="id69654_media" alt=""><image mime-type="image/png" src="../../media/MG11C16_020.png" id="id69654_onlineimage" width="312"><!-- NOTE: attribute width changes image size online (pixels). original width is 312. --></image><image mime-type="application/postscript" for="pdf" src="../../media/MG11C16_020.eps" id="id69654_printimage"/></media></figure></item>
+            <item id="uid30"><m:math overflow="scroll"><m:mrow><m:mfrac><m:mrow><m:mi>C</m:mi><m:mi>B</m:mi></m:mrow><m:mrow><m:mi>Y</m:mi><m:mi>B</m:mi></m:mrow></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mn>3</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow></m:math>. Vind <m:math overflow="scroll"><m:mfrac><m:mrow><m:mi>D</m:mi><m:mi>S</m:mi></m:mrow><m:mrow><m:mi>S</m:mi><m:mi>B</m:mi></m:mrow></m:mfrac></m:math>.
+<figure id="id69724"><media id="id69724_media" alt=""><image mime-type="image/png" src="../../media/MG11C16_021.png" id="id69724_onlineimage" width="222"><!-- NOTE: attribute width changes image size online (pixels). original width is 222. --></image><image mime-type="application/postscript" for="pdf" src="../../media/MG11C16_021.eps" id="id69724_printimage"/></media></figure></item>
+            <item id="uid31">Gegee die volgende figuur met die volgende lengtes, vind AE, EC en BE.
+BC = 15 cm, AB = 4 cm, CD = 18 cm, en ED = 9 cm.
+<figure id="id69752"><media id="id69752_media" alt=""><image mime-type="image/png" src="../../media/MG11C16_022.png" id="id69752_onlineimage" width="192"><!-- NOTE: attribute width changes image size online (pixels). original width is 192. --></image><image mime-type="application/postscript" for="pdf" src="../../media/MG11C16_022.eps" id="id69752_printimage"/></media></figure></item>
+            <item id="uid32">Met behulp van die volgende figuur en lengtes, vind IJ en KJ.
+HI = 26 m, KL = 13 m, JL = 9 m en HJ = 32 m.
+<figure id="id69781"><media id="id69781_media" alt=""><image mime-type="image/png" src="../../media/MG11C16_023.png" id="id69781_onlineimage" width="227"><!-- NOTE: attribute width changes image size online (pixels). original width is 227. --></image><image mime-type="application/postscript" for="pdf" src="../../media/MG11C16_023.eps" id="id69781_printimage"/></media></figure></item>
+            <item id="uid33">Vind FH in die volgende figuur.
+<figure id="id69803"><media id="id69803_media" alt=""><image mime-type="image/png" src="../../media/MG11C16_024.png" id="id69803_onlineimage" width="259"><!-- NOTE: attribute width changes image size online (pixels). original width is 259. --></image><image mime-type="application/postscript" for="pdf" src="../../media/MG11C16_024.eps" id="id69803_printimage"/></media></figure></item>
+            <item id="uid34">BF = 25 m, AB = 13 m, AD = 9 m, DF = 18m.
+Bereken die lengtes van BC, CF, CD, CE en EF, en vind die verhouding <m:math overflow="scroll"><m:mfrac><m:mrow><m:mi>D</m:mi><m:mi>E</m:mi></m:mrow><m:mrow><m:mi>A</m:mi><m:mi>C</m:mi></m:mrow></m:mfrac></m:math>.
+<figure id="id69852"><media id="id69852_media" alt=""><image mime-type="image/png" src="../../media/MG11C16_025.png" id="id69852_onlineimage" width="170"><!-- NOTE: attribute width changes image size online (pixels). original width is 170. --></image><image mime-type="application/postscript" for="pdf" src="../../media/MG11C16_025.eps" id="id69852_printimage"/></media></figure></item>
+            <item id="uid35">As LM <m:math overflow="scroll"><m:mo>∥</m:mo></m:math> JK, bereken <m:math overflow="scroll"><m:mi>y</m:mi></m:math>.
+<figure id="id69892"><media id="id69892_media" alt=""><image mime-type="image/png" src="../../media/MG11C16_026.png" id="id69892_onlineimage" width="170"><!-- NOTE: attribute width changes image size online (pixels). original width is 170. --></image><image mime-type="application/postscript" for="pdf" src="../../media/MG11C16_026.eps" id="id69892_printimage"/></media></figure></item>
+          </list>
+          
+</section>
+        </section>
+      </section>
+    </section>
+</content>
+</document>

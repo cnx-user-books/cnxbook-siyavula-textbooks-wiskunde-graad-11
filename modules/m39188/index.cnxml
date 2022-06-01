@@ -1,0 +1,1568 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Trig identiteite</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m39188</md:content-id>
+  <md:title>Trig identiteite</md:title>
+  <md:abstract/>
+  <md:uuid>e57cd555-17d3-41b6-802c-be87be5431ec</md:uuid>
+</metadata>
+
+<content>
+    <section id="cid4">
+      <title>Trigonometriese Identiteite</title>
+      <section id="uid85">
+        <title>Afleiding van Waardes vir Trigonometriese Funksies vir :                        <m:math overflow="scroll"><m:msup><m:mn>30</m:mn><m:mo>∘</m:mo></m:msup></m:math>, <m:math overflow="scroll"><m:msup><m:mn>45</m:mn><m:mo>∘</m:mo></m:msup></m:math> and <m:math overflow="scroll"><m:msup><m:mn>60</m:mn><m:mo>∘</m:mo></m:msup></m:math></title>
+        <para id="id312820">Hou in gedagte dat die trigonometriese funksies  slegs van toepassing is op reghoekige driehoeke. Dus kan ons  waardes aflei vir trigonometriese funksies vir <m:math overflow="scroll"><m:msup><m:mn>30</m:mn><m:mo>∘</m:mo></m:msup></m:math>, <m:math overflow="scroll"><m:msup><m:mn>45</m:mn><m:mo>∘</m:mo></m:msup></m:math> en <m:math overflow="scroll"><m:msup><m:mn>60</m:mn><m:mo>∘</m:mo></m:msup></m:math>. Ons sal begin met <m:math overflow="scroll"><m:msup><m:mn>45</m:mn><m:mo>∘</m:mo></m:msup></m:math> omdat dit die maklikste is</para>
+        <para id="id312882">Neem enige reghoekige driehoek met een hoek <m:math overflow="scroll"><m:msup><m:mn>45</m:mn><m:mo>∘</m:mo></m:msup></m:math>. Dus omdat een hoek gelyk is aan <m:math overflow="scroll"><m:msup><m:mn>90</m:mn><m:mo>∘</m:mo></m:msup></m:math>, moet die derde hoek ook gelyk wees aan <m:math overflow="scroll"><m:msup><m:mn>45</m:mn><m:mo>∘</m:mo></m:msup></m:math>. Ons het dus 'n gelyksydige reghoekige driehoek soos aan gedui in <link target-id="uid86"/>.</para>
+        <figure id="uid86"><media id="uid86_media" alt="">
+            <image mime-type="image/png" src="../../media/MG11C17_019.png" id="uid86_onlineimage" width="109"><!-- NOTE: attribute width changes image size online (pixels). original width is 109. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/MG11C17_019.eps" id="uid86_printimage"/>
+          </media>
+          
+        <caption>'n Gelyksydige reghoekige driehoek</caption></figure>
+        <para id="id312946">As die twee sye gelyk is in lengte aan <m:math overflow="scroll"><m:mi>a</m:mi></m:math>, dan kan die skuinssy <m:math overflow="scroll"><m:mi>h</m:mi></m:math>, soos volg bereken word:</para>
+        <equation id="id312968">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:msup>
+                    <m:mi>h</m:mi>
+                    <m:mn>2</m:mn>
+                  </m:msup>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:msup>
+                      <m:mi>a</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msup>
+                    <m:mo>+</m:mo>
+                    <m:msup>
+                      <m:mi>a</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msup>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>2</m:mn>
+                    <m:msup>
+                      <m:mi>a</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msup>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mo>∴</m:mo>
+                    <m:mspace width="1.em"/>
+                    <m:mi>h</m:mi>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:msqrt>
+                      <m:mn>2</m:mn>
+                    </m:msqrt>
+                    <m:mi>a</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <para id="id313061">Dus het ons:</para>
+        <equation id="id313065"><m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mo form="prefix">sin</m:mo>
+                    <m:mo>(</m:mo>
+                    <m:msup>
+                      <m:mn>45</m:mn>
+                      <m:mo>∘</m:mo>
+                    </m:msup>
+                    <m:mo>)</m:mo>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:mrow>
+                      <m:mi> teenoorstaande </m:mi>
+                      <m:mo>(</m:mo>
+                      <m:msup>
+                        <m:mn>45</m:mn>
+                        <m:mo>∘</m:mo>
+                      </m:msup>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:mi> skuinssy </m:mi>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:mi>a</m:mi>
+                    <m:mrow>
+                      <m:msqrt>
+                        <m:mn>2</m:mn>
+                      </m:msqrt>
+                      <m:mi>a</m:mi>
+                    </m:mrow>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:mn>1</m:mn>
+                    <m:msqrt>
+                      <m:mn>2</m:mn>
+                    </m:msqrt>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <equation id="id313161"><m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mo form="prefix">cos</m:mo>
+                    <m:mo>(</m:mo>
+                    <m:msup>
+                      <m:mn>45</m:mn>
+                      <m:mo>∘</m:mo>
+                    </m:msup>
+                    <m:mo>)</m:mo>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:mrow>
+                      <m:mi> aanliggende </m:mi>
+                      <m:mo>(</m:mo>
+                      <m:msup>
+                        <m:mn>45</m:mn>
+                        <m:mo>∘</m:mo>
+                      </m:msup>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:mi>skuinssy </m:mi>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:mi>a</m:mi>
+                    <m:mrow>
+                      <m:msqrt>
+                        <m:mn>2</m:mn>
+                      </m:msqrt>
+                      <m:mi>a</m:mi>
+                    </m:mrow>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:mn>1</m:mn>
+                    <m:msqrt>
+                      <m:mn>2</m:mn>
+                    </m:msqrt>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <equation id="id313257"><m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mo form="prefix">tan</m:mo>
+                    <m:mo>(</m:mo>
+                    <m:msup>
+                      <m:mn>45</m:mn>
+                      <m:mo>∘</m:mo>
+                    </m:msup>
+                    <m:mo>)</m:mo>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:mrow>
+                      <m:mi> teenoorstaande </m:mi>
+                      <m:mo>(</m:mo>
+                      <m:msup>
+                        <m:mn>45</m:mn>
+                        <m:mo>∘</m:mo>
+                      </m:msup>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mi> aanliggende </m:mi>
+                      <m:mo>(</m:mo>
+                      <m:msup>
+                        <m:mn>45</m:mn>
+                        <m:mo>∘</m:mo>
+                      </m:msup>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:mi>a</m:mi>
+                    <m:mi>a</m:mi>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mn>1</m:mn>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <para id="id313356">Ons kan iets soortgelyks probeer vir <m:math overflow="scroll"><m:msup><m:mn>30</m:mn><m:mo>∘</m:mo></m:msup></m:math> en <m:math overflow="scroll"><m:msup><m:mn>60</m:mn><m:mo>∘</m:mo></m:msup></m:math>. Ons begin met 'n gelyksydige driehoek en halveer een hoek soos aangedui in  <link target-id="uid87"/>. Dit gee ons die verlangde reghoekige driehoek met een hoek gelyk aan <m:math overflow="scroll"><m:msup><m:mn>30</m:mn><m:mo>∘</m:mo></m:msup></m:math> en een hoek gelyk aan <m:math overflow="scroll"><m:msup><m:mn>60</m:mn><m:mo>∘</m:mo></m:msup></m:math>.</para>
+        <figure id="uid87"><media id="uid87_media" alt="">
+            <image mime-type="image/png" src="../../media/MG11C17_020.png" id="uid87_onlineimage" width="110"><!-- NOTE: attribute width changes image size online (pixels). original width is 110. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/MG11C17_020.eps" id="uid87_printimage"/>
+          </media>
+          
+        <caption>'n Gelyksydige driehoek met een hoek gehalveer.</caption></figure>
+        <para id="id313436">As die gelyke sye se lengte gelyk is aan <m:math overflow="scroll"><m:mi>a</m:mi></m:math>, dan is die basis gelyk aan <m:math overflow="scroll"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mi>a</m:mi></m:mrow></m:math> en die lengte van die vertikale sy  <m:math overflow="scroll"><m:mi>v</m:mi></m:math> kan dan soos volg bereken word:</para>
+        <equation id="id313474">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:msup>
+                    <m:mi>v</m:mi>
+                    <m:mn>2</m:mn>
+                  </m:msup>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:msup>
+                      <m:mi>a</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msup>
+                    <m:mo>-</m:mo>
+                    <m:msup>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:mfrac>
+                          <m:mn>1</m:mn>
+                          <m:mn>2</m:mn>
+                        </m:mfrac>
+                        <m:mi>a</m:mi>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                      <m:mn>2</m:mn>
+                    </m:msup>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:msup>
+                      <m:mi>a</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msup>
+                    <m:mo>-</m:mo>
+                    <m:mfrac>
+                      <m:mn>1</m:mn>
+                      <m:mn>4</m:mn>
+                    </m:mfrac>
+                    <m:msup>
+                      <m:mi>a</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msup>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mfrac>
+                      <m:mn>3</m:mn>
+                      <m:mn>4</m:mn>
+                    </m:mfrac>
+                    <m:msup>
+                      <m:mi>a</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msup>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mo>∴</m:mo>
+                    <m:mspace width="1.em"/>
+                    <m:mi>v</m:mi>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mfrac>
+                      <m:msqrt>
+                        <m:mn>3</m:mn>
+                      </m:msqrt>
+                      <m:mn>2</m:mn>
+                    </m:mfrac>
+                    <m:mi>a</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <para id="id313621">Dus het ons:</para>
+        <para id="id313625">
+          <equation id="id313629"><m:math overflow="scroll" mode="display">
+              <m:mtable displaystyle="true">
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mrow>
+                      <m:mo form="prefix">sin</m:mo>
+                      <m:mo>(</m:mo>
+                      <m:msup>
+                        <m:mn>30</m:mn>
+                        <m:mo>∘</m:mo>
+                      </m:msup>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mfrac>
+                      <m:mrow>
+                        <m:mi> teenoorstaande </m:mi>
+                        <m:mo>(</m:mo>
+                        <m:msup>
+                          <m:mn>30</m:mn>
+                          <m:mo>∘</m:mo>
+                        </m:msup>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                      <m:mi> skuinssy </m:mi>
+                    </m:mfrac>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd/>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mfrac>
+                      <m:mfrac>
+                        <m:mi>a</m:mi>
+                        <m:mn>2</m:mn>
+                      </m:mfrac>
+                      <m:mi>a</m:mi>
+                    </m:mfrac>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd/>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mfrac>
+                      <m:mn>1</m:mn>
+                      <m:mn>2</m:mn>
+                    </m:mfrac>
+                  </m:mtd>
+                </m:mtr>
+              </m:mtable>
+            </m:math>
+          </equation>
+          <equation id="id313724"><m:math overflow="scroll" mode="display">
+              <m:mtable displaystyle="true">
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mrow>
+                      <m:mo form="prefix">cos</m:mo>
+                      <m:mo>(</m:mo>
+                      <m:msup>
+                        <m:mn>30</m:mn>
+                        <m:mo>∘</m:mo>
+                      </m:msup>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mfrac>
+                      <m:mrow>
+                        <m:mi> aanliggende </m:mi>
+                        <m:mo>(</m:mo>
+                        <m:msup>
+                          <m:mn>30</m:mn>
+                          <m:mo>∘</m:mo>
+                        </m:msup>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                      <m:mi> skuinssy </m:mi>
+                    </m:mfrac>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd/>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mfrac>
+                      <m:mrow>
+                        <m:mfrac>
+                          <m:msqrt>
+                            <m:mn>3</m:mn>
+                          </m:msqrt>
+                          <m:mn>2</m:mn>
+                        </m:mfrac>
+                        <m:mi>a</m:mi>
+                      </m:mrow>
+                      <m:mi>a</m:mi>
+                    </m:mfrac>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd/>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mfrac>
+                      <m:msqrt>
+                        <m:mn>3</m:mn>
+                      </m:msqrt>
+                      <m:mn>2</m:mn>
+                    </m:mfrac>
+                  </m:mtd>
+                </m:mtr>
+              </m:mtable>
+            </m:math>
+          </equation>
+          <equation id="id313824"><m:math overflow="scroll" mode="display">
+              <m:mtable displaystyle="true">
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mrow>
+                      <m:mo form="prefix">tan</m:mo>
+                      <m:mo>(</m:mo>
+                      <m:msup>
+                        <m:mn>30</m:mn>
+                        <m:mo>∘</m:mo>
+                      </m:msup>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mfrac>
+                      <m:mrow>
+                        <m:mi> teenoorstaande </m:mi>
+                        <m:mo>(</m:mo>
+                        <m:msup>
+                          <m:mn>30</m:mn>
+                          <m:mo>∘</m:mo>
+                        </m:msup>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:mi> aanliggende </m:mi>
+                        <m:mo>(</m:mo>
+                        <m:msup>
+                          <m:mn>30</m:mn>
+                          <m:mo>∘</m:mo>
+                        </m:msup>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                    </m:mfrac>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd/>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mfrac>
+                      <m:mfrac>
+                        <m:mi>a</m:mi>
+                        <m:mn>2</m:mn>
+                      </m:mfrac>
+                      <m:mrow>
+                        <m:mfrac>
+                          <m:msqrt>
+                            <m:mn>3</m:mn>
+                          </m:msqrt>
+                          <m:mn>2</m:mn>
+                        </m:mfrac>
+                        <m:mi>a</m:mi>
+                      </m:mrow>
+                    </m:mfrac>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd/>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mfrac>
+                      <m:mn>1</m:mn>
+                      <m:msqrt>
+                        <m:mn>3</m:mn>
+                      </m:msqrt>
+                    </m:mfrac>
+                  </m:mtd>
+                </m:mtr>
+              </m:mtable>
+            </m:math>
+          </equation>
+          <!--empty paragraphs get left behind.-->
+          <equation id="id313949"><m:math overflow="scroll" mode="display">
+              <m:mtable displaystyle="true">
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mrow>
+                      <m:mo form="prefix">sin</m:mo>
+                      <m:mo>(</m:mo>
+                      <m:msup>
+                        <m:mn>60</m:mn>
+                        <m:mo>∘</m:mo>
+                      </m:msup>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mfrac>
+                      <m:mrow>
+                        <m:mi> teenoorstaande </m:mi>
+                        <m:mo>(</m:mo>
+                        <m:msup>
+                          <m:mn>60</m:mn>
+                          <m:mo>∘</m:mo>
+                        </m:msup>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                      <m:mi> skuinssy </m:mi>
+                    </m:mfrac>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd/>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mfrac>
+                      <m:mrow>
+                        <m:mfrac>
+                          <m:msqrt>
+                            <m:mn>3</m:mn>
+                          </m:msqrt>
+                          <m:mn>2</m:mn>
+                        </m:mfrac>
+                        <m:mi>a</m:mi>
+                      </m:mrow>
+                      <m:mi>a</m:mi>
+                    </m:mfrac>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd/>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mfrac>
+                      <m:msqrt>
+                        <m:mn>3</m:mn>
+                      </m:msqrt>
+                      <m:mn>2</m:mn>
+                    </m:mfrac>
+                  </m:mtd>
+                </m:mtr>
+              </m:mtable>
+            </m:math>
+          </equation>
+          <equation id="id314049"><m:math overflow="scroll" mode="display">
+              <m:mtable displaystyle="true">
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mrow>
+                      <m:mo form="prefix">cos</m:mo>
+                      <m:mo>(</m:mo>
+                      <m:msup>
+                        <m:mn>60</m:mn>
+                        <m:mo>∘</m:mo>
+                      </m:msup>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mfrac>
+                      <m:mrow>
+                        <m:mi> aanliggende </m:mi>
+                        <m:mo>(</m:mo>
+                        <m:msup>
+                          <m:mn>60</m:mn>
+                          <m:mo>∘</m:mo>
+                        </m:msup>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                      <m:mi> skuinssy </m:mi>
+                    </m:mfrac>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd/>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mfrac>
+                      <m:mfrac>
+                        <m:mi>a</m:mi>
+                        <m:mn>2</m:mn>
+                      </m:mfrac>
+                      <m:mi>a</m:mi>
+                    </m:mfrac>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd/>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mfrac>
+                      <m:mn>1</m:mn>
+                      <m:mn>2</m:mn>
+                    </m:mfrac>
+                  </m:mtd>
+                </m:mtr>
+              </m:mtable>
+            </m:math>
+          </equation>
+          <equation id="id314144"><m:math overflow="scroll" mode="display">
+              <m:mtable displaystyle="true">
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mrow>
+                      <m:mo form="prefix">tan</m:mo>
+                      <m:mo>(</m:mo>
+                      <m:msup>
+                        <m:mn>60</m:mn>
+                        <m:mo>∘</m:mo>
+                      </m:msup>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mfrac>
+                      <m:mrow>
+                        <m:mi> teenoorstaande </m:mi>
+                        <m:mo>(</m:mo>
+                        <m:msup>
+                          <m:mn>60</m:mn>
+                          <m:mo>∘</m:mo>
+                        </m:msup>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:mi> aanliggende </m:mi>
+                        <m:mo>(</m:mo>
+                        <m:msup>
+                          <m:mn>60</m:mn>
+                          <m:mo>∘</m:mo>
+                        </m:msup>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                    </m:mfrac>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd/>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mfrac>
+                      <m:mrow>
+                        <m:mfrac>
+                          <m:msqrt>
+                            <m:mn>3</m:mn>
+                          </m:msqrt>
+                          <m:mn>2</m:mn>
+                        </m:mfrac>
+                        <m:mi>a</m:mi>
+                      </m:mrow>
+                      <m:mfrac>
+                        <m:mi>a</m:mi>
+                        <m:mn>2</m:mn>
+                      </m:mfrac>
+                    </m:mfrac>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd/>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:msqrt>
+                      <m:mn>3</m:mn>
+                    </m:msqrt>
+                  </m:mtd>
+                </m:mtr>
+              </m:mtable>
+            </m:math>
+          </equation>
+          <!--empty paragraphs get left behind.-->
+        </para>
+        <para id="id314262">Jy hoef nie hierdie identiteite te memoriseer nie as jy weet hoe om hulle af te lei.</para>
+<note id="notfhsst_id2387" type="tip"><title>Twee bruikbare driehoeke om te onthou.</title><para id="id314272">
+          <figure id="id314273"><media id="id314273_media" alt="">
+              <image mime-type="image/png" src="../../media/MG11C17_021.png" id="id314273_onlineimage" width="178"><!-- NOTE: attribute width changes image size online (pixels). original width is 178. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/MG11C17_021.eps" id="id314273_printimage"/>
+            </media>
+          </figure>
+        </para>
+</note>
+      </section>
+      <section id="uid88">
+        <title>Alternatiewe definisie vir <m:math overflow="scroll"><m:mrow><m:mo form="prefix">tan</m:mo><m:mi>θ</m:mi></m:mrow></m:math></title>
+        <para id="id314307">Ons weet dat <m:math overflow="scroll"><m:mrow><m:mo form="prefix">tan</m:mo><m:mi>θ</m:mi></m:mrow></m:math> soos volg gedefinieer word:
+<m:math overflow="scroll"><m:mrow><m:mo form="prefix">tan</m:mo><m:mi>θ</m:mi><m:mo>=</m:mo><m:mfrac><m:mi> teenoorstaande </m:mi><m:mi> aanliggende </m:mi></m:mfrac></m:mrow></m:math>
+Dit kan soos volg geskryf word:</para>
+        <equation id="id314348"><m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mo form="prefix">tan</m:mo>
+                    <m:mi>θ</m:mi>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mfrac>
+                      <m:mi> teenoorstaande </m:mi>
+                      <m:mi> aanliggende </m:mi>
+                    </m:mfrac>
+                    <m:mo>×</m:mo>
+                    <m:mfrac>
+                      <m:mi> skuinssy </m:mi>
+                      <m:mi> skuinssy </m:mi>
+                    </m:mfrac>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mfrac>
+                      <m:mi> teenoorstaande </m:mi>
+                      <m:mi> skuinssy </m:mi>
+                    </m:mfrac>
+                    <m:mo>×</m:mo>
+                    <m:mfrac>
+                      <m:mi> skuinssy </m:mi>
+                      <m:mi> aanliggende </m:mi>
+                    </m:mfrac>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <para id="id314422">Maar ons weet ook dat <m:math overflow="scroll"><m:mrow><m:mo form="prefix">sin</m:mo><m:mi>θ</m:mi></m:mrow></m:math> soos volg gedefinieer word:
+<m:math overflow="scroll"><m:mrow><m:mo form="prefix">sin</m:mo><m:mi>θ</m:mi><m:mo>=</m:mo><m:mfrac><m:mi> teenoorstaande </m:mi><m:mi> skuinssy </m:mi></m:mfrac></m:mrow></m:math>
+en dat <m:math overflow="scroll"><m:mrow><m:mo form="prefix">cos</m:mo><m:mi>θ</m:mi></m:mrow></m:math> soos volg gedefinieer word:
+<m:math overflow="scroll"><m:mrow><m:mo form="prefix">cos</m:mo><m:mi>θ</m:mi><m:mo>=</m:mo><m:mfrac><m:mi> aanliggende </m:mi><m:mi> skuinssy </m:mi></m:mfrac></m:mrow></m:math></para>
+        <para id="id314501">Daarom kan ons dit soos volg skryf:</para>
+        <equation id="id314504"><m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mo form="prefix">tan</m:mo>
+                    <m:mi>θ</m:mi>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mfrac>
+                      <m:mi> teenoorstaande </m:mi>
+                      <m:mi> skuinssy </m:mi>
+                    </m:mfrac>
+                    <m:mo>×</m:mo>
+                    <m:mfrac>
+                      <m:mi> skuinssy </m:mi>
+                      <m:mi> aanliggende </m:mi>
+                    </m:mfrac>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mo form="prefix">sin</m:mo>
+                    <m:mi>θ</m:mi>
+                    <m:mo>×</m:mo>
+                    <m:mfrac>
+                      <m:mn>1</m:mn>
+                      <m:mrow>
+                        <m:mo form="prefix">cos</m:mo>
+                        <m:mi>θ</m:mi>
+                      </m:mrow>
+                    </m:mfrac>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:mrow>
+                      <m:mo form="prefix">sin</m:mo>
+                      <m:mi>θ</m:mi>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mo form="prefix">cos</m:mo>
+                      <m:mi>θ</m:mi>
+                    </m:mrow>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+<note id="notfhsst_id2526" type="tip"><m:math overflow="scroll"><m:mrow><m:mo form="prefix">tan</m:mo><m:mi>θ</m:mi></m:mrow></m:math> kan ook soos volg gedefinieer word:
+<m:math overflow="scroll"><m:mrow><m:mo form="prefix">tan</m:mo><m:mi>θ</m:mi><m:mo>=</m:mo><m:mfrac><m:mrow><m:mo form="prefix">sin</m:mo><m:mi>θ</m:mi></m:mrow><m:mrow><m:mo form="prefix">cos</m:mo><m:mi>θ</m:mi></m:mrow></m:mfrac></m:mrow></m:math></note>
+      </section>
+      <section id="uid89">
+        <title>'n Trignometriese Identiteit</title>
+        <para id="id314675">Een van die mees bruikbare resultate van die trigonometriese funksies is dat hulle verwant aan mekaar is. Ons het gesien dat <m:math overflow="scroll"><m:mrow><m:mo form="prefix">tan</m:mo><m:mi>θ</m:mi></m:mrow></m:math> geskryf kan word in terme van <m:math overflow="scroll"><m:mrow><m:mo form="prefix">sin</m:mo><m:mi>θ</m:mi></m:mrow></m:math> en <m:math overflow="scroll"><m:mrow><m:mo form="prefix">cos</m:mo><m:mi>θ</m:mi></m:mrow></m:math>. Net so sal ons wys dat:
+<m:math overflow="scroll"><m:mrow><m:msup><m:mo form="prefix">sin</m:mo><m:mn>2</m:mn></m:msup><m:mi>θ</m:mi><m:mo>+</m:mo><m:msup><m:mo form="prefix">cos</m:mo><m:mn>2</m:mn></m:msup><m:mi>θ</m:mi><m:mo>=</m:mo><m:mn>1</m:mn></m:mrow></m:math></para>
+        <para id="id314760">Ons begin deur te kyk na <m:math overflow="scroll"><m:mrow><m:mi>▵</m:mi><m:mi>A</m:mi><m:mi>B</m:mi><m:mi>C</m:mi></m:mrow></m:math>,</para>
+        <para id="id314781">
+          <figure id="id314784"><media id="id314784_media" alt="">
+              <image mime-type="image/png" src="../../media/MG11C17_022.png" id="id314784_onlineimage" width="109"><!-- NOTE: attribute width changes image size online (pixels). original width is 109. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/MG11C17_022.eps" id="id314784_printimage"/>
+            </media>
+          </figure>
+        </para>
+        <para id="id314791">Ons sien dat:
+<m:math overflow="scroll"><m:mrow><m:mo form="prefix">sin</m:mo><m:mi>θ</m:mi><m:mo>=</m:mo><m:mfrac><m:mrow><m:mi>A</m:mi><m:mi>C</m:mi></m:mrow><m:mrow><m:mi>B</m:mi><m:mi>C</m:mi></m:mrow></m:mfrac></m:mrow></m:math>
+en
+<m:math overflow="scroll"><m:mrow><m:mo form="prefix">cos</m:mo><m:mi>θ</m:mi><m:mo>=</m:mo><m:mfrac><m:mrow><m:mi>A</m:mi><m:mi>B</m:mi></m:mrow><m:mrow><m:mi>B</m:mi><m:mi>C</m:mi></m:mrow></m:mfrac><m:mo>.</m:mo></m:mrow></m:math></para>
+        <para id="id314855">Volgens die stelling van Pythagoras weet ons dat:
+<m:math overflow="scroll"><m:mrow><m:mi>A</m:mi><m:msup><m:mi>B</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mi>A</m:mi><m:msup><m:mi>C</m:mi><m:mn>2</m:mn></m:msup><m:mo>=</m:mo><m:mi>B</m:mi><m:msup><m:mi>C</m:mi><m:mn>2</m:mn></m:msup><m:mo>.</m:mo></m:mrow></m:math></para>
+        <para id="id314900">Daarom kan ons die volgende neerskryf:</para>
+        <equation id="id314904"><m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:msup>
+                      <m:mo form="prefix">sin</m:mo>
+                      <m:mn>2</m:mn>
+                    </m:msup>
+                    <m:mi>θ</m:mi>
+                    <m:mo>+</m:mo>
+                    <m:msup>
+                      <m:mo form="prefix">cos</m:mo>
+                      <m:mn>2</m:mn>
+                    </m:msup>
+                    <m:mi>θ</m:mi>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:msup>
+                      <m:mfenced separators="" open="(" close=")">
+                        <m:mfrac>
+                          <m:mrow>
+                            <m:mi>A</m:mi>
+                            <m:mi>C</m:mi>
+                          </m:mrow>
+                          <m:mrow>
+                            <m:mi>B</m:mi>
+                            <m:mi>C</m:mi>
+                          </m:mrow>
+                        </m:mfrac>
+                      </m:mfenced>
+                      <m:mn>2</m:mn>
+                    </m:msup>
+                    <m:mo>+</m:mo>
+                    <m:msup>
+                      <m:mfenced separators="" open="(" close=")">
+                        <m:mfrac>
+                          <m:mrow>
+                            <m:mi>A</m:mi>
+                            <m:mi>B</m:mi>
+                          </m:mrow>
+                          <m:mrow>
+                            <m:mi>B</m:mi>
+                            <m:mi>C</m:mi>
+                          </m:mrow>
+                        </m:mfrac>
+                      </m:mfenced>
+                      <m:mn>2</m:mn>
+                    </m:msup>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mfrac>
+                      <m:mrow>
+                        <m:mi>A</m:mi>
+                        <m:msup>
+                          <m:mi>C</m:mi>
+                          <m:mn>2</m:mn>
+                        </m:msup>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:mi>B</m:mi>
+                        <m:msup>
+                          <m:mi>C</m:mi>
+                          <m:mn>2</m:mn>
+                        </m:msup>
+                      </m:mrow>
+                    </m:mfrac>
+                    <m:mo>+</m:mo>
+                    <m:mfrac>
+                      <m:mrow>
+                        <m:mi>A</m:mi>
+                        <m:msup>
+                          <m:mi>B</m:mi>
+                          <m:mn>2</m:mn>
+                        </m:msup>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:mi>B</m:mi>
+                        <m:msup>
+                          <m:mi>C</m:mi>
+                          <m:mn>2</m:mn>
+                        </m:msup>
+                      </m:mrow>
+                    </m:mfrac>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:mrow>
+                      <m:mi>A</m:mi>
+                      <m:msup>
+                        <m:mi>C</m:mi>
+                        <m:mn>2</m:mn>
+                      </m:msup>
+                      <m:mo>+</m:mo>
+                      <m:mi>A</m:mi>
+                      <m:msup>
+                        <m:mi>B</m:mi>
+                        <m:mn>2</m:mn>
+                      </m:msup>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mi>B</m:mi>
+                      <m:msup>
+                        <m:mi>C</m:mi>
+                        <m:mn>2</m:mn>
+                      </m:msup>
+                    </m:mrow>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mfrac>
+                      <m:mrow>
+                        <m:mi>B</m:mi>
+                        <m:msup>
+                          <m:mi>C</m:mi>
+                          <m:mn>2</m:mn>
+                        </m:msup>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:mi>B</m:mi>
+                        <m:msup>
+                          <m:mi>C</m:mi>
+                          <m:mn>2</m:mn>
+                        </m:msup>
+                      </m:mrow>
+                    </m:mfrac>
+                    <m:mspace width="1.em"/>
+                    <m:mspace width="1.em"/>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mrow>
+                        <m:mi> volgens  </m:mi>
+                        <m:mi> Pythagoras </m:mi>
+                      </m:mrow>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mn>1</m:mn>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+<exercise id="secfhsst_id2728"><title>Trigonometriese Identiteite A </title><problem id="probfhsst_id2729">
+        <para id="id315185">Vereenvoudig deur identiteite te gebruik:</para>
+        <list id="id315191" display="block" list-type="enumerated">
+          <item id="uid90">
+            <m:math overflow="scroll">
+              <m:mrow>
+                <m:msup>
+                  <m:mo form="prefix">tan</m:mo>
+                  <m:mn>2</m:mn>
+                </m:msup>
+                <m:mi>θ</m:mi>
+                <m:mo>·</m:mo>
+                <m:msup>
+                  <m:mo form="prefix">cos</m:mo>
+                  <m:mn>2</m:mn>
+                </m:msup>
+                <m:mi>θ</m:mi>
+              </m:mrow>
+            </m:math>
+          </item>
+          <item id="uid91">
+            <m:math overflow="scroll">
+              <m:mrow>
+                <m:mfrac>
+                  <m:mn>1</m:mn>
+                  <m:mrow>
+                    <m:msup>
+                      <m:mo form="prefix">cos</m:mo>
+                      <m:mn>2</m:mn>
+                    </m:msup>
+                    <m:mi>θ</m:mi>
+                  </m:mrow>
+                </m:mfrac>
+                <m:mo>-</m:mo>
+                <m:msup>
+                  <m:mo form="prefix">tan</m:mo>
+                  <m:mn>2</m:mn>
+                </m:msup>
+                <m:mi>θ</m:mi>
+              </m:mrow>
+            </m:math>
+          </item>
+        </list>
+        
+        </problem>
+        <solution id="solfhsst_id2774"> <list id="listfhsst_id2774" list-type="enumerated" number-style="arabic" class="stepwise">
+        <item> <label> Gebruik bekende identiteite en vervang <m:math overflow="scroll"><m:mrow><m:mo form="prefix">tan</m:mo><m:mi>θ</m:mi></m:mrow></m:math> </label>
+        <equation id="id315324">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:msup>
+                      <m:mo form="prefix">tan</m:mo>
+                      <m:mn>2</m:mn>
+                    </m:msup>
+                    <m:mi>θ</m:mi>
+                    <m:mo>·</m:mo>
+                    <m:msup>
+                      <m:mo form="prefix">cos</m:mo>
+                      <m:mn>2</m:mn>
+                    </m:msup>
+                    <m:mi>θ</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mfrac>
+                      <m:mrow>
+                        <m:msup>
+                          <m:mo form="prefix">sin</m:mo>
+                          <m:mn>2</m:mn>
+                        </m:msup>
+                        <m:mi>θ</m:mi>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:msup>
+                          <m:mo form="prefix">cos</m:mo>
+                          <m:mn>2</m:mn>
+                        </m:msup>
+                        <m:mi>θ</m:mi>
+                      </m:mrow>
+                    </m:mfrac>
+                    <m:mo>·</m:mo>
+                    <m:msup>
+                      <m:mo form="prefix">cos</m:mo>
+                      <m:mn>2</m:mn>
+                    </m:msup>
+                    <m:mi>θ</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:msup>
+                      <m:mo form="prefix">sin</m:mo>
+                      <m:mn>2</m:mn>
+                    </m:msup>
+                    <m:mi>θ</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        </item> <item> <label> Gebruik bekende identiteite en vervang <m:math overflow="scroll"><m:mrow><m:mo form="prefix">tan</m:mo><m:mi>θ</m:mi></m:mrow></m:math> </label>
+        <equation id="id315465">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mfrac>
+                      <m:mn>1</m:mn>
+                      <m:mrow>
+                        <m:msup>
+                          <m:mo form="prefix">cos</m:mo>
+                          <m:mn>2</m:mn>
+                        </m:msup>
+                        <m:mi>θ</m:mi>
+                      </m:mrow>
+                    </m:mfrac>
+                    <m:mo>-</m:mo>
+                    <m:msup>
+                      <m:mo form="prefix">tan</m:mo>
+                      <m:mn>2</m:mn>
+                    </m:msup>
+                    <m:mi>θ</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mfrac>
+                      <m:mn>1</m:mn>
+                      <m:mrow>
+                        <m:msup>
+                          <m:mo form="prefix">cos</m:mo>
+                          <m:mn>2</m:mn>
+                        </m:msup>
+                        <m:mi>θ</m:mi>
+                      </m:mrow>
+                    </m:mfrac>
+                    <m:mo>-</m:mo>
+                    <m:mfrac>
+                      <m:mrow>
+                        <m:msup>
+                          <m:mo form="prefix">sin</m:mo>
+                          <m:mn>2</m:mn>
+                        </m:msup>
+                        <m:mi>θ</m:mi>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:msup>
+                          <m:mo form="prefix">cos</m:mo>
+                          <m:mn>2</m:mn>
+                        </m:msup>
+                        <m:mi>θ</m:mi>
+                      </m:mrow>
+                    </m:mfrac>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:mrow>
+                      <m:mn>1</m:mn>
+                      <m:mo>-</m:mo>
+                      <m:msup>
+                        <m:mo form="prefix">sin</m:mo>
+                        <m:mn>2</m:mn>
+                      </m:msup>
+                      <m:mi>θ</m:mi>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:msup>
+                        <m:mo form="prefix">cos</m:mo>
+                        <m:mn>2</m:mn>
+                      </m:msup>
+                      <m:mi>θ</m:mi>
+                    </m:mrow>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mfrac>
+                      <m:mrow>
+                        <m:msup>
+                          <m:mo form="prefix">cos</m:mo>
+                          <m:mn>2</m:mn>
+                        </m:msup>
+                        <m:mi>θ</m:mi>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:msup>
+                          <m:mo form="prefix">cos</m:mo>
+                          <m:mn>2</m:mn>
+                        </m:msup>
+                        <m:mi>θ</m:mi>
+                      </m:mrow>
+                    </m:mfrac>
+                    <m:mo>=</m:mo>
+                    <m:mn>1</m:mn>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        
+        </item> </list> </solution>
+</exercise>
+<exercise id="secfhsst_id2977"><title>Trigonometriese Identiteite B </title><problem id="probfhsst_id2978">
+        <para id="id315691">Bewys: <m:math overflow="scroll"><m:mrow><m:mfrac><m:mrow><m:mn>1</m:mn><m:mo>-</m:mo><m:mo form="prefix">sin</m:mo><m:mi>x</m:mi></m:mrow><m:mrow><m:mo form="prefix">cos</m:mo><m:mi>x</m:mi></m:mrow></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mrow><m:mo form="prefix">cos</m:mo><m:mi>x</m:mi></m:mrow><m:mrow><m:mn>1</m:mn><m:mo>+</m:mo><m:mo form="prefix">sin</m:mo><m:mi>x</m:mi></m:mrow></m:mfrac></m:mrow></m:math>
+ </para>
+        </problem>
+        <solution id="solfhsst_id2982"> <list id="listfhsst_id2982" list-type="enumerated" number-style="arabic" class="stepwise">
+        <item> <label> Gebruik trig identiteite </label>
+        <equation id="id315767">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mi> LHS </m:mi>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:mrow>
+                      <m:mn>1</m:mn>
+                      <m:mo>-</m:mo>
+                      <m:mo form="prefix">sin</m:mo>
+                      <m:mi>x</m:mi>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mo form="prefix">cos</m:mo>
+                      <m:mi>x</m:mi>
+                    </m:mrow>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mfrac>
+                      <m:mrow>
+                        <m:mn>1</m:mn>
+                        <m:mo>-</m:mo>
+                        <m:mo form="prefix">sin</m:mo>
+                        <m:mi>x</m:mi>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:mo form="prefix">cos</m:mo>
+                        <m:mi>x</m:mi>
+                      </m:mrow>
+                    </m:mfrac>
+                    <m:mo>×</m:mo>
+                    <m:mfrac>
+                      <m:mrow>
+                        <m:mn>1</m:mn>
+                        <m:mo>+</m:mo>
+                        <m:mo form="prefix">sin</m:mo>
+                        <m:mi>x</m:mi>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:mn>1</m:mn>
+                        <m:mo>+</m:mo>
+                        <m:mo form="prefix">sin</m:mo>
+                        <m:mi>x</m:mi>
+                      </m:mrow>
+                    </m:mfrac>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:mrow>
+                      <m:mn>1</m:mn>
+                      <m:mo>-</m:mo>
+                      <m:msup>
+                        <m:mo form="prefix">sin</m:mo>
+                        <m:mn>2</m:mn>
+                      </m:msup>
+                      <m:mi>x</m:mi>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mo form="prefix">cos</m:mo>
+                      <m:mi>x</m:mi>
+                      <m:mo>(</m:mo>
+                      <m:mn>1</m:mn>
+                      <m:mo>+</m:mo>
+                      <m:mo form="prefix">sin</m:mo>
+                      <m:mi>x</m:mi>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:mrow>
+                      <m:msup>
+                        <m:mo form="prefix">cos</m:mo>
+                        <m:mn>2</m:mn>
+                      </m:msup>
+                      <m:mi>x</m:mi>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mo form="prefix">cos</m:mo>
+                      <m:mi>x</m:mi>
+                      <m:mo>(</m:mo>
+                      <m:mn>1</m:mn>
+                      <m:mo>+</m:mo>
+                      <m:mo form="prefix">sin</m:mo>
+                      <m:mi>x</m:mi>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mfrac>
+                      <m:mrow>
+                        <m:mo form="prefix">cos</m:mo>
+                        <m:mi>x</m:mi>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:mn>1</m:mn>
+                        <m:mo>+</m:mo>
+                        <m:mo form="prefix">sin</m:mo>
+                        <m:mi>x</m:mi>
+                      </m:mrow>
+                    </m:mfrac>
+                    <m:mo>=</m:mo>
+                    <m:mi> RHS </m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        
+        </item> </list> </solution>
+</exercise>
+<section id="secfhsst_id3132"><title>Trigonometriese identiteite </title>
+        <list id="id316032" display="block" list-type="enumerated"><item id="uid92">Vereenvoudig die volgende met behulp van die basiese trigonometriese identiteite:
+<list id="id316048" display="block" list-type="enumerated"><item id="uid93"><m:math overflow="scroll"><m:mfrac><m:mrow><m:mo form="prefix">cos</m:mo><m:mi>θ</m:mi></m:mrow><m:mrow><m:mo form="prefix">tan</m:mo><m:mi>θ</m:mi></m:mrow></m:mfrac></m:math></item><item id="uid94"><m:math overflow="scroll"><m:mrow><m:msup><m:mo form="prefix">cos</m:mo><m:mn>2</m:mn></m:msup><m:mi>θ</m:mi><m:mo>.</m:mo><m:msup><m:mo form="prefix">tan</m:mo><m:mn>2</m:mn></m:msup><m:mi>θ</m:mi><m:mspace width="4pt"/><m:mo>+</m:mo><m:mspace width="4pt"/><m:msup><m:mo form="prefix">tan</m:mo><m:mn>2</m:mn></m:msup><m:mi>θ</m:mi><m:mo>.</m:mo><m:msup><m:mo form="prefix">sin</m:mo><m:mn>2</m:mn></m:msup><m:mi>θ</m:mi></m:mrow></m:math></item><item id="uid95"><m:math overflow="scroll"><m:mrow><m:mn>1</m:mn><m:mo>-</m:mo><m:msup><m:mo form="prefix">tan</m:mo><m:mn>2</m:mn></m:msup><m:mi>θ</m:mi><m:mo>.</m:mo><m:msup><m:mo form="prefix">sin</m:mo><m:mn>2</m:mn></m:msup><m:mi>θ</m:mi></m:mrow></m:math></item><item id="uid96"><m:math overflow="scroll"><m:mrow><m:mn>1</m:mn><m:mo>-</m:mo><m:mo form="prefix">sin</m:mo><m:mi>θ</m:mi><m:mo>.</m:mo><m:mo form="prefix">cos</m:mo><m:mi>θ</m:mi><m:mo>.</m:mo><m:mo form="prefix">tan</m:mo><m:mi>θ</m:mi></m:mrow></m:math></item><item id="uid97"><m:math overflow="scroll"><m:mrow><m:mn>1</m:mn><m:mo>-</m:mo><m:msup><m:mo form="prefix">sin</m:mo><m:mn>2</m:mn></m:msup><m:mi>θ</m:mi></m:mrow></m:math></item><item id="uid98"><m:math overflow="scroll"><m:mrow><m:mfenced separators="" open="(" close=")"><m:mfrac><m:mrow><m:mn>1</m:mn><m:mo>-</m:mo><m:msup><m:mo form="prefix">cos</m:mo><m:mn>2</m:mn></m:msup><m:mi>θ</m:mi></m:mrow><m:mrow><m:msup><m:mo form="prefix">cos</m:mo><m:mn>2</m:mn></m:msup><m:mi>θ</m:mi></m:mrow></m:mfrac></m:mfenced><m:mo>-</m:mo><m:msup><m:mo form="prefix">cos</m:mo><m:mn>2</m:mn></m:msup><m:mi>θ</m:mi></m:mrow></m:math></item></list></item>
+          <item id="uid99">Bewys die volgende:
+<list id="id316375" display="block" list-type="enumerated"><item id="uid100"><m:math overflow="scroll"><m:mrow><m:mfrac><m:mrow><m:mn>1</m:mn><m:mo>+</m:mo><m:mo form="prefix">sin</m:mo><m:mi>θ</m:mi></m:mrow><m:mrow><m:mo form="prefix">cos</m:mo><m:mi>θ</m:mi></m:mrow></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mrow><m:mo form="prefix">cos</m:mo><m:mi>θ</m:mi></m:mrow><m:mrow><m:mn>1</m:mn><m:mo>-</m:mo><m:mo form="prefix">sin</m:mo><m:mi>θ</m:mi></m:mrow></m:mfrac></m:mrow></m:math></item><item id="uid101"><m:math overflow="scroll"><m:mrow><m:msup><m:mo form="prefix">sin</m:mo><m:mn>2</m:mn></m:msup><m:mi>θ</m:mi><m:mo>+</m:mo><m:mrow><m:mo>(</m:mo><m:mo form="prefix">cos</m:mo><m:mi>θ</m:mi><m:mo>-</m:mo><m:mo form="prefix">tan</m:mo><m:mi>θ</m:mi><m:mo>)</m:mo></m:mrow><m:mrow><m:mo>(</m:mo><m:mo form="prefix">cos</m:mo><m:mi>θ</m:mi><m:mo>+</m:mo><m:mo form="prefix">tan</m:mo><m:mi>θ</m:mi><m:mo>)</m:mo></m:mrow><m:mo>=</m:mo><m:mn>1</m:mn><m:mo>-</m:mo><m:msup><m:mo form="prefix">tan</m:mo><m:mn>2</m:mn></m:msup><m:mi>θ</m:mi></m:mrow></m:math></item><item id="uid102"><m:math overflow="scroll"><m:mrow><m:mfrac><m:mrow><m:mo>(</m:mo><m:mn>2</m:mn><m:msup><m:mo form="prefix">cos</m:mo><m:mn>2</m:mn></m:msup><m:mi>θ</m:mi><m:mo>-</m:mo><m:mn>1</m:mn><m:mo>)</m:mo></m:mrow><m:mn>1</m:mn></m:mfrac><m:mo>+</m:mo><m:mfrac><m:mn>1</m:mn><m:mrow><m:mo>(</m:mo><m:mn>1</m:mn><m:mo>+</m:mo><m:msup><m:mo form="prefix">tan</m:mo><m:mn>2</m:mn></m:msup><m:mi>θ</m:mi><m:mo>)</m:mo></m:mrow></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mrow><m:mn>1</m:mn><m:mo>-</m:mo><m:msup><m:mo form="prefix">tan</m:mo><m:mn>2</m:mn></m:msup><m:mi>θ</m:mi></m:mrow><m:mrow><m:mn>1</m:mn><m:mo>+</m:mo><m:msup><m:mo form="prefix">tan</m:mo><m:mn>2</m:mn></m:msup><m:mi>θ</m:mi></m:mrow></m:mfrac></m:mrow></m:math></item><item id="uid103"><m:math overflow="scroll"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mrow><m:mo form="prefix">cos</m:mo><m:mi>θ</m:mi></m:mrow></m:mfrac><m:mo>-</m:mo><m:mfrac><m:mrow><m:mo form="prefix">cos</m:mo><m:mi>θ</m:mi><m:msup><m:mo form="prefix">tan</m:mo><m:mn>2</m:mn></m:msup><m:mi>θ</m:mi></m:mrow><m:mn>1</m:mn></m:mfrac><m:mo>=</m:mo><m:mn>1</m:mn></m:mrow></m:math></item><item id="uid104"><m:math overflow="scroll"><m:mrow><m:mfrac><m:mrow><m:mn>2</m:mn><m:mo form="prefix">sin</m:mo><m:mi>θ</m:mi><m:mo form="prefix">cos</m:mo><m:mi>θ</m:mi></m:mrow><m:mrow><m:mo form="prefix">sin</m:mo><m:mi>θ</m:mi><m:mo>+</m:mo><m:mo form="prefix">cos</m:mo><m:mi>θ</m:mi></m:mrow></m:mfrac><m:mo>=</m:mo><m:mo form="prefix">sin</m:mo><m:mi>θ</m:mi><m:mo>+</m:mo><m:mo form="prefix">cos</m:mo><m:mi>θ</m:mi><m:mo>-</m:mo><m:mfrac><m:mn>1</m:mn><m:mrow><m:mo form="prefix">sin</m:mo><m:mi>θ</m:mi><m:mo>+</m:mo><m:mo form="prefix">cos</m:mo><m:mi>θ</m:mi></m:mrow></m:mfrac></m:mrow></m:math></item><item id="uid105"><m:math overflow="scroll"><m:mrow><m:mfenced separators="" open="(" close=")"><m:mfrac><m:mrow><m:mo form="prefix">cos</m:mo><m:mi>θ</m:mi></m:mrow><m:mrow><m:mo form="prefix">sin</m:mo><m:mi>θ</m:mi></m:mrow></m:mfrac><m:mo>+</m:mo><m:mo form="prefix">tan</m:mo><m:mi>θ</m:mi></m:mfenced><m:mo>·</m:mo><m:mo form="prefix">cos</m:mo><m:mi>θ</m:mi><m:mo>=</m:mo><m:mfrac><m:mn>1</m:mn><m:mrow><m:mo form="prefix">sin</m:mo><m:mi>θ</m:mi></m:mrow></m:mfrac></m:mrow></m:math></item></list></item>
+        </list>
+        
+</section>
+      </section>
+ </section>
+  </content>
+</document>

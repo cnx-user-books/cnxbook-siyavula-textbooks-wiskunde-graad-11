@@ -1,0 +1,1179 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Die kwadratiese formule</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m39139</md:content-id>
+  <md:title>Die kwadratiese formule</md:title>
+  <md:abstract/>
+  <md:uuid>92a98a44-49cc-49ce-a272-156da004cf29</md:uuid>
+</metadata>
+
+<content>
+<section id="cid5">
+      <title>Oplossing met die Kwadratiese Formule</title>
+      <para id="id68077">Dit is nie altyd moontlik om 'n kwadratiese vergelyking met faktorisering op te los nie en soms is dit langdradig en ingewikkeld om kwadraatsvoltooiing toe te pas. In sulke gevalle kan jy van die <emphasis effect="italics">kwadratiese formule</emphasis> gebruik maak, 'n metode wat die antwoorde van enige kwadratiese vergelyking oplewer.</para>
+      <para id="id68088">Beskou die algemene vorm van 'n kwadratiese funksie:</para>
+      <equation id="id68092">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>f</m:mi>
+            <m:mrow>
+              <m:mo>(</m:mo>
+              <m:mi>x</m:mi>
+              <m:mo>)</m:mo>
+            </m:mrow>
+            <m:mo>=</m:mo>
+            <m:mi>a</m:mi>
+            <m:msup>
+              <m:mi>x</m:mi>
+              <m:mn>2</m:mn>
+            </m:msup>
+            <m:mo>+</m:mo>
+            <m:mi>b</m:mi>
+            <m:mi>x</m:mi>
+            <m:mo>+</m:mo>
+            <m:mi>c</m:mi>
+            <m:mo>.</m:mo>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <para id="id68137">Haal die <m:math overflow="scroll"><m:mi>a</m:mi></m:math> as gemene faktor uit om te kry:</para>
+      <equation id="uid38">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>f</m:mi>
+            <m:mrow>
+              <m:mo>(</m:mo>
+              <m:mi>x</m:mi>
+              <m:mo>)</m:mo>
+            </m:mrow>
+            <m:mo>=</m:mo>
+            <m:mi>a</m:mi>
+            <m:mrow>
+              <m:mo>(</m:mo>
+              <m:msup>
+                <m:mi>x</m:mi>
+                <m:mn>2</m:mn>
+              </m:msup>
+              <m:mo>+</m:mo>
+              <m:mfrac>
+                <m:mi>b</m:mi>
+                <m:mi>a</m:mi>
+              </m:mfrac>
+              <m:mi>x</m:mi>
+              <m:mo>+</m:mo>
+              <m:mfrac>
+                <m:mi>c</m:mi>
+                <m:mi>a</m:mi>
+              </m:mfrac>
+              <m:mo>)</m:mo>
+            </m:mrow>
+            <m:mo>.</m:mo>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <para id="id68213">Nou moet ons 'n bietjie speurwerk doen om te bepaal hoe om <link target-id="uid38"/> na 'n volmaakte vierkant met 'n paar oorblywende terme te omskep. Ons weet dat om 'n volmaakte vierkant te hê:</para>
+      <equation id="id68224">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:msup>
+              <m:mrow>
+                <m:mo>(</m:mo>
+                <m:mi>m</m:mi>
+                <m:mo>+</m:mo>
+                <m:mi>n</m:mi>
+                <m:mo>)</m:mo>
+              </m:mrow>
+              <m:mn>2</m:mn>
+            </m:msup>
+            <m:mo>=</m:mo>
+            <m:msup>
+              <m:mi>m</m:mi>
+              <m:mn>2</m:mn>
+            </m:msup>
+            <m:mo>+</m:mo>
+            <m:mn>2</m:mn>
+            <m:mi>m</m:mi>
+            <m:mi>n</m:mi>
+            <m:mo>+</m:mo>
+            <m:msup>
+              <m:mi>n</m:mi>
+              <m:mn>2</m:mn>
+            </m:msup>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <para id="id68279">en</para>
+      <equation id="id68284">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:msup>
+              <m:mrow>
+                <m:mo>(</m:mo>
+                <m:mi>m</m:mi>
+                <m:mo>-</m:mo>
+                <m:mi>n</m:mi>
+                <m:mo>)</m:mo>
+              </m:mrow>
+              <m:mn>2</m:mn>
+            </m:msup>
+            <m:mo>=</m:mo>
+            <m:msup>
+              <m:mi>m</m:mi>
+              <m:mn>2</m:mn>
+            </m:msup>
+            <m:mo>-</m:mo>
+            <m:mn>2</m:mn>
+            <m:mi>m</m:mi>
+            <m:mi>n</m:mi>
+            <m:mo>+</m:mo>
+            <m:msup>
+              <m:mi>n</m:mi>
+              <m:mn>2</m:mn>
+            </m:msup>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <para id="id68340">Die sleutel is die middelterm aan die regterkant nl. <m:math overflow="scroll"><m:mrow><m:mn>2</m:mn><m:mo>×</m:mo></m:mrow></m:math> die eerste term <m:math overflow="scroll"><m:mo>×</m:mo></m:math> die tweede term aan die linkerkant.
+Met <link target-id="uid38"/> weet ons die eerste term is <m:math overflow="scroll"><m:mi>x</m:mi></m:math> en die tweede term is <m:math overflow="scroll"><m:mfrac><m:mi>b</m:mi><m:mrow><m:mn>2</m:mn><m:mi>a</m:mi></m:mrow></m:mfrac></m:math>. Dit beteken that die tweede term aan die regterkant is <m:math overflow="scroll"><m:mn>2</m:mn>
+            <m:mfrac>
+              <m:mi>b</m:mi>
+              <m:mrow>
+                <m:mn>2</m:mn>
+                <m:mi>a</m:mi>
+              </m:mrow>
+            </m:mfrac>
+            <m:mi>x</m:mi></m:math>. Dus,</para>
+      <equation id="id68419"><m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:msup>
+              <m:mrow>
+                <m:mo>(</m:mo>
+                <m:mi>x</m:mi>
+                <m:mo>+</m:mo>
+                <m:mfrac>
+                  <m:mi>b</m:mi>
+                  <m:mrow>
+                    <m:mn>2</m:mn>
+                    <m:mi>a</m:mi>
+                  </m:mrow>
+                </m:mfrac>
+                <m:mo>)</m:mo>
+              </m:mrow>
+              <m:mn>2</m:mn>
+            </m:msup>
+            <m:mo>=</m:mo>
+            <m:msup>
+              <m:mi>x</m:mi>
+              <m:mn>2</m:mn>
+            </m:msup>
+            <m:mo>+</m:mo>
+            <m:mn>2</m:mn>
+            <m:mfrac>
+              <m:mi>b</m:mi>
+              <m:mrow>
+                <m:mn>2</m:mn>
+                <m:mi>a</m:mi>
+              </m:mrow>
+            </m:mfrac>
+            <m:mi>x</m:mi>
+            <m:mo>+</m:mo>
+            <m:msup>
+              <m:mrow>
+                <m:mo>(</m:mo>
+                <m:mfrac>
+                  <m:mi>b</m:mi>
+                  <m:mrow>
+                    <m:mn>2</m:mn>
+                    <m:mi>a</m:mi>
+                  </m:mrow>
+                </m:mfrac>
+                <m:mo>)</m:mo>
+              </m:mrow>
+              <m:mn>2</m:mn>
+            </m:msup>
+            <m:mo>.</m:mo>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <para id="id68504">Nou maak ons gebruik van die feit dat as jy dieselfde hoeveelheid bytel en dan aftrek die uitdrukking dieselfde bly. As ons dus <m:math overflow="scroll"><m:msup><m:mfenced separators="" open="(" close=")"><m:mfrac><m:mi>b</m:mi><m:mrow><m:mn>2</m:mn><m:mi>a</m:mi></m:mrow></m:mfrac></m:mfenced><m:mn>2</m:mn></m:msup></m:math> aan die regterkant van <link target-id="uid38"/> optel en aftrek kry ons:</para>
+      <equation id="uid39">
+        <m:math overflow="scroll" mode="display">
+          <m:mtable displaystyle="true">
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mrow>
+                  <m:mi>f</m:mi>
+                  <m:mo>(</m:mo>
+                  <m:mi>x</m:mi>
+                  <m:mo>)</m:mo>
+                </m:mrow>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mi>a</m:mi>
+                  <m:mo>(</m:mo>
+                  <m:msup>
+                    <m:mi>x</m:mi>
+                    <m:mn>2</m:mn>
+                  </m:msup>
+                  <m:mo>+</m:mo>
+                  <m:mfrac>
+                    <m:mi>b</m:mi>
+                    <m:mi>a</m:mi>
+                  </m:mfrac>
+                  <m:mi>x</m:mi>
+                  <m:mo>+</m:mo>
+                  <m:mfrac>
+                    <m:mi>c</m:mi>
+                    <m:mi>a</m:mi>
+                  </m:mfrac>
+                  <m:mo>)</m:mo>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mi>a</m:mi>
+                  <m:mfenced separators="" open="(" close=")">
+                    <m:msup>
+                      <m:mi>x</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msup>
+                    <m:mo>+</m:mo>
+                    <m:mfrac>
+                      <m:mi>b</m:mi>
+                      <m:mi>a</m:mi>
+                    </m:mfrac>
+                    <m:mi>x</m:mi>
+                    <m:mo>+</m:mo>
+                    <m:msup>
+                      <m:mfenced separators="" open="(" close=")">
+                        <m:mfrac>
+                          <m:mi>b</m:mi>
+                          <m:mrow>
+                            <m:mn>2</m:mn>
+                            <m:mi>a</m:mi>
+                          </m:mrow>
+                        </m:mfrac>
+                      </m:mfenced>
+                      <m:mn>2</m:mn>
+                    </m:msup>
+                    <m:mo>-</m:mo>
+                    <m:msup>
+                      <m:mfenced separators="" open="(" close=")">
+                        <m:mfrac>
+                          <m:mi>b</m:mi>
+                          <m:mrow>
+                            <m:mn>2</m:mn>
+                            <m:mi>a</m:mi>
+                          </m:mrow>
+                        </m:mfrac>
+                      </m:mfenced>
+                      <m:mn>2</m:mn>
+                    </m:msup>
+                    <m:mo>+</m:mo>
+                    <m:mfrac>
+                      <m:mi>c</m:mi>
+                      <m:mi>a</m:mi>
+                    </m:mfrac>
+                  </m:mfenced>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mi>a</m:mi>
+                  <m:mfenced separators="" open="(" close=")">
+                    <m:msup>
+                      <m:mfenced separators="" open="[" close="]">
+                        <m:mi>x</m:mi>
+                        <m:mo>+</m:mo>
+                        <m:mfenced separators="" open="(" close=")">
+                          <m:mfrac>
+                            <m:mi>b</m:mi>
+                            <m:mrow>
+                              <m:mn>2</m:mn>
+                              <m:mi>a</m:mi>
+                            </m:mrow>
+                          </m:mfrac>
+                        </m:mfenced>
+                      </m:mfenced>
+                      <m:mn>2</m:mn>
+                    </m:msup>
+                    <m:mo>-</m:mo>
+                    <m:msup>
+                      <m:mfenced separators="" open="(" close=")">
+                        <m:mfrac>
+                          <m:mi>b</m:mi>
+                          <m:mrow>
+                            <m:mn>2</m:mn>
+                            <m:mi>a</m:mi>
+                          </m:mrow>
+                        </m:mfrac>
+                      </m:mfenced>
+                      <m:mn>2</m:mn>
+                    </m:msup>
+                    <m:mo>+</m:mo>
+                    <m:mfrac>
+                      <m:mi>c</m:mi>
+                      <m:mi>a</m:mi>
+                    </m:mfrac>
+                  </m:mfenced>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mi>a</m:mi>
+                  <m:mfenced separators="" open="(" close=")">
+                    <m:msup>
+                      <m:mfenced separators="" open="[" close="]">
+                        <m:mi>x</m:mi>
+                        <m:mo>+</m:mo>
+                        <m:mfenced separators="" open="(" close=")">
+                          <m:mfrac>
+                            <m:mi>b</m:mi>
+                            <m:mrow>
+                              <m:mn>2</m:mn>
+                              <m:mi>a</m:mi>
+                            </m:mrow>
+                          </m:mfrac>
+                        </m:mfenced>
+                      </m:mfenced>
+                      <m:mn>2</m:mn>
+                    </m:msup>
+                  </m:mfenced>
+                  <m:mo>+</m:mo>
+                  <m:mi>c</m:mi>
+                  <m:mo>-</m:mo>
+                  <m:mfrac>
+                    <m:msup>
+                      <m:mi>b</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msup>
+                    <m:mrow>
+                      <m:mn>4</m:mn>
+                      <m:mi>a</m:mi>
+                    </m:mrow>
+                  </m:mfrac>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+          </m:mtable>
+        </m:math>
+      </equation>
+      <para id="id68866">Ons stel <m:math overflow="scroll"><m:mrow><m:mi>f</m:mi><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>)</m:mo><m:mo>=</m:mo><m:mn>0</m:mn></m:mrow></m:math> om die wortels te vind, en verkry die volgende:</para>
+      <equation id="uid40">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>a</m:mi>
+            <m:msup>
+              <m:mrow>
+                <m:mo>(</m:mo>
+                <m:mi>x</m:mi>
+                <m:mo>+</m:mo>
+                <m:mfrac>
+                  <m:mi>b</m:mi>
+                  <m:mrow>
+                    <m:mn>2</m:mn>
+                    <m:mi>a</m:mi>
+                  </m:mrow>
+                </m:mfrac>
+                <m:mo>)</m:mo>
+              </m:mrow>
+              <m:mn>2</m:mn>
+            </m:msup>
+            <m:mo>=</m:mo>
+            <m:mfrac>
+              <m:msup>
+                <m:mi>b</m:mi>
+                <m:mn>2</m:mn>
+              </m:msup>
+              <m:mrow>
+                <m:mn>4</m:mn>
+                <m:mi>a</m:mi>
+              </m:mrow>
+            </m:mfrac>
+            <m:mo>-</m:mo>
+            <m:mi>c</m:mi>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <para id="id68956">Deel nou deur <m:math overflow="scroll"><m:mi>a</m:mi></m:math> en neem die vierkantswortel van beide kante:</para>
+      <equation id="uid41">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>x</m:mi>
+            <m:mo>+</m:mo>
+            <m:mfrac>
+              <m:mi>b</m:mi>
+              <m:mrow>
+                <m:mn>2</m:mn>
+                <m:mi>a</m:mi>
+              </m:mrow>
+            </m:mfrac>
+            <m:mo>=</m:mo>
+            <m:mo>±</m:mo>
+            <m:msqrt>
+              <m:mrow>
+                <m:mfrac>
+                  <m:msup>
+                    <m:mi>b</m:mi>
+                    <m:mn>2</m:mn>
+                  </m:msup>
+                  <m:mrow>
+                    <m:mn>4</m:mn>
+                    <m:msup>
+                      <m:mi>a</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msup>
+                  </m:mrow>
+                </m:mfrac>
+                <m:mo>-</m:mo>
+                <m:mfrac>
+                  <m:mi>c</m:mi>
+                  <m:mi>a</m:mi>
+                </m:mfrac>
+              </m:mrow>
+            </m:msqrt>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <para id="id69034">Om eindelik vir <m:math overflow="scroll"><m:mi>x</m:mi></m:math> op te los impliseer:</para>
+      <equation id="id69048">
+        <m:math overflow="scroll" mode="display">
+          <m:mtable displaystyle="true">
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mi>x</m:mi>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mo>-</m:mo>
+                  <m:mfrac>
+                    <m:mi>b</m:mi>
+                    <m:mrow>
+                      <m:mn>2</m:mn>
+                      <m:mi>a</m:mi>
+                    </m:mrow>
+                  </m:mfrac>
+                  <m:mo>±</m:mo>
+                  <m:msqrt>
+                    <m:mrow>
+                      <m:mfrac>
+                        <m:msup>
+                          <m:mi>b</m:mi>
+                          <m:mn>2</m:mn>
+                        </m:msup>
+                        <m:mrow>
+                          <m:mn>4</m:mn>
+                          <m:msup>
+                            <m:mi>a</m:mi>
+                            <m:mn>2</m:mn>
+                          </m:msup>
+                        </m:mrow>
+                      </m:mfrac>
+                      <m:mo>-</m:mo>
+                      <m:mfrac>
+                        <m:mi>c</m:mi>
+                        <m:mi>a</m:mi>
+                      </m:mfrac>
+                    </m:mrow>
+                  </m:msqrt>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mo>-</m:mo>
+                  <m:mfrac>
+                    <m:mi>b</m:mi>
+                    <m:mrow>
+                      <m:mn>2</m:mn>
+                      <m:mi>a</m:mi>
+                    </m:mrow>
+                  </m:mfrac>
+                  <m:mo>±</m:mo>
+                  <m:msqrt>
+                    <m:mfrac>
+                      <m:mrow>
+                        <m:msup>
+                          <m:mi>b</m:mi>
+                          <m:mn>2</m:mn>
+                        </m:msup>
+                        <m:mo>-</m:mo>
+                        <m:mn>4</m:mn>
+                        <m:mi>a</m:mi>
+                        <m:mi>c</m:mi>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:mn>4</m:mn>
+                        <m:msup>
+                          <m:mi>a</m:mi>
+                          <m:mn>2</m:mn>
+                        </m:msup>
+                      </m:mrow>
+                    </m:mfrac>
+                  </m:msqrt>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+          </m:mtable>
+        </m:math>
+      </equation>
+      <para id="id69174">wat verder vereenvoudig kan word tot:</para>
+      <equation id="uid42">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>x</m:mi>
+            <m:mo>=</m:mo>
+            <m:mfrac>
+              <m:mrow>
+                <m:mo>-</m:mo>
+                <m:mi>b</m:mi>
+                <m:mo>±</m:mo>
+                <m:msqrt>
+                  <m:mrow>
+                    <m:msup>
+                      <m:mi>b</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msup>
+                    <m:mo>-</m:mo>
+                    <m:mn>4</m:mn>
+                    <m:mi>a</m:mi>
+                    <m:mi>c</m:mi>
+                  </m:mrow>
+                </m:msqrt>
+              </m:mrow>
+              <m:mrow>
+                <m:mn>2</m:mn>
+                <m:mi>a</m:mi>
+              </m:mrow>
+            </m:mfrac>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <para id="id69232">Hierdie is die algemene oplossings vir 'n kwadratiese vergelyking. Let daarop dat daar gewoonlik twee oplossings is, maar dat hul nie noodwendig bestaan nie, afhangende van die uitdrukking <m:math overflow="scroll"><m:mrow><m:msup><m:mi>b</m:mi><m:mn>2</m:mn></m:msup><m:mo>-</m:mo><m:mn>4</m:mn><m:mi>a</m:mi><m:mi>c</m:mi></m:mrow></m:math> (onder die vierkantswortel) se teken. Hierdie oplossings word ook die <emphasis effect="italics">wortels</emphasis> van 'n kwadratiese vergelyking genoem.</para>
+<exercise id="secfhsst_id2501"><title>Gebruik van die kwadratiese formule</title><problem id="probfhsst_id2502">
+      <para id="id69281">Vind die wortels van die funksie <m:math overflow="scroll"><m:mrow><m:mi>f</m:mi><m:mrow><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>)</m:mo></m:mrow><m:mo>=</m:mo><m:mn>2</m:mn><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>3</m:mn><m:mi>x</m:mi><m:mo>-</m:mo><m:mn>7</m:mn></m:mrow></m:math>. </para>
+      </problem>
+      <solution id="solfhsst_id2505"> <list id="listfhsst_id2505" list-type="enumerated" number-style="arabic" class="stepwise"><item> <label> Bepaal of die vergelyking gefaktoriseer kan word</label>
+      <para id="id69345">Die uitdrukking kan nie gefaktoriseer word nie. Die algemene kwadratiese formule sal dus gebruik moet word.</para>
+      </item> <item> <label> Identifiseer die koëffisiënte in die vergelyking om in die formule te gebruik</label>
+      <para id="id69353">Vanuit die vergelyking:</para>
+      <equation id="id69357">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>a</m:mi>
+            <m:mo>=</m:mo>
+            <m:mn>2</m:mn>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <equation id="id69374">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>b</m:mi>
+            <m:mo>=</m:mo>
+            <m:mn>3</m:mn>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <equation id="id69390">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>c</m:mi>
+            <m:mo>=</m:mo>
+            <m:mo>-</m:mo>
+            <m:mn>7</m:mn>
+          </m:mrow>
+        </m:math>
+      </equation>
+      </item> <item> <label> Pas die kwadratiese formule toe </label>
+      <para id="id69412">Skryf altyd eers die formule neer en stel daarna die waardes van <m:math overflow="scroll"><m:mrow><m:mi>a</m:mi><m:mo>,</m:mo><m:mi>b</m:mi></m:mrow></m:math> en <m:math overflow="scroll"><m:mi>c</m:mi></m:math> in.</para>
+      <equation id="uid43">
+        <m:math overflow="scroll" mode="display">
+          <m:mtable displaystyle="true">
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mi>x</m:mi>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mfrac>
+                  <m:mrow>
+                    <m:mo>-</m:mo>
+                    <m:mi>b</m:mi>
+                    <m:mo>±</m:mo>
+                    <m:msqrt>
+                      <m:mrow>
+                        <m:msup>
+                          <m:mi>b</m:mi>
+                          <m:mn>2</m:mn>
+                        </m:msup>
+                        <m:mo>-</m:mo>
+                        <m:mn>4</m:mn>
+                        <m:mi>a</m:mi>
+                        <m:mi>c</m:mi>
+                      </m:mrow>
+                    </m:msqrt>
+                  </m:mrow>
+                  <m:mrow>
+                    <m:mn>2</m:mn>
+                    <m:mi>a</m:mi>
+                  </m:mrow>
+                </m:mfrac>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mfrac>
+                  <m:mrow>
+                    <m:mo>-</m:mo>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mn>3</m:mn>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:mo>±</m:mo>
+                    <m:msqrt>
+                      <m:mrow>
+                        <m:msup>
+                          <m:mrow>
+                            <m:mo>(</m:mo>
+                            <m:mn>3</m:mn>
+                            <m:mo>)</m:mo>
+                          </m:mrow>
+                          <m:mn>2</m:mn>
+                        </m:msup>
+                        <m:mo>-</m:mo>
+                        <m:mn>4</m:mn>
+                        <m:mrow>
+                          <m:mo>(</m:mo>
+                          <m:mn>2</m:mn>
+                          <m:mo>)</m:mo>
+                        </m:mrow>
+                        <m:mrow>
+                          <m:mo>(</m:mo>
+                          <m:mo>-</m:mo>
+                          <m:mn>7</m:mn>
+                          <m:mo>)</m:mo>
+                        </m:mrow>
+                      </m:mrow>
+                    </m:msqrt>
+                  </m:mrow>
+                  <m:mrow>
+                    <m:mn>2</m:mn>
+                    <m:mo>(</m:mo>
+                    <m:mn>2</m:mn>
+                    <m:mo>)</m:mo>
+                  </m:mrow>
+                </m:mfrac>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mfrac>
+                  <m:mrow>
+                    <m:mo>-</m:mo>
+                    <m:mn>3</m:mn>
+                    <m:mo>±</m:mo>
+                    <m:msqrt>
+                      <m:mn>65</m:mn>
+                    </m:msqrt>
+                  </m:mrow>
+                  <m:mn>4</m:mn>
+                </m:mfrac>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mfrac>
+                  <m:mrow>
+                    <m:mo>-</m:mo>
+                    <m:mn>3</m:mn>
+                    <m:mo>±</m:mo>
+                    <m:msqrt>
+                      <m:mn>65</m:mn>
+                    </m:msqrt>
+                  </m:mrow>
+                  <m:mn>4</m:mn>
+                </m:mfrac>
+              </m:mtd>
+            </m:mtr>
+          </m:mtable>
+        </m:math>
+      </equation>
+      </item> <item> <label> Skryf die finale antwoord neer</label>
+      <para id="id69622">Die twee wortels van <m:math overflow="scroll"><m:mrow><m:mi>f</m:mi><m:mrow><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>)</m:mo></m:mrow><m:mo>=</m:mo><m:mn>2</m:mn><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>3</m:mn><m:mi>x</m:mi><m:mo>-</m:mo><m:mn>7</m:mn></m:mrow></m:math> is <m:math overflow="scroll"><m:mrow><m:mi>x</m:mi><m:mo>=</m:mo><m:mfrac><m:mrow><m:mo>-</m:mo><m:mn>3</m:mn><m:mo>+</m:mo><m:msqrt><m:mn>65</m:mn></m:msqrt></m:mrow><m:mn>4</m:mn></m:mfrac></m:mrow></m:math> en <m:math overflow="scroll"><m:mfrac><m:mrow><m:mo>-</m:mo><m:mn>3</m:mn><m:mo>-</m:mo><m:msqrt><m:mn>65</m:mn></m:msqrt></m:mrow><m:mn>4</m:mn></m:mfrac></m:math>. </para>
+      </item> </list> </solution>
+</exercise>
+<exercise id="secfhsst_id2671"><title>Die gebruik van die kwadratiese formule sonder oplossing</title><problem id="probfhsst_id2672">
+      <para id="id69739">Vind die oplossings vir die kwadratiese vergelyking <m:math overflow="scroll"><m:mrow><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>-</m:mo><m:mn>5</m:mn><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>8</m:mn><m:mo>=</m:mo><m:mn>0</m:mn></m:mrow></m:math>. </para>
+      </problem>
+      <solution id="solfhsst_id2675"> <list id="listfhsst_id2675" list-type="enumerated" number-style="arabic" class="stepwise"><item> <label> Bepaal of die vergelyking gefaktoriseer kan word</label>
+      <para id="id69793">Die uitdrukking kan nie gefaktoriseer word nie. Die algemene kwadratiese formule sal dus gebruik moet word.</para>
+      </item> <item> <label> Identifiseer die koëffisiënte in die vergelyking om in die formule te gebruik</label>
+      <para id="id69801">Vanuit die vergelyking:</para>
+      <equation id="id69805">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>a</m:mi>
+            <m:mo>=</m:mo>
+            <m:mn>1</m:mn>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <equation id="id69822">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>b</m:mi>
+            <m:mo>=</m:mo>
+            <m:mo>-</m:mo>
+            <m:mn>5</m:mn>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <equation id="id69840">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>c</m:mi>
+            <m:mo>=</m:mo>
+            <m:mn>8</m:mn>
+          </m:mrow>
+        </m:math>
+      </equation>
+      </item> <item> <label> Pas die kwadratiese formule toe</label>
+      <equation id="uid44">
+        <m:math overflow="scroll" mode="display">
+          <m:mtable displaystyle="true">
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mi>x</m:mi>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mfrac>
+                  <m:mrow>
+                    <m:mo>-</m:mo>
+                    <m:mi>b</m:mi>
+                    <m:mo>±</m:mo>
+                    <m:msqrt>
+                      <m:mrow>
+                        <m:msup>
+                          <m:mi>b</m:mi>
+                          <m:mn>2</m:mn>
+                        </m:msup>
+                        <m:mo>-</m:mo>
+                        <m:mn>4</m:mn>
+                        <m:mi>a</m:mi>
+                        <m:mi>c</m:mi>
+                      </m:mrow>
+                    </m:msqrt>
+                  </m:mrow>
+                  <m:mrow>
+                    <m:mn>2</m:mn>
+                    <m:mi>a</m:mi>
+                  </m:mrow>
+                </m:mfrac>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mfrac>
+                  <m:mrow>
+                    <m:mo>-</m:mo>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mo>-</m:mo>
+                      <m:mn>5</m:mn>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:mo>±</m:mo>
+                    <m:msqrt>
+                      <m:mrow>
+                        <m:msup>
+                          <m:mrow>
+                            <m:mo>(</m:mo>
+                            <m:mo>-</m:mo>
+                            <m:mn>5</m:mn>
+                            <m:mo>)</m:mo>
+                          </m:mrow>
+                          <m:mn>2</m:mn>
+                        </m:msup>
+                        <m:mo>-</m:mo>
+                        <m:mn>4</m:mn>
+                        <m:mrow>
+                          <m:mo>(</m:mo>
+                          <m:mn>1</m:mn>
+                          <m:mo>)</m:mo>
+                        </m:mrow>
+                        <m:mrow>
+                          <m:mo>(</m:mo>
+                          <m:mn>8</m:mn>
+                          <m:mo>)</m:mo>
+                        </m:mrow>
+                      </m:mrow>
+                    </m:msqrt>
+                  </m:mrow>
+                  <m:mrow>
+                    <m:mn>2</m:mn>
+                    <m:mo>(</m:mo>
+                    <m:mn>1</m:mn>
+                    <m:mo>)</m:mo>
+                  </m:mrow>
+                </m:mfrac>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mfrac>
+                  <m:mrow>
+                    <m:mn>5</m:mn>
+                    <m:mo>±</m:mo>
+                    <m:msqrt>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>7</m:mn>
+                      </m:mrow>
+                    </m:msqrt>
+                  </m:mrow>
+                  <m:mn>2</m:mn>
+                </m:mfrac>
+              </m:mtd>
+            </m:mtr>
+          </m:mtable>
+        </m:math>
+      </equation>
+      </item> <item> <label> Skryf die finale antwoord neer</label>
+      <para id="id70023">Aangesien die uitdrukking onder die vierkantswortel negatief is sal hierdie oplossings nie-reëel wees (<m:math overflow="scroll"><m:msqrt><m:mrow><m:mo>-</m:mo><m:mn>7</m:mn></m:mrow></m:msqrt></m:math> is nie 'n reële getal nie). Daarom is daar geen reële oplossings vir die kwadratiese vergelyking <m:math overflow="scroll"><m:mrow><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>-</m:mo><m:mn>5</m:mn><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>8</m:mn><m:mo>=</m:mo><m:mn>0</m:mn></m:mrow></m:math> nie. Dit beteken dat die grafiek van die funksie <m:math overflow="scroll"><m:mrow><m:mi>f</m:mi><m:mrow><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>)</m:mo></m:mrow><m:mo>=</m:mo><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>-</m:mo><m:mn>5</m:mn><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>8</m:mn></m:mrow></m:math> geen <m:math overflow="scroll"><m:mi>x</m:mi></m:math>-afsnitte het nie, maar dat die hele grafiek bokant die <m:math overflow="scroll"><m:mi>x</m:mi></m:math>-as lê. </para>
+      </item> </list> </solution>
+</exercise>
+<para id="eip-533"><figure id="quadratics-2" class="khanacademy">
+	  <title>Khan academy video on quadratic equations - 2</title>
+	  <media id="yt-media3" display="block" alt="video on quadratics 2">
+	  <flash id="yt-video3" mime-type="application/x-shockwave-flash" src="http://www.youtube.com/v/iulx0z1lz8M&amp;rel=0&amp;hl=en_US&amp;feature=player_embedded&amp;version=3" width="425" height="344">
+	  <param name="allowscriptaccess" value="always"/>
+	  <param name="allowsfullscreen" value="true"/>
+	  </flash>
+	  </media>
+	  </figure></para><section id="secfhsst_id2826"><title>Oplossing met die Kwadratiese Formule</title>
+      <para id="id70145">Los op vir <m:math overflow="scroll"><m:mi>t</m:mi></m:math> deur gebruik te maak van die kwadratiese formule.</para>
+      <list id="id70161" display="block" list-type="enumerated">
+        <item id="uid45">
+          <m:math overflow="scroll">
+            <m:mrow>
+              <m:mn>3</m:mn>
+              <m:msup>
+                <m:mi>t</m:mi>
+                <m:mn>2</m:mn>
+              </m:msup>
+              <m:mo>+</m:mo>
+              <m:mi>t</m:mi>
+              <m:mo>-</m:mo>
+              <m:mn>4</m:mn>
+              <m:mo>=</m:mo>
+              <m:mn>0</m:mn>
+            </m:mrow>
+          </m:math>
+        </item>
+        <item id="uid46">
+          <m:math overflow="scroll">
+            <m:mrow>
+              <m:msup>
+                <m:mi>t</m:mi>
+                <m:mn>2</m:mn>
+              </m:msup>
+              <m:mo>-</m:mo>
+              <m:mn>5</m:mn>
+              <m:mi>t</m:mi>
+              <m:mo>+</m:mo>
+              <m:mn>9</m:mn>
+              <m:mo>=</m:mo>
+              <m:mn>0</m:mn>
+            </m:mrow>
+          </m:math>
+        </item>
+        <item id="uid47">
+          <m:math overflow="scroll">
+            <m:mrow>
+              <m:mn>2</m:mn>
+              <m:msup>
+                <m:mi>t</m:mi>
+                <m:mn>2</m:mn>
+              </m:msup>
+              <m:mo>+</m:mo>
+              <m:mn>6</m:mn>
+              <m:mi>t</m:mi>
+              <m:mo>+</m:mo>
+              <m:mn>5</m:mn>
+              <m:mo>=</m:mo>
+              <m:mn>0</m:mn>
+            </m:mrow>
+          </m:math>
+        </item>
+        <item id="uid48">
+          <m:math overflow="scroll">
+            <m:mrow>
+              <m:mn>4</m:mn>
+              <m:msup>
+                <m:mi>t</m:mi>
+                <m:mn>2</m:mn>
+              </m:msup>
+              <m:mo>+</m:mo>
+              <m:mn>2</m:mn>
+              <m:mi>t</m:mi>
+              <m:mo>+</m:mo>
+              <m:mn>2</m:mn>
+              <m:mo>=</m:mo>
+              <m:mn>0</m:mn>
+            </m:mrow>
+          </m:math>
+        </item>
+        <item id="uid49">
+          <m:math overflow="scroll">
+            <m:mrow>
+              <m:mo>-</m:mo>
+              <m:mn>3</m:mn>
+              <m:msup>
+                <m:mi>t</m:mi>
+                <m:mn>2</m:mn>
+              </m:msup>
+              <m:mo>+</m:mo>
+              <m:mn>5</m:mn>
+              <m:mi>t</m:mi>
+              <m:mo>-</m:mo>
+              <m:mn>8</m:mn>
+              <m:mo>=</m:mo>
+              <m:mn>0</m:mn>
+            </m:mrow>
+          </m:math>
+        </item>
+        <item id="uid50">
+          <m:math overflow="scroll">
+            <m:mrow>
+              <m:mo>-</m:mo>
+              <m:mn>5</m:mn>
+              <m:msup>
+                <m:mi>t</m:mi>
+                <m:mn>2</m:mn>
+              </m:msup>
+              <m:mo>+</m:mo>
+              <m:mn>3</m:mn>
+              <m:mi>t</m:mi>
+              <m:mo>-</m:mo>
+              <m:mn>3</m:mn>
+              <m:mo>=</m:mo>
+              <m:mn>0</m:mn>
+            </m:mrow>
+          </m:math>
+        </item>
+        <item id="uid51">
+          <m:math overflow="scroll">
+            <m:mrow>
+              <m:msup>
+                <m:mi>t</m:mi>
+                <m:mn>2</m:mn>
+              </m:msup>
+              <m:mo>-</m:mo>
+              <m:mn>4</m:mn>
+              <m:mi>t</m:mi>
+              <m:mo>+</m:mo>
+              <m:mn>2</m:mn>
+              <m:mo>=</m:mo>
+              <m:mn>0</m:mn>
+            </m:mrow>
+          </m:math>
+        </item>
+        <item id="uid52">
+          <m:math overflow="scroll">
+            <m:mrow>
+              <m:mn>9</m:mn>
+              <m:msup>
+                <m:mi>t</m:mi>
+                <m:mn>2</m:mn>
+              </m:msup>
+              <m:mo>-</m:mo>
+              <m:mn>7</m:mn>
+              <m:mi>t</m:mi>
+              <m:mo>-</m:mo>
+              <m:mn>9</m:mn>
+              <m:mo>=</m:mo>
+              <m:mn>0</m:mn>
+            </m:mrow>
+          </m:math>
+        </item>
+        <item id="uid53">
+          <m:math overflow="scroll">
+            <m:mrow>
+              <m:mn>2</m:mn>
+              <m:msup>
+                <m:mi>t</m:mi>
+                <m:mn>2</m:mn>
+              </m:msup>
+              <m:mo>+</m:mo>
+              <m:mn>3</m:mn>
+              <m:mi>t</m:mi>
+              <m:mo>+</m:mo>
+              <m:mn>2</m:mn>
+              <m:mo>=</m:mo>
+              <m:mn>0</m:mn>
+            </m:mrow>
+          </m:math>
+        </item>
+        <item id="uid54">
+          <m:math overflow="scroll">
+            <m:mrow>
+              <m:msup>
+                <m:mi>t</m:mi>
+                <m:mn>2</m:mn>
+              </m:msup>
+              <m:mo>+</m:mo>
+              <m:mi>t</m:mi>
+              <m:mo>+</m:mo>
+              <m:mn>1</m:mn>
+              <m:mo>=</m:mo>
+              <m:mn>0</m:mn>
+            </m:mrow>
+          </m:math>
+        </item>
+      </list>
+      
+</section>
+<note id="notfhsst_id3009" type="tip"><list id="id70591" display="block" list-type="bulleted">
+        <item id="uid55">In al die behandelde voorbeelde is die antwoorde in wortelvorm gelaat, alhoewel dit ook in desimale vorm geskryf kan word met behulp van 'n sakrekenaar. In 'n toets of eksamen, let op die vraag se instruksies of die antwoord in wortelvorm of 'n sekere aantal desimale syfers verlang word.
+</item>
+        <item id="uid56">Kwadraatsvoltooiing word slegs as oplossingsmetode gebruik wanneer indien spesifiek daarvoor gevra word.
+</item>
+      </list>
+</note>
+<section id="secfhsst_id3017"><title>Gemenge oefeninge</title>
+      <para id="id70633">Los die kwadratiese vergelykings op deur van faktorisering, kwadraatsvoltooiing of die kwadratiese formule gebruik te maak:</para>
+      <list id="id70640" display="block" list-type="bulleted"><item id="uid57">Probeer altyd om eers die trinomiaal te faktoriseer en, indien nie moontlik nie, gebruik die formule.
+</item>
+        <item id="uid58">Los sommige probleme met behulp van kwadraatsvoltooiing op en vergelyk dan jou antwoorde met díe wat met ander metodes verkry is.
+</item>
+      </list>
+      <table id="id70670" summary="">
+        <tgroup cols="3">
+          <tbody>
+            <row>
+              <entry>1. <m:math overflow="scroll"><m:mrow><m:mn>24</m:mn><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>61</m:mn><m:mi>y</m:mi><m:mo>-</m:mo><m:mn>8</m:mn><m:mo>=</m:mo><m:mn>0</m:mn></m:mrow></m:math></entry>
+              <entry>2. <m:math overflow="scroll"><m:mrow><m:mo>-</m:mo><m:mn>8</m:mn><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup><m:mo>-</m:mo><m:mn>16</m:mn><m:mi>y</m:mi><m:mo>+</m:mo><m:mn>42</m:mn><m:mo>=</m:mo><m:mn>0</m:mn></m:mrow></m:math></entry>
+              <entry>3. <m:math overflow="scroll"><m:mrow><m:mo>-</m:mo><m:mn>9</m:mn><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>24</m:mn><m:mi>y</m:mi><m:mo>-</m:mo><m:mn>12</m:mn><m:mo>=</m:mo><m:mn>0</m:mn></m:mrow></m:math></entry>
+            </row>
+            <row>
+              <entry>4. <m:math overflow="scroll"><m:mrow><m:mo>-</m:mo><m:mn>5</m:mn><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>0</m:mn><m:mi>y</m:mi><m:mo>+</m:mo><m:mn>5</m:mn><m:mo>=</m:mo><m:mn>0</m:mn></m:mrow></m:math></entry>
+              <entry>5. <m:math overflow="scroll"><m:mrow><m:mo>-</m:mo><m:mn>3</m:mn><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>15</m:mn><m:mi>y</m:mi><m:mo>-</m:mo><m:mn>12</m:mn><m:mo>=</m:mo><m:mn>0</m:mn></m:mrow></m:math></entry>
+              <entry>6. <m:math overflow="scroll"><m:mrow><m:mn>49</m:mn><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>0</m:mn><m:mi>y</m:mi><m:mo>-</m:mo><m:mn>25</m:mn><m:mo>=</m:mo><m:mn>0</m:mn></m:mrow></m:math></entry>
+            </row>
+            <row>
+              <entry>7. <m:math overflow="scroll"><m:mrow><m:mo>-</m:mo><m:mn>12</m:mn><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>66</m:mn><m:mi>y</m:mi><m:mo>-</m:mo><m:mn>72</m:mn><m:mo>=</m:mo><m:mn>0</m:mn></m:mrow></m:math></entry>
+              <entry>8. <m:math overflow="scroll"><m:mrow><m:mo>-</m:mo><m:mn>40</m:mn><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>58</m:mn><m:mi>y</m:mi><m:mo>-</m:mo><m:mn>12</m:mn><m:mo>=</m:mo><m:mn>0</m:mn></m:mrow></m:math></entry>
+              <entry>9. <m:math overflow="scroll"><m:mrow><m:mo>-</m:mo><m:mn>24</m:mn><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>37</m:mn><m:mi>y</m:mi><m:mo>+</m:mo><m:mn>72</m:mn><m:mo>=</m:mo><m:mn>0</m:mn></m:mrow></m:math></entry>
+            </row>
+            <row>
+              <entry>10. <m:math overflow="scroll"><m:mrow><m:mn>6</m:mn><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>7</m:mn><m:mi>y</m:mi><m:mo>-</m:mo><m:mn>24</m:mn><m:mo>=</m:mo><m:mn>0</m:mn></m:mrow></m:math></entry>
+              <entry>11. <m:math overflow="scroll"><m:mrow><m:mn>2</m:mn><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup><m:mo>-</m:mo><m:mn>5</m:mn><m:mi>y</m:mi><m:mo>-</m:mo><m:mn>3</m:mn><m:mo>=</m:mo><m:mn>0</m:mn></m:mrow></m:math></entry>
+              <entry>12. <m:math overflow="scroll"><m:mrow><m:mo>-</m:mo><m:mn>18</m:mn><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup><m:mo>-</m:mo><m:mn>55</m:mn><m:mi>y</m:mi><m:mo>-</m:mo><m:mn>25</m:mn><m:mo>=</m:mo><m:mn>0</m:mn></m:mrow></m:math></entry>
+            </row>
+            <row>
+              <entry>13. <m:math overflow="scroll"><m:mrow><m:mo>-</m:mo><m:mn>25</m:mn><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>25</m:mn><m:mi>y</m:mi><m:mo>-</m:mo><m:mn>4</m:mn><m:mo>=</m:mo><m:mn>0</m:mn></m:mrow></m:math></entry>
+              <entry>14. <m:math overflow="scroll"><m:mrow><m:mo>-</m:mo><m:mn>32</m:mn><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>24</m:mn><m:mi>y</m:mi><m:mo>+</m:mo><m:mn>8</m:mn><m:mo>=</m:mo><m:mn>0</m:mn></m:mrow></m:math></entry>
+              <entry>15. <m:math overflow="scroll"><m:mrow><m:mn>9</m:mn><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup><m:mo>-</m:mo><m:mn>13</m:mn><m:mi>y</m:mi><m:mo>-</m:mo><m:mn>10</m:mn><m:mo>=</m:mo><m:mn>0</m:mn></m:mrow></m:math></entry>
+            </row>
+            <row>
+              <entry>16. <m:math overflow="scroll"><m:mrow><m:mn>35</m:mn><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup><m:mo>-</m:mo><m:mn>8</m:mn><m:mi>y</m:mi><m:mo>-</m:mo><m:mn>3</m:mn><m:mo>=</m:mo><m:mn>0</m:mn></m:mrow></m:math></entry>
+              <entry>17. <m:math overflow="scroll"><m:mrow><m:mo>-</m:mo><m:mn>81</m:mn><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup><m:mo>-</m:mo><m:mn>99</m:mn><m:mi>y</m:mi><m:mo>-</m:mo><m:mn>18</m:mn><m:mo>=</m:mo><m:mn>0</m:mn></m:mrow></m:math></entry>
+              <entry>18. <m:math overflow="scroll"><m:mrow><m:mn>14</m:mn><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup><m:mo>-</m:mo><m:mn>81</m:mn><m:mi>y</m:mi><m:mo>+</m:mo><m:mn>81</m:mn><m:mo>=</m:mo><m:mn>0</m:mn></m:mrow></m:math></entry>
+            </row>
+            <row>
+              <entry>19. <m:math overflow="scroll"><m:mrow><m:mo>-</m:mo><m:mn>4</m:mn><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup><m:mo>-</m:mo><m:mn>41</m:mn><m:mi>y</m:mi><m:mo>-</m:mo><m:mn>45</m:mn><m:mo>=</m:mo><m:mn>0</m:mn></m:mrow></m:math></entry>
+              <entry>20. <m:math overflow="scroll"><m:mrow><m:mn>16</m:mn><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>20</m:mn><m:mi>y</m:mi><m:mo>-</m:mo><m:mn>36</m:mn><m:mo>=</m:mo><m:mn>0</m:mn></m:mrow></m:math></entry>
+              <entry>21. <m:math overflow="scroll"><m:mrow><m:mn>42</m:mn><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>104</m:mn><m:mi>y</m:mi><m:mo>+</m:mo><m:mn>64</m:mn><m:mo>=</m:mo><m:mn>0</m:mn></m:mrow></m:math></entry>
+            </row>
+            <row>
+              <entry>22. <m:math overflow="scroll"><m:mrow><m:mn>9</m:mn><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup><m:mo>-</m:mo><m:mn>76</m:mn><m:mi>y</m:mi><m:mo>+</m:mo><m:mn>32</m:mn><m:mo>=</m:mo><m:mn>0</m:mn></m:mrow></m:math></entry>
+              <entry>23. <m:math overflow="scroll"><m:mrow><m:mo>-</m:mo><m:mn>54</m:mn><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>21</m:mn><m:mi>y</m:mi><m:mo>+</m:mo><m:mn>3</m:mn><m:mo>=</m:mo><m:mn>0</m:mn></m:mrow></m:math></entry>
+              <entry>24. <m:math overflow="scroll"><m:mrow><m:mn>36</m:mn><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>44</m:mn><m:mi>y</m:mi><m:mo>+</m:mo><m:mn>8</m:mn><m:mo>=</m:mo><m:mn>0</m:mn></m:mrow></m:math></entry>
+            </row>
+            <row>
+              <entry>25. <m:math overflow="scroll"><m:mrow><m:mn>64</m:mn><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>96</m:mn><m:mi>y</m:mi><m:mo>+</m:mo><m:mn>36</m:mn><m:mo>=</m:mo><m:mn>0</m:mn></m:mrow></m:math></entry>
+              <entry>26. <m:math overflow="scroll"><m:mrow><m:mn>12</m:mn><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup><m:mo>-</m:mo><m:mn>22</m:mn><m:mi>y</m:mi><m:mo>-</m:mo><m:mn>14</m:mn><m:mo>=</m:mo><m:mn>0</m:mn></m:mrow></m:math></entry>
+              <entry>27. <m:math overflow="scroll"><m:mrow><m:mn>16</m:mn><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>0</m:mn><m:mi>y</m:mi><m:mo>-</m:mo><m:mn>81</m:mn><m:mo>=</m:mo><m:mn>0</m:mn></m:mrow></m:math></entry>
+            </row>
+            <row>
+              <entry>28. <m:math overflow="scroll"><m:mrow><m:mn>3</m:mn><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>10</m:mn><m:mi>y</m:mi><m:mo>-</m:mo><m:mn>48</m:mn><m:mo>=</m:mo><m:mn>0</m:mn></m:mrow></m:math></entry>
+              <entry>29. <m:math overflow="scroll"><m:mrow><m:mo>-</m:mo><m:mn>4</m:mn><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>8</m:mn><m:mi>y</m:mi><m:mo>-</m:mo><m:mn>3</m:mn><m:mo>=</m:mo><m:mn>0</m:mn></m:mrow></m:math></entry>
+              <entry>30. <m:math overflow="scroll"><m:mrow><m:mo>-</m:mo><m:mn>5</m:mn><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup><m:mo>-</m:mo><m:mn>26</m:mn><m:mi>y</m:mi><m:mo>+</m:mo><m:mn>63</m:mn><m:mo>=</m:mo><m:mn>0</m:mn></m:mrow></m:math></entry>
+            </row>
+            <row>
+              <entry>31. <m:math overflow="scroll"><m:mrow><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>-</m:mo><m:mn>70</m:mn><m:mo>=</m:mo><m:mn>11</m:mn></m:mrow></m:math></entry>
+              <entry>32. <m:math overflow="scroll"><m:mrow><m:mn>2</m:mn><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>-</m:mo><m:mn>30</m:mn><m:mo>=</m:mo><m:mn>2</m:mn></m:mrow></m:math></entry>
+              <entry>33. <m:math overflow="scroll"><m:mrow><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>-</m:mo><m:mn>16</m:mn><m:mo>=</m:mo><m:mn>2</m:mn><m:mo>-</m:mo><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:math></entry>
+            </row>
+            <row>
+              <entry>34. <m:math overflow="scroll"><m:mrow><m:mn>2</m:mn><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup><m:mo>-</m:mo><m:mn>98</m:mn><m:mo>=</m:mo><m:mn>0</m:mn></m:mrow></m:math></entry>
+              <entry>35. <m:math overflow="scroll"><m:mrow><m:mn>5</m:mn><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup><m:mo>-</m:mo><m:mn>10</m:mn><m:mo>=</m:mo><m:mn>115</m:mn></m:mrow></m:math></entry>
+              <entry>36. <m:math overflow="scroll"><m:mrow><m:mn>5</m:mn><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup><m:mo>-</m:mo><m:mn>5</m:mn><m:mo>=</m:mo><m:mn>19</m:mn><m:mo>-</m:mo><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:math></entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <!--empty paragraphs get left behind.-->
+      
+</section>
+    </section>
+
+  </content>
+</document>

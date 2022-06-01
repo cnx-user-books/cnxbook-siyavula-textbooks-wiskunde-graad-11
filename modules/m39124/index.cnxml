@@ -1,0 +1,392 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Transformasies</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m39124</md:content-id>
+  <md:title>Transformasies</md:title>
+  <md:abstract/>
+  <md:uuid>fb76277f-e7cc-4902-bc88-f5ad63ff9e1f</md:uuid>
+</metadata>
+
+<content>
+<section id="cid7">
+      <title>Transformasies</title>
+      <section id="uid62">
+        <title>Rotasie om 'n Punt</title>
+        <para id="id73753">Wanneer 'n voorwerp rondom 'n vaste punt beweeg word, gebruik ons die term  <emphasis effect="italics">rotasie</emphasis> om die punt. Wat gebeur met die koördinate van 'n punt wanneer daardie voorwerp om 'n punt van <m:math overflow="scroll"><m:msup><m:mn>90</m:mn><m:mo>∘</m:mo></m:msup></m:math> of <m:math overflow="scroll"><m:msup><m:mn>180</m:mn><m:mo>∘</m:mo></m:msup></m:math> om die oorsprong roteer word?</para>
+<section id="secfhsst_id4517"><title>Ondersoek: Roteer 'n punt deur die oorsprong deur <m:math overflow="scroll"><m:msup><m:mn>90</m:mn><m:mo>∘</m:mo></m:msup></m:math> </title><para id="id73815">Voltooi die tabel deur die koördinate van die punte wat in die figuur vertoon word, in te vul.</para>
+        <table id="id73821" summary="Voltooi die tabel"><label>Tabel</label>
+<tgroup cols="3"><tbody>
+              <row>
+                <entry>
+                  <emphasis effect="bold">Punt</emphasis>
+                </entry>
+                <entry>
+                  <emphasis effect="bold"><m:math overflow="scroll"><m:mi>x</m:mi></m:math>-koördinaat</emphasis>
+                </entry>
+                <entry>
+                  <emphasis effect="bold"><m:math overflow="scroll"><m:mi>y</m:mi></m:math>-koördinaat</emphasis>
+                </entry>
+              </row>
+              <row>
+                <entry>A</entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>B</entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>C</entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>D</entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>E</entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>F</entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>G</entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>H</entry>
+                <entry/>
+                <entry/>
+              </row>
+            </tbody>
+          
+
+</tgroup>
+</table>
+        <!--empty paragraphs get left behind.-->
+        <para id="id74101">
+          <figure id="id74104"><label>Figuur</label><media id="id74104_media" alt="">
+              <image mime-type="image/png" src="../../media/MG11C16_027.png" id="id74104_onlineimage" width="101"><!-- NOTE: attribute width changes image size online (pixels). original width is 101. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/MG11C16_027.eps" id="id74104_printimage"/>
+            </media>
+          </figure>
+        </para>
+        <para id="id74111">Wat let jy op van die <m:math overflow="scroll"><m:mi>x</m:mi></m:math>-koördinate? Wat let jy op van die <m:math overflow="scroll"><m:mi>y</m:mi></m:math>-koördinate?
+Wat sal gebeur met die koördinate van punt A as dit na die posisie van punt C roteer word? Wat sal gebeur as die koördinate van punt B roteer word tot die posisie van D?
+
+ </para>
+</section>
+<section id="secfhsst_id4589"><title>Ondersoek: Rotasie deur die oorsprong deur <m:math overflow="scroll"><m:msup><m:mn>180</m:mn><m:mo>∘</m:mo></m:msup></m:math> </title><para id="id74161">Voltooi die tabel deur die koördinate wat in die figuur vertoon word, in te vul.</para>
+        <table id="id74167" summary="Voltooi die tabel"><label>Tabel</label>
+<tgroup cols="3"><tbody>
+              <row>
+                <entry>
+                  <emphasis effect="bold">Punt</emphasis>
+                </entry>
+                <entry>
+                  <emphasis effect="bold"><m:math overflow="scroll"><m:mi>x</m:mi></m:math>-koördinaat</emphasis>
+                </entry>
+                <entry>
+                  <emphasis effect="bold"><m:math overflow="scroll"><m:mi>y</m:mi></m:math>-koördinaat</emphasis>
+                </entry>
+              </row>
+              <row>
+                <entry>A</entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>B</entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>C</entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>D</entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>E</entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>F</entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>G</entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>H</entry>
+                <entry/>
+                <entry/>
+              </row>
+            </tbody>
+          
+
+</tgroup>
+</table>
+        <!--empty paragraphs get left behind.-->
+        <para id="id74447">
+          <figure id="id74450"><label>Figuur</label><media id="id74450_media" alt="">
+              <image mime-type="image/png" src="../../media/MG11C16_028.png" id="id74450_onlineimage" width="126"><!-- NOTE: attribute width changes image size online (pixels). original width is 126. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/MG11C16_028.eps" id="id74450_printimage"/>
+            </media>
+          </figure>
+        </para>
+        <para id="id74457">Wat let jy op van die <m:math overflow="scroll"><m:mi>x</m:mi></m:math>-koördinate? Wat let jy op van die <m:math overflow="scroll"><m:mi>y</m:mi></m:math>-koördinate?
+Wat sal gebeur met die koördinate van punt A as dit na die posisie van punt E roteer word? Wat sal gebeur met die koördinate van punt F as dit na die posisie van punt B roteer word?
+
+ </para>
+</section>
+        <para id="id74485">Die volgende gevolgtrekkings kan vanuit die vorige aktiwiteite gemaak word:</para>
+        <para id="id74489">
+          <list id="id74494" display="block" list-type="bulleted"><item id="uid63">90<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math> kloksgewyse rotasie:
+Die beeld van 'n punt P<m:math overflow="scroll"><m:mrow><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>;</m:mo><m:mi>y</m:mi><m:mo>)</m:mo></m:mrow></m:math> wat kloksgewys geroteer is deur 90<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math> om die oorsprong is P'<m:math overflow="scroll"><m:mrow><m:mo>(</m:mo><m:mi>y</m:mi><m:mo>;</m:mo><m:mo>-</m:mo><m:mi>x</m:mi><m:mo>)</m:mo></m:mrow></m:math>.
+Ons druk die rotasie uit as <m:math overflow="scroll"><m:mrow><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>;</m:mo><m:mi>y</m:mi><m:mo>)</m:mo><m:mo>→</m:mo><m:mo>(</m:mo><m:mi>y</m:mi><m:mo>;</m:mo><m:mo>-</m:mo><m:mi>x</m:mi><m:mo>)</m:mo></m:mrow></m:math>.
+
+</item>
+            <item id="uid64">90<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math> antikloksgewyse rotasie:
+Die beeld van 'n punt P<m:math overflow="scroll"><m:mrow><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>;</m:mo><m:mi>y</m:mi><m:mo>)</m:mo></m:mrow></m:math> wat antikloksgewys geroteer is deur 90<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math> om die oorsprong is P'<m:math overflow="scroll"><m:mrow><m:mo>(</m:mo><m:mo>-</m:mo><m:mi>y</m:mi><m:mo>;</m:mo><m:mi>x</m:mi><m:mo>)</m:mo></m:mrow></m:math>.
+Ons druk die rotasie uit as <m:math overflow="scroll"><m:mrow><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>;</m:mo><m:mi>y</m:mi><m:mo>)</m:mo><m:mo>→</m:mo><m:mo>(</m:mo><m:mo>-</m:mo><m:mi>y</m:mi><m:mo>;</m:mo><m:mi>x</m:mi><m:mo>)</m:mo></m:mrow></m:math>.
+
+</item>
+            <item id="uid65">180<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math> rotasie:
+Die beeld van 'n punt P<m:math overflow="scroll"><m:mrow><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>;</m:mo><m:mi>y</m:mi><m:mo>)</m:mo></m:mrow></m:math> wat geroteer word deur  180<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math> om die oorsprong is P'<m:math overflow="scroll"><m:mrow><m:mo>(</m:mo><m:mo>-</m:mo><m:mi>x</m:mi><m:mo>;</m:mo><m:mo>-</m:mo><m:mi>y</m:mi><m:mo>)</m:mo></m:mrow></m:math>.
+Ons druk die rotasie uit as <m:math overflow="scroll"><m:mrow><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>;</m:mo><m:mi>y</m:mi><m:mo>)</m:mo><m:mo>→</m:mo><m:mo>(</m:mo><m:mo>-</m:mo><m:mi>x</m:mi><m:mo>;</m:mo><m:mo>-</m:mo><m:mi>y</m:mi><m:mo>)</m:mo></m:mrow></m:math>.
+</item>
+          </list>
+          <figure id="id74888"><label>Figuur</label><media id="id74888_media" alt="">
+              <image mime-type="image/png" src="../../media/MG11C16_029.png" id="id74888_onlineimage" width="144"><!-- NOTE: attribute width changes image size online (pixels). original width is 144. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/MG11C16_029.eps" id="id74888_printimage"/>
+            </media>
+          </figure>
+          <figure id="id74897"><label>Figuur</label><media id="id74897_media" alt="">
+              <image mime-type="image/png" src="../../media/MG11C16_030.png" id="id74897_onlineimage" width="154"><!-- NOTE: attribute width changes image size online (pixels). original width is 154. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/MG11C16_030.eps" id="id74897_printimage"/>
+            </media>
+          </figure>
+          <figure id="id74907"><label>Figuur</label><media id="id74907_media" alt="">
+              <image mime-type="image/png" src="../../media/MG11C16_031.png" id="id74907_onlineimage" width="139"><!-- NOTE: attribute width changes image size online (pixels). original width is 139. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/MG11C16_031.eps" id="id74907_printimage"/>
+            </media>
+          </figure>
+        </para>
+<section id="secfhsst_id4698"><title>Rotasie</title>
+        <list id="id74922" display="block" list-type="enumerated"><item id="uid66">Doen die volgende vir elke rotasie om die oorsprong:
+(i) Skryf die toepaslike reël neer.
+(ii) Teken 'n diagram wat die rigting van die rotasie aandui.
+<list id="id74950" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid67">OA word geroteer na OA<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>'</m:mo></m:msup></m:math> met A(4;2) en A<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>'</m:mo></m:msup></m:math>(-2;4)
+</item><item id="uid68">OB word geroteer na OB<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>'</m:mo></m:msup></m:math> met B(-2;5) en B<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>'</m:mo></m:msup></m:math>(5;2)
+</item><item id="uid69">OC word geroteer na OC<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>'</m:mo></m:msup></m:math> met C(-1;-4) en C<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>'</m:mo></m:msup></m:math>(1;4)
+</item></list></item>
+          <item id="uid70">Kopieer<m:math overflow="scroll"><m:mi>Δ</m:mi></m:math>XYZ op grafiekpapier. Die koördinate word op die figuur aangedui.
+<list id="id75093" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid71">Roteer <m:math overflow="scroll"><m:mi>Δ</m:mi></m:math>XYZ antikloksgewys deur 'n hoek van 90<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math> om die oorsprong om die volgende te kry <m:math overflow="scroll"><m:mi>Δ</m:mi></m:math>X<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>'</m:mo></m:msup></m:math>Y<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>'</m:mo></m:msup></m:math>Z<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>'</m:mo></m:msup></m:math>. Dui die koördinate van X<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>'</m:mo></m:msup></m:math>, Y<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>'</m:mo></m:msup></m:math> en Z<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>'</m:mo></m:msup></m:math> aan.
+</item><item id="uid72">Roteer <m:math overflow="scroll"><m:mi>Δ</m:mi></m:math>XYZ deur 180<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math> om die oorsprong om die volgende te kry <m:math overflow="scroll"><m:mi>Δ</m:mi></m:math>X<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>'</m:mo></m:msup></m:math><m:math overflow="scroll"><m:msup><m:mrow/><m:mo>'</m:mo></m:msup></m:math>Y<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>'</m:mo></m:msup></m:math><m:math overflow="scroll"><m:msup><m:mrow/><m:mo>'</m:mo></m:msup></m:math>Z<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>'</m:mo></m:msup></m:math><m:math overflow="scroll"><m:msup><m:mrow/><m:mo>'</m:mo></m:msup></m:math>. Dui die koördinate van X<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>'</m:mo></m:msup></m:math><m:math overflow="scroll"><m:msup><m:mrow/><m:mo>'</m:mo></m:msup></m:math>, Y<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>'</m:mo></m:msup></m:math><m:math overflow="scroll"><m:msup><m:mrow/><m:mo>'</m:mo></m:msup></m:math> en Z<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>'</m:mo></m:msup></m:math><m:math overflow="scroll"><m:msup><m:mrow/><m:mo>'</m:mo></m:msup></m:math> aan.
+</item></list><figure id="id75418"><label>Figuur</label><media id="id75418_media" alt=""><image mime-type="image/png" src="../../media/MG11C16_032.png" id="id75418_onlineimage" width="195"><!-- NOTE: attribute width changes image size online (pixels). original width is 195. --></image><image mime-type="application/postscript" for="pdf" src="../../media/MG11C16_032.eps" id="id75418_printimage"/></media></figure></item>
+        </list>
+        
+</section>
+      </section>
+      <section id="uid73">
+        <title>Vergroting van 'n Veelhoek</title>
+        <para id="id75445">Wanneer 'n voorwerp groter word, noem ons die resultaat 'n
+ <emphasis effect="italics">vergroting</emphasis> van die oorspronklike voorwerp. Wat gebeur met die koördinate van 'n veelhoek wat vergroot is met 'n faktor <m:math overflow="scroll"><m:mi>k</m:mi></m:math>?</para>
+<section id="secfhsst_id4718"><title>Ondersoek: Vergroting van 'n Veelhoek 1</title><para id="id75472">Voltooi die tabel deur die koördinate van die punte wat in die figuur aangedui is, in te vul. Aanvaar dat elke klein vierkant op die grafiekpapier 1 eenheid voorstel.</para>
+        <table id="id75478" summary="Voltooi die tabel"><label>Tabel</label>
+<tgroup cols="3"><tbody>
+              <row>
+                <entry>
+                  <emphasis effect="bold">Punt</emphasis>
+                </entry>
+                <entry>
+                  <emphasis effect="bold"><m:math overflow="scroll"><m:mi>x</m:mi></m:math>-koördinaat</emphasis>
+                </entry>
+                <entry>
+                  <emphasis effect="bold"><m:math overflow="scroll"><m:mi>y</m:mi></m:math>-koördinaat</emphasis>
+                </entry>
+              </row>
+              <row>
+                <entry>A</entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>B</entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>C</entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>D</entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>E</entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>F</entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>G</entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>H</entry>
+                <entry/>
+                <entry/>
+              </row>
+            </tbody>
+          
+</tgroup>
+</table>
+        <!--empty paragraphs get left behind.-->
+        <para id="id75758">
+          <figure id="id75761"><label>Figuur</label><media id="id75761_media" alt="">
+              <image mime-type="image/png" src="../../media/MG11C16_033.png" id="id75761_onlineimage" width="126"><!-- NOTE: attribute width changes image size online (pixels). original width is 126. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/MG11C16_033.eps" id="id75761_printimage"/>
+            </media>
+          </figure>
+        </para>
+        <para id="id75768">Wat let jy op van die <m:math overflow="scroll"><m:mi>x</m:mi></m:math>-koördinate
+? Wat let jy op van die <m:math overflow="scroll"><m:mi>y</m:mi></m:math>-koördinate
+? Wat sal gebeur met die koördinate van punt A as die vierkant ABCD vergroot sal word met die faktor 2?
+ </para>
+</section>
+<section id="secfhsst_id4791"><title>Ondersoek: Vergroting van 'n Veelhoek 2 </title><para id="id75803">
+          <figure id="id75806"><label>Figuur</label><media id="id75806_media" alt="">
+              <image mime-type="image/png" src="../../media/MG11C16_034.png" id="id75806_onlineimage" width="266"><!-- NOTE: attribute width changes image size online (pixels). original width is 266. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/MG11C16_034.eps" id="id75806_printimage"/>
+            </media>
+          </figure>
+        </para>
+        <para id="id75813">In die figuur is die vierhoek HIJK vergroot met die faktor van 2 deur die oorsprong om 
+H'I'J'K' te vorm. Voltooi die volgende tabel deur gebruik te maak van die inligting wat in die figuur gegee word.</para>
+        <table id="id75818" summary="Voltooi"><label>Tabel</label>
+<tgroup cols="4"><tbody>
+              <row>
+                <entry>Koördinate</entry>
+                <entry>Koördinate'</entry>
+                <entry>Lengte</entry>
+                <entry>Lengte'</entry>
+              </row>
+              <row>
+                <entry>H = (;)</entry>
+                <entry>H' = (;)</entry>
+                <entry>OH =</entry>
+                <entry>OH' =</entry>
+              </row>
+              <row>
+                <entry>I = (;)</entry>
+                <entry>I' = (;)</entry>
+                <entry>OI =</entry>
+                <entry>OI' =</entry>
+              </row>
+              <row>
+                <entry>J = (;)</entry>
+                <entry>J' = (;)</entry>
+                <entry>OJ =</entry>
+                <entry>OJ' =</entry>
+              </row>
+              <row>
+                <entry>K = (;)</entry>
+                <entry>K' + (;)</entry>
+                <entry>OK =</entry>
+                <entry>OK' =</entry>
+              </row>
+            </tbody>
+          
+</tgroup>
+</table>
+        <!--empty paragraphs get left behind.-->
+        <para id="id76009">Watter gevolgtrekkings kan jy nou maak omtrent die volgende:
+</para>
+        <list id="id76013" display="block" list-type="enumerated"><item id="uid74">die koördinate
+</item>
+          <item id="uid75">die lengtes wanneer daar vergroot word met die faktor van 2?
+</item>
+        </list>
+        
+</section>
+        <para id="id76051">Die volgende gevolgtrekkings kan gemaak word:</para>
+        <para id="id76054">Laat die hoekpunte van 'n driehoek die volgende koördinate hê S<m:math overflow="scroll"><m:mrow><m:mo>(</m:mo><m:msub><m:mi>x</m:mi><m:mn>1</m:mn></m:msub><m:mo>;</m:mo><m:msub><m:mi>y</m:mi><m:mn>1</m:mn></m:msub><m:mo>)</m:mo></m:mrow></m:math>, T<m:math overflow="scroll"><m:mrow><m:mo>(</m:mo><m:msub><m:mi>x</m:mi><m:mn>2</m:mn></m:msub><m:mo>;</m:mo><m:msub><m:mi>y</m:mi><m:mn>2</m:mn></m:msub><m:mo>)</m:mo></m:mrow></m:math>, U<m:math overflow="scroll"><m:mrow><m:mo>(</m:mo><m:msub><m:mi>x</m:mi><m:mn>3</m:mn></m:msub><m:mo>;</m:mo><m:msub><m:mi>y</m:mi><m:mn>3</m:mn></m:msub><m:mo>)</m:mo></m:mrow></m:math>. <m:math overflow="scroll"><m:mi>▵</m:mi></m:math>S'T'U' is 'n vergroting deur die oorsprong van <m:math overflow="scroll"><m:mi>▵</m:mi></m:math>STU met 'n faktor van <m:math overflow="scroll"><m:mi>c</m:mi></m:math> (<m:math overflow="scroll"><m:mrow><m:mi>c</m:mi><m:mo>&gt;</m:mo><m:mn>0</m:mn></m:mrow></m:math>).</para>
+        <list id="id76188" display="block" list-type="bulleted"><item id="uid76"><m:math overflow="scroll"><m:mi>▵</m:mi></m:math>STU is 'n vermindering van  <m:math overflow="scroll"><m:mi>▵</m:mi></m:math>S'T'U' met 'n faktor van <m:math overflow="scroll"><m:mi>c</m:mi></m:math>.
+</item>
+          <item id="uid77"><m:math overflow="scroll"><m:mi>▵</m:mi></m:math>S'T'U' kan andersins ook gesien word as 'n vermindering deur die oorsprong van <m:math overflow="scroll"><m:mi>▵</m:mi></m:math>STU met die faktor van <m:math overflow="scroll"><m:mfrac><m:mn>1</m:mn><m:mi>c</m:mi></m:mfrac></m:math>. (Let op dat 'n vermindering met <m:math overflow="scroll"><m:mfrac><m:mn>1</m:mn><m:mi>c</m:mi></m:mfrac></m:math> dieselfde is as 'n vergroting van <m:math overflow="scroll"><m:mi>c</m:mi></m:math>).
+</item>
+          <item id="uid78">Die hoekpunte van <m:math overflow="scroll"><m:mi>▵</m:mi></m:math>S'T'U' is S'<m:math overflow="scroll"><m:mrow><m:mo>(</m:mo><m:mi>c</m:mi><m:msub><m:mi>x</m:mi><m:mn>1</m:mn></m:msub><m:mo>;</m:mo><m:mi>c</m:mi><m:msub><m:mi>y</m:mi><m:mn>1</m:mn></m:msub><m:mo>)</m:mo></m:mrow></m:math>, T'<m:math overflow="scroll"><m:mrow><m:mo>(</m:mo><m:mi>c</m:mi><m:msub><m:mi>x</m:mi><m:mn>2</m:mn></m:msub><m:mo>,</m:mo><m:mi>c</m:mi><m:msub><m:mi>y</m:mi><m:mn>2</m:mn></m:msub><m:mo>)</m:mo></m:mrow></m:math>, U'<m:math overflow="scroll"><m:mrow><m:mo>(</m:mo><m:mi>c</m:mi><m:msub><m:mi>x</m:mi><m:mn>3</m:mn></m:msub><m:mo>,</m:mo><m:mi>c</m:mi><m:msub><m:mi>y</m:mi><m:mn>3</m:mn></m:msub><m:mo>)</m:mo></m:mrow></m:math>.
+</item>
+          <item id="uid79">Die afstande van die oorsprong is OS' = <m:math overflow="scroll"><m:mi>c</m:mi></m:math>OS, OT' = <m:math overflow="scroll"><m:mi>c</m:mi></m:math>OT en OU' = <m:math overflow="scroll"><m:mi>c</m:mi></m:math>OU.
+</item>
+        </list>
+        <para id="id76455">
+          <figure id="id76458"><label>Figuur</label><media id="id76458_media" alt="">
+              <image mime-type="image/png" src="../../media/MG11C16_035.png" id="id76458_onlineimage" width="325"><!-- NOTE: attribute width changes image size online (pixels). original width is 325. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/MG11C16_035.eps" id="id76458_printimage"/>
+            </media>
+          </figure>
+        </para>
+<section id="secfhsst_id4867"><title>Transformasies</title>
+        <list id="id76471" display="block" list-type="enumerated"><item id="uid80">Kopieër veelhoek STUV op grafiekpapier en beantwoord die volgende vrae.
+<figure id="id76490"><label>Figuur</label><media id="id76490_media" alt=""><image mime-type="image/png" src="../../media/MG11C16_036.png" id="id76490_onlineimage" width="233"><!-- NOTE: attribute width changes image size online (pixels). original width is 233. --></image><image mime-type="application/postscript" for="pdf" src="../../media/MG11C16_036.eps" id="id76490_printimage"/></media></figure><list id="id76497" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid81">Wat is die koördinate van veelhoek STUV?
+</item><item id="uid82">Vergroot die veelhoek deur die oorsprong met 'n konstante faktor van <m:math overflow="scroll"><m:mrow><m:mi>c</m:mi><m:mo>=</m:mo><m:mn>2</m:mn></m:mrow></m:math>. Teken hierdie op dieselfde assestelsel op jou grafiekpapier. Benoem dit S'T'U'V'.
+</item><item id="uid83"> Wat is die koördinate van die hoekpunte S'T'U'V'?
+</item></list></item>
+	<item id="uid84"><m:math overflow="scroll"><m:mi>▵</m:mi></m:math>ABC is 'n vergroting van  <m:math overflow="scroll"><m:mi>▵</m:mi></m:math>A'B'C' met 'n konstante faktor van <m:math overflow="scroll"><m:mi>k</m:mi></m:math> deur die oorsprong.
+<list id="id76592" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid85">Wat is koördinate van die hoekpunte van <m:math overflow="scroll"><m:mi>▵</m:mi></m:math>ABC en <m:math overflow="scroll"><m:mi>▵</m:mi></m:math>A'B'C'?
+</item><item id="uid86">Bereken, met redes, die waarde van <m:math overflow="scroll"><m:mi>k</m:mi></m:math>.
+</item><item id="uid87">As die oppervlakte <m:math overflow="scroll"><m:mi>▵</m:mi></m:math>ABC <m:math overflow="scroll"><m:mi>m</m:mi></m:math> keer die oppervlakte van <m:math overflow="scroll"><m:mi>▵</m:mi></m:math>A'B'C', wat is <m:math overflow="scroll"><m:mi>m</m:mi></m:math>?
+</item></list><figure id="id76698"><label>Figuur</label><media id="id76698_media" alt=""><image mime-type="image/png" src="../../media/MG11C16_037.png" id="id76698_onlineimage" width="290"><!-- NOTE: attribute width changes image size online (pixels). original width is 290. --></image><image mime-type="application/postscript" for="pdf" src="../../media/MG11C16_037.eps" id="id76698_printimage"/></media></figure></item>
+	<item id="uid88">
+		<figure id="id76715"><label>Figuur</label><media id="id76715_media" alt="">
+				<image mime-type="image/png" src="../../media/MG11C16_038.png" id="id76715_onlineimage" width="205"><!-- NOTE: attribute width changes image size online (pixels). original width is 205. --></image>
+				<image mime-type="application/postscript" for="pdf" src="../../media/MG11C16_038.eps" id="id76715_printimage"/>
+			</media>
+		</figure>
+		<list id="id76722" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid89">Wat is die koördinate van die hoekpunte van die veelhoek MNPQ?
+</item>
+	<item id="uid90">Vergroot die veelhoek deur die oorsprong deur gebruik te maak van die konstante faktor van <m:math overflow="scroll"><m:mrow><m:mi>c</m:mi><m:mo>=</m:mo><m:mn>3</m:mn></m:mrow></m:math> sodat jy veelhoek M'N'P'Q' kry. Teken hierdie op dieselfde assestelsel.
+</item>
+	<item id="uid91">Wat is die koördinate van die nuwe hoekpunte?
+</item>
+	<item id="uid92">Teken nou  M”N”P”Q” wat 'n antikloksgewyse rotasie van MNPQ deur 90<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math> deur die oorsprong is.
+</item>
+	<item id="uid93">Wat is die helling van OM”.
+</item>
+</list>
+	</item>
+</list>
+        
+</section>
+      </section>
+    </section>
+  </content>
+</document>

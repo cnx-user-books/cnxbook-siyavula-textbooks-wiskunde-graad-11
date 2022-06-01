@@ -1,0 +1,906 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Standaardafwyking en variansie</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m39153</md:content-id>
+  <md:title>Standaardafwyking en variansie</md:title>
+  <md:abstract/>
+  <md:uuid>6497cfe2-89f1-4b1f-bb57-af73cee07fad</md:uuid>
+</metadata>
+
+<content>
+    
+    <section id="cid2"><title>Inleiding</title><para id="id162366"> Hierdie hoofstuk gee jou die geleentheid om te bou op wat jy in die vorige grade geleer het oor data hantering en waarskynlikheid. Die werk sal meestal prakties van aard wees. Deur probleemoplossing en aktiwiteite, sal jy die tegnieke van saamstel, organiseer, vertoon en analisering van data bemeester. Jy sal ook leer hoe om data te interpreteer en om die data krities te kan beoordeel en nie op sigwaarde te beoordeel nie. Dit is belangrik, aangesien data somtyds wangebruik en misbruik word om verkeerdelik standpunte te bewys of ondersteun. Mates van sentrale geneigdheid (gemiddeld, mediaan en modus) en dispersie (strekking, persentiel, kwartiel, inter-kwartiel, semi-inter-kwartiel strekking, variansie en standaard afwyking) sal ondersoek word. Natuurlik sal die meeste van julle bekend wees met die waarskynlikheidsaktiwiteite – julle het byvoorbeeld al dobbelsteenspeletjies en kaartspeletjies gespeel. Jou basiese verstaan van waarskynlikheid en kans sal verdiep word om ook te verstaan hoe dit gebruik kan word.</para></section>
+    <section id="cid3"><title>Standaard Afwyking en Variansie</title><para id="id162726">Die mate van sentrale geneigdheid (gemiddeld, mediaan en modus) en mate van dispersie (kwartiele, persentiele, strekking) verskaf inligting van die data waardes by die middel van die datastel en verskaf inligting oor die verspreiding van die data. Die inligting van die verspreiding is egter gebaseer op data waardes by spesifieke punte in die datastel. Byvoorbeeld die eindpunte is die strekking en die datapunte wat die stel in vier ewe groot groepe opdeel gee die kwartiele. Die gedrag van die hele datastel word dus nie hiervoor beoordeel nie. </para>
+      <para id="id162733">Een metode wat ‘n aanduiding te gee van die verspreiding in ‘n datastel is is om te bereken wat die verskil is tussen die datapunte en die gemiddeld. Die twee belangrike maatstawwe wat gebruik word, is die <emphasis effect="italics">variansie</emphasis> en die  <emphasis effect="italics">standaard afwyking</emphasis> van die data stel.</para>
+      <section id="uid1">
+        <title>Variansie</title>
+        <para id="id162757">Die variansie van ‘n datastel is die gemiddeld van die kwadraat van die verskil tussen elke datapunt en die gemiddeld. ‘n voorbeeld van wat hierdie beteken word gewys in <link target-id="id162857"/>. Die grafiek verteenwoordig die resultaat van 100 keer se skiet van ‘n muntstuk, wat op 45 kop en 55 stert uitslae uitgeloop het. Die gemiddeld van die resultaat is 50 (helfte van 100). Die kwadraat van die verskil tussen die kop waardes en die gemiddeld is <m:math overflow="scroll"><m:mrow><m:msup><m:mrow><m:mo>(</m:mo><m:mn>45</m:mn><m:mo>-</m:mo><m:mn>50</m:mn><m:mo>)</m:mo></m:mrow><m:mn>2</m:mn></m:msup><m:mo>=</m:mo><m:mn>25</m:mn></m:mrow></m:math> en die kwadraat van die verskil tussen die stert waardes en die gemiddeld is <m:math overflow="scroll"><m:mrow><m:msup><m:mrow><m:mo>(</m:mo><m:mn>55</m:mn><m:mo>-</m:mo><m:mn>50</m:mn><m:mo>)</m:mo></m:mrow><m:mn>2</m:mn></m:msup><m:mo>=</m:mo><m:mn>25</m:mn></m:mrow></m:math>. Die gemiddeld van hierdie twee kwadratiese verskille gee die variansie <m:math overflow="scroll"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mrow><m:mo>(</m:mo><m:mn>25</m:mn><m:mo>+</m:mo><m:mn>25</m:mn><m:mo>)</m:mo></m:mrow><m:mo>=</m:mo><m:mn>25</m:mn></m:mrow></m:math>.</para>
+        <para id="id162854">
+          <figure id="id162857">
+            <media id="id162857_media" alt="">
+              <image mime-type="image/png" src="../../media/MG11C18_001.png" id="id162857_onlineimage" width="168"><!-- NOTE: attribute width changes image size online (pixels). original width is 168. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/MG11C18_001.eps" id="id162857_printimage"/>
+            </media>
+          </figure>
+        </para>
+        <section id="uid2">
+          <title>Populasie Variansie</title>
+          <para id="id162872">Laat die populasie bestaan uit <m:math overflow="scroll"><m:mi>n</m:mi></m:math> elemente <m:math overflow="scroll"><m:mrow><m:mo>{</m:mo><m:msub><m:mi>x</m:mi><m:mn>1</m:mn></m:msub><m:mo>,</m:mo><m:msub><m:mi>x</m:mi><m:mn>2</m:mn></m:msub><m:mo>,</m:mo><m:mo>...</m:mo><m:mo>,</m:mo><m:msub><m:mi>x</m:mi><m:mi>n</m:mi></m:msub><m:mo>}</m:mo></m:mrow></m:math>, met gemiddeld <m:math overflow="scroll"><m:mover accent="true"><m:mi>x</m:mi><m:mo>¯</m:mo></m:mover></m:math> (lees as "x streep"). Die variansie van die populasie, aangedui met  <m:math overflow="scroll"><m:msup><m:mi>σ</m:mi><m:mn>2</m:mn></m:msup></m:math>, is die gemiddeld van die kwadraat van die verskil tussen elke datapunt en die gemiddeld.</para>
+          <equation id="uid3">
+            <m:math overflow="scroll" mode="display">
+              <m:mrow>
+                <m:msup>
+                  <m:mi>σ</m:mi>
+                  <m:mn>2</m:mn>
+                </m:msup>
+                <m:mo>=</m:mo>
+                <m:mfrac>
+                  <m:msup>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mo>∑</m:mo>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:mi>x</m:mi>
+                        <m:mo>-</m:mo>
+                        <m:mover accent="true">
+                          <m:mi>x</m:mi>
+                          <m:mo>¯</m:mo>
+                        </m:mover>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:mn>2</m:mn>
+                  </m:msup>
+                  <m:mi>n</m:mi>
+                </m:mfrac>
+                <m:mo>.</m:mo>
+              </m:mrow>
+            </m:math>
+          </equation>
+          <para id="id163015">Aangesien die populasie variansie kwadreer word, is dit nie direk vergelykbaar met die gemiddeld nie, en ook nie met die datapunte nie. </para>
+        </section>
+        <section id="uid4">
+          <title>Steekproef Variansie</title>
+          <para id="id163028">Laat die steekproef bestaan uit die <m:math overflow="scroll"><m:mi>n</m:mi></m:math> elemente<m:math overflow="scroll"><m:mrow><m:mo>{</m:mo><m:msub><m:mi>x</m:mi><m:mn>1</m:mn></m:msub><m:mo>,</m:mo><m:msub><m:mi>x</m:mi><m:mn>2</m:mn></m:msub><m:mo>,</m:mo><m:mo>...</m:mo><m:mo>,</m:mo><m:msub><m:mi>x</m:mi><m:mi>n</m:mi></m:msub><m:mo>}</m:mo></m:mrow></m:math>, geneem van ‘n populasie, met gemiddeld <m:math overflow="scroll"><m:mover accent="true"><m:mi>x</m:mi><m:mo>¯</m:mo></m:mover></m:math>. Die variansie van die steekproef, aangedui met <m:math overflow="scroll"><m:msup><m:mi>s</m:mi><m:mn>2</m:mn></m:msup></m:math>, is die gemiddeld van die kwadraat van die afwykings van die steekproef gemiddeld:</para>
+          <equation id="uid5">
+            <m:math overflow="scroll" mode="display">
+              <m:mrow>
+                <m:msup>
+                  <m:mi>s</m:mi>
+                  <m:mn>2</m:mn>
+                </m:msup>
+                <m:mo>=</m:mo>
+                <m:mfrac>
+                  <m:mrow>
+                    <m:mo>∑</m:mo>
+                    <m:msup>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:mi>x</m:mi>
+                        <m:mo>-</m:mo>
+                        <m:mover accent="true">
+                          <m:mi>x</m:mi>
+                          <m:mo>¯</m:mo>
+                        </m:mover>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                      <m:mn>2</m:mn>
+                    </m:msup>
+                  </m:mrow>
+                  <m:mrow>
+                    <m:mi>n</m:mi>
+                    <m:mo>-</m:mo>
+                    <m:mn>1</m:mn>
+                  </m:mrow>
+                </m:mfrac>
+                <m:mo>.</m:mo>
+              </m:mrow>
+            </m:math>
+          </equation>
+          <para id="id163170">Aangesien die steekproef kwadreer word, is dit ook nie direk vergelykbaar met die gemiddeld en die datapunte self nie.</para>
+          <para id="id163174">’n Algemene vraag op hierdie stadium is “Hoekom word die teller gekwadreer? Een aantwoord is: om ontslae te raak van die negatiewe tekens. Sommige punte gaan bo die gemiddeld wees en ander odner die gemiddeld. Dit sal teenproduktief wees om as hierdie positiewe en negateiewe verskille mekaar uitkanselleer. </para>
+        </section>
+        <section id="uid6">
+          <title>Verskil tussen Populasie Variansie en Steekproef Variansie </title>
+          <para id="id163190">Dit is duidelik dat daar onderskeid getref word tussen variansie <m:math overflow="scroll"><m:msup><m:mi>σ</m:mi><m:mn>2</m:mn></m:msup></m:math>, van ‘n hele populasie en die variansie <m:math overflow="scroll"><m:msup><m:mi>s</m:mi><m:mn>2</m:mn></m:msup></m:math> van ‘n steekproef van die populasie.</para>
+          <para id="id163221"> Wanneer daar met die hele populasie gewerk word is variansie ‘n konstante, ‘n parameter wat help om die hele populasie te beskryf. Wanneer daar met die steekproef van die populasie gewerk word varieer die variansie van steekproef tot steekproef. die steekproef variansie is slegs van belang as ‘n benadering  of skatting van die populasie variansie.</para>
+        </section>
+        <section id="uid7">
+          <title>Eienskappe van Variansie</title>
+          <para id="id163237">Die variansie is nooit negatief nie aangesien die kwadratiese terme of nul of positief is. Die eenheid van variansie is die kwadraat van die eenheid van observasie. Byvoorbeeld, die variansie van ‘n datastel van hoogtes gemeet in sentimeters sal vierkante sentimeter wees. Dit is ‘n ongerieflike eienskap en statistici  kies om eerder die vierkantswortel van die variansie gebruik, wat algemeen bekend staan as die Standaard Afwyking en gebruik word as maatstaf van verspreiding.
+</para>
+        </section>
+  </section>
+
+
+      <section id="uid8">
+        <title>Standaard Afwyking</title>
+        <para id="id163256">Aangesien die variansie ‘n kwadratiese hoeveelheid is kan dit nie direk vergelyk word met die data waardes en die gemiddeld nie. Dit is daarom meer sinvol om ‘n hoeveelheid te gebruik wat die vierkantswortel is die variansie. Hierdie hoeveelheid staan bekend as die standaard afwyking.  </para>
+        <para id="id163262"> In statistiek is die standaard afwyking die mees algemene maatstaf van statistiese verspreiding. Standaard afwyking meet hoe uitgesprei die  waardes in ‘n datastel is. Dit is ‘n maatstaf van die gemiddelde verskil tussen die waardes in ‘n datastel en die gemiddeld van die datastel. Indien die waarders soortgelyk (naby aan mekaar) is sal die standaard afwyking laag wees (nader aan nul wees). Indien die waardes beduidend verskillend (verder van mekaar) is sal die standaard afwyking hoog wees (verder van nul).
+</para>
+        <para id="id163269">Die standaard afwyking is altyd positief en word in die selfde eenheid gemeet as die oorspronklike data. Byvoorbeeld, indien die data in meters gemeet is, sal die standaard afwyking ook in meters gemeet wees. </para>
+        <section id="uid9">
+          <title>Populasie Standaard Afwyking</title>
+          <para id="id163282">Laat die populasie bestaan uit <m:math overflow="scroll"><m:mi>n</m:mi></m:math> elemente <m:math overflow="scroll"><m:mrow><m:mo>{</m:mo><m:msub><m:mi>x</m:mi><m:mn>1</m:mn></m:msub><m:mo>,</m:mo><m:msub><m:mi>x</m:mi><m:mn>2</m:mn></m:msub><m:mo>,</m:mo><m:mo>...</m:mo><m:mo>,</m:mo><m:msub><m:mi>x</m:mi><m:mi>n</m:mi></m:msub><m:mo>}</m:mo></m:mrow></m:math>, met gemiddeld <m:math overflow="scroll"><m:mover accent="true"><m:mi>x</m:mi><m:mo>¯</m:mo></m:mover></m:math>. Due standaard afwyking van die populasie, aangedui met <m:math overflow="scroll"><m:mi>σ</m:mi></m:math>, is die vierkantswortel van die gemiddeld van die kwadraat van die verskil tussen elke data punt en die gemiddeld.</para>
+          <equation id="uid10">
+            <m:math overflow="scroll" mode="display">
+              <m:mrow>
+                <m:mi>σ</m:mi>
+                <m:mo>=</m:mo>
+                <m:msqrt>
+                  <m:mfrac>
+                    <m:mrow>
+                      <m:mo>∑</m:mo>
+                      <m:msup>
+                        <m:mrow>
+                          <m:mo>(</m:mo>
+                          <m:mi>x</m:mi>
+                          <m:mo>-</m:mo>
+                          <m:mover accent="true">
+                            <m:mi>x</m:mi>
+                            <m:mo>¯</m:mo>
+                          </m:mover>
+                          <m:mo>)</m:mo>
+                        </m:mrow>
+                        <m:mn>2</m:mn>
+                      </m:msup>
+                    </m:mrow>
+                    <m:mi>n</m:mi>
+                  </m:mfrac>
+                </m:msqrt>
+              </m:mrow>
+            </m:math>
+          </equation>
+        </section>
+        <section id="uid11">
+          <title>Steekproef  Standaard Afwyking</title>
+          <para id="id163417">Laat die steekproef bestaan uit <m:math overflow="scroll"><m:mi>n</m:mi></m:math> elemente <m:math overflow="scroll"><m:mrow><m:mo>{</m:mo><m:msub><m:mi>x</m:mi><m:mn>1</m:mn></m:msub><m:mo>,</m:mo><m:msub><m:mi>x</m:mi><m:mn>2</m:mn></m:msub><m:mo>,</m:mo><m:mo>...</m:mo><m:mo>,</m:mo><m:msub><m:mi>x</m:mi><m:mi>n</m:mi></m:msub><m:mo>}</m:mo></m:mrow></m:math>, geneem van ‘n populasie met gemiddeld <m:math overflow="scroll"><m:mover accent="true"><m:mi>x</m:mi><m:mo>¯</m:mo></m:mover></m:math>. Die standaard afwyking van die steekproef, aangedui met <m:math overflow="scroll"><m:mi>s</m:mi></m:math>, is die vierkantswortel van die gemiddeld van die kwadraat van die afwykings van die steekproef gemiddeld:</para>
+          <equation id="uid12">
+            <m:math overflow="scroll" mode="display">
+              <m:mrow>
+                <m:mi>s</m:mi>
+                <m:mo>=</m:mo>
+                <m:msqrt>
+                  <m:mfrac>
+                    <m:mrow>
+                      <m:mo>∑</m:mo>
+                      <m:msup>
+                        <m:mrow>
+                          <m:mo>(</m:mo>
+                          <m:mi>x</m:mi>
+                          <m:mo>-</m:mo>
+                          <m:mover accent="true">
+                            <m:mi>x</m:mi>
+                            <m:mo>¯</m:mo>
+                          </m:mover>
+                          <m:mo>)</m:mo>
+                        </m:mrow>
+                        <m:mn>2</m:mn>
+                      </m:msup>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mi>n</m:mi>
+                      <m:mo>-</m:mo>
+                      <m:mn>1</m:mn>
+                    </m:mrow>
+                  </m:mfrac>
+                </m:msqrt>
+              </m:mrow>
+            </m:math>
+          </equation>
+          <para id="id163727">Dit is gewoonlik nuttig om die data in ‘n tabel te plaas om sodoende die formules maklik te gebruil.  Om byvoorbeeld die standaard afwyking te bereken van <m:math overflow="scroll"><m:mrow><m:mo>{</m:mo><m:mn>57</m:mn><m:mo>;</m:mo><m:mn>53</m:mn><m:mo>;</m:mo><m:mn>58</m:mn><m:mo>;</m:mo><m:mn>65</m:mn><m:mo>;</m:mo><m:mn>48</m:mn><m:mo>;</m:mo><m:mn>50</m:mn><m:mo>;</m:mo><m:mn>66</m:mn><m:mo>;</m:mo><m:mn>51</m:mn><m:mo>}</m:mo></m:mrow></m:math>, kan jy dit op die volgende manier voorstel:</para>
+          <equation id="id163775"><m:math overflow="scroll" mode="display">
+              <m:mtable displaystyle="true">
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mover accent="true">
+                      <m:mi>x</m:mi>
+                      <m:mo>¯</m:mo>
+                    </m:mover>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mfrac>
+                      <m:mrow>
+                        <m:mi>som van die elemente</m:mi>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:mi>hoeveelheid elemente</m:mi>
+                      </m:mrow>
+                    </m:mfrac>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd/>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mfrac>
+                      <m:mrow>
+                        <m:mo>∑</m:mo>
+                        <m:mi>x</m:mi>
+                      </m:mrow>
+                      <m:mi>n</m:mi>
+                    </m:mfrac>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd/>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mfrac>
+                      <m:mn>448</m:mn>
+                      <m:mn>8</m:mn>
+                    </m:mfrac>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd/>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mn>56</m:mn>
+                  </m:mtd>
+                </m:mtr>
+              </m:mtable>
+            </m:math>
+          </equation>
+          <para id="id163877"><emphasis effect="bold">Note:</emphasis> Om die afwykings te kry, trek elke getal ad van die gemiddeld. </para>
+          <table id="id163887" summary="">
+            <tgroup cols="3">
+              <tbody>
+                <row>
+                  <entry>
+                    <emphasis effect="bold">
+                      <m:math overflow="scroll">
+                        <m:mover accent="true">
+                          <m:mi>X</m:mi>
+                          <m:mo>¯</m:mo>
+                        </m:mover>
+                      </m:math>
+                    </emphasis>
+                  </entry>
+                  <entry>
+                    <emphasis effect="bold">Afwyking <m:math overflow="scroll"><m:mrow><m:mo>(</m:mo><m:mi>X</m:mi><m:mo>-</m:mo><m:mover accent="true"><m:mi>X</m:mi><m:mo>¯</m:mo></m:mover><m:mo>)</m:mo></m:mrow></m:math></emphasis>
+                  </entry>
+                  <entry>
+                    <emphasis effect="bold">Afwyking kwadraat <m:math overflow="scroll"><m:msup><m:mrow><m:mo>(</m:mo><m:mi>X</m:mi><m:mo>-</m:mo><m:mover accent="true"><m:mi>X</m:mi><m:mo>¯</m:mo></m:mover><m:mo>)</m:mo></m:mrow><m:mn>2</m:mn></m:msup></m:math></emphasis>
+                  </entry>
+                </row>
+                <row>
+                  <entry>57</entry>
+                  <entry>1</entry>
+                  <entry>1</entry>
+                </row>
+                <row>
+                  <entry>53</entry>
+                  <entry>-3</entry>
+                  <entry>9</entry>
+                </row>
+                <row>
+                  <entry>58</entry>
+                  <entry>2</entry>
+                  <entry>4</entry>
+                </row>
+                <row>
+                  <entry>65</entry>
+                  <entry>9</entry>
+                  <entry>81</entry>
+                </row>
+                <row>
+                  <entry>48</entry>
+                  <entry>-8</entry>
+                  <entry>64</entry>
+                </row>
+                <row>
+                  <entry>50</entry>
+                  <entry>-6</entry>
+                  <entry>36</entry>
+                </row>
+                <row>
+                  <entry>66</entry>
+                  <entry>10</entry>
+                  <entry>100</entry>
+                </row>
+                <row>
+                  <entry>51</entry>
+                  <entry>-5</entry>
+                  <entry>25</entry>
+                </row>
+                <row>
+                  <entry>
+                    <m:math overflow="scroll">
+                      <m:mrow>
+                        <m:mo>∑</m:mo>
+                        <m:mi>X</m:mi>
+                        <m:mo>=</m:mo>
+                        <m:mn>448</m:mn>
+                      </m:mrow>
+                    </m:math>
+                  </entry>
+                  <entry>
+                    <m:math overflow="scroll">
+                      <m:mrow>
+                        <m:mo>∑</m:mo>
+                        <m:mi>x</m:mi>
+                        <m:mo>=</m:mo>
+                        <m:mn>0</m:mn>
+                      </m:mrow>
+                    </m:math>
+                  </entry>
+                  <entry>
+                    <m:math overflow="scroll">
+                      <m:mrow>
+                        <m:mo>∑</m:mo>
+                        <m:msup>
+                          <m:mrow>
+                            <m:mo>(</m:mo>
+                            <m:mi>X</m:mi>
+                            <m:mo>-</m:mo>
+                            <m:mover accent="true">
+                              <m:mi>X</m:mi>
+                              <m:mo>¯</m:mo>
+                            </m:mover>
+                            <m:mo>)</m:mo>
+                          </m:mrow>
+                          <m:mn>2</m:mn>
+                        </m:msup>
+                        <m:mo>=</m:mo>
+                        <m:mn>320</m:mn>
+                      </m:mrow>
+                    </m:math>
+                  </entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <!--empty paragraphs get left behind.-->
+          <para id="id164283"><emphasis effect="bold">Note:</emphasis> Die som van die afwykings van om die gemiddeld is nul. Dit sal altyd die geval wees dat <m:math overflow="scroll"><m:mrow><m:mo>(</m:mo><m:mi>X</m:mi><m:mo>-</m:mo><m:mover accent="true"><m:mi>X</m:mi><m:mo>¯</m:mo></m:mover><m:mo>)</m:mo><m:mo>=</m:mo><m:mn>0</m:mn></m:mrow></m:math>, vir enige datastel. Verstaan jy hoekom?</para>
+          <para id="id164320">Bereken die variansie (tel die kwadratiese resultate bymekaar en deel dit deur die hoeveelheid elemente).</para>
+          <equation id="id164326">
+            <m:math overflow="scroll" mode="display">
+              <m:mtable displaystyle="true">
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mi mathvariant="bold">Variance</m:mi>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mfrac>
+                      <m:mrow>
+                        <m:mo>∑</m:mo>
+                        <m:msup>
+                          <m:mrow>
+                            <m:mo>(</m:mo>
+                            <m:mi>X</m:mi>
+                            <m:mo>-</m:mo>
+                            <m:mover accent="true">
+                              <m:mi>X</m:mi>
+                              <m:mo>¯</m:mo>
+                            </m:mover>
+                            <m:mo>)</m:mo>
+                          </m:mrow>
+                          <m:mn>2</m:mn>
+                        </m:msup>
+                      </m:mrow>
+                      <m:mi>n</m:mi>
+                    </m:mfrac>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd/>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mfrac>
+                      <m:mn>320</m:mn>
+                      <m:mn>8</m:mn>
+                    </m:mfrac>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd/>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mn>40</m:mn>
+                  </m:mtd>
+                </m:mtr>
+              </m:mtable>
+            </m:math>
+          </equation>
+          <equation id="id164409"><m:math overflow="scroll" mode="display">
+              <m:mtable displaystyle="true">
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mrow>
+                      <m:mi mathvariant="bold">Standaard Afwyking</m:mi>
+                    </m:mrow>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:msqrt>
+                      <m:mi> variance </m:mi>
+                    </m:msqrt>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd/>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:msqrt>
+                      <m:mfrac>
+                        <m:mrow>
+                          <m:mo>∑</m:mo>
+                          <m:msup>
+                            <m:mrow>
+                              <m:mo>(</m:mo>
+                              <m:mi>X</m:mi>
+                              <m:mo>-</m:mo>
+                              <m:mover accent="true">
+                                <m:mi>X</m:mi>
+                                <m:mo>¯</m:mo>
+                              </m:mover>
+                              <m:mo>)</m:mo>
+                            </m:mrow>
+                            <m:mn>2</m:mn>
+                          </m:msup>
+                        </m:mrow>
+                        <m:mi>n</m:mi>
+                      </m:mfrac>
+                    </m:msqrt>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd/>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:msqrt>
+                      <m:mfrac>
+                        <m:mn>320</m:mn>
+                        <m:mn>8</m:mn>
+                      </m:mfrac>
+                    </m:msqrt>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd/>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:msqrt>
+                      <m:mn>40</m:mn>
+                    </m:msqrt>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd/>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mn>6</m:mn>
+                      <m:mo>.</m:mo>
+                      <m:mn>32</m:mn>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+              </m:mtable>
+            </m:math>
+          </equation>
+        </section>
+        <section id="uid13">
+          <title>Die verskil tussen Populasie Variansie en Steekproef Variansie</title>
+          <para id="id164542">Soos met variansie, tref ons onderskeid tussen standaard afwyking  <m:math overflow="scroll"><m:mi>σ</m:mi></m:math>, van ‘n hele populasie en standaard afwyking, <m:math overflow="scroll"><m:mi>s</m:mi></m:math>, van ‘n steekproef onttrek vanuit die hele populasie.</para>
+          <para id="id164565">Wanneer ons met die hele populasie werk is die (populasie) standaard afwyking ‘n konstante wat help om die populasie te beskryf. Wanneer ons met ‘n steekproef van die populasie werk verskil die (steekproef) standaard afwyking van steekproef tot steekproef.
+ </para>
+          <para id="id164571">
+            <emphasis effect="bold">Met ander woorde: Die standaard afwyking kan as volg bereken word: </emphasis>
+          </para>
+          <list id="id164580" display="block" list-type="enumerated">
+            <item id="uid14">Bereken die gemiddelde waarde <m:math overflow="scroll"><m:mover accent="true"><m:mi>x</m:mi><m:mo>¯</m:mo></m:mover></m:math>.
+</item>
+            <item id="uid15">Vir elke data waarde <m:math overflow="scroll"><m:msub><m:mi>x</m:mi><m:mi>i</m:mi></m:msub></m:math> bereken die verskil <m:math overflow="scroll"><m:mrow><m:msub><m:mi>x</m:mi><m:mi>i</m:mi></m:msub><m:mo>-</m:mo><m:mover accent="true"><m:mi>x</m:mi><m:mo>¯</m:mo></m:mover></m:mrow></m:math> tussen <m:math overflow="scroll"><m:msub><m:mi>x</m:mi><m:mi>i</m:mi></m:msub></m:math> en die gemiddelde waarde <m:math overflow="scroll"><m:mover accent="true"><m:mi>x</m:mi><m:mo>¯</m:mo></m:mover></m:math>.
+</item>
+            <item id="uid16">Bereken die kwadraat van hierdie verskille.
+</item>
+            <item id="uid17">Vind die gemiddeld van die kwadratiese verskille. Hierdie hoeveelheid is die variansie, <m:math overflow="scroll"><m:msup><m:mi>σ</m:mi><m:mn>2</m:mn></m:msup></m:math>.
+</item>
+            <item id="uid18">Neem die vierkantswortel van die variansie om die standaard afwyking te verkry., <m:math overflow="scroll"><m:mi>σ</m:mi></m:math>.
+</item>
+          </list>
+<para id="eip-479"><figure id="statistics-2" class="khanacademy">
+	  <title>Khan academy video on standard deviation</title>
+	  <media id="yt-media2" display="block" alt="video on statistics 2">
+	  <flash id="yt-video2" mime-type="application/x-shockwave-flash" src="http://www.youtube.com/v/HvDqbzu0i0E&amp;rel=0&amp;hl=en_US&amp;feature=player_embedded&amp;version=3" width="425" height="344">
+	  <param name="allowscriptaccess" value="always"/>
+	  <param name="allowsfullscreen" value="true"/>
+	  </flash>
+	  </media>
+	  </figure></para><exercise id="secfhsst_id572"><title> Variansie and Standaard Afwyking </title>
+          <problem id="probfhsst_id573">
+          <para id="id164768">Wat is die variansie en standaard afwyking van die populasie van die moontlikehede wat met ‘n regverdige dobbelsteen assosieer word?
+ </para>
+          </problem>
+          <solution id="solfhsst_id576"> <list id="listfhsst_id576" list-type="enumerated" number-style="arabic" class="stepwise">
+          <item> <label> Bepaal hoeveel uitkomste die populasie opmaak. </label>
+          <para id="id164792">Wanneer die regverdige dobbelsteen gerol word, bestaan die daar 6 moontlike uitkomstes. Die datastel is daarom <m:math overflow="scroll"><m:mrow><m:mi>x</m:mi><m:mo>=</m:mo><m:mo>{</m:mo><m:mn>1</m:mn><m:mo>,</m:mo><m:mn>2</m:mn><m:mo>,</m:mo><m:mn>3</m:mn><m:mo>,</m:mo><m:mn>4</m:mn><m:mo>,</m:mo><m:mn>5</m:mn><m:mo>,</m:mo><m:mn>6</m:mn><m:mo>}</m:mo></m:mrow></m:math>. en n=6.</para>
+          </item> <item> <label> Bereken die populasie gemiddeld </label>
+          <para id="id164841">Die populasie gemiddeld word bereken deur:</para>
+          <equation id="id164844">
+            <m:math overflow="scroll" mode="display">
+              <m:mtable displaystyle="true">
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mover accent="true">
+                      <m:mi>x</m:mi>
+                      <m:mo>¯</m:mo>
+                    </m:mover>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mfrac>
+                        <m:mn>1</m:mn>
+                        <m:mn>6</m:mn>
+                      </m:mfrac>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:mn>1</m:mn>
+                        <m:mo>+</m:mo>
+                        <m:mn>2</m:mn>
+                        <m:mo>+</m:mo>
+                        <m:mn>3</m:mn>
+                        <m:mo>+</m:mo>
+                        <m:mn>4</m:mn>
+                        <m:mo>+</m:mo>
+                        <m:mn>5</m:mn>
+                        <m:mo>+</m:mo>
+                        <m:mn>6</m:mn>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd/>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mn>3</m:mn>
+                      <m:mo>,</m:mo>
+                      <m:mn>5</m:mn>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+              </m:mtable>
+            </m:math>
+          </equation>
+          </item> <item> <label> Bereken die populasie variansie </label>
+          <para id="id164932">Die populasie variansie word bereken deur:</para>
+          <equation id="id164936">
+            <m:math overflow="scroll" mode="display">
+              <m:mtable displaystyle="true">
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:msup>
+                      <m:mi>σ</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msup>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mfrac>
+                      <m:mrow>
+                        <m:mo>∑</m:mo>
+                        <m:msup>
+                          <m:mrow>
+                            <m:mo>(</m:mo>
+                            <m:mi>x</m:mi>
+                            <m:mo>-</m:mo>
+                            <m:mover accent="true">
+                              <m:mi>x</m:mi>
+                              <m:mo>¯</m:mo>
+                            </m:mover>
+                            <m:mo>)</m:mo>
+                          </m:mrow>
+                          <m:mn>2</m:mn>
+                        </m:msup>
+                      </m:mrow>
+                      <m:mi>n</m:mi>
+                    </m:mfrac>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd/>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mfrac>
+                        <m:mn>1</m:mn>
+                        <m:mn>6</m:mn>
+                      </m:mfrac>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:mn>6</m:mn>
+                        <m:mo>,</m:mo>
+                        <m:mn>25</m:mn>
+                        <m:mo>+</m:mo>
+                        <m:mn>2</m:mn>
+                        <m:mo>,</m:mo>
+                        <m:mn>25</m:mn>
+                        <m:mo>+</m:mo>
+                        <m:mn>0</m:mn>
+                        <m:mo>,</m:mo>
+                        <m:mn>25</m:mn>
+                        <m:mo>+</m:mo>
+                        <m:mn>0</m:mn>
+                        <m:mo>,</m:mo>
+                        <m:mn>25</m:mn>
+                        <m:mo>+</m:mo>
+                        <m:mn>2</m:mn>
+                        <m:mo>,</m:mo>
+                        <m:mn>25</m:mn>
+                        <m:mo>+</m:mo>
+                        <m:mn>6</m:mn>
+                        <m:mo>,</m:mo>
+                        <m:mn>25</m:mn>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd/>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mn>2</m:mn>
+                      <m:mo>,</m:mo>
+                      <m:mn>917</m:mn>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+              </m:mtable>
+            </m:math>
+          </equation>
+          </item> <item> <label> Alternatiewelik kan die populasie variansie berken word deur: </label>
+          <table id="id165089" summary="">
+            <tgroup cols="3">
+              <tbody>
+                <row>
+                  <entry>
+                    <m:math overflow="scroll">
+                      <m:mover accent="true">
+                        <m:mi>X</m:mi>
+                        <m:mo>¯</m:mo>
+                      </m:mover>
+                    </m:math>
+                  </entry>
+                  <entry>
+                    <m:math overflow="scroll">
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:mi>X</m:mi>
+                        <m:mo>-</m:mo>
+                        <m:mover accent="true">
+                          <m:mi>X</m:mi>
+                          <m:mo>¯</m:mo>
+                        </m:mover>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                    </m:math>
+                  </entry>
+                  <entry>
+                    <m:math overflow="scroll">
+                      <m:msup>
+                        <m:mrow>
+                          <m:mo>(</m:mo>
+                          <m:mi>X</m:mi>
+                          <m:mo>-</m:mo>
+                          <m:mover accent="true">
+                            <m:mi>X</m:mi>
+                            <m:mo>¯</m:mo>
+                          </m:mover>
+                          <m:mo>)</m:mo>
+                        </m:mrow>
+                        <m:mn>2</m:mn>
+                      </m:msup>
+                    </m:math>
+                  </entry>
+                </row>
+                <row>
+                  <entry>1</entry>
+                  <entry>-2.5</entry>
+                  <entry>6.25</entry>
+                </row>
+                <row>
+                  <entry>2</entry>
+                  <entry>-1.5</entry>
+                  <entry>2.25</entry>
+                </row>
+                <row>
+                  <entry>3</entry>
+                  <entry>-0.5</entry>
+                  <entry>0.25</entry>
+                </row>
+                <row>
+                  <entry>4</entry>
+                  <entry>0.5</entry>
+                  <entry>0.25</entry>
+                </row>
+                <row>
+                  <entry>5</entry>
+                  <entry>1.5</entry>
+                  <entry>2.25</entry>
+                </row>
+                <row>
+                  <entry>6</entry>
+                  <entry>2.5</entry>
+                  <entry>6.25</entry>
+                </row>
+                <row>
+                  <entry>
+                    <m:math overflow="scroll">
+                      <m:mrow>
+                        <m:mo>∑</m:mo>
+                        <m:mi>X</m:mi>
+                        <m:mo>=</m:mo>
+                        <m:mn>21</m:mn>
+                      </m:mrow>
+                    </m:math>
+                  </entry>
+                  <entry>
+                    <m:math overflow="scroll">
+                      <m:mrow>
+                        <m:mo>∑</m:mo>
+                        <m:mi>x</m:mi>
+                        <m:mo>=</m:mo>
+                        <m:mn>0</m:mn>
+                      </m:mrow>
+                    </m:math>
+                  </entry>
+                  <entry>
+                    <m:math overflow="scroll">
+                      <m:mrow>
+                        <m:mo>∑</m:mo>
+                        <m:msup>
+                          <m:mrow>
+                            <m:mo>(</m:mo>
+                            <m:mi>X</m:mi>
+                            <m:mo>-</m:mo>
+                            <m:mover accent="true">
+                              <m:mi>X</m:mi>
+                              <m:mo>¯</m:mo>
+                            </m:mover>
+                            <m:mo>)</m:mo>
+                          </m:mrow>
+                          <m:mn>2</m:mn>
+                        </m:msup>
+                        <m:mo>=</m:mo>
+                        <m:mn>17</m:mn>
+                        <m:mo>.</m:mo>
+                        <m:mn>5</m:mn>
+                      </m:mrow>
+                    </m:math>
+                  </entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <!--empty paragraphs get left behind.-->
+          </item> <item> <label> Bereken die standaard afwyking </label>
+          <para id="id165457">Die (populasie) standaard afwyking word bereken deur:</para>
+          <equation id="id165461">
+            <m:math overflow="scroll" mode="display">
+              <m:mtable displaystyle="true">
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mi>σ</m:mi>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:msqrt>
+                      <m:mrow>
+                        <m:mn>2</m:mn>
+                        <m:mo>,</m:mo>
+                        <m:mn>917</m:mn>
+                      </m:mrow>
+                    </m:msqrt>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd/>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mn>1</m:mn>
+                      <m:mo>,</m:mo>
+                      <m:mn>708</m:mn>
+                      <m:mo>.</m:mo>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+              </m:mtable>
+            </m:math>
+          </equation>
+          <para id="id165513">Let op hoe hierdie standaard afwyking êrens tussen die moontlike afwykings lê. </para>
+          </item> </list> </solution>
+</exercise>
+        </section>
+      </section>
+      <section id="uid19">
+        <title>Interpretasie en Toepassings </title>
+        <para id="id165541">’n Groot standaard afwykingdui aan dat die waardes in die datastel ver is van die gemiddeld en ‘n klein standaard afwyking dui aan hulle gegroepeer is naby aan die gemiddeld. </para>
+        <para id="id165546">Byvoorbeeld,elk van die drie steekproewe (0, 0, 14, 14), (0, 6, 8, 14), en (6, 6, 8, 8) het afsonderlik ‘n gemiddeld van 7. Die standaard afwykings is afsonderlik 8.08, 5.77 en 1.15. Die derde stel het ‘n veel kleiner standaard afwyking as die ander twee omdat die elemente nader aan 7 is. Die waarde van die standaard afwyking kan slegs evalueer word as groot of klein relatief tot die steekproef wat geneem word. In hierdie geval, is ‘n standaard afwyking van 7 taamlik groot. Gegewe ‘n ander steekproef, relatief klein gewees het. </para>
+        <para id="id165559">Standaard afwyking kan gesien word as die mate van onsekerheid. In die Wetenskap byvoorbeeld, sal dia standaard afwyking van die resultate van ‘n herhaalde eksperiment aandui hoe presies die metings was. Wanneer daar besluit word of metings ooreenstem met ‘n teoretiese voorspelling, is die standaard afwyking van uiterste belang: Indien die gemiddeld van die meetings te ver weg is van die voorspelling (met “afstand” gemeet in standaard afwykings), is die metings teenstrydig met die voorspelling. Dit maak sin omdat hulle buite die strekking van waardes val wat redelik verwag kan word indien die voorspelling korrek was, en die standaard afwyking ooreenstemmend bereken is. (Kyk ook na voorspellingsinterval.)</para>
+      </section>
+      <section id="uid20">
+        <title>Verhouding tussen Standaard Afwyking en die Gemiddeld </title>
+        <para id="id165578">Die gemiddeld en die standaard afwyking van ‘n datastel word gewoonlik saam gegee. In ‘n sekere sin, is die standaard afwyking ‘n “natuurlike” maatstaf van statistiese dispersie indien die middel van die data stel om die gemiddeld gemeet word. </para>
+<section id="secfhsst_id906"><title> Gemiddeld en standaard afwykings </title>
+        <list id="id165593" display="block" list-type="enumerated">
+          <item id="uid21">Bridget het ‘n opname gemaak van die prys van petrol by vulstasies in Kaapstad en Durban. Die rou data, in rand per liter word hier onder gegee:
+<table id="id165609" summary="Tabel van pertrol pryse in Kaapstad en Durban ">
+<tgroup cols="7"><tbody><row><entry>Kaapstad </entry><entry>8,96</entry><entry>8,76</entry><entry>9,00</entry><entry>8,91</entry><entry>8,69</entry><entry>8,72</entry></row><row><entry>Durban</entry><entry>8,97</entry><entry>8,81</entry><entry>8,52</entry><entry>9,08</entry><entry>8,88</entry><entry>8,68</entry></row></tbody>
+</tgroup>
+</table><list id="id165700" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid22">Vind die data gemiddelde prys in elke stad en bepaal dan watter een het die laagste gemiddeld. 
+</item><item id="uid23">Neem aan dat die data die hele populasie is. Vind die standaard afwyking vir die pryse in elke stad.
+</item><item id="uid24">Neem aan die data is ‘n steekproef en vind die standaard afwyking vir die pryse in elke stad.
+</item><item id="uid25">Watter stad het meer konsekwente pryse vir petrol?
+</item></list></item>
+          <item id="uid26">Die volgende data verteenwoordig die sakgeld vir ‘n steekproef van tieners.
+150; 300; 250; 270; 130; 80; 700; 500; 200; 220; 110; 320; 420; 140.
+Wat is die standaard afwyking?
+ </item>
+          <item id="uid27">Gestel ‘n datastel gee die gewig van 50 katte by ‘n skou.
+<list id="id165792" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid28">Wanneer word die data gesien as ‘n populasie?
+</item><item id="uid29">Wanneer word die data gesien as ‘n steekproef?
+</item></list></item>
+          <item id="uid30">Gestel ‘n datastel gee die resultate van 20 studente in ‘n klas.
+<list id="id165833" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid31"> Wanneer word die data gesien as ‘n populasie?
+</item><item id="uid32"> Wanneer word die data gesien as ‘n steekproef?
+</item></list></item>
+        </list>
+        
+</section>
+      </section>
+    
+</section>
+
+  </content>
+</document>

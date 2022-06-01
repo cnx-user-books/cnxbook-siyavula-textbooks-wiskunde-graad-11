@@ -1,0 +1,1538 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Reduksieformule</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m39211</md:content-id>
+  <md:title>Reduksieformule</md:title>
+  <md:abstract/>
+  <md:uuid>1d69300f-b905-4903-ba4b-ddbebc6325e3</md:uuid>
+</metadata>
+
+<content>
+      <section id="uid106"><title>Reduksie Formule</title><para id="id316897">Enige trigonometriese funksie wat se argument <m:math overflow="scroll"><m:mrow><m:msup><m:mn>90</m:mn><m:mo>∘</m:mo></m:msup><m:mo>±</m:mo><m:mi>θ</m:mi></m:mrow></m:math>, <m:math overflow="scroll"><m:mrow><m:msup><m:mn>180</m:mn><m:mo>∘</m:mo></m:msup><m:mo>±</m:mo><m:mi>θ</m:mi></m:mrow></m:math>, <m:math overflow="scroll"><m:mrow><m:msup><m:mn>270</m:mn><m:mo>∘</m:mo></m:msup><m:mo>±</m:mo><m:mi>θ</m:mi></m:mrow></m:math> is en <m:math overflow="scroll"><m:mrow><m:msup><m:mn>360</m:mn><m:mo>∘</m:mo></m:msup><m:mo>±</m:mo><m:mi>θ</m:mi></m:mrow></m:math> (dus <m:math overflow="scroll"><m:mrow><m:mo>-</m:mo><m:mi>θ</m:mi></m:mrow></m:math>) kan eenvoudig geskryf word in terme van <m:math overflow="scroll"><m:mi>θ</m:mi></m:math>. Byvoorbeeld, jy kon opgemerk het dat die cosinus-grafiek identies is aan die sinus-grafiek behalwe vir 'n fase verskuiwing van <m:math overflow="scroll"><m:msup><m:mn>90</m:mn><m:mo>∘</m:mo></m:msup></m:math>. Dit kan dus afgelei word dat <m:math overflow="scroll"><m:mrow><m:mo form="prefix">sin</m:mo><m:mo>(</m:mo><m:msup><m:mn>90</m:mn><m:mo>∘</m:mo></m:msup><m:mo>+</m:mo><m:mi>θ</m:mi><m:mo>)</m:mo><m:mo>=</m:mo><m:mo form="prefix">cos</m:mo><m:mi>θ</m:mi></m:mrow></m:math>.</para>
+        <section id="uid107">
+          <title>Funksie waardes van <m:math overflow="scroll"><m:mrow><m:msup><m:mn>180</m:mn><m:mo>∘</m:mo></m:msup><m:mo>±</m:mo><m:mi>θ</m:mi></m:mrow></m:math></title>
+<section id="secfhsst_id3147"><title>Ondersoek : Reduksie Formules vir Funksie Waardes van <m:math overflow="scroll"><m:mrow><m:msup><m:mn>180</m:mn><m:mo>∘</m:mo></m:msup><m:mo>±</m:mo><m:mi>θ</m:mi></m:mrow></m:math> </title>
+          <list id="id317111" display="block" list-type="enumerated"><item id="uid108">
+              <emphasis effect="bold">Funksie Waardes van <m:math overflow="scroll"><m:mrow><m:mo>(</m:mo><m:msup><m:mn>180</m:mn><m:mo>∘</m:mo></m:msup><m:mo>-</m:mo><m:mi>θ</m:mi><m:mo>)</m:mo></m:mrow></m:math></emphasis>
+              <list id="id317159" display="block" list-type="enumerated">
+                <item id="uid109">In die figuur lê P en P' op die sirkel met radius 2. OP vorm 'n hoek <m:math overflow="scroll"><m:mrow><m:mi>θ</m:mi><m:mo>=</m:mo><m:msup><m:mn>30</m:mn><m:mo>∘</m:mo></m:msup></m:mrow></m:math> met die <m:math overflow="scroll"><m:mi>x</m:mi></m:math>-as. P het dus die koördinate <m:math overflow="scroll"><m:mrow><m:mo>(</m:mo><m:msqrt><m:mn>3</m:mn></m:msqrt><m:mo>;</m:mo><m:mn>1</m:mn><m:mo>)</m:mo></m:mrow></m:math>. As P' die refleksie van P om die <m:math overflow="scroll"><m:mi>y</m:mi></m:math>-as (of die lyn <m:math overflow="scroll"><m:mrow><m:mi>x</m:mi><m:mo>=</m:mo><m:mn>0</m:mn></m:mrow></m:math>) is, gebruik simmetrie om die koördinate van P' neer te skryf.
+</item>
+                <item id="uid110">Gee waardes vir <m:math overflow="scroll"><m:mrow><m:mo form="prefix">sin</m:mo><m:mi>θ</m:mi></m:mrow></m:math>, <m:math overflow="scroll"><m:mrow><m:mo form="prefix">cos</m:mo><m:mi>θ</m:mi></m:mrow></m:math> en <m:math overflow="scroll"><m:mrow><m:mo form="prefix">tan</m:mo><m:mi>θ</m:mi></m:mrow></m:math>.
+</item>
+                <item id="uid111">Deur gebruik te maak van die koördinate van P' bepaal: <m:math overflow="scroll"><m:mrow><m:mo form="prefix">sin</m:mo><m:mo>(</m:mo><m:msup><m:mn>180</m:mn><m:mo>∘</m:mo></m:msup><m:mo>-</m:mo><m:mi>θ</m:mi><m:mo>)</m:mo></m:mrow></m:math>, <m:math overflow="scroll"><m:mrow><m:mo form="prefix">cos</m:mo><m:mo>(</m:mo><m:msup><m:mn>180</m:mn><m:mo>∘</m:mo></m:msup><m:mo>-</m:mo><m:mi>θ</m:mi><m:mo>)</m:mo></m:mrow></m:math> en <m:math overflow="scroll"><m:mrow><m:mo form="prefix">tan</m:mo><m:mo>(</m:mo><m:msup><m:mn>180</m:mn><m:mo>∘</m:mo></m:msup><m:mo>-</m:mo><m:mi>θ</m:mi><m:mo>)</m:mo></m:mrow></m:math>.
+</item>
+              </list>
+              <figure id="id317407">
+                <media id="id317407_media" alt="">
+                  <image mime-type="image/png" src="../../media/MG11C17_023.png" id="id317407_onlineimage" width="231"><!-- NOTE: attribute width changes image size online (pixels). original width is 231. --></image>
+                  <image mime-type="application/postscript" for="pdf" src="../../media/MG11C17_023.eps" id="id317407_printimage"/>
+                </media>
+              </figure>
+              <list id="id317418" display="block" list-type="enumerated">
+                <item id="uid112"><label>(d)</label>Probeer om uit die resultate 'n verhouding tussen die funksie waardes van <m:math overflow="scroll"><m:mrow><m:mo>(</m:mo><m:msup><m:mn>180</m:mn><m:mo>∘</m:mo></m:msup><m:mo>-</m:mo><m:mi>θ</m:mi><m:mo>)</m:mo></m:mrow></m:math> en <m:math overflow="scroll"><m:mi>θ</m:mi></m:math> te bepaal.
+</item>
+              </list>
+            </item>
+            <item id="uid113">
+              <emphasis effect="bold">Funksie waardes van <m:math overflow="scroll"><m:mrow><m:mo>(</m:mo><m:msup><m:mn>180</m:mn><m:mo>∘</m:mo></m:msup><m:mo>+</m:mo><m:mi>θ</m:mi><m:mo>)</m:mo></m:mrow></m:math></emphasis>
+              <list id="id317516" display="block" list-type="enumerated">
+                <item id="uid114">In die figuur lê P en P' op die sirkel met radius 2. OP vorm 'n hoek <m:math overflow="scroll"><m:mrow><m:mi>θ</m:mi><m:mo>=</m:mo><m:msup><m:mn>30</m:mn><m:mo>∘</m:mo></m:msup></m:mrow></m:math> met die <m:math overflow="scroll"><m:mi>x</m:mi></m:math>-as. P het dus die koördinate <m:math overflow="scroll"><m:mrow><m:mo>(</m:mo><m:msqrt><m:mn>3</m:mn></m:msqrt><m:mo>;</m:mo><m:mn>1</m:mn><m:mo>)</m:mo></m:mrow></m:math>. As P' die refleksie van P om die <m:math overflow="scroll"><m:mi>y</m:mi></m:math>-as (of die lyn <m:math overflow="scroll"><m:mrow><m:mi>x</m:mi><m:mo>=</m:mo><m:mn>0</m:mn></m:mrow></m:math>) is, gebruik simmetrie om die koördinate van P' neer te skryf.
+</item>
+                <item id="uid115">Gee waardes vir <m:math overflow="scroll"><m:mrow><m:mo form="prefix">sin</m:mo><m:mi>θ</m:mi></m:mrow></m:math>, <m:math overflow="scroll"><m:mrow><m:mo form="prefix">cos</m:mo><m:mi>θ</m:mi></m:mrow></m:math> en <m:math overflow="scroll"><m:mrow><m:mo form="prefix">tan</m:mo><m:mi>θ</m:mi></m:mrow></m:math>.
+</item>
+                <item id="uid116">Deur gebruik te maak van die koördinate van P' bepaal: <m:math overflow="scroll"><m:mrow><m:mo form="prefix">sin</m:mo><m:mo>(</m:mo><m:msup><m:mn>180</m:mn><m:mo>∘</m:mo></m:msup><m:mo>+</m:mo><m:mi>θ</m:mi><m:mo>)</m:mo></m:mrow></m:math>, <m:math overflow="scroll"><m:mrow><m:mo form="prefix">cos</m:mo><m:mo>(</m:mo><m:msup><m:mn>180</m:mn><m:mo>∘</m:mo></m:msup><m:mo>+</m:mo><m:mi>θ</m:mi><m:mo>)</m:mo></m:mrow></m:math> en <m:math overflow="scroll"><m:mrow><m:mo form="prefix">tan</m:mo><m:mo>(</m:mo><m:msup><m:mn>180</m:mn><m:mo>∘</m:mo></m:msup><m:mo>+</m:mo><m:mi>θ</m:mi><m:mo>)</m:mo></m:mrow></m:math>.
+</item>
+              </list>
+              <figure id="id317779">
+                <media id="id317779_media" alt="">
+                  <image mime-type="image/png" src="../../media/MG11C17_024.png" id="id317779_onlineimage" width="231"><!-- NOTE: attribute width changes image size online (pixels). original width is 231. --></image>
+                  <image mime-type="application/postscript" for="pdf" src="../../media/MG11C17_024.eps" id="id317779_printimage"/>
+                </media>
+              </figure>
+            </item>
+          </list>
+          
+</section>
+<section id="secfhsst_id3190"><title>Ondersoek: Reduksie Formules vir Funksie Waardes van <m:math overflow="scroll"><m:mrow><m:msup><m:mn>360</m:mn><m:mo>∘</m:mo></m:msup><m:mo>±</m:mo><m:mi>θ</m:mi></m:mrow></m:math> </title><list id="id317824" display="block" list-type="enumerated"><item id="uid117">
+              <emphasis effect="bold">Funksie waardes van <m:math overflow="scroll"><m:mrow><m:mo>(</m:mo><m:msup><m:mn>360</m:mn><m:mo>∘</m:mo></m:msup><m:mo>-</m:mo><m:mi>θ</m:mi><m:mo>)</m:mo></m:mrow></m:math></emphasis>
+              <list id="id317872" display="block" list-type="enumerated"><item id="uid118">In die figuur lê P en P' op die sirkel met radius 2. OP vorm 'n hoek <m:math overflow="scroll"><m:mrow><m:mi>θ</m:mi><m:mo>=</m:mo><m:msup><m:mn>30</m:mn><m:mo>∘</m:mo></m:msup></m:mrow></m:math> met die <m:math overflow="scroll"><m:mi>x</m:mi></m:math>-as. P het dus die koördinate <m:math overflow="scroll"><m:mrow><m:mo>(</m:mo><m:msqrt><m:mn>3</m:mn></m:msqrt><m:mo>;</m:mo><m:mn>1</m:mn><m:mo>)</m:mo></m:mrow></m:math>. As P' die refleksie van P om die <m:math overflow="scroll"><m:mi>y</m:mi></m:math>-as (of die lyn <m:math overflow="scroll"><m:mrow><m:mi>x</m:mi><m:mo>=</m:mo><m:mn>0</m:mn></m:mrow></m:math>) is, gebruik simmetrie om die koördinate van P' neer te skryf.
+</item>
+                <item id="uid119">Gee waardes vir <m:math overflow="scroll"><m:mrow><m:mo form="prefix">sin</m:mo><m:mi>θ</m:mi></m:mrow></m:math>, <m:math overflow="scroll"><m:mrow><m:mo form="prefix">cos</m:mo><m:mi>θ</m:mi></m:mrow></m:math> en <m:math overflow="scroll"><m:mrow><m:mo form="prefix">tan</m:mo><m:mi>θ</m:mi></m:mrow></m:math>.
+</item>
+                <item id="uid120">Deur gebruik te maak van die koördinate van P' bepaal: <m:math overflow="scroll"><m:mrow><m:mo form="prefix">sin</m:mo><m:mo>(</m:mo><m:msup><m:mn>360</m:mn><m:mo>∘</m:mo></m:msup><m:mo>-</m:mo><m:mi>θ</m:mi><m:mo>)</m:mo></m:mrow></m:math>, <m:math overflow="scroll"><m:mrow><m:mo form="prefix">cos</m:mo><m:mo>(</m:mo><m:msup><m:mn>360</m:mn><m:mo>∘</m:mo></m:msup><m:mo>-</m:mo><m:mi>θ</m:mi><m:mo>)</m:mo></m:mrow></m:math> en <m:math overflow="scroll"><m:mrow><m:mo form="prefix">tan</m:mo><m:mo>(</m:mo><m:msup><m:mn>360</m:mn><m:mo>∘</m:mo></m:msup><m:mo>-</m:mo><m:mi>θ</m:mi><m:mo>)</m:mo></m:mrow></m:math>.
+</item>
+              </list>
+              <figure id="id318110">
+                <media id="id318110_media" alt="">
+                  <image mime-type="image/png" src="../../media/MG11C17_025.png" id="id318110_onlineimage" width="231"><!-- NOTE: attribute width changes image size online (pixels). original width is 231. --></image>
+                  <image mime-type="application/postscript" for="pdf" src="../../media/MG11C17_025.eps" id="id318110_printimage"/>
+                </media>
+              </figure>
+            </item>
+          </list>
+          
+</section>
+          <para id="id318128">Dit is moontlik om 'n hoek groter as <m:math overflow="scroll"><m:msup><m:mn>360</m:mn><m:mo>∘</m:mo></m:msup></m:math> te hê. Die hoek voltooi een omwenteling van <m:math overflow="scroll"><m:msup><m:mn>360</m:mn><m:mo>∘</m:mo></m:msup></m:math> en dan gaan dit voort om die vereiste hoek te gee. Ons kry die volgende resultate:</para>
+          <equation id="id318162">
+            <m:math overflow="scroll" mode="display">
+              <m:mtable displaystyle="true">
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mrow>
+                      <m:mo form="prefix">sin</m:mo>
+                      <m:mo>(</m:mo>
+                      <m:msup>
+                        <m:mn>360</m:mn>
+                        <m:mo>∘</m:mo>
+                      </m:msup>
+                      <m:mo>+</m:mo>
+                      <m:mi>θ</m:mi>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mo form="prefix">sin</m:mo>
+                      <m:mi>θ</m:mi>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mrow>
+                      <m:mo form="prefix">cos</m:mo>
+                      <m:mo>(</m:mo>
+                      <m:msup>
+                        <m:mn>360</m:mn>
+                        <m:mo>∘</m:mo>
+                      </m:msup>
+                      <m:mo>+</m:mo>
+                      <m:mi>θ</m:mi>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mo form="prefix">cos</m:mo>
+                      <m:mi>θ</m:mi>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mrow>
+                      <m:mo form="prefix">tan</m:mo>
+                      <m:mo>(</m:mo>
+                      <m:msup>
+                        <m:mn>360</m:mn>
+                        <m:mo>∘</m:mo>
+                      </m:msup>
+                      <m:mo>+</m:mo>
+                      <m:mi>θ</m:mi>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mo form="prefix">tan</m:mo>
+                      <m:mi>θ</m:mi>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+              </m:mtable>
+            </m:math>
+          </equation>
+          <para id="id318296">Neem ook kennis, dat as <m:math overflow="scroll"><m:mi>k</m:mi></m:math> enige heelgetal is, dan is</para>
+          <equation id="id318309">
+            <m:math overflow="scroll" mode="display">
+              <m:mtable displaystyle="true">
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mrow>
+                      <m:mo form="prefix">sin</m:mo>
+                      <m:mo>(</m:mo>
+                      <m:mi>k</m:mi>
+                      <m:msup>
+                        <m:mn>360</m:mn>
+                        <m:mo>∘</m:mo>
+                      </m:msup>
+                      <m:mo>+</m:mo>
+                      <m:mi>θ</m:mi>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mo form="prefix">sin</m:mo>
+                      <m:mi>θ</m:mi>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mrow>
+                      <m:mo form="prefix">cos</m:mo>
+                      <m:mo>(</m:mo>
+                      <m:mi>k</m:mi>
+                      <m:msup>
+                        <m:mn>360</m:mn>
+                        <m:mo>∘</m:mo>
+                      </m:msup>
+                      <m:mo>+</m:mo>
+                      <m:mi>θ</m:mi>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mo form="prefix">cos</m:mo>
+                      <m:mi>θ</m:mi>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mrow>
+                      <m:mo form="prefix">tan</m:mo>
+                      <m:mo>(</m:mo>
+                      <m:mi>k</m:mi>
+                      <m:msup>
+                        <m:mn>360</m:mn>
+                        <m:mo>∘</m:mo>
+                      </m:msup>
+                      <m:mo>+</m:mo>
+                      <m:mi>θ</m:mi>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mo form="prefix">tan</m:mo>
+                      <m:mi>θ</m:mi>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+              </m:mtable>
+            </m:math>
+          </equation>
+<exercise id="secfhsst_id3373"><title>Basiese gebruik van 'n reduksie formule</title><problem id="probfhsst_id3374">
+          <para id="id318462">Skryf <m:math overflow="scroll"><m:mrow><m:mo form="prefix">sin</m:mo><m:msup><m:mn>293</m:mn><m:mo>∘</m:mo></m:msup></m:mrow></m:math> as die funksie van 'n skerphoek.
+ </para>
+          </problem>
+          <solution id="solfhsst_id3378"> <list id="listfhsst_id3378" list-type="enumerated" number-style="arabic" class="stepwise"><item> <label> Ons let op dat <m:math overflow="scroll"><m:mrow><m:msup><m:mn>293</m:mn><m:mo>∘</m:mo></m:msup><m:mo>=</m:mo><m:msup><m:mn>360</m:mn><m:mo>∘</m:mo></m:msup><m:mo>-</m:mo><m:msup><m:mn>67</m:mn><m:mo>∘</m:mo></m:msup></m:mrow></m:math> dus </label>
+          <equation id="id318540">
+            <m:math overflow="scroll" mode="display">
+              <m:mtable displaystyle="true">
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mrow>
+                      <m:mo form="prefix">sin</m:mo>
+                      <m:msup>
+                        <m:mn>293</m:mn>
+                        <m:mo>∘</m:mo>
+                      </m:msup>
+                    </m:mrow>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mo form="prefix">sin</m:mo>
+                      <m:mo>(</m:mo>
+                      <m:msup>
+                        <m:mn>360</m:mn>
+                        <m:mo>∘</m:mo>
+                      </m:msup>
+                      <m:mo>-</m:mo>
+                      <m:msup>
+                        <m:mn>67</m:mn>
+                        <m:mo>∘</m:mo>
+                      </m:msup>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd/>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mo>-</m:mo>
+                      <m:mo form="prefix">sin</m:mo>
+                      <m:msup>
+                        <m:mn>67</m:mn>
+                        <m:mo>∘</m:mo>
+                      </m:msup>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+              </m:mtable>
+            </m:math>
+          </equation>
+          <para id="id318628">waar ons die feit gebruik het dat <m:math overflow="scroll"><m:mrow><m:mo form="prefix">sin</m:mo><m:mo>(</m:mo><m:msup><m:mn>360</m:mn><m:mo>∘</m:mo></m:msup><m:mo>-</m:mo><m:mi>θ</m:mi><m:mo>)</m:mo><m:mo>=</m:mo><m:mo>-</m:mo><m:mo form="prefix">sin</m:mo><m:mi>θ</m:mi></m:mrow></m:math>. Toets, met behulp van jou sakrekenaar, dat hierdie waardes wel reg is:</para>
+          <equation id="id318674">
+            <m:math overflow="scroll" mode="display">
+              <m:mtable displaystyle="true">
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mrow>
+                      <m:mo form="prefix">sin</m:mo>
+                      <m:msup>
+                        <m:mn>293</m:mn>
+                        <m:mo>∘</m:mo>
+                      </m:msup>
+                    </m:mrow>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mo>-</m:mo>
+                      <m:mn>0</m:mn>
+                      <m:mo>,</m:mo>
+                      <m:mn>92</m:mn>
+                      <m:mo>⋯</m:mo>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mrow>
+                      <m:mo>-</m:mo>
+                      <m:mo form="prefix">sin</m:mo>
+                      <m:msup>
+                        <m:mn>67</m:mn>
+                        <m:mo>∘</m:mo>
+                      </m:msup>
+                    </m:mrow>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mo>-</m:mo>
+                      <m:mn>0</m:mn>
+                      <m:mo>,</m:mo>
+                      <m:mn>92</m:mn>
+                      <m:mo>⋯</m:mo>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+              </m:mtable>
+            </m:math>
+          </equation>
+          
+          </item> </list> </solution>
+</exercise>
+<exercise id="secfhsst_id3489"><title>Meer gevorderd...</title><problem id="probfhsst_id3490">
+          <para id="id318791">Evalueer sonder 'n sakrekenaar:</para>
+          <equation id="id318797">
+            <m:math overflow="scroll" mode="display">
+              <m:mrow>
+                <m:msup>
+                  <m:mo form="prefix">tan</m:mo>
+                  <m:mn>2</m:mn>
+                </m:msup>
+                <m:msup>
+                  <m:mn>210</m:mn>
+                  <m:mo>∘</m:mo>
+                </m:msup>
+                <m:mo>-</m:mo>
+                <m:mrow>
+                  <m:mo>(</m:mo>
+                  <m:mn>1</m:mn>
+                  <m:mo>+</m:mo>
+                  <m:mo form="prefix">cos</m:mo>
+                  <m:msup>
+                    <m:mn>120</m:mn>
+                    <m:mo>∘</m:mo>
+                  </m:msup>
+                  <m:mo>)</m:mo>
+                </m:mrow>
+                <m:msup>
+                  <m:mo form="prefix">sin</m:mo>
+                  <m:mn>2</m:mn>
+                </m:msup>
+                <m:msup>
+                  <m:mn>225</m:mn>
+                  <m:mo>∘</m:mo>
+                </m:msup>
+              </m:mrow>
+            </m:math>
+          </equation>
+          
+          </problem>
+          <solution id="solfhsst_id3528"> <list id="listfhsst_id3528" list-type="enumerated" number-style="arabic" class="stepwise">
+          <item> <label> Herskryf elke hoek as 'n skerphoek </label>
+          <equation id="id318889">
+            <m:math overflow="scroll" mode="display">
+              <m:mtable displaystyle="true">
+                <m:mtr>
+                  <m:mtd/>
+                  <m:mtd/>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:msup>
+                        <m:mo form="prefix">tan</m:mo>
+                        <m:mn>2</m:mn>
+                      </m:msup>
+                      <m:msup>
+                        <m:mn>210</m:mn>
+                        <m:mo>∘</m:mo>
+                      </m:msup>
+                      <m:mo>-</m:mo>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:mn>1</m:mn>
+                        <m:mo>+</m:mo>
+                        <m:mo form="prefix">cos</m:mo>
+                        <m:msup>
+                          <m:mn>120</m:mn>
+                          <m:mo>∘</m:mo>
+                        </m:msup>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                      <m:msup>
+                        <m:mo form="prefix">sin</m:mo>
+                        <m:mn>2</m:mn>
+                      </m:msup>
+                      <m:msup>
+                        <m:mn>225</m:mn>
+                        <m:mo>∘</m:mo>
+                      </m:msup>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd/>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:msup>
+                        <m:mrow>
+                          <m:mo>[</m:mo>
+                          <m:mo form="prefix">tan</m:mo>
+                          <m:mrow>
+                            <m:mo>(</m:mo>
+                            <m:msup>
+                              <m:mn>180</m:mn>
+                              <m:mo>∘</m:mo>
+                            </m:msup>
+                            <m:mo>+</m:mo>
+                            <m:msup>
+                              <m:mn>30</m:mn>
+                              <m:mo>∘</m:mo>
+                            </m:msup>
+                            <m:mo>)</m:mo>
+                          </m:mrow>
+                          <m:mo>]</m:mo>
+                        </m:mrow>
+                        <m:mn>2</m:mn>
+                      </m:msup>
+                      <m:mo>-</m:mo>
+                      <m:mrow>
+                        <m:mo>[</m:mo>
+                        <m:mn>1</m:mn>
+                        <m:mo>+</m:mo>
+                        <m:mo form="prefix">cos</m:mo>
+                        <m:mrow>
+                          <m:mo>(</m:mo>
+                          <m:msup>
+                            <m:mn>180</m:mn>
+                            <m:mo>∘</m:mo>
+                          </m:msup>
+                          <m:mo>-</m:mo>
+                          <m:msup>
+                            <m:mn>60</m:mn>
+                            <m:mo>∘</m:mo>
+                          </m:msup>
+                          <m:mo>)</m:mo>
+                        </m:mrow>
+                        <m:mo>]</m:mo>
+                      </m:mrow>
+                      <m:mo>·</m:mo>
+                      <m:msup>
+                        <m:mrow>
+                          <m:mo>[</m:mo>
+                          <m:mo form="prefix">sin</m:mo>
+                          <m:mrow>
+                            <m:mo>(</m:mo>
+                            <m:msup>
+                              <m:mn>180</m:mn>
+                              <m:mo>∘</m:mo>
+                            </m:msup>
+                            <m:mo>+</m:mo>
+                            <m:msup>
+                              <m:mn>45</m:mn>
+                              <m:mo>∘</m:mo>
+                            </m:msup>
+                            <m:mo>)</m:mo>
+                          </m:mrow>
+                          <m:mo>]</m:mo>
+                        </m:mrow>
+                        <m:mn>2</m:mn>
+                      </m:msup>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd/>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:msup>
+                        <m:mrow>
+                          <m:mo>(</m:mo>
+                          <m:mo form="prefix">tan</m:mo>
+                          <m:msup>
+                            <m:mn>30</m:mn>
+                            <m:mo>∘</m:mo>
+                          </m:msup>
+                          <m:mo>)</m:mo>
+                        </m:mrow>
+                        <m:mn>2</m:mn>
+                      </m:msup>
+                      <m:mo>-</m:mo>
+                      <m:mrow>
+                        <m:mo>[</m:mo>
+                        <m:mn>1</m:mn>
+                        <m:mo>+</m:mo>
+                        <m:mrow>
+                          <m:mo>(</m:mo>
+                          <m:mo>-</m:mo>
+                          <m:mo form="prefix">cos</m:mo>
+                          <m:msup>
+                            <m:mn>60</m:mn>
+                            <m:mo>∘</m:mo>
+                          </m:msup>
+                          <m:mo>)</m:mo>
+                        </m:mrow>
+                        <m:mo>]</m:mo>
+                      </m:mrow>
+                      <m:mo>·</m:mo>
+                      <m:msup>
+                        <m:mrow>
+                          <m:mo>(</m:mo>
+                          <m:mo>-</m:mo>
+                          <m:mo form="prefix">sin</m:mo>
+                          <m:msup>
+                            <m:mn>45</m:mn>
+                            <m:mo>∘</m:mo>
+                          </m:msup>
+                          <m:mo>)</m:mo>
+                        </m:mrow>
+                        <m:mn>2</m:mn>
+                      </m:msup>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd/>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:msup>
+                        <m:mfenced separators="" open="(" close=")">
+                          <m:mfrac>
+                            <m:mn>1</m:mn>
+                            <m:msqrt>
+                              <m:mn>3</m:mn>
+                            </m:msqrt>
+                          </m:mfrac>
+                        </m:mfenced>
+                        <m:mn>2</m:mn>
+                      </m:msup>
+                      <m:mo>-</m:mo>
+                      <m:mfenced separators="" open="(" close=")">
+                        <m:mn>1</m:mn>
+                        <m:mo>-</m:mo>
+                        <m:mfrac>
+                          <m:mn>1</m:mn>
+                          <m:mn>2</m:mn>
+                        </m:mfrac>
+                      </m:mfenced>
+                      <m:mo>·</m:mo>
+                      <m:msup>
+                        <m:mfenced separators="" open="(" close=")">
+                          <m:mo>-</m:mo>
+                          <m:mfrac>
+                            <m:mn>1</m:mn>
+                            <m:msqrt>
+                              <m:mn>2</m:mn>
+                            </m:msqrt>
+                          </m:mfrac>
+                        </m:mfenced>
+                        <m:mn>2</m:mn>
+                      </m:msup>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd/>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mfrac>
+                        <m:mn>1</m:mn>
+                        <m:mn>3</m:mn>
+                      </m:mfrac>
+                      <m:mo>-</m:mo>
+                      <m:mfenced separators="" open="(" close=")">
+                        <m:mfrac>
+                          <m:mn>1</m:mn>
+                          <m:mn>2</m:mn>
+                        </m:mfrac>
+                      </m:mfenced>
+                      <m:mfenced separators="" open="(" close=")">
+                        <m:mfrac>
+                          <m:mn>1</m:mn>
+                          <m:mn>2</m:mn>
+                        </m:mfrac>
+                      </m:mfenced>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd/>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mfrac>
+                        <m:mn>1</m:mn>
+                        <m:mn>3</m:mn>
+                      </m:mfrac>
+                      <m:mo>-</m:mo>
+                      <m:mfrac>
+                        <m:mn>1</m:mn>
+                        <m:mn>4</m:mn>
+                      </m:mfrac>
+                      <m:mo>=</m:mo>
+                      <m:mfrac>
+                        <m:mn>1</m:mn>
+                        <m:mn>12</m:mn>
+                      </m:mfrac>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+              </m:mtable>
+            </m:math>
+          </equation>
+          
+          </item> </list> </solution>
+</exercise>
+<section id="secfhsst_id3796"><title>Reduksie Formules</title>
+          <list id="id319363" display="block" list-type="enumerated"><item id="uid121">Skryf hierdie vergelykings as 'n funksie van slegs <m:math overflow="scroll"><m:mi>θ</m:mi></m:math>:
+<list id="id319388" display="block" list-type="enumerated"><item id="uid122"><m:math overflow="scroll"><m:mrow><m:mo form="prefix">sin</m:mo><m:mo>(</m:mo><m:msup><m:mn>180</m:mn><m:mo>∘</m:mo></m:msup><m:mo>-</m:mo><m:mi>θ</m:mi><m:mo>)</m:mo></m:mrow></m:math></item><item id="uid123"><m:math overflow="scroll"><m:mrow><m:mo form="prefix">cos</m:mo><m:mo>(</m:mo><m:msup><m:mn>180</m:mn><m:mo>∘</m:mo></m:msup><m:mo>-</m:mo><m:mi>θ</m:mi><m:mo>)</m:mo></m:mrow></m:math></item><item id="uid124"><m:math overflow="scroll"><m:mrow><m:mo form="prefix">cos</m:mo><m:mo>(</m:mo><m:msup><m:mn>360</m:mn><m:mo>∘</m:mo></m:msup><m:mo>-</m:mo><m:mi>θ</m:mi><m:mo>)</m:mo></m:mrow></m:math></item><item id="uid125"><m:math overflow="scroll"><m:mrow><m:mo form="prefix">cos</m:mo><m:mo>(</m:mo><m:msup><m:mn>360</m:mn><m:mo>∘</m:mo></m:msup><m:mo>+</m:mo><m:mi>θ</m:mi><m:mo>)</m:mo></m:mrow></m:math></item><item id="uid126"><m:math overflow="scroll"><m:mrow><m:mo form="prefix">tan</m:mo><m:mo>(</m:mo><m:msup><m:mn>180</m:mn><m:mo>∘</m:mo></m:msup><m:mo>-</m:mo><m:mi>θ</m:mi><m:mo>)</m:mo></m:mrow></m:math></item><item id="uid127"><m:math overflow="scroll"><m:mrow><m:mo form="prefix">cos</m:mo><m:mo>(</m:mo><m:msup><m:mn>360</m:mn><m:mo>∘</m:mo></m:msup><m:mo>+</m:mo><m:mi>θ</m:mi><m:mo>)</m:mo></m:mrow></m:math></item></list></item>
+            <item id="uid128">Skryf die volgende trig funksies as 'n funksie van' n skerphoek:
+<list id="id319634" display="block" list-type="enumerated"><item id="uid129"><m:math overflow="scroll"><m:mrow><m:mo form="prefix">sin</m:mo><m:msup><m:mn>163</m:mn><m:mo>∘</m:mo></m:msup></m:mrow></m:math></item><item id="uid130"><m:math overflow="scroll"><m:mrow><m:mo form="prefix">cos</m:mo><m:msup><m:mn>327</m:mn><m:mo>∘</m:mo></m:msup></m:mrow></m:math></item><item id="uid131"><m:math overflow="scroll"><m:mrow><m:mo form="prefix">tan</m:mo><m:msup><m:mn>248</m:mn><m:mo>∘</m:mo></m:msup></m:mrow></m:math></item><item id="uid132"><m:math overflow="scroll"><m:mrow><m:mo form="prefix">cos</m:mo><m:msup><m:mn>213</m:mn><m:mo>∘</m:mo></m:msup></m:mrow></m:math></item></list></item>
+            <item id="uid133">Bepaal die volgende sonder die gebruik van 'n sakrekenaar:
+<list id="id319768" display="block" list-type="enumerated"><item id="uid134"><m:math overflow="scroll"><m:mrow><m:mo form="prefix">tan</m:mo><m:mspace width="4pt"/><m:msup><m:mn>150</m:mn><m:mo>∘</m:mo></m:msup><m:mo>.</m:mo><m:mo form="prefix">sin</m:mo><m:mspace width="4pt"/><m:msup><m:mn>30</m:mn><m:mo>∘</m:mo></m:msup><m:mspace width="4pt"/><m:mo>+</m:mo><m:mspace width="4pt"/><m:mo form="prefix">cos</m:mo><m:mspace width="4pt"/><m:msup><m:mn>330</m:mn><m:mo>∘</m:mo></m:msup></m:mrow></m:math></item><item id="uid135"><m:math overflow="scroll"><m:mrow><m:mo form="prefix">tan</m:mo><m:mspace width="4pt"/><m:msup><m:mn>300</m:mn><m:mo>∘</m:mo></m:msup><m:mo>.</m:mo><m:mo form="prefix">cos</m:mo><m:mspace width="4pt"/><m:msup><m:mn>120</m:mn><m:mo>∘</m:mo></m:msup></m:mrow></m:math></item><item id="uid136"><m:math overflow="scroll"><m:mrow><m:mrow><m:mo>(</m:mo><m:mn>1</m:mn><m:mo>-</m:mo><m:mo form="prefix">cos</m:mo><m:mspace width="4pt"/><m:msup><m:mn>30</m:mn><m:mo>∘</m:mo></m:msup><m:mo>)</m:mo></m:mrow><m:mrow><m:mo>(</m:mo><m:mn>1</m:mn><m:mo>-</m:mo><m:mo form="prefix">sin</m:mo><m:mspace width="4pt"/><m:msup><m:mn>210</m:mn><m:mo>∘</m:mo></m:msup><m:mo>)</m:mo></m:mrow></m:mrow></m:math></item><item id="uid137"><m:math overflow="scroll"><m:mrow><m:mo form="prefix">cos</m:mo><m:mspace width="4pt"/><m:msup><m:mn>780</m:mn><m:mo>∘</m:mo></m:msup><m:mspace width="4pt"/><m:mo>+</m:mo><m:mspace width="4pt"/><m:mo form="prefix">sin</m:mo><m:mspace width="4pt"/><m:msup><m:mn>315</m:mn><m:mo>∘</m:mo></m:msup><m:mo>.</m:mo><m:mo form="prefix">tan</m:mo><m:mspace width="4pt"/><m:msup><m:mn>420</m:mn><m:mo>∘</m:mo></m:msup></m:mrow></m:math></item></list></item>
+            <item id="uid138">Bepaal die volgende deur dit te herlei na 'n skerphoek en met behulp van spesiale hoeke. Moenie 'n sakrekenaar gebruik nie:
+<list id="id320049" display="block" list-type="enumerated"><item id="uid139"><m:math overflow="scroll"><m:mrow><m:mo form="prefix">cos</m:mo><m:mspace width="4pt"/><m:msup><m:mn>300</m:mn><m:mo>∘</m:mo></m:msup></m:mrow></m:math></item><item id="uid140"><m:math overflow="scroll"><m:mrow><m:mo form="prefix">sin</m:mo><m:mspace width="4pt"/><m:msup><m:mn>135</m:mn><m:mo>∘</m:mo></m:msup></m:mrow></m:math></item><item id="uid141"><m:math overflow="scroll"><m:mrow><m:mo form="prefix">cos</m:mo><m:mspace width="4pt"/><m:msup><m:mn>150</m:mn><m:mo>∘</m:mo></m:msup></m:mrow></m:math></item><item id="uid142"><m:math overflow="scroll"><m:mrow><m:mo form="prefix">tan</m:mo><m:mspace width="4pt"/><m:msup><m:mn>330</m:mn><m:mo>∘</m:mo></m:msup></m:mrow></m:math></item><item id="uid143"><m:math overflow="scroll"><m:mrow><m:mo form="prefix">sin</m:mo><m:mspace width="4pt"/><m:msup><m:mn>120</m:mn><m:mo>∘</m:mo></m:msup></m:mrow></m:math></item><item id="uid144"><m:math overflow="scroll"><m:mrow><m:msup><m:mo form="prefix">tan</m:mo><m:mn>2</m:mn></m:msup><m:msup><m:mn>225</m:mn><m:mo>∘</m:mo></m:msup></m:mrow></m:math></item><item id="uid145"><m:math overflow="scroll"><m:mrow><m:mo form="prefix">cos</m:mo><m:mspace width="4pt"/><m:msup><m:mn>315</m:mn><m:mo>∘</m:mo></m:msup></m:mrow></m:math></item><item id="uid146"><m:math overflow="scroll"><m:mrow><m:msup><m:mo form="prefix">sin</m:mo><m:mn>2</m:mn></m:msup><m:msup><m:mn>420</m:mn><m:mo>∘</m:mo></m:msup></m:mrow></m:math></item><item id="uid147"><m:math overflow="scroll"><m:mrow><m:mo form="prefix">tan</m:mo><m:mspace width="4pt"/><m:msup><m:mn>405</m:mn><m:mo>∘</m:mo></m:msup></m:mrow></m:math></item><item id="uid148"><m:math overflow="scroll"><m:mrow><m:mo form="prefix">cos</m:mo><m:mspace width="4pt"/><m:msup><m:mn>1020</m:mn><m:mo>∘</m:mo></m:msup></m:mrow></m:math></item><item id="uid149"><m:math overflow="scroll"><m:mrow><m:msup><m:mo form="prefix">tan</m:mo><m:mn>2</m:mn></m:msup><m:msup><m:mn>135</m:mn><m:mo>∘</m:mo></m:msup></m:mrow></m:math></item><item id="uid150"><m:math overflow="scroll"><m:mrow><m:mn>1</m:mn><m:mo>-</m:mo><m:msup><m:mo form="prefix">sin</m:mo><m:mn>2</m:mn></m:msup><m:msup><m:mn>210</m:mn><m:mo>∘</m:mo></m:msup></m:mrow></m:math></item></list></item>
+          </list>
+          
+</section>
+        </section>
+        <section id="uid151">
+          <title>Funksie Waardes van <m:math overflow="scroll"><m:mrow><m:mo>(</m:mo><m:mo>-</m:mo><m:mi>θ</m:mi><m:mo>)</m:mo></m:mrow></m:math></title>
+          <para id="id320493">Wanneer die argument van 'n trigonometriese funksie <m:math overflow="scroll"><m:mrow><m:mo>(</m:mo><m:mo>-</m:mo><m:mi>θ</m:mi><m:mo>)</m:mo></m:mrow></m:math> is kan <m:math overflow="scroll"><m:msup><m:mn>360</m:mn><m:mo>∘</m:mo></m:msup></m:math> by voeg sonder om die resultaat te verander. So vir sinus en kosinus het ons</para>
+          <equation id="id320528">
+            <m:math overflow="scroll" mode="display">
+              <m:mrow>
+                <m:mo form="prefix">sin</m:mo>
+                <m:mrow>
+                  <m:mo>(</m:mo>
+                  <m:mo>-</m:mo>
+                  <m:mi>θ</m:mi>
+                  <m:mo>)</m:mo>
+                </m:mrow>
+                <m:mo>=</m:mo>
+                <m:mo form="prefix">sin</m:mo>
+                <m:mrow>
+                  <m:mo>(</m:mo>
+                  <m:msup>
+                    <m:mn>360</m:mn>
+                    <m:mo>∘</m:mo>
+                  </m:msup>
+                  <m:mo>-</m:mo>
+                  <m:mi>θ</m:mi>
+                  <m:mo>)</m:mo>
+                </m:mrow>
+                <m:mo>=</m:mo>
+                <m:mo>-</m:mo>
+                <m:mo form="prefix">sin</m:mo>
+                <m:mi>θ</m:mi>
+              </m:mrow>
+            </m:math>
+          </equation>
+          <equation id="id320586">
+            <m:math overflow="scroll" mode="display">
+              <m:mrow>
+                <m:mo form="prefix">cos</m:mo>
+                <m:mrow>
+                  <m:mo>(</m:mo>
+                  <m:mo>-</m:mo>
+                  <m:mi>θ</m:mi>
+                  <m:mo>)</m:mo>
+                </m:mrow>
+                <m:mo>=</m:mo>
+                <m:mo form="prefix">cos</m:mo>
+                <m:mrow>
+                  <m:mo>(</m:mo>
+                  <m:msup>
+                    <m:mn>360</m:mn>
+                    <m:mo>∘</m:mo>
+                  </m:msup>
+                  <m:mo>-</m:mo>
+                  <m:mi>θ</m:mi>
+                  <m:mo>)</m:mo>
+                </m:mrow>
+                <m:mo>=</m:mo>
+                <m:mo form="prefix">cos</m:mo>
+                <m:mi>θ</m:mi>
+              </m:mrow>
+            </m:math>
+          </equation>
+        </section>
+        <section id="uid152">
+          <title>Funksie Waardes van <m:math overflow="scroll"><m:mrow><m:msup><m:mn>90</m:mn><m:mo>∘</m:mo></m:msup><m:mo>±</m:mo><m:mi>θ</m:mi></m:mrow></m:math></title>
+<section id="secfhsst_id3873"><title>Ondersoek: Reduksie Formules vir Funksie Waardes van <m:math overflow="scroll"><m:mrow><m:msup><m:mn>90</m:mn><m:mo>∘</m:mo></m:msup><m:mo>±</m:mo><m:mi>θ</m:mi></m:mrow></m:math> </title>
+          <list id="id320700" display="block" list-type="enumerated"><item id="uid153">
+              <emphasis effect="bold">Funksie waardes van <m:math overflow="scroll"><m:mrow><m:mo>(</m:mo><m:msup><m:mn>90</m:mn><m:mo>∘</m:mo></m:msup><m:mo>-</m:mo><m:mi>θ</m:mi><m:mo>)</m:mo></m:mrow></m:math></emphasis>
+              <list id="id320748" display="block" list-type="enumerated">
+<item id="uid154">In die figuur lê P en P' op die sirkel met radius 2. OP vorm 'n hoek <m:math overflow="scroll"><m:mrow><m:mi>θ</m:mi><m:mo>=</m:mo><m:msup><m:mn>30</m:mn><m:mo>∘</m:mo></m:msup></m:mrow></m:math> met die <m:math overflow="scroll"><m:mi>x</m:mi></m:math>-as. P het dus die koördinate <m:math overflow="scroll"><m:mrow><m:mo>(</m:mo><m:msqrt><m:mn>3</m:mn></m:msqrt><m:mo>;</m:mo><m:mn>1</m:mn><m:mo>)</m:mo></m:mrow></m:math>. As P' die refleksie van P om die <m:math overflow="scroll"><m:mi>y</m:mi></m:math>-as (of die lyn <m:math overflow="scroll"><m:mrow><m:mi>x</m:mi><m:mo>=</m:mo><m:mn>0</m:mn></m:mrow></m:math>) is, gebruik simmetrie om die koördinate van P' neer te skryf.
+</item>
+                <item id="uid155">Gee waardes vir <m:math overflow="scroll"><m:mrow><m:mo form="prefix">sin</m:mo><m:mi>θ</m:mi></m:mrow></m:math>, <m:math overflow="scroll"><m:mrow><m:mo form="prefix">cos</m:mo><m:mi>θ</m:mi></m:mrow></m:math> en <m:math overflow="scroll"><m:mrow><m:mo form="prefix">tan</m:mo><m:mi>θ</m:mi></m:mrow></m:math>.
+</item>
+                <item id="uid156">Deur gebruik te maak van die koördinate van P' bepaal: <m:math overflow="scroll"><m:mrow><m:mo form="prefix">sin</m:mo><m:mo>(</m:mo><m:msup><m:mn>90</m:mn><m:mo>∘</m:mo></m:msup><m:mo>-</m:mo><m:mi>θ</m:mi><m:mo>)</m:mo></m:mrow></m:math>, <m:math overflow="scroll"><m:mrow><m:mo form="prefix">cos</m:mo><m:mo>(</m:mo><m:msup><m:mn>90</m:mn><m:mo>∘</m:mo></m:msup><m:mo>-</m:mo><m:mi>θ</m:mi><m:mo>)</m:mo></m:mrow></m:math> en <m:math overflow="scroll"><m:mrow><m:mo form="prefix">tan</m:mo><m:mo>(</m:mo><m:msup><m:mn>90</m:mn><m:mo>∘</m:mo></m:msup><m:mo>-</m:mo><m:mi>θ</m:mi><m:mo>)</m:mo></m:mrow></m:math>.
+</item>
+                 </list>
+              <figure id="id320978">
+                <media id="id320978_media" alt="">
+                  <image mime-type="image/png" src="../../media/MG11C17_026.png" id="id320978_onlineimage" width="224"><!-- NOTE: attribute width changes image size online (pixels). original width is 224. --></image>
+                  <image mime-type="application/postscript" for="pdf" src="../../media/MG11C17_026.eps" id="id320978_printimage"/>
+                </media>
+              </figure>
+            </item>
+            <item id="uid157">
+              <emphasis effect="bold">Funksie waardes van <m:math overflow="scroll"><m:mrow><m:mo>(</m:mo><m:msup><m:mn>90</m:mn><m:mo>∘</m:mo></m:msup><m:mo>+</m:mo><m:mi>θ</m:mi><m:mo>)</m:mo></m:mrow></m:math></emphasis>
+              <list id="id321030" display="block" list-type="enumerated">
+
+<item id="uid158">In die figuur lê P en P' op die sirkel met radius 2. OP vorm 'n hoek <m:math overflow="scroll"><m:mrow><m:mi>θ</m:mi><m:mo>=</m:mo><m:msup><m:mn>30</m:mn><m:mo>∘</m:mo></m:msup></m:mrow></m:math> met die <m:math overflow="scroll"><m:mi>x</m:mi></m:math>-as. P het dus die koördinate <m:math overflow="scroll"><m:mrow><m:mo>(</m:mo><m:msqrt><m:mn>3</m:mn></m:msqrt><m:mo>;</m:mo><m:mn>1</m:mn><m:mo>)</m:mo></m:mrow></m:math>. As P' die refleksie van P om die <m:math overflow="scroll"><m:mi>y</m:mi></m:math>-as (of die lyn <m:math overflow="scroll"><m:mrow><m:mi>x</m:mi><m:mo>=</m:mo><m:mn>0</m:mn></m:mrow></m:math>) is, gebruik simmetrie om die koördinate van P' neer te skryf.
+</item>
+                <item id="uid159">Gee waardes vir <m:math overflow="scroll"><m:mrow><m:mo form="prefix">sin</m:mo><m:mi>θ</m:mi></m:mrow></m:math>, <m:math overflow="scroll"><m:mrow><m:mo form="prefix">cos</m:mo><m:mi>θ</m:mi></m:mrow></m:math> en <m:math overflow="scroll"><m:mrow><m:mo form="prefix">tan</m:mo><m:mi>θ</m:mi></m:mrow></m:math>.
+</item>
+                <item id="uid160">Deur gebruik te maak van die koördinate van P' bepaal: <m:math overflow="scroll"><m:mrow><m:mo form="prefix">sin</m:mo><m:mo>(</m:mo><m:msup><m:mn>90</m:mn><m:mo>∘</m:mo></m:msup><m:mo>+</m:mo><m:mi>θ</m:mi><m:mo>)</m:mo></m:mrow></m:math>, <m:math overflow="scroll"><m:mrow><m:mo form="prefix">cos</m:mo><m:mo>(</m:mo><m:msup><m:mn>90</m:mn><m:mo>∘</m:mo></m:msup><m:mo>+</m:mo><m:mi>θ</m:mi><m:mo>)</m:mo></m:mrow></m:math> en <m:math overflow="scroll"><m:mrow><m:mo form="prefix">tan</m:mo><m:mo>(</m:mo><m:msup><m:mn>90</m:mn><m:mo>∘</m:mo></m:msup><m:mo>+</m:mo><m:mi>θ</m:mi><m:mo>)</m:mo></m:mrow></m:math>.
+</item>
+              </list>
+              <figure id="id321284">
+                <media id="id321284_media" alt="">
+                  <image mime-type="image/png" src="../../media/MG11C17_027.png" id="id321284_onlineimage" width="231"><!-- NOTE: attribute width changes image size online (pixels). original width is 231. --></image>
+                  <image mime-type="application/postscript" for="pdf" src="../../media/MG11C17_027.eps" id="id321284_printimage"/>
+                </media>
+              </figure>
+            </item>
+          </list>
+          
+</section>
+          <para id="id321301">Komplementêre hoeke is positiewe skerphoeke wat gelyk is aan <m:math overflow="scroll"><m:msup><m:mn>90</m:mn><m:mo>∘</m:mo></m:msup></m:math>. Bv. <m:math overflow="scroll"><m:msup><m:mn>20</m:mn><m:mo>∘</m:mo></m:msup></m:math> en <m:math overflow="scroll"><m:msup><m:mn>70</m:mn><m:mo>∘</m:mo></m:msup></m:math> is komplimentere hoeke.</para>
+          <para id="id321349">Sinus en kosinus staan ​​bekend as <emphasis effect="bold">ko-funksies</emphasis>. Twee funksies word ko-funksies genoem indien <m:math overflow="scroll"><m:mrow><m:mi>f</m:mi><m:mo>(</m:mo><m:mi>A</m:mi><m:mo>)</m:mo><m:mo>=</m:mo><m:mi>g</m:mi><m:mo>(</m:mo><m:mi>B</m:mi><m:mo>)</m:mo></m:mrow></m:math> whenever <m:math overflow="scroll"><m:mrow><m:mi>A</m:mi><m:mo>+</m:mo><m:mi>B</m:mi><m:mo>=</m:mo><m:msup><m:mn>90</m:mn><m:mo>∘</m:mo></m:msup></m:mrow></m:math> (m.a.w. <m:math overflow="scroll"><m:mi>A</m:mi></m:math> en <m:math overflow="scroll"><m:mi>B</m:mi></m:math> is komplimentere hoeke). Die ander trig ko-funksies is secans en cosecans, en die tangens en cotangens.</para>
+          <para id="id321429">Die funksie waarde van 'n hoek is gelyk aan die ko-funksie van sy komplement (die ko-ko-reël).</para>
+          <para id="id321433">Dus het ons vir sinus en kosinus as</para>
+          <equation id="id321436">
+            <m:math overflow="scroll" mode="display">
+              <m:mtable displaystyle="true">
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mrow>
+                      <m:mo form="prefix">sin</m:mo>
+                      <m:mo>(</m:mo>
+                      <m:msup>
+                        <m:mn>90</m:mn>
+                        <m:mo>∘</m:mo>
+                      </m:msup>
+                      <m:mo>-</m:mo>
+                      <m:mi>θ</m:mi>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mo form="prefix">cos</m:mo>
+                      <m:mi>θ</m:mi>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mrow>
+                      <m:mo form="prefix">cos</m:mo>
+                      <m:mo>(</m:mo>
+                      <m:msup>
+                        <m:mn>90</m:mn>
+                        <m:mo>∘</m:mo>
+                      </m:msup>
+                      <m:mo>-</m:mo>
+                      <m:mi>θ</m:mi>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mo form="prefix">sin</m:mo>
+                      <m:mi>θ</m:mi>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+              </m:mtable>
+            </m:math>
+          </equation>
+<exercise id="secfhsst_id3970"><title> Ko-Ko-reël </title>
+          <problem id="probfhsst_id3971">
+          <para id="id321542">Skryf elk van die volgende in terme van <m:math overflow="scroll"><m:msup><m:mn>40</m:mn><m:mo>∘</m:mo></m:msup></m:math> deur gebruik te maak van <m:math overflow="scroll"><m:mrow><m:mo form="prefix">sin</m:mo><m:mo>(</m:mo><m:msup><m:mn>90</m:mn><m:mo>∘</m:mo></m:msup><m:mo>-</m:mo><m:mi>θ</m:mi><m:mo>)</m:mo><m:mo>=</m:mo><m:mo form="prefix">cos</m:mo><m:mi>θ</m:mi></m:mrow></m:math> en <m:math overflow="scroll"><m:mrow><m:mo form="prefix">cos</m:mo><m:mo>(</m:mo><m:msup><m:mn>90</m:mn><m:mo>∘</m:mo></m:msup><m:mo>-</m:mo><m:mi>θ</m:mi><m:mo>)</m:mo><m:mo>=</m:mo><m:mo form="prefix">sin</m:mo><m:mi>θ</m:mi></m:mrow></m:math>.</para>
+          <list id="id321637" display="block" list-type="enumerated">
+            <item id="uid161">
+              <m:math overflow="scroll">
+                <m:mrow>
+                  <m:mo form="prefix">cos</m:mo>
+                  <m:msup>
+                    <m:mn>50</m:mn>
+                    <m:mo>∘</m:mo>
+                  </m:msup>
+                </m:mrow>
+              </m:math>
+            </item>
+            <item id="uid162">
+              <m:math overflow="scroll">
+                <m:mrow>
+                  <m:mo form="prefix">sin</m:mo>
+                  <m:msup>
+                    <m:mn>320</m:mn>
+                    <m:mo>∘</m:mo>
+                  </m:msup>
+                </m:mrow>
+              </m:math>
+            </item>
+            <item id="uid163">
+              <m:math overflow="scroll">
+                <m:mrow>
+                  <m:mo form="prefix">cos</m:mo>
+                  <m:msup>
+                    <m:mn>230</m:mn>
+                    <m:mo>∘</m:mo>
+                  </m:msup>
+                </m:mrow>
+              </m:math>
+            </item>
+          </list>
+          
+          </problem>
+          <solution id="solfhsst_id4010"> <list id="listfhsst_id4010" list-type="enumerated" number-style="arabic" class="stepwise">
+          <item> <label> Ons gebruik wat ons sover geleer het: </label>
+          <list id="id321752" display="block" list-type="enumerated">
+            <item id="uid164">
+              <m:math overflow="scroll">
+                <m:mrow>
+                  <m:mo form="prefix">cos</m:mo>
+                  <m:msup>
+                    <m:mn>50</m:mn>
+                    <m:mo>∘</m:mo>
+                  </m:msup>
+                  <m:mo>=</m:mo>
+                  <m:mo form="prefix">cos</m:mo>
+                  <m:mrow>
+                    <m:mo>(</m:mo>
+                    <m:msup>
+                      <m:mn>90</m:mn>
+                      <m:mo>∘</m:mo>
+                    </m:msup>
+                    <m:mo>-</m:mo>
+                    <m:msup>
+                      <m:mn>40</m:mn>
+                      <m:mo>∘</m:mo>
+                    </m:msup>
+                    <m:mo>)</m:mo>
+                  </m:mrow>
+                  <m:mo>=</m:mo>
+                  <m:mo form="prefix">sin</m:mo>
+                  <m:msup>
+                    <m:mn>40</m:mn>
+                    <m:mo>∘</m:mo>
+                  </m:msup>
+                </m:mrow>
+              </m:math>
+            </item>
+            <item id="uid165">
+              <m:math overflow="scroll">
+                <m:mrow>
+                  <m:mo form="prefix">sin</m:mo>
+                  <m:msup>
+                    <m:mn>320</m:mn>
+                    <m:mo>∘</m:mo>
+                  </m:msup>
+                  <m:mo>=</m:mo>
+                  <m:mo form="prefix">sin</m:mo>
+                  <m:mrow>
+                    <m:mo>(</m:mo>
+                    <m:msup>
+                      <m:mn>360</m:mn>
+                      <m:mo>∘</m:mo>
+                    </m:msup>
+                    <m:mo>-</m:mo>
+                    <m:msup>
+                      <m:mn>40</m:mn>
+                      <m:mo>∘</m:mo>
+                    </m:msup>
+                    <m:mo>)</m:mo>
+                  </m:mrow>
+                  <m:mo>=</m:mo>
+                  <m:mo>-</m:mo>
+                  <m:mo form="prefix">sin</m:mo>
+                  <m:msup>
+                    <m:mn>40</m:mn>
+                    <m:mo>∘</m:mo>
+                  </m:msup>
+                </m:mrow>
+              </m:math>
+            </item>
+            <item id="uid166">
+              <m:math overflow="scroll">
+                <m:mrow>
+                  <m:mo form="prefix">cos</m:mo>
+                  <m:msup>
+                    <m:mn>230</m:mn>
+                    <m:mo>∘</m:mo>
+                  </m:msup>
+                  <m:mo>=</m:mo>
+                  <m:mo form="prefix">cos</m:mo>
+                  <m:mrow>
+                    <m:mo>(</m:mo>
+                    <m:msup>
+                      <m:mn>180</m:mn>
+                      <m:mo>∘</m:mo>
+                    </m:msup>
+                    <m:mo>+</m:mo>
+                    <m:msup>
+                      <m:mn>50</m:mn>
+                      <m:mo>∘</m:mo>
+                    </m:msup>
+                    <m:mo>)</m:mo>
+                  </m:mrow>
+                  <m:mo>=</m:mo>
+                  <m:mo>-</m:mo>
+                  <m:mo form="prefix">cos</m:mo>
+                  <m:msup>
+                    <m:mn>50</m:mn>
+                    <m:mo>∘</m:mo>
+                  </m:msup>
+                  <m:mo>=</m:mo>
+                  <m:mo>-</m:mo>
+                  <m:mo form="prefix">cos</m:mo>
+                  <m:mrow>
+                    <m:mo>(</m:mo>
+                    <m:msup>
+                      <m:mn>90</m:mn>
+                      <m:mo>∘</m:mo>
+                    </m:msup>
+                    <m:mo>-</m:mo>
+                    <m:msup>
+                      <m:mn>40</m:mn>
+                      <m:mo>∘</m:mo>
+                    </m:msup>
+                    <m:mo>)</m:mo>
+                  </m:mrow>
+                  <m:mo>=</m:mo>
+                  <m:mo>-</m:mo>
+                  <m:mo form="prefix">sin</m:mo>
+                  <m:msup>
+                    <m:mn>40</m:mn>
+                    <m:mo>∘</m:mo>
+                  </m:msup>
+                </m:mrow>
+              </m:math>
+            </item>
+          </list>
+          
+          </item> </list> </solution>
+</exercise>
+        </section>
+        <section id="uid167">
+          <title>Funksie Waardes van <m:math overflow="scroll"><m:mrow><m:mo>(</m:mo><m:mi>θ</m:mi><m:mo>-</m:mo><m:msup><m:mn>90</m:mn><m:mo>∘</m:mo></m:msup><m:mo>)</m:mo></m:mrow></m:math></title>
+          <para id="id322076"><m:math overflow="scroll"><m:mrow><m:mo form="prefix">sin</m:mo><m:mo>(</m:mo><m:mi>θ</m:mi><m:mo>-</m:mo><m:msup><m:mn>90</m:mn><m:mo>∘</m:mo></m:msup><m:mo>)</m:mo><m:mo>=</m:mo><m:mo>-</m:mo><m:mo form="prefix">cos</m:mo><m:mi>θ</m:mi></m:mrow></m:math> and <m:math overflow="scroll"><m:mrow><m:mo form="prefix">cos</m:mo><m:mo>(</m:mo><m:mi>θ</m:mi><m:mo>-</m:mo><m:msup><m:mn>90</m:mn><m:mo>∘</m:mo></m:msup><m:mo>)</m:mo><m:mo>=</m:mo><m:mo form="prefix">sin</m:mo><m:mi>θ</m:mi></m:mrow></m:math>.</para>
+          <para id="id322155">Hierdie resultate kan as volg bewys word:</para>
+          <equation id="id322159">
+            <m:math overflow="scroll" mode="display">
+              <m:mtable displaystyle="true">
+                <m:mtr>
+                  <m:mtd columnalign="right">
+                    <m:mrow>
+                      <m:mo form="prefix">sin</m:mo>
+                      <m:mo>(</m:mo>
+                      <m:mi>θ</m:mi>
+                      <m:mo>-</m:mo>
+                      <m:msup>
+                        <m:mn>90</m:mn>
+                        <m:mo>∘</m:mo>
+                      </m:msup>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                  </m:mtd>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mo form="prefix">sin</m:mo>
+                      <m:mo>[</m:mo>
+                      <m:mo>-</m:mo>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:msup>
+                          <m:mn>90</m:mn>
+                          <m:mo>∘</m:mo>
+                        </m:msup>
+                        <m:mo>-</m:mo>
+                        <m:mi>θ</m:mi>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                      <m:mo>]</m:mo>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd/>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mo>-</m:mo>
+                      <m:mo form="prefix">sin</m:mo>
+                      <m:mo>(</m:mo>
+                      <m:msup>
+                        <m:mn>90</m:mn>
+                        <m:mo>∘</m:mo>
+                      </m:msup>
+                      <m:mo>-</m:mo>
+                      <m:mi>θ</m:mi>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+                <m:mtr>
+                  <m:mtd/>
+                  <m:mtd>
+                    <m:mo>=</m:mo>
+                  </m:mtd>
+                  <m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mo>-</m:mo>
+                      <m:mo form="prefix">cos</m:mo>
+                      <m:mi>θ</m:mi>
+                    </m:mrow>
+                  </m:mtd>
+                </m:mtr>
+              </m:mtable>
+            </m:math>
+          </equation>
+          <para id="id322284">en so ook vir <m:math overflow="scroll"><m:mrow><m:mo form="prefix">cos</m:mo><m:mo>(</m:mo><m:mi>θ</m:mi><m:mo>-</m:mo><m:msup><m:mn>90</m:mn><m:mo>∘</m:mo></m:msup><m:mo>)</m:mo><m:mo>=</m:mo><m:mo form="prefix">sin</m:mo><m:mi>θ</m:mi></m:mrow></m:math></para>
+        </section>
+        <section id="uid168">
+          <title>Opsomming</title>
+          <para id="id322337">Die volgende opsomming kan gemaak word</para>
+          <table id="id322340" summary="">
+            <tgroup cols="2">
+              <tbody>
+                <row>
+                  <entry>
+                    <emphasis effect="bold">tweede kwadrant <m:math overflow="scroll"><m:mrow><m:mo>(</m:mo><m:msup><m:mn>180</m:mn><m:mo>∘</m:mo></m:msup><m:mo>-</m:mo><m:mi>θ</m:mi><m:mo>)</m:mo></m:mrow></m:math> or <m:math overflow="scroll"><m:mrow><m:mo>(</m:mo><m:msup><m:mn>90</m:mn><m:mo>∘</m:mo></m:msup><m:mo>+</m:mo><m:mi>θ</m:mi><m:mo>)</m:mo></m:mrow></m:math></emphasis>
+                  </entry>
+                  <entry>
+                    <emphasis effect="bold">eerste kwadrant <m:math overflow="scroll"><m:mrow><m:mo>(</m:mo><m:mi>θ</m:mi><m:mo>)</m:mo></m:mrow></m:math> or <m:math overflow="scroll"><m:mrow><m:mo>(</m:mo><m:msup><m:mn>90</m:mn><m:mo>∘</m:mo></m:msup><m:mo>-</m:mo><m:mi>θ</m:mi><m:mo>)</m:mo></m:mrow></m:math></emphasis>
+                  </entry>
+                </row>
+                <row>
+                  <entry>
+                    <m:math overflow="scroll">
+                      <m:mrow>
+                        <m:mo form="prefix">sin</m:mo>
+                        <m:mo>(</m:mo>
+                        <m:msup>
+                          <m:mn>180</m:mn>
+                          <m:mo>∘</m:mo>
+                        </m:msup>
+                        <m:mo>-</m:mo>
+                        <m:mi>θ</m:mi>
+                        <m:mo>)</m:mo>
+                        <m:mo>=</m:mo>
+                        <m:mo>+</m:mo>
+                        <m:mo form="prefix">sin</m:mo>
+                        <m:mi>θ</m:mi>
+                      </m:mrow>
+                    </m:math>
+                  </entry>
+                  <entry>alle trig funksies is positief</entry>
+                </row>
+                <row>
+                  <entry>
+                    <m:math overflow="scroll">
+                      <m:mrow>
+                        <m:mo form="prefix">cos</m:mo>
+                        <m:mo>(</m:mo>
+                        <m:msup>
+                          <m:mn>180</m:mn>
+                          <m:mo>∘</m:mo>
+                        </m:msup>
+                        <m:mo>-</m:mo>
+                        <m:mi>θ</m:mi>
+                        <m:mo>)</m:mo>
+                        <m:mo>=</m:mo>
+                        <m:mo>-</m:mo>
+                        <m:mo form="prefix">cos</m:mo>
+                        <m:mi>θ</m:mi>
+                      </m:mrow>
+                    </m:math>
+                  </entry>
+                  <entry>
+                    <m:math overflow="scroll">
+                      <m:mrow>
+                        <m:mo form="prefix">sin</m:mo>
+                        <m:mo>(</m:mo>
+                        <m:msup>
+                          <m:mn>360</m:mn>
+                          <m:mo>∘</m:mo>
+                        </m:msup>
+                        <m:mo>+</m:mo>
+                        <m:mi>θ</m:mi>
+                        <m:mo>)</m:mo>
+                        <m:mo>=</m:mo>
+                        <m:mo form="prefix">sin</m:mo>
+                        <m:mi>θ</m:mi>
+                      </m:mrow>
+                    </m:math>
+                  </entry>
+                </row>
+                <row>
+                  <entry>
+                    <m:math overflow="scroll">
+                      <m:mrow>
+                        <m:mo form="prefix">tan</m:mo>
+                        <m:mo>(</m:mo>
+                        <m:msup>
+                          <m:mn>180</m:mn>
+                          <m:mo>∘</m:mo>
+                        </m:msup>
+                        <m:mo>-</m:mo>
+                        <m:mi>θ</m:mi>
+                        <m:mo>)</m:mo>
+                        <m:mo>=</m:mo>
+                        <m:mo>-</m:mo>
+                        <m:mo form="prefix">tan</m:mo>
+                        <m:mi>θ</m:mi>
+                      </m:mrow>
+                    </m:math>
+                  </entry>
+                  <entry>
+                    <m:math overflow="scroll">
+                      <m:mrow>
+                        <m:mo form="prefix">cos</m:mo>
+                        <m:mo>(</m:mo>
+                        <m:msup>
+                          <m:mn>360</m:mn>
+                          <m:mo>∘</m:mo>
+                        </m:msup>
+                        <m:mo>+</m:mo>
+                        <m:mi>θ</m:mi>
+                        <m:mo>)</m:mo>
+                        <m:mo>=</m:mo>
+                        <m:mo form="prefix">cos</m:mo>
+                        <m:mi>θ</m:mi>
+                      </m:mrow>
+                    </m:math>
+                  </entry>
+                </row>
+                <row>
+                  <entry>
+                    <m:math overflow="scroll">
+                      <m:mrow>
+                        <m:mo form="prefix">sin</m:mo>
+                        <m:mo>(</m:mo>
+                        <m:msup>
+                          <m:mn>90</m:mn>
+                          <m:mo>∘</m:mo>
+                        </m:msup>
+                        <m:mo>+</m:mo>
+                        <m:mi>θ</m:mi>
+                        <m:mo>)</m:mo>
+                        <m:mo>=</m:mo>
+                        <m:mo>+</m:mo>
+                        <m:mo form="prefix">cos</m:mo>
+                        <m:mi>θ</m:mi>
+                      </m:mrow>
+                    </m:math>
+                  </entry>
+                  <entry>
+                    <m:math overflow="scroll">
+                      <m:mrow>
+                        <m:mo form="prefix">tan</m:mo>
+                        <m:mo>(</m:mo>
+                        <m:msup>
+                          <m:mn>360</m:mn>
+                          <m:mo>∘</m:mo>
+                        </m:msup>
+                        <m:mo>+</m:mo>
+                        <m:mi>θ</m:mi>
+                        <m:mo>)</m:mo>
+                        <m:mo>=</m:mo>
+                        <m:mo form="prefix">tan</m:mo>
+                        <m:mi>θ</m:mi>
+                      </m:mrow>
+                    </m:math>
+                  </entry>
+                </row>
+                <row>
+                  <entry>
+                    <m:math overflow="scroll">
+                      <m:mrow>
+                        <m:mo form="prefix">cos</m:mo>
+                        <m:mo>(</m:mo>
+                        <m:msup>
+                          <m:mn>90</m:mn>
+                          <m:mo>∘</m:mo>
+                        </m:msup>
+                        <m:mo>+</m:mo>
+                        <m:mi>θ</m:mi>
+                        <m:mo>)</m:mo>
+                        <m:mo>=</m:mo>
+                        <m:mo>-</m:mo>
+                        <m:mo form="prefix">sin</m:mo>
+                        <m:mi>θ</m:mi>
+                      </m:mrow>
+                    </m:math>
+                  </entry>
+                  <entry>
+                    <m:math overflow="scroll">
+                      <m:mrow>
+                        <m:mo form="prefix">sin</m:mo>
+                        <m:mo>(</m:mo>
+                        <m:msup>
+                          <m:mn>90</m:mn>
+                          <m:mo>∘</m:mo>
+                        </m:msup>
+                        <m:mo>-</m:mo>
+                        <m:mi>θ</m:mi>
+                        <m:mo>)</m:mo>
+                        <m:mo>=</m:mo>
+                        <m:mo form="prefix">sin</m:mo>
+                        <m:mi>θ</m:mi>
+                      </m:mrow>
+                    </m:math>
+                  </entry>
+                </row>
+                <row>
+                  <entry/>
+                  <entry>
+                    <m:math overflow="scroll">
+                      <m:mrow>
+                        <m:mo form="prefix">cos</m:mo>
+                        <m:mo>(</m:mo>
+                        <m:msup>
+                          <m:mn>90</m:mn>
+                          <m:mo>∘</m:mo>
+                        </m:msup>
+                        <m:mo>-</m:mo>
+                        <m:mi>θ</m:mi>
+                        <m:mo>)</m:mo>
+                        <m:mo>=</m:mo>
+                        <m:mo form="prefix">cos</m:mo>
+                        <m:mi>θ</m:mi>
+                      </m:mrow>
+                    </m:math>
+                  </entry>
+                </row>
+                <row>
+                  <entry>
+                    <emphasis effect="bold">derde kwadrant <m:math overflow="scroll"><m:mrow><m:mo>(</m:mo><m:msup><m:mn>180</m:mn><m:mo>∘</m:mo></m:msup><m:mo>+</m:mo><m:mi>θ</m:mi><m:mo>)</m:mo></m:mrow></m:math></emphasis>
+                  </entry>
+                  <entry>
+                    <emphasis effect="bold">vierde kwadrant <m:math overflow="scroll"><m:mrow><m:mo>(</m:mo><m:msup><m:mn>360</m:mn><m:mo>∘</m:mo></m:msup><m:mo>-</m:mo><m:mi>θ</m:mi><m:mo>)</m:mo></m:mrow></m:math></emphasis>
+                  </entry>
+                </row>
+                <row>
+                  <entry>
+                    <m:math overflow="scroll">
+                      <m:mrow>
+                        <m:mo form="prefix">sin</m:mo>
+                        <m:mo>(</m:mo>
+                        <m:msup>
+                          <m:mn>180</m:mn>
+                          <m:mo>∘</m:mo>
+                        </m:msup>
+                        <m:mo>+</m:mo>
+                        <m:mi>θ</m:mi>
+                        <m:mo>)</m:mo>
+                        <m:mo>=</m:mo>
+                        <m:mo>-</m:mo>
+                        <m:mo form="prefix">sin</m:mo>
+                        <m:mi>θ</m:mi>
+                      </m:mrow>
+                    </m:math>
+                  </entry>
+                  <entry>
+                    <m:math overflow="scroll">
+                      <m:mrow>
+                        <m:mo form="prefix">sin</m:mo>
+                        <m:mo>(</m:mo>
+                        <m:msup>
+                          <m:mn>360</m:mn>
+                          <m:mo>∘</m:mo>
+                        </m:msup>
+                        <m:mo>-</m:mo>
+                        <m:mi>θ</m:mi>
+                        <m:mo>)</m:mo>
+                        <m:mo>=</m:mo>
+                        <m:mo>-</m:mo>
+                        <m:mo form="prefix">sin</m:mo>
+                        <m:mi>θ</m:mi>
+                      </m:mrow>
+                    </m:math>
+                  </entry>
+                </row>
+                <row>
+                  <entry>
+                    <m:math overflow="scroll">
+                      <m:mrow>
+                        <m:mo form="prefix">cos</m:mo>
+                        <m:mo>(</m:mo>
+                        <m:msup>
+                          <m:mn>180</m:mn>
+                          <m:mo>∘</m:mo>
+                        </m:msup>
+                        <m:mo>+</m:mo>
+                        <m:mi>θ</m:mi>
+                        <m:mo>)</m:mo>
+                        <m:mo>=</m:mo>
+                        <m:mo>-</m:mo>
+                        <m:mo form="prefix">cos</m:mo>
+                        <m:mi>θ</m:mi>
+                      </m:mrow>
+                    </m:math>
+                  </entry>
+                  <entry>
+                    <m:math overflow="scroll">
+                      <m:mrow>
+                        <m:mo form="prefix">cos</m:mo>
+                        <m:mo>(</m:mo>
+                        <m:msup>
+                          <m:mn>360</m:mn>
+                          <m:mo>∘</m:mo>
+                        </m:msup>
+                        <m:mo>-</m:mo>
+                        <m:mi>θ</m:mi>
+                        <m:mo>)</m:mo>
+                        <m:mo>=</m:mo>
+                        <m:mo>+</m:mo>
+                        <m:mo form="prefix">cos</m:mo>
+                        <m:mi>θ</m:mi>
+                      </m:mrow>
+                    </m:math>
+                  </entry>
+                </row>
+                <row>
+                  <entry>
+                    <m:math overflow="scroll">
+                      <m:mrow>
+                        <m:mo form="prefix">tan</m:mo>
+                        <m:mo>(</m:mo>
+                        <m:msup>
+                          <m:mn>180</m:mn>
+                          <m:mo>∘</m:mo>
+                        </m:msup>
+                        <m:mo>+</m:mo>
+                        <m:mi>θ</m:mi>
+                        <m:mo>)</m:mo>
+                        <m:mo>=</m:mo>
+                        <m:mo>+</m:mo>
+                        <m:mo form="prefix">tan</m:mo>
+                        <m:mi>θ</m:mi>
+                      </m:mrow>
+                    </m:math>
+                  </entry>
+                  <entry>
+                    <m:math overflow="scroll">
+                      <m:mrow>
+                        <m:mo form="prefix">tan</m:mo>
+                        <m:mo>(</m:mo>
+                        <m:msup>
+                          <m:mn>360</m:mn>
+                          <m:mo>∘</m:mo>
+                        </m:msup>
+                        <m:mo>-</m:mo>
+                        <m:mi>θ</m:mi>
+                        <m:mo>)</m:mo>
+                        <m:mo>=</m:mo>
+                        <m:mo>-</m:mo>
+                        <m:mo form="prefix">tan</m:mo>
+                        <m:mi>θ</m:mi>
+                      </m:mrow>
+                    </m:math>
+                  </entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <!--empty paragraphs get left behind.-->
+<note id="notfhsst_id4565" type="tip">
+          <list id="id323219" display="block" list-type="enumerated">
+            <item id="uid169">Hierdie reduksie formules geld vir enige hoek <m:math overflow="scroll"><m:mi>θ</m:mi></m:math>. Vir gerief, werk ons gewoonlik met <m:math overflow="scroll"><m:mi>θ</m:mi></m:math> asof dit 'n skerphoek is, m.a.w. <m:math overflow="scroll"><m:mrow><m:msup><m:mn>0</m:mn><m:mo>∘</m:mo></m:msup><m:mo>&lt;</m:mo><m:mi>θ</m:mi><m:mo>&lt;</m:mo><m:msup><m:mn>90</m:mn><m:mo>∘</m:mo></m:msup></m:mrow></m:math>.
+</item>
+            <item id="uid170">By die bepaling van die funksie waardes van <m:math overflow="scroll"><m:mrow><m:msup><m:mn>180</m:mn><m:mo>∘</m:mo></m:msup><m:mo>±</m:mo><m:mi>θ</m:mi></m:mrow></m:math>, <m:math overflow="scroll"><m:mrow><m:msup><m:mn>360</m:mn><m:mo>∘</m:mo></m:msup><m:mo>±</m:mo><m:mi>θ</m:mi></m:mrow></m:math> and <m:math overflow="scroll"><m:mrow><m:mo>-</m:mo><m:mi>θ</m:mi></m:mrow></m:math> verander die funksies nooit.
+</item>
+            <item id="uid171">By die bepaling van die funksie waardes van <m:math overflow="scroll"><m:mrow><m:msup><m:mn>90</m:mn><m:mo>∘</m:mo></m:msup><m:mo>±</m:mo><m:mi>θ</m:mi></m:mrow></m:math> and <m:math overflow="scroll"><m:mrow><m:mi>θ</m:mi><m:mo>-</m:mo><m:msup><m:mn>90</m:mn><m:mo>∘</m:mo></m:msup></m:mrow></m:math> verander die funksies na sy ko-funksies (ko-ko-reel).
+</item>
+          </list>
+</note>
+<section id="secfhsst_id4575"><title> Funksie Waardes van <m:math overflow="scroll"><m:mrow><m:mo>(</m:mo><m:msup><m:mn>270</m:mn><m:mo>∘</m:mo></m:msup><m:mo>±</m:mo><m:mi>θ</m:mi><m:mo>)</m:mo></m:mrow></m:math> </title>
+          <para id="id323436">Hoeke in die derde en vierde kwadrante kan geskryf word as <m:math overflow="scroll"><m:mrow><m:msup><m:mn>270</m:mn><m:mo>∘</m:mo></m:msup><m:mo>±</m:mo><m:mi>θ</m:mi></m:mrow></m:math> met <m:math overflow="scroll"><m:mi>θ</m:mi></m:math> 'n skerphoek. Soortgelyke reëls as bogenoemde is van toepassing. Ons kry</para>
+          <table id="id323473" summary="Opsomming tabel">
+<tgroup cols="2"><tbody>
+                <row>
+                  <entry>
+                    <emphasis effect="bold">derde kwadrant <m:math overflow="scroll"><m:mrow><m:mo>(</m:mo><m:msup><m:mn>270</m:mn><m:mo>∘</m:mo></m:msup><m:mo>-</m:mo><m:mi>θ</m:mi><m:mo>)</m:mo></m:mrow></m:math></emphasis>
+                  </entry>
+                  <entry>
+                    <emphasis effect="bold">vierde kwadrant <m:math overflow="scroll"><m:mrow><m:mo>(</m:mo><m:msup><m:mn>270</m:mn><m:mo>∘</m:mo></m:msup><m:mo>+</m:mo><m:mi>θ</m:mi><m:mo>)</m:mo></m:mrow></m:math></emphasis>
+                  </entry>
+                </row>
+                <row>
+                  <entry>
+                    <m:math overflow="scroll">
+                      <m:mrow>
+                        <m:mo form="prefix">sin</m:mo>
+                        <m:mo>(</m:mo>
+                        <m:msup>
+                          <m:mn>270</m:mn>
+                          <m:mo>∘</m:mo>
+                        </m:msup>
+                        <m:mo>-</m:mo>
+                        <m:mi>θ</m:mi>
+                        <m:mo>)</m:mo>
+                        <m:mo>=</m:mo>
+                        <m:mo>-</m:mo>
+                        <m:mo form="prefix">cos</m:mo>
+                        <m:mi>θ</m:mi>
+                      </m:mrow>
+                    </m:math>
+                  </entry>
+                  <entry>
+                    <m:math overflow="scroll">
+                      <m:mrow>
+                        <m:mo form="prefix">sin</m:mo>
+                        <m:mo>(</m:mo>
+                        <m:msup>
+                          <m:mn>270</m:mn>
+                          <m:mo>∘</m:mo>
+                        </m:msup>
+                        <m:mo>+</m:mo>
+                        <m:mi>θ</m:mi>
+                        <m:mo>)</m:mo>
+                        <m:mo>=</m:mo>
+                        <m:mo>-</m:mo>
+                        <m:mo form="prefix">cos</m:mo>
+                        <m:mi>θ</m:mi>
+                      </m:mrow>
+                    </m:math>
+                  </entry>
+                </row>
+                <row>
+                  <entry>
+                    <m:math overflow="scroll">
+                      <m:mrow>
+                        <m:mo form="prefix">cos</m:mo>
+                        <m:mo>(</m:mo>
+                        <m:msup>
+                          <m:mn>270</m:mn>
+                          <m:mo>∘</m:mo>
+                        </m:msup>
+                        <m:mo>-</m:mo>
+                        <m:mi>θ</m:mi>
+                        <m:mo>)</m:mo>
+                        <m:mo>=</m:mo>
+                        <m:mo>-</m:mo>
+                        <m:mo form="prefix">sin</m:mo>
+                        <m:mi>θ</m:mi>
+                      </m:mrow>
+                    </m:math>
+                  </entry>
+                  <entry>
+                    <m:math overflow="scroll">
+                      <m:mrow>
+                        <m:mo form="prefix">cos</m:mo>
+                        <m:mo>(</m:mo>
+                        <m:msup>
+                          <m:mn>270</m:mn>
+                          <m:mo>∘</m:mo>
+                        </m:msup>
+                        <m:mo>+</m:mo>
+                        <m:mi>θ</m:mi>
+                        <m:mo>)</m:mo>
+                        <m:mo>=</m:mo>
+                        <m:mo>+</m:mo>
+                        <m:mo form="prefix">sin</m:mo>
+                        <m:mi>θ</m:mi>
+                      </m:mrow>
+                    </m:math>
+                  </entry>
+                </row>
+              </tbody>
+            
+
+</tgroup>
+</table>
+          <!--empty paragraphs get left behind.-->
+          
+</section>
+        </section>
+      </section>
+    
+  </content>
+</document>

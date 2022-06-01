@@ -1,0 +1,434 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Vind i en n</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m39234</md:content-id>
+  <md:title>Vind i en n</md:title>
+  <md:abstract/>
+  <md:uuid>67f61bd3-a079-4534-9217-d5a96efce899</md:uuid>
+</metadata>
+
+<content>
+    <section id="cid7">
+      <title>Vind die waarde van <m:math overflow="scroll"><m:mi>i</m:mi></m:math></title>
+      <para id="id344687">Op hierdie stadium in jou studies van finansies in wiskunde het jy nog altyd geweet watter rentekoers om in jou berekeninge te gebruik, asook vir watter tydperk die belegging of lening sal duur. Tot nou toe het jy 'n bekende beginpunt gehad en die toekomstige waarde is bereken, of alternatiewelik het jy die toekomstige waarde gehad om mee te begin en jy moet die huidige waarde bereken.</para>
+      <para id="id344693">Daar is egter ander vrae wat jy ook kan vra:</para>
+      <list id="id344696" display="block" list-type="enumerated"><item id="uid18"> Ek wil R2 500 leen van my buurvrou wat gesê het dat ek haar binne 8 maande R3 000 kan terugbetaal. Hoeveel rente vra my buurvrou moet aan haar betaal?
+</item>
+	<item id="uid19">Ek sal oor 1,5 jaar R450 benodig vir universiteitshandboeke. Ek het tans R400. Watter rentekoers moet ek verdien om hierdie mikpunt te behaal?</item>
+</list>
+      <para id="id344727">Elke keer wanneer jy iets sien wat jy voorheen nog nie gesien het, begin altyd met die basiese vergelyking wat alreeds bekend is aan jou.
+</para>
+      <equation id="id344732">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>A</m:mi>
+            <m:mo>=</m:mo>
+            <m:mi>P</m:mi>
+            <m:mo>·</m:mo>
+            <m:msup>
+              <m:mrow>
+                <m:mo>(</m:mo>
+                <m:mn>1</m:mn>
+                <m:mo>+</m:mo>
+                <m:mi>i</m:mi>
+                <m:mo>)</m:mo>
+              </m:mrow>
+              <m:mi>n</m:mi>
+            </m:msup>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <para id="id344768">Indien hierdie 'n algebraïese probleem was en jy word gevra om 
+“die waarde van <m:math overflow="scroll"><m:mi>i</m:mi></m:math> te vind", dan sal jy die volgende moet kan bewys:</para>
+      <equation id="id344782"><m:math overflow="scroll" mode="display">
+          <m:mtable displaystyle="true">
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mrow><m:mfrac>
+                  <m:mi>A</m:mi>
+                  
+                  <m:mi>P</m:mi></m:mfrac>
+                </m:mrow>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:msup>
+                  <m:mrow>
+                    <m:mo>(</m:mo>
+                    <m:mn>1</m:mn>
+                    <m:mo>+</m:mo>
+                    <m:mi>i</m:mi>
+                    <m:mo>)</m:mo>
+                  </m:mrow>
+                  <m:mi>n</m:mi>
+                </m:msup>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mrow>
+                  <m:mo>(</m:mo>
+                  <m:mn>1</m:mn>
+                  <m:mo>+</m:mo>
+                  <m:mi>i</m:mi>
+                  <m:mo>)</m:mo>
+                </m:mrow>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:msup>
+                  <m:mrow>
+                    <m:mo>(</m:mo>
+                    <m:mfrac>
+                  <m:mi>A</m:mi>
+                  
+                  <m:mi>P</m:mi></m:mfrac>
+                    <m:mo>)</m:mo>
+                  </m:mrow>
+                  <m:mrow>
+                    <m:mn>1</m:mn>
+                    <m:mo>/</m:mo>
+                    <m:mi>n</m:mi>
+                  </m:mrow>
+                </m:msup>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mi>i</m:mi>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:msup>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mfrac>
+                  <m:mi>A</m:mi>
+                  
+                  <m:mi>P</m:mi></m:mfrac>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mn>1</m:mn>
+                      <m:mo>/</m:mo>
+                      <m:mi>n</m:mi>
+                    </m:mrow>
+                  </m:msup>
+                  <m:mo>-</m:mo>
+                  <m:mn>1</m:mn>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+          </m:mtable>
+        </m:math>
+      </equation>
+      <para id="id344914">Jy het nie nodig op hierdie afgeleide vergelyking te memoriseer nie, dit is maklik genoeg om dit af te lei wanneer jy dit sal nodig kry!</para>
+      <para id="id344918">Kom ons kyk na die twee voorbeelde wat hier bo genoem is.</para>
+      <list id="id344922" display="block" list-type="enumerated"><item id="uid20">Maak seker dat jy saamstem dat <m:math overflow="scroll"><m:mi>P</m:mi></m:math>=R2 500, <m:math overflow="scroll"><m:mi>A</m:mi></m:math>=R3 000, <m:math overflow="scroll"><m:mi>n</m:mi></m:math>=8/12=0,666667. Dit beteken dat:
+<equation id="id344965"><m:math overflow="scroll" mode="display"><m:mtable displaystyle="true"><m:mtr><m:mtd columnalign="right"><m:mi>i</m:mi></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mrow><m:msup><m:mrow><m:mo>(</m:mo><m:mfrac><m:mrow><m:mi mathvariant="normal">R</m:mi><m:mn>3</m:mn><m:mspace width="3.33333pt"/><m:mn>000</m:mn></m:mrow><m:mrow><m:mi mathvariant="normal">R</m:mi><m:mn>2</m:mn><m:mspace width="3.33333pt"/><m:mn>500</m:mn></m:mrow></m:mfrac><m:mo>)</m:mo></m:mrow><m:mrow><m:mn>1</m:mn><m:mo>/</m:mo><m:mn>0</m:mn><m:mo>,</m:mo><m:mn>666667</m:mn></m:mrow></m:msup><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mrow><m:mn>31</m:mn><m:mo>,</m:mo><m:mn>45</m:mn><m:mo>%</m:mo></m:mrow></m:mtd></m:mtr></m:mtable></m:math></equation>
+O, aarde!! Daardie is verseker nie 'n baie vrygewige buurvrou van jou nie.</item>
+	<item id="uid21">Maak seker dat <m:math overflow="scroll"><m:mi>P</m:mi></m:math>=R400, <m:math overflow="scroll"><m:mi>A</m:mi></m:math>=R450, <m:math overflow="scroll"><m:mi>n</m:mi></m:math>=1,5
+<equation id="id345105"><m:math overflow="scroll" mode="display"><m:mtable displaystyle="true"><m:mtr><m:mtd columnalign="right"><m:mi>i</m:mi></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mrow><m:msup><m:mrow><m:mo>(</m:mo><m:mfrac><m:mrow><m:mi mathvariant="normal">R</m:mi><m:mn>450</m:mn></m:mrow><m:mrow><m:mi mathvariant="normal">R</m:mi><m:mn>400</m:mn></m:mrow></m:mfrac><m:mo>)</m:mo></m:mrow><m:mrow><m:mn>1</m:mn><m:mo>/</m:mo><m:mn>1</m:mn><m:mo>,</m:mo><m:mn>5</m:mn></m:mrow></m:msup><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mrow><m:mn>8</m:mn><m:mo>,</m:mo><m:mn>17</m:mn><m:mo>%</m:mo></m:mrow></m:mtd></m:mtr></m:mtable></m:math></equation>
+Hierdie beteken dat solank jy 'n bank vind wat meer rente betaal as 8,17%, sal jy die geld  hê wat jy benodig!
+</item>
+</list>
+      <para id="id345196">Let op dat in beide voorbeelde druk ons <m:math overflow="scroll"><m:mi>n</m:mi></m:math> uit as 'n aantal jare (<m:math overflow="scroll"><m:mfrac><m:mn>8</m:mn><m:mn>12</m:mn></m:mfrac></m:math> jare, nie 8 nie omdat dit die aantal maande is) wat beteken dat die jaarlikse rentekoers is  <m:math overflow="scroll"><m:mi>i</m:mi></m:math>. Hou altyd die volgende in gedagte - hou die jare by die jare om onnodige foute uit te skakel.</para>
+<section id="secfhsst_id1877"><title>Vind die waarde van <m:math overflow="scroll"><m:mi>i</m:mi></m:math> </title>
+      <list id="id345248" display="block" list-type="enumerated"><item id="uid22"> 'n Masjien kos R45 000 en het 'n skrootwaarde (waarde waarteen die masjien afgeskryf word) van R9 000 na 10 jaar.  Bepaal die jaarlikse waardeverminderingskoers as dit bereken word op die verminderdesaldo-metode.</item>
+	<item id="uid23">Na 5 jaar het die belegging verdubbel in waarde. Teen watter jaarlikse koers is die rente saamgestel?
+</item>
+</list>
+      
+</section>
+    </section>
+    <section id="cid8">
+      <title>Vind <m:math overflow="scroll"><m:mi>n</m:mi></m:math> - Toets en Probeer</title>
+      <para id="id345308">Jy behoort nou die patroon raak te sien. Ons het die standaard formule wat 'n verskeidenheid van veranderlikes bevat:
+</para>
+      <equation id="id345312">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>A</m:mi>
+            <m:mo>=</m:mo>
+            <m:mi>P</m:mi>
+            <m:mo>·</m:mo>
+            <m:msup>
+              <m:mrow>
+                <m:mo>(</m:mo>
+                <m:mn>1</m:mn>
+                <m:mo>+</m:mo>
+                <m:mi>i</m:mi>
+                <m:mo>)</m:mo>
+              </m:mrow>
+              <m:mi>n</m:mi>
+            </m:msup>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <para id="id345347">Ons het <m:math overflow="scroll"><m:mi>A</m:mi></m:math> opgelos (in Graad 10), <m:math overflow="scroll"><m:mi>P</m:mi></m:math> (in <link target-id="cid6">"Verteenwoordig Waardes of Toekomstige Waardes van 'n Belegging of Lening"</link>) en <m:math overflow="scroll"><m:mi>i</m:mi></m:math> (in <link target-id="cid7">"Vind die waarde van i"</link>). Nou gaan ons <m:math overflow="scroll"><m:mi>n</m:mi></m:math> oplos. Met ander woorde, as ons weet wat die waarde van die geld is in die begin en hoeveel dit vermeerder, en as ons weet watter rentekoers van toepassing is - dan kan ons bereik hoe lank die geld belê moet word vir die geldsake om te klop.
+
+</para>
+      <para id="id345398">Hierdie afdeling sal <m:math overflow="scroll"><m:mi>n</m:mi></m:math> bereken deur toets en probeer en deur gebruik te maak van 'n sakrekenaar. Die behoorlike algebraïese oplossing sal in Graad 12 geleer word.</para>
+      <para id="id345410">Wanneer ons <m:math overflow="scroll"><m:mi>n</m:mi></m:math> oplos, kan ons die volgende skryf:</para>
+      <equation id="id345423">
+        <m:math overflow="scroll" mode="display">
+          <m:mtable displaystyle="true">
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mi>A</m:mi>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mi>P</m:mi>
+                  <m:msup>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mn>1</m:mn>
+                      <m:mo>+</m:mo>
+                      <m:mi>i</m:mi>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:mi>n</m:mi>
+                  </m:msup>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mfrac>
+                  <m:mi>A</m:mi>
+                  <m:mi>P</m:mi>
+                </m:mfrac>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:msup>
+                  <m:mrow>
+                    <m:mo>(</m:mo>
+                    <m:mn>1</m:mn>
+                    <m:mo>+</m:mo>
+                    <m:mi>i</m:mi>
+                    <m:mo>)</m:mo>
+                  </m:mrow>
+                  <m:mi>n</m:mi>
+                </m:msup>
+              </m:mtd>
+            </m:mtr>
+          </m:mtable>
+        </m:math>
+      </equation>
+      <para id="id345502">Nou moet ons die betrokke getalle bestudeer om te probeer om vas te stel wat die waarde van 
+<m:math overflow="scroll"><m:mi>n</m:mi></m:math> is. Verwys na ons Graad 10 notas vir metodes  hoe om <m:math overflow="scroll"><m:mi>n</m:mi></m:math> te vind.</para>
+<exercise id="secfhsst_id1966"><label>Oefening</label><title>Beleggingstermyn - Toets en Probeer</title><problem id="probfhsst_id1967">
+		<para id="id345539">Ons belê R3 500 in 'n spaarrekening wat 7,5% saamgestelde rente betaal vir 'n onbekende tydperk, teen die einde van hierdie tydperk is daar R4 044,69 in die rekening. Vir hoe lank is die geld belê?</para></problem>
+	<solution id="solfhsst_id1970"><label>Oplossing</label>
+		<list id="listfhsst_id1970" list-type="enumerated" number-style="arabic" class="stepwise"><item> 
+		<label> Stel vas wat is gegee en wat word gevra  </label>
+		<list id="id345564" display="block" list-type="bulleted">
+			<item id="uid24"><m:math overflow="scroll"><m:mi>P</m:mi></m:math>=R3 500
+</item>
+			<item id="uid25"><m:math overflow="scroll"><m:mi>i</m:mi></m:math>=7,5%
+</item>
+			<item id="uid26"><m:math overflow="scroll"><m:mi>A</m:mi></m:math>=R4 044,69
+</item>
+		</list>
+		<para id="id345628">Ons word gevra om  <m:math overflow="scroll"><m:mi>n</m:mi></m:math> te vind.</para></item>
+	<item>
+		<label> Stel vas hoe die probleem benader moet word </label>
+		<para id="id345645">Ons weet die volgende:</para>
+		<equation id="id345648">
+			<m:math overflow="scroll" mode="display">
+				<m:mtable displaystyle="true">
+					<m:mtr>
+						<m:mtd columnalign="right">
+							<m:mi>A</m:mi>
+						</m:mtd>
+						<m:mtd>
+							<m:mo>=</m:mo>
+						</m:mtd>
+						<m:mtd columnalign="left">
+							<m:mrow>
+								<m:mi>P</m:mi>
+								<m:msup>
+									<m:mrow>
+										<m:mo>(</m:mo>
+										<m:mn>1</m:mn>
+										<m:mo>+</m:mo>
+										<m:mi>i</m:mi>
+										<m:mo>)</m:mo>
+									</m:mrow>
+									<m:mi>n</m:mi>
+								</m:msup>
+							</m:mrow>
+						</m:mtd>
+					</m:mtr>
+					<m:mtr>
+						<m:mtd columnalign="right">
+							<m:mfrac>
+								<m:mi>A</m:mi>
+								<m:mi>P</m:mi>
+							</m:mfrac>
+						</m:mtd>
+						<m:mtd>
+							<m:mo>=</m:mo>
+						</m:mtd>
+						<m:mtd columnalign="left">
+							<m:msup>
+								<m:mrow>
+									<m:mo>(</m:mo>
+									<m:mn>1</m:mn>
+									<m:mo>+</m:mo>
+									<m:mi>i</m:mi>
+									<m:mo>)</m:mo>
+								</m:mrow>
+								<m:mi>n</m:mi>
+							</m:msup>
+						</m:mtd>
+					</m:mtr>
+				</m:mtable>
+			</m:math>
+		</equation>
+	</item>
+	<item>
+		<label> Los die probleem op </label>
+		<equation id="id345731">
+			<m:math overflow="scroll" mode="display">
+				<m:mtable displaystyle="true">
+					<m:mtr>
+						<m:mtd columnalign="right">
+							<m:mfrac>
+								<m:mrow>
+									<m:mi mathvariant="normal">R</m:mi>
+									<m:mn>4</m:mn>
+									<m:mspace width="3.33333pt"/>
+									<m:mn>044</m:mn>
+									<m:mo>,</m:mo>
+									<m:mn>69</m:mn>
+								</m:mrow>
+								<m:mrow>
+									<m:mi mathvariant="normal">R</m:mi>
+									<m:mn>3</m:mn>
+									<m:mspace width="3.33333pt"/>
+									<m:mn>500</m:mn>
+								</m:mrow>
+							</m:mfrac>
+						</m:mtd>
+						<m:mtd>
+							<m:mo>=</m:mo>
+						</m:mtd>
+						<m:mtd columnalign="left">
+							<m:msup>
+								<m:mrow>
+									<m:mo>(</m:mo>
+									<m:mn>1</m:mn>
+									<m:mo>+</m:mo>
+									<m:mn>7</m:mn>
+									<m:mo>,</m:mo>
+									<m:mn>5</m:mn>
+									<m:mo>%</m:mo>
+									<m:mo>)</m:mo>
+								</m:mrow>
+								<m:mi>n</m:mi>
+							</m:msup>
+						</m:mtd>
+					</m:mtr>
+					<m:mtr>
+						<m:mtd columnalign="right">
+							<m:mrow>
+								<m:mn>1</m:mn>
+								<m:mo>,</m:mo>
+								<m:mn>156</m:mn>
+							</m:mrow>
+						</m:mtd>
+						<m:mtd>
+							<m:mo>=</m:mo>
+						</m:mtd>
+						<m:mtd columnalign="left">
+							<m:msup>
+								<m:mrow>
+									<m:mo>(</m:mo>
+									<m:mn>1</m:mn>
+									<m:mo>,</m:mo>
+									<m:mn>075</m:mn>
+									<m:mo>)</m:mo>
+								</m:mrow>
+								<m:mi>n</m:mi>
+							</m:msup>
+						</m:mtd>
+					</m:mtr>
+				</m:mtable>
+			</m:math>
+		</equation>
+		<para id="id345845">Dis nou die tyd om die sakrekenaar uit te haal en  'n paar waardes vir <m:math overflow="scroll"><m:mi>n</m:mi></m:math> te probeer.</para>
+		<table id="id345858" summary="">
+			<tgroup cols="2">
+				<tbody>
+					<row>
+						<entry>Moontlik<m:math overflow="scroll"><m:mi>n</m:mi></m:math></entry>
+						<entry>
+							<m:math overflow="scroll">
+								<m:mrow>
+									<m:mn>1</m:mn>
+									<m:mo>,</m:mo>
+									<m:msup>
+										<m:mn>075</m:mn>
+										<m:mi>n</m:mi>
+									</m:msup>
+								</m:mrow>
+							</m:math>
+						</entry>
+					</row>
+					<row>
+						<entry>1,0</entry>
+						<entry>1,075</entry>
+					</row>
+					<row>
+						<entry>1,5</entry>
+						<entry>1,115</entry>
+					</row>
+					<row>
+						<entry>2,0</entry>
+						<entry>1,156</entry>
+					</row>
+					<row>
+						<entry>2,5</entry>
+						<entry>1,198</entry>
+					</row>
+				</tbody>
+			</tgroup>
+		</table>
+		<!--empty paragraphs get left behind.-->
+		<para id="id345988">Ons sien dat <m:math overflow="scroll"><m:mi>n</m:mi></m:math> is naastenby 2.</para>
+	</item>
+	<item>
+		<label> Skryf die finale antwoord</label>
+		<para id="id346004">Die R3 500 is belê vir omtrent 2 jaar . </para>
+	</item> 
+</list></solution>
+</exercise>
+<section id="secfhsst_id2148"><title>Vind <m:math overflow="scroll"><m:mi>n</m:mi></m:math> - Toets en Probeer</title>
+      <list id="id346037" display="block" list-type="enumerated"><item id="uid27">
+'n Maatskappy koop twee tipes motorvoertuie: Die Acura kos R80 600 en die Brata R101 700 BTW ingesluit. Die Acura verminder waarde teen 15,3% per jaar, jaarliks saamgestel, en die Brata teen 19,7% per jaar, ook jaarliks saamgestel. Na hoeveel jaar sal die boekiewaarde van die twee modelle dieselfde wees?
+</item>
+        <item id="uid28">Die petrol in die tenk van 'n vragmotor verminder elke minuut teen 5,5% van die hoeveelheid in die tenk teen daardie tydstip. Bereken na hoeveel minute daar minder as 
+ <m:math overflow="scroll"><m:mrow><m:mn>30</m:mn><m:mi>l</m:mi></m:mrow></m:math> in die tenk sal wees as daar oorspronklik <m:math overflow="scroll"><m:mrow><m:mn>200</m:mn><m:mi>l</m:mi></m:mrow></m:math> in die tenk was.
+</item>
+      </list>
+      
+</section>
+    </section>
+
+  </content>
+</document>

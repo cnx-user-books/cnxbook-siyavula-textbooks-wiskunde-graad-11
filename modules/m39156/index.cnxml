@@ -1,0 +1,130 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Misbruik van statistieke</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m39156</md:content-id>
+  <md:title>Misbruik van statistieke</md:title>
+  <md:abstract/>
+  <md:uuid>414c0130-ccb6-4777-9732-25ba4635395f</md:uuid>
+</metadata>
+
+<content>
+
+    <section id="cid7">
+      <title>Misbruik van Statistiek</title>
+      <para id="id170678">Data kan op baie maniere gemanipuleer word wat misleidend kan wees. Grafieke moet versigtig ontleed word en vrae moet gevra word oor 'die storie agter die getalle'. Potensiële misinterpretasies is: 
+
+</para>
+      <list id="id170683" display="block" list-type="enumerated"><item id="uid99">Verander die skaal om die voorkoms van die grafiek te verander
+</item>
+	<item id="uid100">Weglating en seleksie van data
+</item>
+	<item id="uid101">Fokus op spesifieke navorsingsvrae
+</item>
+	<item id="uid102">Seleksie van groepe
+</item>
+</list>
+<section id="secfhsst_id1570"><title>Ondersoek :  Misbruik van Statistiek </title>
+      <list id="id170744" display="block" list-type="enumerated"><item id="uid103">Ondersoek die volgende grafieke en lewer kommentaar oor die verandering van die skaal.
+<figure id="id170763"><media id="id170763_media" alt=""><image mime-type="image/png" src="../../media/MG11C18_008.png" id="id170763_onlineimage" width="295"><!-- NOTE: attribute width changes image size online (pixels). original width is 295. --></image><image mime-type="application/postscript" for="pdf" src="../../media/MG11C18_008.eps" id="id170763_printimage"/></media></figure><figure id="id170773"><media id="id170773_media" alt=""><image mime-type="image/png" src="../../media/MG11C18_009.png" id="id170773_onlineimage" width="295"><!-- NOTE: attribute width changes image size online (pixels). original width is 295. --></image><image mime-type="application/postscript" for="pdf" src="../../media/MG11C18_009.eps" id="id170773_printimage"/></media></figure></item>
+	<item id="uid104">Bestudeer die volgende drie grafieke en lewer kommentaar oor weglating, seleksie en bevoordeling. Wenk: Wat is verkeerd met die data en wat is weggelaat van die staaf- en sirkelgrafiek?
+<table id="id170793" summary="Tabel">
+<tgroup cols="2"><tbody><row><entry>Aktiwiteit</entry><entry>Ure</entry></row><row><entry>Slaap</entry><entry>8</entry></row><row><entry>Sport</entry><entry>2</entry></row><row><entry>Skool</entry><entry>7</entry></row><row><entry>Kuier by vriende</entry><entry>1</entry></row><row><entry>Kyk TV</entry><entry>2</entry></row><row><entry>Studeer</entry><entry>3</entry></row></tbody>
+</tgroup>
+</table><figure id="id170945"><media id="id170945_media" alt=""><image mime-type="image/png" src="../../media/MG11C18_010.png" id="id170945_onlineimage" width="273"><!-- NOTE: attribute width changes image size online (pixels). original width is 273. --></image><image mime-type="application/postscript" for="pdf" src="../../media/MG11C18_010.eps" id="id170945_printimage"/></media></figure><figure id="id170955"><media id="id170955_media" alt=""><image mime-type="image/png" src="../../media/MG11C18_011.png" id="id170955_onlineimage" width="194"><!-- NOTE: attribute width changes image size online (pixels). original width is 194. --></image><image mime-type="application/postscript" for="pdf" src="../../media/MG11C18_011.eps" id="id170955_printimage"/></media></figure></item>
+</list>
+      
+</section>
+<section id="secfhsst_id1579"><title>Misbruik van Statistiek  </title>
+      <para id="id170979">Die staafgrafiek hieronder toon die resultate van 'n studie wat kyk na 'n vergelyking van kospryse teenoor die inkomste van 'n huishouding in 1994.
+
+</para>
+      <para id="id170986">
+        <figure id="id170989">
+          <media id="id170989_media" alt="">
+            <image mime-type="image/png" src="../../media/MG11C18_012.png" id="id170989_onlineimage" width="287"><!-- NOTE: attribute width changes image size online (pixels). original width is 287. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/MG11C18_012.eps" id="id170989_printimage"/>
+          </media>
+        </figure>
+      </para>
+      <table id="id170996" summary="">
+        <tgroup cols="2">
+          <tbody>
+            <row>
+              <entry>Income (thousands of rands)</entry>
+              <entry>Food bill (thousands of rands)</entry>
+            </row>
+            <row>
+              <entry><m:math overflow="scroll"><m:mo>&lt;</m:mo></m:math>5</entry>
+              <entry>2</entry>
+            </row>
+            <row>
+              <entry>5-10</entry>
+              <entry>2</entry>
+            </row>
+            <row>
+              <entry>10-15</entry>
+              <entry>4</entry>
+            </row>
+            <row>
+              <entry>15-20</entry>
+              <entry>4</entry>
+            </row>
+            <row>
+              <entry>20-30</entry>
+              <entry>8</entry>
+            </row>
+            <row>
+              <entry>30-40</entry>
+              <entry>6</entry>
+            </row>
+            <row>
+              <entry>40-50</entry>
+              <entry>10</entry>
+            </row>
+            <row>
+              <entry><m:math overflow="scroll"><m:mo>&gt;</m:mo></m:math>50</entry>
+              <entry>12</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <!--empty paragraphs get left behind.-->
+      <list id="id171197" display="block" list-type="enumerated"><item id="uid105">Wat is die afhanklike veranderlike? Hoekom?
+</item>
+	<item id="uid106">Watter afleiding kan jy maak in verband met hierdie veranderlike? Maak dit sin?
+</item>
+	<item id="uid107">Wat sal gebeur as die grafiek verander word van kosrekening in duisend rande na persentasie van inkomste?
+</item>
+	<item id="uid108">Teken hierdie staafgrafiek deur van 'n tabel gebruik te maak. Watter afleidings kan gemaak word?
+</item>
+	<item id="uid109">Hoekom verskil die twee grafieke alhoewel dieselfde inligting gebruik word?
+</item>
+	<item id="uid110">Wat let jy nog op? Beïnvloed dit die regverdigheid van die resultate?
+</item>
+</list>
+      
+</section>
+    </section>
+    <section id="cid8">
+      <title>Einde van Hoofstuk Oefeninge</title>
+      <list id="id171296" display="block" list-type="enumerated"><item id="uid111">Baie padongelukke gebeur gedurende vakansies tussen Durban en Johannesburg. 'n Studie is gedoen om te sien of spoed 'n faktor is in die hoë ongeluksyfer. Gebruik die resultate om die volgende vrae te beantwoord.
+<table id="id171313" summary=""><tgroup cols="2"><tbody><row><entry>Speed (km/h)</entry><entry>Frequency</entry></row><row><entry><m:math overflow="scroll"><m:mrow><m:mn>60</m:mn><m:mo>&lt;</m:mo><m:mi>x</m:mi><m:mo>≤</m:mo><m:mn>70</m:mn></m:mrow></m:math></entry><entry>3</entry></row><row><entry><m:math overflow="scroll"><m:mrow><m:mn>70</m:mn><m:mo>&lt;</m:mo><m:mi>x</m:mi><m:mo>≤</m:mo><m:mn>80</m:mn></m:mrow></m:math></entry><entry>2</entry></row><row><entry><m:math overflow="scroll"><m:mrow><m:mn>80</m:mn><m:mo>&lt;</m:mo><m:mi>x</m:mi><m:mo>≤</m:mo><m:mn>90</m:mn></m:mrow></m:math></entry><entry>6</entry></row><row><entry><m:math overflow="scroll"><m:mrow><m:mn>90</m:mn><m:mo>&lt;</m:mo><m:mi>x</m:mi><m:mo>≤</m:mo><m:mn>100</m:mn></m:mrow></m:math></entry><entry>40</entry></row><row><entry><m:math overflow="scroll"><m:mrow><m:mn>100</m:mn><m:mo>&lt;</m:mo><m:mi>x</m:mi><m:mo>≤</m:mo><m:mn>110</m:mn></m:mrow></m:math></entry><entry>50</entry></row><row><entry><m:math overflow="scroll"><m:mrow><m:mn>110</m:mn><m:mo>&lt;</m:mo><m:mi>x</m:mi><m:mo>≤</m:mo><m:mn>120</m:mn></m:mrow></m:math></entry><entry>30</entry></row><row><entry><m:math overflow="scroll"><m:mrow><m:mn>120</m:mn><m:mo>&lt;</m:mo><m:mi>x</m:mi><m:mo>≤</m:mo><m:mn>130</m:mn></m:mrow></m:math></entry><entry>15</entry></row><row><entry><m:math overflow="scroll"><m:mrow><m:mn>130</m:mn><m:mo>&lt;</m:mo><m:mi>x</m:mi><m:mo>≤</m:mo><m:mn>140</m:mn></m:mrow></m:math></entry><entry>12</entry></row><row><entry><m:math overflow="scroll"><m:mrow><m:mn>140</m:mn><m:mo>&lt;</m:mo><m:mi>x</m:mi><m:mo>≤</m:mo><m:mn>150</m:mn></m:mrow></m:math></entry><entry>3</entry></row><row><entry><m:math overflow="scroll"><m:mrow><m:mn>150</m:mn><m:mo>&lt;</m:mo><m:mi>x</m:mi><m:mo>≤</m:mo><m:mn>160</m:mn></m:mrow></m:math></entry><entry>2</entry></row></tbody></tgroup></table><list id="id171701" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid112">Teken 'n grafiek om hierdie inligting voor te stel.
+</item><item id="uid113">Gebruik jou grafiek om die mediaanspoed en die interkwartielwydte te bereken.
+</item><item id="uid114">Watter persentasie van motors ry teen meer as<m:math><m:mn>120</m:mn><m:mspace width="2pt"/><m:mi mathvariant="normal">km</m:mi><m:mo>.</m:mo><m:msup><m:mi mathvariant="normal">h</m:mi><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:math> op hierdie pad?
+</item><item id="uid115">Oorskry motors oor die algemeen die spoedgrens?
+</item></list></item>
+	<item id="uid116">Die volgende twee diagramme (wat twee skole se bydrae vir liefdadigheid toon) is oordryf. Verduidelik hoekom hul misleidend is en teken hulle oor sodat hul nie misleidend is nie.
+<figure id="id171772"><media id="id171772_media" alt=""><image mime-type="image/png" src="../../media/MG11C18_013.png" id="id171772_onlineimage" width="229"><!-- NOTE: attribute width changes image size online (pixels). original width is 229. --></image><image mime-type="application/postscript" for="pdf" src="../../media/MG11C18_013.eps" id="id171772_printimage"/></media></figure></item>
+	<item id="uid117">Die maandelikse inkomste van ag onderwysers word as volg gegee:
+R10 050; R14 300; R9 800; R15 000; R12 140; R13 800; R11 990; R12 900.
+<list id="id171798" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid118">Wat is die gemiddelde inkomste en die standaardafwyking?
+</item><item id="uid119">Hoeveel van die salarisse is binne die standaardafwyking van die gemiddeld?
+</item><item id="uid120">As elke onderwyser 'n bonus van R500 by hul salaris kry, wat is die nuwe gemiddeld en standaardafwyking?
+</item><item id="uid121">As elke onderwyser 'n bonus van 10% van hul salaris bykry, wat is die nuwe gemiddeld en standaardafwyking?
+</item><item id="uid122">Vir albei bogenoemde vrae, hoeveel salarisse is binne een standaardafwyking van die gemiddeld?
+</item><item id="uid123">Gebruik bostaande inligting om te bereken watter bonus die voordeligste vir die onderwysers is.
+</item></list></item>
+</list>
+    </section>
+  </content>
+</document>

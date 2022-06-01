@@ -1,0 +1,603 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Veelhoeke</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m39122</md:content-id>
+  <md:title>Veelhoeke</md:title>
+  <md:abstract/>
+  <md:uuid>1b7aa624-2c36-4a02-87f3-2f8c3c9ab6f5</md:uuid>
+</metadata>
+
+<content>
+    
+    <section id="cid2">
+      <title>Inleiding</title>
+<section id="secfhsst_id68"><title>Uitbreiding : Meetkunde Geskiedenis</title><para id="id62191">Werk in pare of groepe en ondersoek die geskiedenis van die ontwikkeling van meetkunde in die laaste 1500 jaar. Beskryf die verskeie stadiums van ontwikkeling enhoe verskeie kulture meetkunde gebruik het om hulle lewens te verbeter. </para>
+      <para id="id62198">Die werke van die volgende mense moet ondersoek word:</para>
+      <list id="id62202" display="block" list-type="enumerated">
+        <item id="uid1">Islamitiese meetkunde (c. 700 - 1500)
+<list id="id62554" display="block" list-type="enumerated"><item id="uid2">Thabit ibn Qurra
+</item><item id="uid3">Omar Khayyam
+</item><item id="uid4">Sharafeddin Tusi
+</item></list></item>
+        <item id="uid5">Meetkunde in die 17de – 20ste eeue (c. 700 - 1500)
+</item>
+      </list>
+
+      
+</section>
+    </section>
+    <section id="cid3"><title>Regte Piramides, Regte Konusse and Regte Sfere</title><para id="id62623">’n Piramide is ‘n geometriese soliede vorm met ‘n  veelhoek as basis. Die basis is gekoppel aan die ‘n punt, wat die toppunt genoem word. Twee voorbeelde van piramides kan gesien word in die linkerhandse- en middelste figure in  <link target-id="uid6"/>. Die regterhandse figuur het ‘n toppunt wat gekoppel is aan ‘n sirkulêre (ronde) basis, en hierdie tipe meetkundige soliede vorm word ‘n konus genoem. Konusse is soortgelyk aan piramides behalwe dat hulle basisse rond is eerder as veelhoeke.</para>
+      <figure id="uid6">
+        <media id="uid6_media" alt="">
+          <image mime-type="image/png" src="../../media/MG11C16_001.png" id="uid6_onlineimage" width="224"><!-- NOTE: attribute width changes image size online (pixels). original width is 224. --></image>
+          <image mime-type="application/postscript" for="pdf" src="../../media/MG11C16_001.eps" id="uid6_printimage"/>
+        </media>
+        <caption>Voorbeelde van ‘n vierkantige piramide, driehoekige piramide en ‘n konus. </caption>
+      </figure>
+      <para id="id62647">
+        <emphasis effect="bold"> Oppervlakarea van ‘n Piramide </emphasis>
+      </para>
+      <para id="eip-485"><figure id="solid-geometry-volume" class="khanacademy">
+
+
+<title>Khan akademie video van soliede geometriese volumes </title>
+<media id="yt-media1" display="block" alt="video on solid geometry volumes">
+<flash id="yt-video1" mime-type="application/x-shockwave-flash" src="http://www.youtube.com/v/ZqzAOZ9pP9Q&amp;rel=0" width="425" height="344">
+<param name="allowscriptaccess" value="always"/>
+<param name="allowsfullscreen" value="true"/>
+</flash>
+</media>
+</figure></para><para id="id62653">Die oppervlakarea word bereken deur die area van elke vlak individueel bymekaar te tel. </para>
+<exercise id="secfhsst_id97"><title> Oppervlakarea </title>
+      <problem id="probfhsst_id98">
+      <para id="id62672">Indien ‘n konus ‘n hoogte van <m:math overflow="scroll"><m:mi>h</m:mi></m:math> het en ‘n basis radius van <m:math overflow="scroll"><m:mi>r</m:mi></m:math>, wys dat die oppervlakareas <m:math overflow="scroll"><m:mrow><m:mi>π</m:mi><m:msup><m:mi>r</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mi>π</m:mi><m:mi>r</m:mi><m:msqrt><m:mrow><m:msup><m:mi>r</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:msup><m:mi>h</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:msqrt></m:mrow></m:math> is. </para>
+      </problem>
+      <solution id="solfhsst_id101"> <list id="listfhsst_id101" list-type="enumerated" number-style="arabic" class="stepwise">
+      <item> <label> Teken ‘n prentjie </label>
+      <para id="id62752">
+        <figure id="id62755">
+          <media id="id62755_media" alt="">
+            <image mime-type="image/png" src="../../media/MG11C16_002.png" id="id62755_onlineimage" width="334"><!-- NOTE: attribute width changes image size online (pixels). original width is 334. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/MG11C16_002.eps" id="id62755_printimage"/>
+          </media>
+        </figure>
+      </para>
+
+
+      </item> <item> <label> Identifiseer die vlakke wat gesamentlik die konus opmaak </label>
+      <para id="id62766">Die konus het twee vlakke: die basis en die kantvlakke. Die basis is ‘n sirkel met ‘n radius van <m:math overflow="scroll"><m:mi>r</m:mi></m:math> en die kantvlakke kan oopgevlek word om ‘n sektor van ‘n sirkel te vorm. </para>
+      <para id="id62778">
+        <figure id="id62779">
+          <media id="id62779_media" alt="">
+            <image mime-type="image/png" src="../../media/MG11C16_003.png" id="id62779_onlineimage" width="217"><!-- NOTE: attribute width changes image size online (pixels). original width is 217. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/MG11C16_003.eps" id="id62779_printimage"/>
+          </media>
+        </figure>
+      </para>
+
+
+      <para id="id62785">Die geboë oppervlak kan opgesny word in ‘n groot hoeveelheid dun driehoeke met hoogte ongeveer gelyk aan <m:math overflow="scroll"><m:mi>a</m:mi></m:math> (<m:math overflow="scroll"><m:mi>a</m:mi></m:math> a word die <emphasis effect="italics"> skuinshoogte </emphasis> genoem). Die oppervlaktes van hierdie driehoeke te op tot <m:math overflow="scroll"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mo>×</m:mo></m:mrow></m:math>basis<m:math overflow="scroll"><m:mo>×</m:mo></m:math>hoogte(van ‘n klein driehoek) wat <m:math overflow="scroll"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mo>×</m:mo><m:mn>2</m:mn><m:mi>π</m:mi><m:mi>r</m:mi><m:mo>×</m:mo><m:mi>a</m:mi><m:mo>=</m:mo><m:mi>π</m:mi><m:mi>r</m:mi><m:mi>a</m:mi></m:mrow></m:math> is</para>
+
+      </item> <item> <label> Bereken <m:math overflow="scroll"><m:mi>a</m:mi></m:math> </label>
+      <para id="id62881"><m:math overflow="scroll"><m:mi>a</m:mi></m:math> kan berekend word met die Stelling van Pythagoras. Daarom:</para>
+      <equation id="id62892">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>a</m:mi>
+            <m:mo>=</m:mo>
+            <m:msqrt>
+              <m:mrow>
+                <m:msup>
+                  <m:mi>r</m:mi>
+                  <m:mn>2</m:mn>
+                </m:msup>
+                <m:mo>+</m:mo>
+                <m:msup>
+                  <m:mi>h</m:mi>
+                  <m:mn>2</m:mn>
+                </m:msup>
+              </m:mrow>
+            </m:msqrt>
+          </m:mrow>
+        </m:math>
+      </equation>
+      </item> <item> <label> Berken die oppervlak van die sirkel basis </label>
+      <equation id="id62928">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:msub>
+              <m:mi>A</m:mi>
+              <m:mi>b</m:mi>
+            </m:msub>
+            <m:mo>=</m:mo>
+            <m:mi>π</m:mi>
+            <m:msup>
+              <m:mi>r</m:mi>
+              <m:mn>2</m:mn>
+            </m:msup>
+          </m:mrow>
+        </m:math>
+      </equation>
+      </item> <item> <label> Berken die area van die geboë kante </label>
+      <equation id="id62960">
+        <m:math overflow="scroll" mode="display">
+          <m:mtable displaystyle="true">
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:msub>
+                  <m:mi>A</m:mi>
+                  <m:mi>w</m:mi>
+                </m:msub>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mi>π</m:mi>
+                  <m:mi>r</m:mi>
+                  <m:mi>a</m:mi>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mi>π</m:mi>
+                  <m:mi>r</m:mi>
+                  <m:msqrt>
+                    <m:mrow>
+                      <m:msup>
+                        <m:mi>r</m:mi>
+                        <m:mn>2</m:mn>
+                      </m:msup>
+                      <m:mo>+</m:mo>
+                      <m:msup>
+                        <m:mi>h</m:mi>
+                        <m:mn>2</m:mn>
+                      </m:msup>
+                    </m:mrow>
+                  </m:msqrt>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+          </m:mtable>
+        </m:math>
+      </equation>
+      </item> <item> <label> Berken die oppervlak are A </label>
+      <equation id="id63035">
+        <m:math overflow="scroll" mode="display">
+          <m:mtable displaystyle="true">
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mi>A</m:mi>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:msub>
+                    <m:mi>A</m:mi>
+                    <m:mi>b</m:mi>
+                  </m:msub>
+                  <m:mo>+</m:mo>
+                  <m:msub>
+                    <m:mi>A</m:mi>
+                    <m:mi>w</m:mi>
+                  </m:msub>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mi>π</m:mi>
+                  <m:msup>
+                    <m:mi>r</m:mi>
+                    <m:mn>2</m:mn>
+                  </m:msup>
+                  <m:mo>+</m:mo>
+                  <m:mi>π</m:mi>
+                  <m:mi>r</m:mi>
+                  <m:msqrt>
+                    <m:mrow>
+                      <m:msup>
+                        <m:mi>r</m:mi>
+                        <m:mn>2</m:mn>
+                      </m:msup>
+                      <m:mo>+</m:mo>
+                      <m:msup>
+                        <m:mi>h</m:mi>
+                        <m:mn>2</m:mn>
+                      </m:msup>
+                    </m:mrow>
+                  </m:msqrt>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+          </m:mtable>
+        </m:math>
+      </equation>
+      
+      </item> </list> </solution>
+</exercise>
+      <para id="id63137"><emphasis effect="bold">Volume of a Pyramid:</emphasis> Die volume van ‘n piramide kan bereken word deur :</para>
+      <equation id="id63144">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>V</m:mi>
+            <m:mo>=</m:mo>
+            <m:mfrac>
+              <m:mn>1</m:mn>
+              <m:mn>3</m:mn>
+            </m:mfrac>
+            <m:mi>A</m:mi>
+            <m:mo>•</m:mo>
+            <m:mi>h</m:mi>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <para id="id63170">waar <m:math overflow="scroll"><m:mi>A</m:mi></m:math> die oppervlak van die basis is en <m:math overflow="scroll"><m:mi>h</m:mi></m:math> die hoogte is.</para>
+      <para id="id63191">’n Konus is soos ‘n piramide, en die volume van die konus word gegee deur:</para>
+      <equation id="id63195">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>V</m:mi>
+            <m:mo>=</m:mo>
+            <m:mfrac>
+              <m:mn>1</m:mn>
+              <m:mn>3</m:mn>
+            </m:mfrac>
+            <m:mi>π</m:mi>
+            <m:msup>
+              <m:mi>r</m:mi>
+              <m:mn>2</m:mn>
+            </m:msup>
+            <m:mi>h</m:mi>
+            <m:mo>.</m:mo>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <para id="id62104">’n Vierkantige piramide het volume </para>
+      <equation id="id62107">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>V</m:mi>
+            <m:mo>=</m:mo>
+            <m:mfrac>
+              <m:mn>1</m:mn>
+              <m:mn>3</m:mn>
+            </m:mfrac>
+            <m:msup>
+              <m:mi>a</m:mi>
+              <m:mn>2</m:mn>
+            </m:msup>
+            <m:mi>h</m:mi>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <para id="id63440">waar <m:math overflow="scroll"><m:mi>a</m:mi></m:math> die kantlengte van die vierkantige basis.</para>
+<exercise id="secfhsst_id330"><title> Volume van ‘n Piramide </title>
+      <problem id="probfhsst_id331">
+      <para id="id63465">Wat is die volume van ‘n vierkantige piramide wat 3cm hoog is en ‘n kantlengte van 2cm het?
+ </para>
+      </problem>
+      <solution id="solfhsst_id335"> <list id="listfhsst_id335" list-type="enumerated" number-style="arabic" class="stepwise">
+      <item> <label> Bepaal die korrekte formule </label>
+      <para id="id63487">Die volume vir ‘n piramide is</para>
+      <equation id="id63490"><m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>V</m:mi>
+            <m:mo>=</m:mo>
+            <m:mfrac>
+              <m:mn>1</m:mn>
+              <m:mn>3</m:mn>
+            </m:mfrac>
+            <m:mi>A</m:mi>
+            <m:mo>•</m:mo>
+            <m:mi>h</m:mi>
+            
+          </m:mrow>
+        </m:math>
+      </equation>
+      <para id="id63518">waar <m:math overflow="scroll"><m:mi>A</m:mi></m:math> die oppervlak van die basis is en <m:math overflow="scroll"><m:mi>h</m:mi></m:math> die hoogte van die piramide is. Vir ‘n vierkantige basis beteken dit </para>
+      <equation id="id63540">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>V</m:mi>
+            <m:mo>=</m:mo>
+            <m:mfrac>
+              <m:mn>1</m:mn>
+              <m:mn>3</m:mn>
+            </m:mfrac>
+            <m:mi>a</m:mi>
+            <m:mo>•</m:mo>
+            <m:mi>a</m:mi>
+            <m:mo>•</m:mo>
+            <m:mi>h</m:mi>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <para id="id63570">waar <m:math overflow="scroll"><m:mi>a</m:mi></m:math> die kantlengte van die vierkantige basis is.</para>
+      <para id="id63584">
+        <figure id="id63587">
+          <media id="id63587_media" alt="">
+            <image mime-type="image/png" src="../../media/MG11C16_004.png" id="id63587_onlineimage" width="226"><!-- NOTE: attribute width changes image size online (pixels). original width is 226. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/MG11C16_004.eps" id="id63587_printimage"/>
+          </media>
+        </figure>
+      </para>
+      </item> <item> <label> Vervang die gegewe waardes </label>
+      <equation id="id63597"><m:math overflow="scroll" mode="display">
+          <m:mtable displaystyle="true">
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mfrac>
+                    <m:mn>1</m:mn>
+                    <m:mn>3</m:mn>
+                  </m:mfrac>
+                  <m:mo>•</m:mo>
+                  <m:mn>2</m:mn>
+                  <m:mo>•</m:mo>
+                  <m:mn>2</m:mn>
+                  <m:mo>•</m:mo>
+                  <m:mn>3</m:mn>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mfrac>
+                    <m:mn>1</m:mn>
+                    <m:mn>3</m:mn>
+                  </m:mfrac>
+                  <m:mo>•</m:mo>
+                  <m:mn>12</m:mn>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mn>4</m:mn><m:mspace width="3pt"/>
+                  <m:msup>
+                    <m:mi>cm</m:mi>
+                    <m:mn>3</m:mn>
+                  </m:msup>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+          </m:mtable>
+        </m:math>
+      </equation>
+      
+      </item> </list> </solution>
+</exercise>
+      <para id="id63694">Ons aanvaar die volgende formules vir volume en oppervlak van ‘n sfeer (‘n sfeer is ‘n wiskundige term vir ‘n ronde bal).</para>
+      <equation id="id63698"><m:math overflow="scroll" mode="display">
+          <m:mtable displaystyle="true">
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mrow>
+                  <m:mi>Oppervlak</m:mi>
+                </m:mrow>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mn>4</m:mn>
+                  <m:mi>π</m:mi>
+                  <m:msup>
+                    <m:mi>r</m:mi>
+                    <m:mn>2</m:mn>
+                  </m:msup>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mrow>
+                  <m:mi>Volume</m:mi>
+                </m:mrow>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mfrac>
+                    <m:mn>4</m:mn>
+                    <m:mn>3</m:mn>
+                  </m:mfrac>
+                  <m:mi>π</m:mi>
+                  <m:msup>
+                    <m:mi>r</m:mi>
+                    <m:mn>3</m:mn>
+                  </m:msup>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+          </m:mtable>
+        </m:math>
+      </equation>
+<section id="secfhsst_id508"><title> Oppervlak en volume </title>
+      <list id="id63805" display="block" list-type="enumerated"><item id="uid7">Bereken die volumes en oppervlakke van die volgende soliede liggame: *Wenk vir (e): vind die loodregte hoogte met behulp van die Stelling van Pythagoras.
+<figure id="id63823"><media id="id63823_media" alt=""><image mime-type="image/png" src="../../media/MG11C16_005.png" id="id63823_onlineimage" width="776"><!-- NOTE: attribute width changes image size online (pixels). original width is 776. --></image><image mime-type="application/postscript" for="pdf" src="../../media/MG11C16_005.eps" id="id63823_printimage"/></media></figure><link class="fullmarks" window="new" url="http://www.fhsst.org/l2D">Kliek hier vir die oplossing. </link></item>
+        <item id="uid8">Water beslaan ongeveer 71% van die aarde se oppervlak. Die aarde se radius is ongeveer 3678 km. Wat is die totale oppervlak wat deur land beslaan word? (oppervlakte wat nie deur water beslaan word nie)?<newline/><link class="fullmarks" window="new" url="http://www.fhsst.org/l2W"> Kliek hier vir die oplossing. </link>
+</item>
+        <item id="uid9"><m:math overflow="scroll"><m:mfenced separators="" open="" close=""/></m:math>
+‘n Driehoekige piramide word bo-op driehoekige prisma geplaas. Die prisma het ‘n gelyksydige driehoek met sylengte van 20 cm as basis,  en het ‘n hoogte van 42 cm. Die piramide het ‘n hoogte van 12cm.
+<list id="id63873" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid10">Wat is die totale volume van voorwerp wat uit hierdie twee vorms opgemaak word?
+</item><item id="uid11">Vind die oppervlakte van elke vlak van die piramide.
+</item><item id="uid12">Vind die totale oppervlakarea van die voorwerp.
+</item></list><figure id="id63921"><media id="id63921_media" alt=""><image mime-type="image/png" src="../../media/MG11C16_006.png" id="id63921_onlineimage" width="50"><!-- NOTE: attribute width changes image size online (pixels). original width is 50. --></image><image mime-type="application/postscript" for="pdf" src="../../media/MG11C16_006.eps" id="id63921_printimage"/></media></figure><link class="fullmarks" window="new" url="http://www.fhsst.org"> Kliek hier vir die oplossing. </link></item>
+      </list>
+      
+</section>
+     
+</section>
+    <section id="cid4"><title>Ooreenkomstigheid van Poligone</title><para id="id63947">Twee polinome is soortgelyk indien die volgende waar is:</para>
+      <list id="id63951" display="block" list-type="enumerated">
+        <item id="uid13">Alle ooreenkomstige hoeke moet kongruent wees.
+</item>
+        <item id="uid14">Alle ooreenkomstige sye moet in dieselfde verhouding tot mekaar wees.Verwys na die diagram hier onder: dit beteken dus dat die verhouding van die sy  <m:math overflow="scroll"><m:mrow><m:mi>A</m:mi><m:mi>E</m:mi></m:mrow></m:math> van die groot poligoon tot die sy <m:math overflow="scroll"><m:mrow><m:mi>P</m:mi><m:mi>T</m:mi></m:mrow></m:math> van die klein poligoon moet dieselfde wees as die verhouding van die sy <m:math overflow="scroll"><m:mrow><m:mi>A</m:mi><m:mi>B</m:mi></m:mrow></m:math> tot sy <m:math overflow="scroll"><m:mrow><m:mi>P</m:mi><m:mi>Q</m:mi></m:mrow></m:math>, <m:math overflow="scroll"><m:mrow><m:mi>B</m:mi><m:mi>C</m:mi><m:mo>/</m:mo><m:mi>Q</m:mi><m:mi>R</m:mi></m:mrow></m:math> ens. vir <emphasis effect="italics">al</emphasis> die sye.
+</item>
+      </list>
+      <para id="id64047"><figure id="id64055"><media id="id64055_media" alt=""><image mime-type="image/png" src="../../media/MG11C16_007.png" id="id64055_onlineimage" width="155"><!-- NOTE: attribute width changes image size online (pixels). original width is 155. --></image><image mime-type="application/postscript" for="pdf" src="../../media/MG11C16_007.eps" id="id64055_printimage"/></media></figure>
+
+
+As
+<list id="id64069" display="block" list-type="enumerated"><item id="uid15"><m:math overflow="scroll"><m:mrow><m:mover accent="true"><m:mi>A</m:mi><m:mo>^</m:mo></m:mover><m:mo>=</m:mo><m:mover accent="true"><m:mi>P</m:mi><m:mo>^</m:mo></m:mover></m:mrow></m:math>; <m:math overflow="scroll"><m:mrow><m:mover accent="true"><m:mi>B</m:mi><m:mo>^</m:mo></m:mover><m:mo>=</m:mo><m:mover accent="true"><m:mi>Q</m:mi><m:mo>^</m:mo></m:mover></m:mrow></m:math>; <m:math overflow="scroll"><m:mrow><m:mover accent="true"><m:mi>C</m:mi><m:mo>^</m:mo></m:mover><m:mo>=</m:mo><m:mover accent="true"><m:mi>R</m:mi><m:mo>^</m:mo></m:mover></m:mrow></m:math>; <m:math overflow="scroll"><m:mrow><m:mover accent="true"><m:mi>D</m:mi><m:mo>^</m:mo></m:mover><m:mo>=</m:mo><m:mover accent="true"><m:mi>S</m:mi><m:mo>^</m:mo></m:mover></m:mrow></m:math>; <m:math overflow="scroll"><m:mrow><m:mover accent="true"><m:mi>E</m:mi><m:mo>^</m:mo></m:mover><m:mo>=</m:mo><m:mover accent="true"><m:mi>T</m:mi><m:mo>^</m:mo></m:mover></m:mrow></m:math> 
+en
+</item><item id="uid16"><m:math overflow="scroll"><m:mrow><m:mfrac><m:mrow><m:mi>A</m:mi><m:mi>B</m:mi></m:mrow><m:mrow><m:mi>P</m:mi><m:mi>Q</m:mi></m:mrow></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mrow><m:mi>B</m:mi><m:mi>C</m:mi></m:mrow><m:mrow><m:mi>Q</m:mi><m:mi>R</m:mi></m:mrow></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mrow><m:mi>C</m:mi><m:mi>D</m:mi></m:mrow><m:mrow><m:mi>R</m:mi><m:mi>S</m:mi></m:mrow></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mrow><m:mi>D</m:mi><m:mi>E</m:mi></m:mrow><m:mrow><m:mi>S</m:mi><m:mi>T</m:mi></m:mrow></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mrow><m:mi>E</m:mi><m:mi>A</m:mi></m:mrow><m:mrow><m:mi>T</m:mi><m:mi>P</m:mi></m:mrow></m:mfrac></m:mrow></m:math></item></list>
+is die poligone ABCDE en PQRST soortgelyk.
+
+
+</para>
+<exercise id="secfhsst_id545"><title> Soortgelykheid van Poligone </title>
+      <problem id="probfhsst_id546">
+      <para id="id64327">Poligone PQTU en PRSU is soortgelyk. Vind die waarde van <m:math overflow="scroll"><m:mi>x</m:mi></m:math>.
+
+
+
+<figure id="id64354"><media id="id64354_media" alt=""><image mime-type="image/png" src="../../media/MG11C16_008.png" id="id64354_onlineimage" width="112"><!-- NOTE: attribute width changes image size online (pixels). original width is 112. --></image><image mime-type="application/postscript" for="pdf" src="../../media/MG11C16_008.eps" id="id64354_printimage"/></media></figure>
+
+
+ </para>
+      </problem>
+      <solution id="solfhsst_id556"> <list id="listfhsst_id556" list-type="enumerated" number-style="arabic" class="stepwise">
+      <item> <label> Identifiseer ooreenkomstige sye </label>
+      <para id="id64380">Aangesien die poligone soortgelyk is,</para>
+      <equation id="id64384">
+        <m:math overflow="scroll" mode="display">
+          <m:mtable displaystyle="true">
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mfrac>
+                  <m:mrow>
+                    <m:mi>P</m:mi>
+                    <m:mi>Q</m:mi>
+                  </m:mrow>
+                  <m:mrow>
+                    <m:mi>P</m:mi>
+                    <m:mi>R</m:mi>
+                  </m:mrow>
+                </m:mfrac>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mfrac>
+                  <m:mrow>
+                    <m:mi>T</m:mi>
+                    <m:mi>U</m:mi>
+                  </m:mrow>
+                  <m:mrow>
+                    <m:mi>S</m:mi>
+                    <m:mi>U</m:mi>
+                  </m:mrow>
+                </m:mfrac>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mrow>
+                  <m:mo>∴</m:mo>
+                  <m:mfrac>
+                    <m:mi>x</m:mi>
+                    <m:mrow>
+                      <m:mi>x</m:mi>
+                      <m:mo>+</m:mo>
+                      <m:mo>(</m:mo>
+                      <m:mn>3</m:mn>
+                      <m:mo>-</m:mo>
+                      <m:mi>x</m:mi>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                  </m:mfrac>
+                </m:mrow>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mfrac>
+                  <m:mn>3</m:mn>
+                  <m:mn>4</m:mn>
+                </m:mfrac>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mrow>
+                  <m:mo>∴</m:mo>
+                  <m:mfrac>
+                    <m:mi>x</m:mi>
+                    <m:mn>3</m:mn>
+                  </m:mfrac>
+                </m:mrow>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mfrac>
+                  <m:mn>3</m:mn>
+                  <m:mn>4</m:mn>
+                </m:mfrac>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mrow>
+                  <m:mo>∴</m:mo>
+                  <m:mi>x</m:mi>
+                </m:mrow>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mfrac>
+                  <m:mn>9</m:mn>
+                  <m:mn>4</m:mn>
+                </m:mfrac>
+              </m:mtd>
+            </m:mtr>
+          </m:mtable>
+        </m:math>
+      </equation>
+      
+      </item> </list> </solution>
+</exercise>
+     
+</section>
+ 
+  </content>
+</document>

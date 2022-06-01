@@ -1,0 +1,1638 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Kwadratiese rye</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m38240</md:content-id>
+  <md:title>Kwadratiese rye</md:title>
+  <md:abstract/>
+  <md:uuid>2bac2811-0ec0-4914-88f1-3bdecf28c4b2</md:uuid>
+</metadata>
+
+<content>
+    
+    <section id="cid2">
+      <title>Inleiding</title>
+      <para id="id232134">In graad 10 het jy geleer van rekenkundige rye, waar die verskil tussen opeenvolgende terme konstant was. In hierdie hoofstuk leer ons van kwadratiese rye.</para>
+    </section>
+    <section id="cid3">
+      <title>Wat is 'n <emphasis effect="italics">kwadratiese ry</emphasis>?</title>
+<definition id="fhsst_id72"><term id="termfhsst_id72"> Kwadratiese ry </term> <meaning id="meaningfhsst_id72">
+      <para id="id232498">'n Kwadratiese ry is 'n ry waar die tweede verskille tussen opeenvolgende terme met dieselfde hoeveelheid verskil. Dit word 'n gemene tweede verskil genoem. </para>
+      </meaning></definition>
+      <para id="id232510">Byvoorbeeld</para>
+      <equation id="uid1">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mn>1</m:mn>
+            <m:mo>;</m:mo>
+            <m:mspace width="0.222222em"/>
+            <m:mn>2</m:mn>
+            <m:mo>;</m:mo>
+            <m:mspace width="0.222222em"/>
+            <m:mn>4</m:mn>
+            <m:mo>;</m:mo>
+            <m:mspace width="0.222222em"/>
+            <m:mn>7</m:mn>
+            <m:mo>;</m:mo>
+            <m:mspace width="0.222222em"/>
+            <m:mn>11</m:mn>
+            <m:mo>;</m:mo>
+            <m:mspace width="0.222222em"/>
+            <m:mo>...</m:mo>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <para id="id232565">is 'n kwadratiese ry. Kom ons stel vas hoekom ...</para>
+      <para id="id232570">Indien ons die verskil tussen opeenvolgende terme neem, is</para>
+      <equation id="id232574">
+        <m:math overflow="scroll" mode="display">
+          <m:mtable displaystyle="true">
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mrow>
+                  <m:msub>
+                    <m:mi>a</m:mi>
+                    <m:mn>2</m:mn>
+                  </m:msub>
+                  <m:mo>-</m:mo>
+                  <m:msub>
+                    <m:mi>a</m:mi>
+                    <m:mn>1</m:mn>
+                  </m:msub>
+                </m:mrow>
+              </m:mtd>
+              <m:mtd>
+                <m:mrow>
+                  <m:mo>=</m:mo>
+                  <m:mn>2</m:mn>
+                  <m:mo>-</m:mo>
+                  <m:mn>1</m:mn>
+                </m:mrow>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mo>=</m:mo>
+                  <m:mn>1</m:mn>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mrow>
+                  <m:msub>
+                    <m:mi>a</m:mi>
+                    <m:mn>3</m:mn>
+                  </m:msub>
+                  <m:mo>-</m:mo>
+                  <m:msub>
+                    <m:mi>a</m:mi>
+                    <m:mn>2</m:mn>
+                  </m:msub>
+                </m:mrow>
+              </m:mtd>
+              <m:mtd>
+                <m:mrow>
+                  <m:mo>=</m:mo>
+                  <m:mn>4</m:mn>
+                  <m:mo>-</m:mo>
+                  <m:mn>2</m:mn>
+                </m:mrow>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mo>=</m:mo>
+                  <m:mn>2</m:mn>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mrow>
+                  <m:msub>
+                    <m:mi>a</m:mi>
+                    <m:mn>4</m:mn>
+                  </m:msub>
+                  <m:mo>-</m:mo>
+                  <m:msub>
+                    <m:mi>a</m:mi>
+                    <m:mn>3</m:mn>
+                  </m:msub>
+                </m:mrow>
+              </m:mtd>
+              <m:mtd>
+                <m:mrow>
+                  <m:mo>=</m:mo>
+                  <m:mn>7</m:mn>
+                  <m:mo>-</m:mo>
+                  <m:mn>4</m:mn>
+                </m:mrow>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mo>=</m:mo>
+                  <m:mn>3</m:mn>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mrow>
+                  <m:msub>
+                    <m:mi>a</m:mi>
+                    <m:mn>5</m:mn>
+                  </m:msub>
+                  <m:mo>-</m:mo>
+                  <m:msub>
+                    <m:mi>a</m:mi>
+                    <m:mn>4</m:mn>
+                  </m:msub>
+                </m:mrow>
+              </m:mtd>
+              <m:mtd>
+                <m:mrow>
+                  <m:mo>=</m:mo>
+                  <m:mn>11</m:mn>
+                  <m:mo>-</m:mo>
+                  <m:mn>7</m:mn>
+                </m:mrow>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mo>=</m:mo>
+                  <m:mn>4</m:mn>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+          </m:mtable>
+        </m:math>
+      </equation>
+      <para id="id232750">dan werk ons die <emphasis effect="italics">tweede verskille</emphasis> uit, wat bloot gekry word deur die verskille tussen opeenvolgende verskille {<m:math overflow="scroll"><m:mrow><m:mn>1</m:mn><m:mo>;</m:mo><m:mspace width="0.222222em"/><m:mn>2</m:mn><m:mo>;</m:mo><m:mspace width="0.222222em"/><m:mn>3</m:mn><m:mo>;</m:mo><m:mspace width="0.222222em"/><m:mn>4</m:mn><m:mo>;</m:mo><m:mspace width="0.222222em"/><m:mo>...</m:mo></m:mrow></m:math>} te neem:</para>
+      <equation id="id232798">
+        <m:math overflow="scroll" mode="display">
+          <m:mtable displaystyle="true">
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mrow>
+                  <m:mn>2</m:mn>
+                  <m:mo>-</m:mo>
+                  <m:mn>1</m:mn>
+                </m:mrow>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mn>1</m:mn>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mrow>
+                  <m:mn>3</m:mn>
+                  <m:mo>-</m:mo>
+                  <m:mn>2</m:mn>
+                </m:mrow>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mn>1</m:mn>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mrow>
+                  <m:mn>4</m:mn>
+                  <m:mo>-</m:mo>
+                  <m:mn>3</m:mn>
+                </m:mrow>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mn>1</m:mn>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mo>...</m:mo>
+              </m:mtd>
+            </m:mtr>
+          </m:mtable>
+        </m:math>
+      </equation>
+      <para id="id232875">Ons sien dan dat die tweede verskille gelyk is aan "1". Dus is <link target-id="uid1"/> 'n <emphasis effect="italics">kwadratiese ry</emphasis>.</para>
+      <para id="id232890">Let op dat die verskille tussen opeenvolgende terme (met ander woorde, die eerste verskille) van 'n kwadratiese ry, 'n ry vorm waar daar 'n konstante verskil is tussen opeenvolgende terme. In die voorbeeld hier bo, het die ry {<m:math overflow="scroll"><m:mrow><m:mn>1</m:mn><m:mo>;</m:mo><m:mspace width="0.222222em"/><m:mn>2</m:mn><m:mo>;</m:mo><m:mspace width="0.222222em"/><m:mn>3</m:mn><m:mo>;</m:mo><m:mspace width="0.222222em"/><m:mn>4</m:mn><m:mo>;</m:mo><m:mspace width="0.222222em"/><m:mo>...</m:mo></m:mrow></m:math>}, wat gevorm is die die verskille tussen opeenvolgende terme van <link target-id="uid1"/> te neem, 'n linêere formule van die vorm <m:math overflow="scroll"><m:mrow><m:mi>a</m:mi><m:mi>x</m:mi><m:mo>+</m:mo><m:mi>b</m:mi></m:mrow></m:math>.</para>
+<section id="secfhsst_id281"><title>Kwadratiese rye</title>
+      <para id="id232961">Die volgende is ook voorbeelde van kwadratiese rye:</para>
+      <equation id="id232967">
+        <m:math overflow="scroll" mode="display">
+          <m:mtable displaystyle="true">
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mrow>
+                  <m:mn>3</m:mn>
+                  <m:mo>;</m:mo>
+                  <m:mspace width="0.222222em"/>
+                  <m:mn>6</m:mn>
+                  <m:mo>;</m:mo>
+                  <m:mspace width="0.222222em"/>
+                  <m:mn>10</m:mn>
+                  <m:mo>;</m:mo>
+                  <m:mspace width="0.222222em"/>
+                  <m:mn>15</m:mn>
+                  <m:mo>;</m:mo>
+                  <m:mspace width="0.222222em"/>
+                  <m:mn>21</m:mn>
+                  <m:mo>;</m:mo>
+                  <m:mspace width="0.222222em"/>
+                  <m:mo>...</m:mo>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mrow>
+                  <m:mn>4</m:mn>
+                  <m:mo>;</m:mo>
+                  <m:mspace width="0.222222em"/>
+                  <m:mn>9</m:mn>
+                  <m:mo>;</m:mo>
+                  <m:mspace width="0.222222em"/>
+                  <m:mn>16</m:mn>
+                  <m:mo>;</m:mo>
+                  <m:mspace width="0.222222em"/>
+                  <m:mn>25</m:mn>
+                  <m:mo>;</m:mo>
+                  <m:mspace width="0.222222em"/>
+                  <m:mn>36</m:mn>
+                  <m:mo>;</m:mo>
+                  <m:mspace width="0.222222em"/>
+                  <m:mo>...</m:mo>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mrow>
+                  <m:mn>7</m:mn>
+                  <m:mo>;</m:mo>
+                  <m:mspace width="0.222222em"/>
+                  <m:mn>17</m:mn>
+                  <m:mo>;</m:mo>
+                  <m:mspace width="0.222222em"/>
+                  <m:mn>31</m:mn>
+                  <m:mo>;</m:mo>
+                  <m:mspace width="0.222222em"/>
+                  <m:mn>49</m:mn>
+                  <m:mo>;</m:mo>
+                  <m:mspace width="0.222222em"/>
+                  <m:mn>71</m:mn>
+                  <m:mo>;</m:mo>
+                  <m:mspace width="0.222222em"/>
+                  <m:mo>...</m:mo>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mrow>
+                  <m:mn>2</m:mn>
+                  <m:mo>;</m:mo>
+                  <m:mspace width="0.222222em"/>
+                  <m:mn>10</m:mn>
+                  <m:mo>;</m:mo>
+                  <m:mspace width="0.222222em"/>
+                  <m:mn>26</m:mn>
+                  <m:mo>;</m:mo>
+                  <m:mspace width="0.222222em"/>
+                  <m:mn>50</m:mn>
+                  <m:mo>;</m:mo>
+                  <m:mspace width="0.222222em"/>
+                  <m:mn>82</m:mn>
+                  <m:mo>;</m:mo>
+                  <m:mspace width="0.222222em"/>
+                  <m:mo>...</m:mo>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mrow>
+                  <m:mn>31</m:mn>
+                  <m:mo>;</m:mo>
+                  <m:mspace width="0.222222em"/>
+                  <m:mn>30</m:mn>
+                  <m:mo>;</m:mo>
+                  <m:mspace width="0.222222em"/>
+                  <m:mn>27</m:mn>
+                  <m:mo>;</m:mo>
+                  <m:mspace width="0.222222em"/>
+                  <m:mn>22</m:mn>
+                  <m:mo>;</m:mo>
+                  <m:mspace width="0.222222em"/>
+                  <m:mn>15</m:mn>
+                  <m:mo>;</m:mo>
+                  <m:mspace width="0.222222em"/>
+                  <m:mo>...</m:mo>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+          </m:mtable>
+        </m:math>
+      </equation>
+      <para id="id233198">Kan jy die gemene tweede verskille vir elk van die voorbeelde hier bo bereken?</para>
+</section>
+<exercise id="secfhsst_id402"><title>Kwadratiese ry</title><problem id="probfhsst_id403">
+      <para id="id233221">Skryf neer die volgende twee terme en vind 'n formule vir die <m:math overflow="scroll"><m:msup><m:mi>n</m:mi><m:mi> de </m:mi></m:msup></m:math> term in die ry <m:math overflow="scroll"><m:mrow><m:mn>5</m:mn><m:mo>,</m:mo><m:mn>12</m:mn><m:mo>,</m:mo><m:mn>23</m:mn><m:mo>,</m:mo><m:mn>38</m:mn><m:mo>,</m:mo><m:mo>.</m:mo><m:mo>.</m:mo><m:mo>.</m:mo><m:mo>,</m:mo><m:mo>.</m:mo><m:mo>.</m:mo><m:mo>.</m:mo><m:mo>,</m:mo></m:mrow></m:math> </para>
+      </problem>
+      <solution id="solfhsst_id406"> <list id="listfhsst_id406" list-type="enumerated" number-style="arabic" class="stepwise">
+      <item> <label> Vind die eerste verskille tussen die terme</label>
+      <para id="id233298">i.e. <m:math overflow="scroll"><m:mrow><m:mn>7</m:mn><m:mo>,</m:mo><m:mn>11</m:mn><m:mo>,</m:mo><m:mn>15</m:mn></m:mrow></m:math></para>
+      </item> <item> <label> Vind die tweede verskille tussen die terme</label>
+      <para id="id233321">die tweede verskil is 4.</para>
+      <para id="id233324">As ons die ry voortsit, sal die verskille tussen terme die volgende wees:</para>
+      <para id="id233330">
+        <m:math overflow="scroll">
+          <m:mrow>
+            <m:mn>15</m:mn>
+            <m:mo>+</m:mo>
+            <m:mn>4</m:mn>
+            <m:mo>=</m:mo>
+            <m:mn>19</m:mn>
+          </m:mrow>
+        </m:math>
+      </para>
+      <para id="id233351">
+        <m:math overflow="scroll">
+          <m:mrow>
+            <m:mn>19</m:mn>
+            <m:mo>+</m:mo>
+            <m:mn>4</m:mn>
+            <m:mo>=</m:mo>
+            <m:mn>23</m:mn>
+          </m:mrow>
+        </m:math>
+      </para>
+      </item> <item> <label> Om die volgende twee terme te vind</label>
+      <para id="id233375">Dus sal die volgende twee terme in die reeks die volgende wees:</para>
+      <para id="id233379">
+        <m:math overflow="scroll">
+          <m:mrow>
+            <m:mn>38</m:mn>
+            <m:mo>+</m:mo>
+            <m:mn>19</m:mn>
+            <m:mo>=</m:mo>
+            <m:mn>57</m:mn>
+          </m:mrow>
+        </m:math>
+      </para>
+      <para id="id233400">
+        <m:math overflow="scroll">
+          <m:mrow>
+            <m:mn>57</m:mn>
+            <m:mo>+</m:mo>
+            <m:mn>23</m:mn>
+            <m:mo>=</m:mo>
+            <m:mn>80</m:mn>
+          </m:mrow>
+        </m:math>
+      </para>
+      <para id="id233420">Dus sal die ry die volgende wees:
+<m:math overflow="scroll"><m:mrow><m:mn>5</m:mn><m:mo>,</m:mo><m:mn>12</m:mn><m:mo>,</m:mo><m:mn>23</m:mn><m:mo>,</m:mo><m:mn>38</m:mn><m:mo>,</m:mo><m:mn>57</m:mn><m:mo>,</m:mo><m:mn>80</m:mn></m:mrow></m:math></para>
+      </item> <item> <label> Ons moet nou die formula vir die ry vind</label>
+      <para id="id233459">Ons weet dat die tweede verskil 4 is. Die begin van die formule sal dus <m:math overflow="scroll"><m:mrow><m:mn>2</m:mn><m:msup><m:mi>n</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:math> wees.</para>
+      </item> <item> <label> Ons moet nou die volgende deel van die ry uitwerk</label>
+      <para id="id233483">Indien <m:math overflow="scroll"><m:mrow><m:mi>n</m:mi><m:mo>=</m:mo><m:mn>1</m:mn></m:mrow></m:math>, moet jy die volgende waarde in die ry kry, wat "5" vir hierdie spesifieke ry is. Die verskil tussen <m:math overflow="scroll"><m:mrow><m:mn>2</m:mn><m:msup><m:mi>n</m:mi><m:mn>2</m:mn></m:msup><m:mo>=</m:mo><m:mn>2</m:mn></m:mrow></m:math> en die oorspronklike getal (5) is 3, wat lei tot <m:math overflow="scroll"><m:mrow><m:mi>n</m:mi><m:mo>+</m:mo><m:mn>2</m:mn></m:mrow></m:math>.</para>
+      <para id="id233535">Kyk of dit werk vir die tweede terme, d.i. wanneer <m:math overflow="scroll"><m:mrow><m:mi>n</m:mi><m:mo>=</m:mo><m:mn>2</m:mn></m:mrow></m:math>.</para>
+      <para id="id233554">Dan is <m:math overflow="scroll"><m:mrow><m:mn>2</m:mn><m:msup><m:mi>n</m:mi><m:mn>2</m:mn></m:msup><m:mo>=</m:mo><m:mn>8</m:mn></m:mrow></m:math>. Die verskil tussen term twee en (12) en 8 is 4, wat geskryf kan word as <m:math overflow="scroll"><m:mrow><m:mi>n</m:mi><m:mo>+</m:mo><m:mn>2</m:mn></m:mrow></m:math>.</para>
+      <para id="id232069">Dus vir die ry <m:math overflow="scroll"><m:mrow><m:mn>5</m:mn><m:mo>,</m:mo><m:mn>12</m:mn><m:mo>,</m:mo><m:mn>23</m:mn><m:mo>,</m:mo><m:mn>38</m:mn><m:mo>,</m:mo><m:mo>.</m:mo><m:mo>.</m:mo><m:mo>.</m:mo></m:mrow></m:math> is die formule vir die <m:math overflow="scroll"><m:msup><m:mi>n</m:mi><m:mi> de </m:mi></m:msup></m:math> term <m:math overflow="scroll"><m:mrow><m:mn>2</m:mn><m:msup><m:mi>n</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mi>n</m:mi><m:mo>+</m:mo><m:mn>2</m:mn></m:mrow></m:math>.
+ </para>
+      </item> </list> </solution>
+</exercise>
+      <section id="uid2">
+        <title>Algemene geval</title>
+        <para id="id233866">Indien die ry kwadraties is, moet die <m:math overflow="scroll"><m:msup><m:mi>n</m:mi><m:mi> de </m:mi></m:msup></m:math> term <m:math overflow="scroll"><m:mrow><m:msub><m:mi>T</m:mi><m:mi>n</m:mi></m:msub><m:mo>=</m:mo><m:mi>a</m:mi><m:msup><m:mi>n</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mi>b</m:mi><m:mi>n</m:mi><m:mo>+</m:mo><m:mi>c</m:mi></m:mrow></m:math> wees</para>
+        <table id="id233918" summary="tabel">
+<tgroup cols="7"><tbody>
+              <row>
+                <entry>TERME</entry>
+                <entry>
+                  <m:math overflow="scroll">
+                    <m:mrow>
+                      <m:mi>a</m:mi>
+                      <m:mo>+</m:mo>
+                      <m:mi>b</m:mi>
+                      <m:mo>+</m:mo>
+                      <m:mi>c</m:mi>
+                    </m:mrow>
+                  </m:math>
+                </entry>
+                <entry/>
+                <entry>
+                  <m:math overflow="scroll">
+                    <m:mrow>
+                      <m:mn>4</m:mn>
+                      <m:mi>a</m:mi>
+                      <m:mo>+</m:mo>
+                      <m:mn>2</m:mn>
+                      <m:mi>b</m:mi>
+                      <m:mo>+</m:mo>
+                      <m:mi>c</m:mi>
+                    </m:mrow>
+                  </m:math>
+                </entry>
+                <entry/>
+                <entry>
+                  <m:math overflow="scroll">
+                    <m:mrow>
+                      <m:mn>9</m:mn>
+                      <m:mi>a</m:mi>
+                      <m:mo>+</m:mo>
+                      <m:mn>3</m:mn>
+                      <m:mi>b</m:mi>
+                      <m:mo>+</m:mo>
+                      <m:mi>c</m:mi>
+                    </m:mrow>
+                  </m:math>
+                </entry>
+                <entry/>
+              </row>
+              <row>
+                <entry><m:math overflow="scroll"><m:msup><m:mn>1</m:mn><m:mi mathvariant="sans-serif">ste</m:mi></m:msup></m:math> verskil</entry>
+                <entry/>
+                <entry>
+                  <m:math overflow="scroll">
+                    <m:mrow>
+                      <m:mn>3</m:mn>
+                      <m:mi>a</m:mi>
+                      <m:mo>+</m:mo>
+                      <m:mi>b</m:mi>
+                    </m:mrow>
+                  </m:math>
+                </entry>
+                <entry/>
+                <entry>
+                  <m:math overflow="scroll">
+                    <m:mrow>
+                      <m:mn>5</m:mn>
+                      <m:mi>a</m:mi>
+                      <m:mo>+</m:mo>
+                      <m:mi>b</m:mi>
+                    </m:mrow>
+                  </m:math>
+                </entry>
+                <entry/>
+                <entry>
+                  <m:math overflow="scroll">
+                    <m:mrow>
+                      <m:mn>7</m:mn>
+                      <m:mi>a</m:mi>
+                      <m:mo>+</m:mo>
+                      <m:mi>b</m:mi>
+                    </m:mrow>
+                  </m:math>
+                </entry>
+              </row>
+              <row>
+                <entry><m:math overflow="scroll"><m:msup><m:mn>2</m:mn><m:mi mathvariant="sans-serif">de</m:mi></m:msup></m:math> verskil</entry>
+                <entry/>
+                <entry/>
+                <entry>
+                  <m:math overflow="scroll">
+                    <m:mrow>
+                      <m:mn>2</m:mn>
+                      <m:mi>a</m:mi>
+                    </m:mrow>
+                  </m:math>
+                </entry>
+                <entry/>
+                <entry>
+                  <m:math overflow="scroll">
+                    <m:mrow>
+                      <m:mn>2</m:mn>
+                      <m:mi>a</m:mi>
+                    </m:mrow>
+                  </m:math>
+                </entry>
+                <entry/>
+              </row>
+            </tbody>
+          
+</tgroup>
+</table>
+        <!--empty paragraphs get left behind.-->
+        <para id="id234167">In elke geval is die tweede verskil <m:math overflow="scroll"><m:mrow><m:mn>2</m:mn><m:mi>a</m:mi></m:mrow></m:math>.
+Hierdie feit kan gebruik word om <m:math overflow="scroll"><m:mi>a</m:mi></m:math> te vind, dan <m:math overflow="scroll"><m:mi>b</m:mi></m:math> en dan <m:math overflow="scroll"><m:mi>c</m:mi></m:math>.</para>
+<exercise id="secfhsst_id584"><title>Kwadratiese ry</title><problem id="probfhsst_id585">
+        <para id="id234217">Die volgende ry is kwadraties: <m:math overflow="scroll"><m:mrow><m:mn>8</m:mn><m:mo>,</m:mo><m:mn>22</m:mn><m:mo>,</m:mo><m:mn>42</m:mn><m:mo>,</m:mo><m:mn>68</m:mn><m:mo>,</m:mo><m:mo>.</m:mo><m:mo>.</m:mo><m:mo>.</m:mo></m:mrow></m:math>
+Vind die formule. </para>
+        </problem>
+        <solution id="solfhsst_id589"> <list id="listfhsst_id589" list-type="enumerated" number-style="arabic" class="stepwise">
+        <item> <label> Neem aan dat die formule <m:math overflow="scroll"><m:mrow><m:mi>a</m:mi><m:msup><m:mi>n</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mi>b</m:mi><m:mi>n</m:mi><m:mo>+</m:mo><m:mi>c</m:mi></m:mrow></m:math> is</label>
+        <table id="id234296" summary="">
+          <tgroup cols="9">
+            <tbody>
+              <row>
+                <entry>TERME</entry>
+                <entry>8</entry>
+                <entry/>
+                <entry>22</entry>
+                <entry/>
+                <entry>42</entry>
+                <entry/>
+                <entry>68</entry>
+                <entry/>
+              </row>
+              <row>
+                <entry><m:math overflow="scroll"><m:msup><m:mn>1</m:mn><m:mi mathvariant="sans-serif">ste</m:mi></m:msup></m:math> verskil</entry>
+                <entry/>
+                <entry>14</entry>
+                <entry/>
+                <entry>20</entry>
+                <entry/>
+                <entry>26</entry>
+              </row>
+              <row>
+                <entry><m:math overflow="scroll"><m:msup><m:mn>2</m:mn><m:mi mathvariant="sans-serif">de</m:mi></m:msup></m:math> verskil</entry>
+                <entry/>
+                <entry/>
+                <entry>6</entry>
+                <entry/>
+                <entry>6</entry>
+                <entry/>
+                <entry>6</entry>
+                <entry/>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <!--empty paragraphs get left behind.-->
+        </item> <item> <label> Bepaal die waardes vir <m:math overflow="scroll"><m:mrow><m:mi>a</m:mi><m:mo>,</m:mo><m:mi>b</m:mi></m:mrow></m:math> en <m:math overflow="scroll"><m:mi>c</m:mi></m:math> </label>
+        <equation id="id234483"><m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mi> Dan is </m:mi>
+                    <m:mspace width="1.em"/>
+                    <m:mn>2</m:mn>
+                    <m:mi>a</m:mi>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mn>6</m:mn>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mi> wat </m:mi>
+<m:mspace width="1.em"/>
+                    <m:mi> gee</m:mi>
+                    <m:mspace width="1.em"/>
+                    <m:mi>a</m:mi>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mn>3</m:mn>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mi> En </m:mi>
+                    <m:mspace width="1.em"/>
+                    <m:mn>3</m:mn>
+                    <m:mi>a</m:mi>
+                    <m:mo>+</m:mo>
+                    <m:mi>b</m:mi>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mn>14</m:mn>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mo>∴</m:mo>
+                    <m:mspace width="1.em"/>
+                    <m:mn>9</m:mn>
+                    <m:mo>+</m:mo>
+                    <m:mi>b</m:mi>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mn>14</m:mn>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mi>b</m:mi>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mn>5</m:mn>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mi> En </m:mi>
+                    <m:mspace width="1.em"/>
+                    <m:mi>a</m:mi>
+                    <m:mo>+</m:mo>
+                    <m:mi>b</m:mi>
+                    <m:mo>+</m:mo>
+                    <m:mi>c</m:mi>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mn>8</m:mn>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mo>∴</m:mo>
+                    <m:mspace width="1.em"/>
+                    <m:mn>3</m:mn>
+                    <m:mo>+</m:mo>
+                    <m:mn>5</m:mn>
+                    <m:mo>+</m:mo>
+                    <m:mi>c</m:mi>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mn>8</m:mn>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mi>c</m:mi>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mn>0</m:mn>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        </item> <item> <label> Vind die formule </label>
+        <para id="id234693">Die formule is dus:    <m:math overflow="scroll"><m:mrow><m:msup><m:mi>n</m:mi><m:mi> de </m:mi></m:msup><m:mspace width="3.33333pt"/><m:mi>t</m:mi><m:mi>e</m:mi><m:mi>r</m:mi><m:mi>m</m:mi><m:mspace width="3.33333pt"/><m:mo>=</m:mo><m:mn>3</m:mn><m:msup><m:mi>n</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>5</m:mn><m:mi>n</m:mi></m:mrow></m:math></para>
+        </item> <item> <label>Gaan antwoord na</label>
+        <para id="id234749">Vir</para>
+        <equation id="id234752">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mi>n</m:mi>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>1</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:msub>
+                      <m:mi>T</m:mi>
+                      <m:mn>1</m:mn>
+                    </m:msub>
+                    <m:mo>=</m:mo>
+                    <m:mn>3</m:mn>
+                    <m:msup>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:mn>1</m:mn>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                      <m:mn>2</m:mn>
+                    </m:msup>
+                    <m:mo>+</m:mo>
+                    <m:mn>5</m:mn>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mn>1</m:mn>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:mo>=</m:mo>
+                    <m:mn>8</m:mn>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mi>n</m:mi>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>2</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:msub>
+                      <m:mi>T</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msub>
+                    <m:mo>=</m:mo>
+                    <m:mn>3</m:mn>
+                    <m:msup>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:mn>2</m:mn>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                      <m:mn>2</m:mn>
+                    </m:msup>
+                    <m:mo>+</m:mo>
+                    <m:mn>5</m:mn>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mn>2</m:mn>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:mo>=</m:mo>
+                    <m:mn>22</m:mn>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mi>n</m:mi>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>3</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:msub>
+                      <m:mi>T</m:mi>
+                      <m:mn>3</m:mn>
+                    </m:msub>
+                    <m:mo>=</m:mo>
+                    <m:mn>3</m:mn>
+                    <m:msup>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:mn>3</m:mn>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                      <m:mn>2</m:mn>
+                    </m:msup>
+                    <m:mo>+</m:mo>
+                    <m:mn>5</m:mn>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mn>3</m:mn>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:mo>=</m:mo>
+                    <m:mn>42</m:mn>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        
+        </item> </list> </solution>
+</exercise>
+<section id="secfhsst_id887"><title>Bepaling van die <m:math overflow="scroll"><m:msup><m:mi>n</m:mi><m:mi> de </m:mi></m:msup></m:math>-term van 'n kwadratiese ry </title>
+        <para id="id234987">Laat die
+<m:math overflow="scroll"><m:msup><m:mi>n</m:mi><m:mrow><m:mi>d</m:mi><m:mi>e</m:mi></m:mrow></m:msup></m:math>-term vir 'n kwadratiese ry gegee word deur</para>
+        <equation id="uid3">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:msub>
+                      <m:mi>a</m:mi>
+                      <m:mi>n</m:mi>
+                    </m:msub>
+                    <m:mo>=</m:mo>
+                    <m:mi>A</m:mi>
+                    <m:mo>·</m:mo>
+                    <m:msup>
+                      <m:mi>n</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msup>
+                    <m:mo>+</m:mo>
+                    <m:mi>B</m:mi>
+                    <m:mo>·</m:mo>
+                    <m:mi>n</m:mi>
+                    <m:mo>+</m:mo>
+                    <m:mi>C</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <para id="id235067">waar <m:math overflow="scroll"><m:mi>A</m:mi></m:math>, <m:math overflow="scroll"><m:mi>B</m:mi></m:math> and <m:math overflow="scroll"><m:mi>C</m:mi></m:math> konstantes is wat bepaal moet word.</para>
+        <equation id="uid4">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:msub>
+                    <m:mi>a</m:mi>
+                    <m:mi>n</m:mi>
+                  </m:msub>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mi>A</m:mi>
+                    <m:mo>·</m:mo>
+                    <m:msup>
+                      <m:mi>n</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msup>
+                    <m:mo>+</m:mo>
+                    <m:mi>B</m:mi>
+                    <m:mo>·</m:mo>
+                    <m:mi>n</m:mi>
+                    <m:mo>+</m:mo>
+                    <m:mi>C</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:msub>
+                    <m:mi>a</m:mi>
+                    <m:mn>1</m:mn>
+                  </m:msub>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mi>A</m:mi>
+                    <m:msup>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:mn>1</m:mn>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                      <m:mn>2</m:mn>
+                    </m:msup>
+                    <m:mo>+</m:mo>
+                    <m:mi>B</m:mi>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mn>1</m:mn>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:mo>+</m:mo>
+                    <m:mi>C</m:mi>
+                    <m:mo>=</m:mo>
+                    <m:mi>A</m:mi>
+                    <m:mo>+</m:mo>
+                    <m:mi>B</m:mi>
+                    <m:mo>+</m:mo>
+                    <m:mi>C</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:msub>
+                    <m:mi>a</m:mi>
+                    <m:mn>2</m:mn>
+                  </m:msub>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mi>A</m:mi>
+                    <m:msup>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:mn>2</m:mn>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                      <m:mn>2</m:mn>
+                    </m:msup>
+                    <m:mo>+</m:mo>
+                    <m:mi>B</m:mi>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mn>2</m:mn>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:mo>+</m:mo>
+                    <m:mi>C</m:mi>
+                    <m:mo>=</m:mo>
+                    <m:mn>4</m:mn>
+                    <m:mi>A</m:mi>
+                    <m:mo>+</m:mo>
+                    <m:mn>2</m:mn>
+                    <m:mi>B</m:mi>
+                    <m:mo>+</m:mo>
+                    <m:mi>C</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:msub>
+                    <m:mi>a</m:mi>
+                    <m:mn>3</m:mn>
+                  </m:msub>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mi>A</m:mi>
+                    <m:msup>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:mn>3</m:mn>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                      <m:mn>2</m:mn>
+                    </m:msup>
+                    <m:mo>+</m:mo>
+                    <m:mi>B</m:mi>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mn>3</m:mn>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:mo>+</m:mo>
+                    <m:mi>C</m:mi>
+                    <m:mo>=</m:mo>
+                    <m:mn>9</m:mn>
+                    <m:mi>A</m:mi>
+                    <m:mo>+</m:mo>
+                    <m:mn>3</m:mn>
+                    <m:mi>B</m:mi>
+                    <m:mo>+</m:mo>
+                    <m:mi>C</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <equation id="id235358"><m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mi> Laat </m:mi>
+                    <m:mi> d </m:mi>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:msub>
+                      <m:mi>a</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msub>
+                    <m:mo>-</m:mo>
+                    <m:msub>
+                      <m:mi>a</m:mi>
+                      <m:mn>1</m:mn>
+                    </m:msub>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mo>∴</m:mo>
+                    <m:mi>d</m:mi>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>3</m:mn>
+                    <m:mi>A</m:mi>
+                    <m:mo>+</m:mo>
+                    <m:mi>B</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <equation id="uid5">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mo>⇒</m:mo>
+              <m:mi>B</m:mi>
+              <m:mo>=</m:mo>
+              <m:mi>d</m:mi>
+              <m:mo>-</m:mo>
+              <m:mn>3</m:mn>
+              <m:mi>A</m:mi>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id235461">Die gemene tweede verskil word gekry vanaf</para>
+        <equation id="id235465">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mi>D</m:mi>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:msub>
+                        <m:mi>a</m:mi>
+                        <m:mn>3</m:mn>
+                      </m:msub>
+                      <m:mo>-</m:mo>
+                      <m:msub>
+                        <m:mi>a</m:mi>
+                        <m:mn>2</m:mn>
+                      </m:msub>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:mo>-</m:mo>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:msub>
+                        <m:mi>a</m:mi>
+                        <m:mn>2</m:mn>
+                      </m:msub>
+                      <m:mo>-</m:mo>
+                      <m:msub>
+                        <m:mi>a</m:mi>
+                        <m:mn>1</m:mn>
+                      </m:msub>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mo>(</m:mo>
+                    <m:mn>5</m:mn>
+                    <m:mi>A</m:mi>
+                    <m:mo>+</m:mo>
+                    <m:mi>B</m:mi>
+                    <m:mo>)</m:mo>
+                    <m:mo>-</m:mo>
+                    <m:mo>(</m:mo>
+                    <m:mn>3</m:mn>
+                    <m:mi>A</m:mi>
+                    <m:mo>+</m:mo>
+                    <m:mi>B</m:mi>
+                    <m:mo>)</m:mo>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>2</m:mn>
+                    <m:mi>A</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <equation id="uid6">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mo>⇒</m:mo>
+              <m:mi>A</m:mi>
+              <m:mo>=</m:mo>
+              <m:mfrac>
+                <m:mi>D</m:mi>
+                <m:mn>2</m:mn>
+              </m:mfrac>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id235617">Dus, vanuit <link target-id="uid5"/>,</para>
+        <equation id="uid7">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mi>B</m:mi>
+              <m:mo>=</m:mo>
+              <m:mi>d</m:mi>
+              <m:mo>-</m:mo>
+              <m:mfrac>
+                <m:mn>3</m:mn>
+                <m:mn>2</m:mn>
+              </m:mfrac>
+              <m:mo>·</m:mo>
+              <m:mi>D</m:mi>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id235658">Vanuit <link target-id="uid4"/>,</para>
+        <equation id="id235665">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mi>C</m:mi>
+              <m:mo>=</m:mo>
+              <m:msub>
+                <m:mi>a</m:mi>
+                <m:mn>1</m:mn>
+              </m:msub>
+              <m:mo>-</m:mo>
+              <m:mrow>
+                <m:mo>(</m:mo>
+                <m:mi>A</m:mi>
+                <m:mo>+</m:mo>
+                <m:mi>B</m:mi>
+                <m:mo>)</m:mo>
+              </m:mrow>
+              <m:mo>=</m:mo>
+              <m:msub>
+                <m:mi>a</m:mi>
+                <m:mn>1</m:mn>
+              </m:msub>
+              <m:mo>-</m:mo>
+              <m:mfrac>
+                <m:mi>D</m:mi>
+                <m:mn>2</m:mn>
+              </m:mfrac>
+              <m:mo>-</m:mo>
+              <m:mi>d</m:mi>
+              <m:mo>+</m:mo>
+              <m:mfrac>
+                <m:mn>3</m:mn>
+                <m:mn>2</m:mn>
+              </m:mfrac>
+              <m:mo>·</m:mo>
+              <m:mi>D</m:mi>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <equation id="uid8">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mo>∴</m:mo>
+              <m:mi>C</m:mi>
+              <m:mo>=</m:mo>
+              <m:msub>
+                <m:mi>a</m:mi>
+                <m:mn>1</m:mn>
+              </m:msub>
+              <m:mo>+</m:mo>
+              <m:mi>D</m:mi>
+              <m:mo>-</m:mo>
+              <m:mi>d</m:mi>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id235773">Uiteindelik word die algemene formule vir die <m:math overflow="scroll"><m:msup><m:mi>n</m:mi><m:mrow><m:mi>d</m:mi><m:mi>e</m:mi></m:mrow></m:msup></m:math>term van 'n kwadratiese ry gegee deur</para>
+        <equation id="uid9">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:msub>
+                <m:mi>a</m:mi>
+                <m:mi>n</m:mi>
+              </m:msub>
+              <m:mo>=</m:mo>
+              <m:mfrac>
+                <m:mi>D</m:mi>
+                <m:mn>2</m:mn>
+              </m:mfrac>
+              <m:mo>·</m:mo>
+              <m:msup>
+                <m:mi>n</m:mi>
+                <m:mn>2</m:mn>
+              </m:msup>
+              <m:mo>+</m:mo>
+              <m:mrow>
+                <m:mo>(</m:mo>
+                <m:mi>d</m:mi>
+                <m:mo>-</m:mo>
+                <m:mfrac>
+                  <m:mn>3</m:mn>
+                  <m:mn>2</m:mn>
+                </m:mfrac>
+                <m:mspace width="0.222222em"/>
+                <m:mi>D</m:mi>
+                <m:mo>)</m:mo>
+              </m:mrow>
+              <m:mo>·</m:mo>
+              <m:mi>n</m:mi>
+              <m:mo>+</m:mo>
+              <m:mrow>
+                <m:mo>(</m:mo>
+                <m:msub>
+                  <m:mi>a</m:mi>
+                  <m:mn>1</m:mn>
+                </m:msub>
+                <m:mo>-</m:mo>
+                <m:mi>d</m:mi>
+                <m:mo>+</m:mo>
+                <m:mi>D</m:mi>
+                <m:mo>)</m:mo>
+              </m:mrow>
+            </m:mrow>
+          </m:math>
+        </equation>
+        
+</section>
+<exercise id="secfhsst_id1357"><title>Die gebruik van die stel vergelykings</title><problem id="probfhsst_id1358">
+        <para id="id235910">Bestudeer die volgende patroon: 1; 7; 19; 37; 61; ...</para>
+        <list id="id235916" display="block" list-type="enumerated"><item id="uid10">Wat is die volgende getal in die ry?
+</item>
+          <item id="uid11">Gebruik veranderlikes om 'n algebraïese formula op te stel wat die patroon veralgemeen.
+</item>
+          <item id="uid12">Wat sal die <m:math><m:msup><m:mn>100</m:mn><m:mi>ste</m:mi></m:msup></m:math> term van die ry wees?
+</item>
+        </list>
+        
+        </problem>
+        <solution id="solfhsst_id1370"> <list id="listfhsst_id1370" list-type="enumerated" number-style="arabic" class="stepwise">
+        <item> <label> Die volgende getal in die ry is </label>
+        <para id="id235979">Die getalle vermeerder met veelvoude van 6</para>
+        <para id="id235983"><m:math overflow="scroll"><m:mrow><m:mn>1</m:mn><m:mo>+</m:mo><m:mn>6</m:mn><m:mo>(</m:mo><m:mn>1</m:mn><m:mo>)</m:mo><m:mo>=</m:mo><m:mn>7</m:mn></m:mrow></m:math>, dan is <m:math overflow="scroll"><m:mrow><m:mn>7</m:mn><m:mo>+</m:mo><m:mn>6</m:mn><m:mo>(</m:mo><m:mn>2</m:mn><m:mo>)</m:mo><m:mo>=</m:mo><m:mn>19</m:mn></m:mrow></m:math></para>
+        <para id="id236037"><m:math overflow="scroll"><m:mrow><m:mn>19</m:mn><m:mo>+</m:mo><m:mn>6</m:mn><m:mo>(</m:mo><m:mn>3</m:mn><m:mo>)</m:mo><m:mo>=</m:mo><m:mn>37</m:mn></m:mrow></m:math>, dan is <m:math overflow="scroll"><m:mrow><m:mn>37</m:mn><m:mo>+</m:mo><m:mn>6</m:mn><m:mo>(</m:mo><m:mn>4</m:mn><m:mo>)</m:mo><m:mo>=</m:mo><m:mn>61</m:mn></m:mrow></m:math></para>
+        <para id="id236089">Dus is <m:math overflow="scroll"><m:mrow><m:mn>61</m:mn><m:mo>+</m:mo><m:mn>6</m:mn><m:mo>(</m:mo><m:mn>5</m:mn><m:mo>)</m:mo><m:mo>=</m:mo><m:mn>91</m:mn></m:mrow></m:math></para>
+        <para id="id236119">Die volgende getal in die ry is 91.</para>
+        </item> <item> <label> Om die patroon te veralgemeen</label>
+        <table id="id236128" summary="">
+          <tgroup cols="11">
+            <tbody>
+              <row>
+                <entry>TERME</entry>
+                <entry>1</entry>
+                <entry/>
+                <entry>7</entry>
+                <entry/>
+                <entry>19</entry>
+                <entry/>
+                <entry>37</entry>
+                <entry/>
+                <entry>61</entry>
+                <entry/>
+              </row>
+              <row>
+                <entry><m:math overflow="scroll"><m:msup><m:mn>1</m:mn><m:mi mathvariant="sans-serif">ste</m:mi></m:msup></m:math> verskil</entry>
+                <entry/>
+                <entry>6</entry>
+                <entry/>
+                <entry>12</entry>
+                <entry/>
+                <entry>18</entry>
+                <entry/>
+                <entry>24</entry>
+              </row>
+              <row>
+                <entry><m:math overflow="scroll"><m:msup><m:mn>2</m:mn><m:mi mathvariant="sans-serif">de</m:mi></m:msup></m:math> verskil</entry>
+                <entry/>
+                <entry/>
+                <entry>6</entry>
+                <entry/>
+                <entry>6</entry>
+                <entry/>
+                <entry>6</entry>
+                <entry/>
+                <entry>6</entry>
+                <entry/>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <!--empty paragraphs get left behind.-->
+        <para id="id236323">Die patroon sal 'n kwadratiese patroon opbring, aangesien die tweede verskille konstant is.</para>
+        <para id="id236327">Dus is <m:math overflow="scroll"><m:mrow><m:mi>a</m:mi><m:msup><m:mi>n</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mi>b</m:mi><m:mi>n</m:mi><m:mo>+</m:mo><m:mi>c</m:mi><m:mo>=</m:mo><m:mi>y</m:mi></m:mrow></m:math></para>
+        <para id="id236364">Vir die eerste term: <m:math overflow="scroll"><m:mrow><m:mi>n</m:mi><m:mo>=</m:mo><m:mn>1</m:mn></m:mrow></m:math>, dan is <m:math overflow="scroll"><m:mrow><m:mi>y</m:mi><m:mo>=</m:mo><m:mn>1</m:mn></m:mrow></m:math></para>
+        <para id="id236397">Vir die tweede term: <m:math overflow="scroll"><m:mrow><m:mi>n</m:mi><m:mo>=</m:mo><m:mn>2</m:mn></m:mrow></m:math>, dan is <m:math overflow="scroll"><m:mrow><m:mi>y</m:mi><m:mo>=</m:mo><m:mn>7</m:mn></m:mrow></m:math></para>
+        <para id="id236430">Vir die derde term: <m:math overflow="scroll"><m:mrow><m:mi>n</m:mi><m:mo>=</m:mo><m:mn>3</m:mn></m:mrow></m:math>, dan is <m:math overflow="scroll"><m:mrow><m:mi>y</m:mi><m:mo>=</m:mo><m:mn>19</m:mn></m:mrow></m:math></para>
+        <para id="id236463">ensovoorts....</para>
+        </item> <item> <label> Om die stel vergelykings op te stel </label>
+        <equation id="uid13">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mi>a</m:mi>
+                    <m:mo>+</m:mo>
+                    <m:mi>b</m:mi>
+                    <m:mo>+</m:mo>
+                    <m:mi>c</m:mi>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mn>1</m:mn>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mn>4</m:mn>
+                    <m:mi>a</m:mi>
+                    <m:mo>+</m:mo>
+                    <m:mn>2</m:mn>
+                    <m:mi>b</m:mi>
+                    <m:mo>+</m:mo>
+                    <m:mi>c</m:mi>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mn>7</m:mn>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mn>9</m:mn>
+                    <m:mi>a</m:mi>
+                    <m:mo>+</m:mo>
+                    <m:mn>3</m:mn>
+                    <m:mi>b</m:mi>
+                    <m:mo>+</m:mo>
+                    <m:mi>c</m:mi>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mn>19</m:mn>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        </item> <item> <label> Los die stel vergelykings op </label>
+        <equation id="uid14"><m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mrow>
+                    <m:mi> verg. </m:mi>
+                    <m:mo>(</m:mo>
+                    <m:mn>2</m:mn>
+                    <m:mo>)</m:mo>
+                    <m:mo>-</m:mo>
+                    <m:mi> verg. </m:mi>
+                    <m:mo>(</m:mo>
+                    <m:mn>1</m:mn>
+                    <m:mo>)</m:mo>
+                    <m:mo>:</m:mo>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>3</m:mn>
+                    <m:mi>a</m:mi>
+                    <m:mo>+</m:mo>
+                    <m:mi>b</m:mi>
+                    <m:mo>=</m:mo>
+                    <m:mn>6</m:mn>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mrow>
+                    <m:mi> verg. </m:mi>
+                    <m:mo>(</m:mo>
+                    <m:mn>3</m:mn>
+                    <m:mo>)</m:mo>
+                    <m:mo>-</m:mo>
+                    <m:mi> verg. </m:mi>
+                    <m:mo>(</m:mo>
+                    <m:mn>2</m:mn>
+                    <m:mo>)</m:mo>
+                    <m:mo>:</m:mo>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>5</m:mn>
+                    <m:mi>a</m:mi>
+                    <m:mo>+</m:mo>
+                    <m:mi>b</m:mi>
+                    <m:mo>=</m:mo>
+                    <m:mn>12</m:mn>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mrow>
+                    <m:mi> verg. </m:mi>
+                    <m:mo>(</m:mo>
+                    <m:mn>5</m:mn>
+                    <m:mo>)</m:mo>
+                    <m:mo>-</m:mo>
+                    <m:mi> verg. </m:mi>
+                    <m:mo>(</m:mo>
+                    <m:mn>4</m:mn>
+                    <m:mo>)</m:mo>
+                    <m:mo>:</m:mo>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>2</m:mn>
+                    <m:mi>a</m:mi>
+                    <m:mo>=</m:mo>
+                    <m:mn>6</m:mn>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>∴</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mi>a</m:mi>
+                    <m:mo>=</m:mo>
+                    <m:mn>3</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mi>b</m:mi>
+                    <m:mo>=</m:mo>
+                    <m:mo>-</m:mo>
+                    <m:mn>3</m:mn>
+                    <m:mspace width="3.33333pt"/>
+                    <m:mi>e</m:mi>
+                    <m:mi>n</m:mi>
+                    <m:mi> </m:mi>
+                    <m:mspace width="3.33333pt"/>
+                    <m:mi>c</m:mi>
+                    <m:mo>=</m:mo>
+                    <m:mn>1</m:mn>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        </item> <item> <label> Finale antwoord </label>
+        <para id="id236768">Die algemene formule vir die patroon is <m:math overflow="scroll"><m:mrow><m:mn>3</m:mn><m:msup><m:mi>n</m:mi><m:mn>2</m:mn></m:msup><m:mo>-</m:mo><m:mn>3</m:mn><m:mi>n</m:mi><m:mo>+</m:mo><m:mn>1</m:mn></m:mrow></m:math></para>
+        </item> <item> <label> Term 100 </label>
+        <para id="id236803">Vervang <m:math><m:mi>n</m:mi></m:math> met 100:</para>
+        <para id="id236806">
+          <m:math overflow="scroll">
+            <m:mrow>
+              <m:mn>3</m:mn>
+              <m:msup>
+                <m:mrow>
+                  <m:mo>(</m:mo>
+                  <m:mn>100</m:mn>
+                  <m:mo>)</m:mo>
+                </m:mrow>
+                <m:mn>2</m:mn>
+              </m:msup>
+              <m:mo>-</m:mo>
+              <m:mn>3</m:mn>
+              <m:mrow>
+                <m:mo>(</m:mo>
+                <m:mn>100</m:mn>
+                <m:mo>)</m:mo>
+              </m:mrow>
+              <m:mo>+</m:mo>
+              <m:mn>1</m:mn>
+              <m:mo>=</m:mo>
+              <m:mn>29</m:mn>
+              <m:mspace width="3.33333pt"/>
+              <m:mn>701</m:mn>
+            </m:mrow>
+          </m:math>
+        </para>
+        <para id="id236857">Die waarde van die <m:math><m:msup><m:mn>100</m:mn><m:mi>ste</m:mi></m:msup></m:math> term is 29 701.
+ </para>
+        </item> </list> </solution>
+</exercise>
+<section id="secfhsst_id1639"><title>Teken 'n grafiek van die terme van 'n kwadratiese ry</title>
+        <para id="id236887">Die plot van <m:math overflow="scroll"><m:msub><m:mi>a</m:mi><m:mi>n</m:mi></m:msub></m:math> vs.
+<m:math overflow="scroll"><m:mi>n</m:mi></m:math> lewer 'n paraboliese grafiek vir 'n kwadratiese ry,</para>
+        <para id="id236917">gegee die kwadratiese ry</para>
+        <equation id="id236920">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mn>3</m:mn>
+                    <m:mo>;</m:mo>
+                    <m:mspace width="0.222222em"/>
+                    <m:mn>6</m:mn>
+                    <m:mo>;</m:mo>
+                    <m:mspace width="0.222222em"/>
+                    <m:mn>10</m:mn>
+                    <m:mo>;</m:mo>
+                    <m:mspace width="0.222222em"/>
+                    <m:mn>15</m:mn>
+                    <m:mo>;</m:mo>
+                    <m:mspace width="0.222222em"/>
+                    <m:mn>21</m:mn>
+                    <m:mo>;</m:mo>
+                    <m:mspace width="0.222222em"/>
+                    <m:mo>...</m:mo>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <para id="id236977">Indien ons elke van die terme teenoor die ooreenstemmende indeks teken, kry ons die grafiek van 'n parabool.</para>
+        <para id="id236981">
+          <figure id="id236984">
+            <media id="id236984_media" alt="">
+              <image mime-type="image/png" src="../../media/MG11C5_001.png" id="id236984_onlineimage" width="314"><!-- NOTE: attribute width changes image size online (pixels). original width is 314. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/MG11C5_001.eps" id="id236984_printimage"/>
+            </media>
+          </figure>
+        </para>
+        
+</section>
+      </section>
+    </section>
+    <section id="cid4">
+      <title>Oefeninge</title>
+      <list id="id237010" display="block" list-type="enumerated"><item id="uid15">Vind die eerste 5 terme van die kwadratiese ry gedefinieer deur:
+<equation id="id237026"><m:math overflow="scroll" mode="display"><m:mrow><m:msub><m:mi>a</m:mi><m:mi>n</m:mi></m:msub><m:mo>=</m:mo><m:msup><m:mi>n</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>2</m:mn><m:mi>n</m:mi><m:mo>+</m:mo><m:mn>1</m:mn></m:mrow></m:math></equation></item>
+        <item id="uid16">Bepaal watter van die volgende rye kwadraties is deur die gemene tweede verskille te bereken:
+<list id="id237077" display="block" list-type="enumerated"><item id="uid17"><m:math overflow="scroll"><m:mrow><m:mn>6</m:mn><m:mo>;</m:mo><m:mn>9</m:mn><m:mo>;</m:mo><m:mn>14</m:mn><m:mo>;</m:mo><m:mn>21</m:mn><m:mo>;</m:mo><m:mn>30</m:mn><m:mo>;</m:mo><m:mo>...</m:mo></m:mrow></m:math></item><item id="uid18"><m:math overflow="scroll"><m:mrow><m:mn>1</m:mn><m:mo>;</m:mo><m:mn>7</m:mn><m:mo>;</m:mo><m:mn>17</m:mn><m:mo>;</m:mo><m:mn>31</m:mn><m:mo>;</m:mo><m:mn>49</m:mn><m:mo>;</m:mo><m:mo>...</m:mo></m:mrow></m:math></item><item id="uid19"><m:math overflow="scroll"><m:mrow><m:mn>8</m:mn><m:mo>;</m:mo><m:mn>17</m:mn><m:mo>;</m:mo><m:mn>32</m:mn><m:mo>;</m:mo><m:mn>53</m:mn><m:mo>;</m:mo><m:mn>80</m:mn><m:mo>;</m:mo><m:mo>...</m:mo></m:mrow></m:math></item><item id="uid20"><m:math overflow="scroll"><m:mrow><m:mn>9</m:mn><m:mo>;</m:mo><m:mn>26</m:mn><m:mo>;</m:mo><m:mn>51</m:mn><m:mo>;</m:mo><m:mn>84</m:mn><m:mo>;</m:mo><m:mn>125</m:mn><m:mo>;</m:mo><m:mo>...</m:mo></m:mrow></m:math></item><item id="uid21"><m:math overflow="scroll"><m:mrow><m:mn>2</m:mn><m:mo>;</m:mo><m:mn>20</m:mn><m:mo>;</m:mo><m:mn>50</m:mn><m:mo>;</m:mo><m:mn>92</m:mn><m:mo>;</m:mo><m:mn>146</m:mn><m:mo>;</m:mo><m:mo>...</m:mo></m:mrow></m:math></item><item id="uid22"><m:math overflow="scroll"><m:mrow><m:mn>5</m:mn><m:mo>;</m:mo><m:mn>19</m:mn><m:mo>;</m:mo><m:mn>41</m:mn><m:mo>;</m:mo><m:mn>71</m:mn><m:mo>;</m:mo><m:mn>109</m:mn><m:mo>;</m:mo><m:mo>...</m:mo></m:mrow></m:math></item><item id="uid23"><m:math overflow="scroll"><m:mrow><m:mn>2</m:mn><m:mo>;</m:mo><m:mn>6</m:mn><m:mo>;</m:mo><m:mn>10</m:mn><m:mo>;</m:mo><m:mn>14</m:mn><m:mo>;</m:mo><m:mn>18</m:mn><m:mo>;</m:mo><m:mo>...</m:mo></m:mrow></m:math></item><item id="uid24"><m:math overflow="scroll"><m:mrow><m:mn>3</m:mn><m:mo>;</m:mo><m:mn>9</m:mn><m:mo>;</m:mo><m:mn>15</m:mn><m:mo>;</m:mo><m:mn>21</m:mn><m:mo>;</m:mo><m:mn>27</m:mn><m:mo>;</m:mo><m:mo>...</m:mo></m:mrow></m:math></item><item id="uid25"><m:math overflow="scroll"><m:mrow><m:mn>10</m:mn><m:mo>;</m:mo><m:mn>24</m:mn><m:mo>;</m:mo><m:mn>44</m:mn><m:mo>;</m:mo><m:mn>70</m:mn><m:mo>;</m:mo><m:mn>102</m:mn><m:mo>;</m:mo><m:mo>...</m:mo></m:mrow></m:math></item><item id="uid26"><m:math overflow="scroll"><m:mrow><m:mn>1</m:mn><m:mo>;</m:mo><m:mn>2</m:mn><m:mo>,</m:mo><m:mn>5</m:mn><m:mo>;</m:mo><m:mn>5</m:mn><m:mo>;</m:mo><m:mn>8</m:mn><m:mo>,</m:mo><m:mn>5</m:mn><m:mo>;</m:mo><m:mn>13</m:mn><m:mo>;</m:mo><m:mo>...</m:mo></m:mrow></m:math></item><item id="uid27"><m:math overflow="scroll"><m:mrow><m:mn>2</m:mn><m:mo>,</m:mo><m:mn>5</m:mn><m:mo>;</m:mo><m:mn>6</m:mn><m:mo>;</m:mo><m:mn>10</m:mn><m:mo>,</m:mo><m:mn>5</m:mn><m:mo>;</m:mo><m:mn>16</m:mn><m:mo>;</m:mo><m:mn>22</m:mn><m:mo>,</m:mo><m:mn>5</m:mn><m:mo>;</m:mo><m:mo>...</m:mo></m:mrow></m:math></item><item id="uid28"><m:math overflow="scroll"><m:mrow><m:mn>0</m:mn><m:mo>,</m:mo><m:mn>5</m:mn><m:mo>;</m:mo><m:mn>9</m:mn><m:mo>;</m:mo><m:mn>20</m:mn><m:mo>,</m:mo><m:mn>5</m:mn><m:mo>;</m:mo><m:mn>35</m:mn><m:mo>;</m:mo><m:mn>52</m:mn><m:mo>,</m:mo><m:mn>5</m:mn><m:mo>;</m:mo><m:mo>...</m:mo></m:mrow></m:math></item></list></item>
+        <item id="uid29">Gegee <m:math overflow="scroll"><m:mrow><m:msub><m:mi>a</m:mi><m:mi>n</m:mi></m:msub><m:mo>=</m:mo><m:mn>2</m:mn><m:msup><m:mi>n</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:math>, vind die waarde van <m:math overflow="scroll"><m:mi>n</m:mi></m:math>, <m:math overflow="scroll"><m:mrow><m:msub><m:mi>a</m:mi><m:mi>n</m:mi></m:msub><m:mo>=</m:mo><m:mn>242</m:mn></m:mrow></m:math></item>
+        <item id="uid30">Gegee <m:math overflow="scroll"><m:mrow><m:msub><m:mi>a</m:mi><m:mi>n</m:mi></m:msub><m:mo>=</m:mo><m:msup><m:mrow><m:mo>(</m:mo><m:mi>n</m:mi><m:mo>-</m:mo><m:mn>4</m:mn><m:mo>)</m:mo></m:mrow><m:mn>2</m:mn></m:msup></m:mrow></m:math>, vind vir watter waarde van <m:math overflow="scroll"><m:mi>n</m:mi></m:math>, <m:math overflow="scroll"><m:mrow><m:msub><m:mi>a</m:mi><m:mi>n</m:mi></m:msub><m:mo>=</m:mo><m:mn>36</m:mn></m:mrow></m:math></item>
+        <item id="uid31">Gegee <m:math overflow="scroll"><m:mrow><m:msub><m:mi>a</m:mi><m:mi>n</m:mi></m:msub><m:mo>=</m:mo><m:msup><m:mi>n</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>4</m:mn></m:mrow></m:math>, vind die waarde van <m:math overflow="scroll"><m:mi>n</m:mi></m:math>, <m:math overflow="scroll"><m:mrow><m:msub><m:mi>a</m:mi><m:mi>n</m:mi></m:msub><m:mo>=</m:mo><m:mn>85</m:mn></m:mrow></m:math></item>
+        <item id="uid32">Gegee <m:math overflow="scroll"><m:mrow><m:msub><m:mi>a</m:mi><m:mi>n</m:mi></m:msub><m:mo>=</m:mo><m:mn>3</m:mn><m:msup><m:mi>n</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:math>, vind <m:math overflow="scroll"><m:msub><m:mi>a</m:mi><m:mn>11</m:mn></m:msub></m:math></item>
+        <item id="uid33">Gegee <m:math overflow="scroll"><m:mrow><m:msub><m:mi>a</m:mi><m:mi>n</m:mi></m:msub><m:mo>=</m:mo><m:mn>7</m:mn><m:msup><m:mi>n</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>4</m:mn><m:mi>n</m:mi></m:mrow></m:math>, vind <m:math overflow="scroll"><m:msub><m:mi>a</m:mi><m:mn>9</m:mn></m:msub></m:math></item>
+        <item id="uid34">Gegee <m:math overflow="scroll"><m:mrow><m:msub><m:mi>a</m:mi><m:mi>n</m:mi></m:msub><m:mo>=</m:mo><m:mn>4</m:mn><m:msup><m:mi>n</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>3</m:mn><m:mi>n</m:mi><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:math>, vind <m:math overflow="scroll"><m:msub><m:mi>a</m:mi><m:mn>5</m:mn></m:msub></m:math></item>
+        <item id="uid35">Gegee <m:math overflow="scroll"><m:mrow><m:msub><m:mi>a</m:mi><m:mi>n</m:mi></m:msub><m:mo>=</m:mo><m:mn>1</m:mn><m:mo>,</m:mo><m:mn>5</m:mn><m:msup><m:mi>n</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:math>, vind <m:math overflow="scroll"><m:msub><m:mi>a</m:mi><m:mn>10</m:mn></m:msub></m:math></item>
+        <item id="uid36">Vir elke van die kwadratiese rye, vind die gemene tweede verskil, die formule vir die algemene term en gebruik dan die formule om <m:math overflow="scroll"><m:msub><m:mi>a</m:mi><m:mn>100</m:mn></m:msub></m:math> te vind.
+<list id="id238068" display="block" list-type="enumerated"><item id="uid37"><m:math overflow="scroll"><m:mrow><m:mn>4</m:mn><m:mo>,</m:mo><m:mn>7</m:mn><m:mo>,</m:mo><m:mn>12</m:mn><m:mo>,</m:mo><m:mn>19</m:mn><m:mo>,</m:mo><m:mn>28</m:mn><m:mo>,</m:mo><m:mo>...</m:mo></m:mrow></m:math></item><item id="uid38"><m:math overflow="scroll"><m:mrow><m:mn>2</m:mn><m:mo>,</m:mo><m:mn>8</m:mn><m:mo>,</m:mo><m:mn>18</m:mn><m:mo>,</m:mo><m:mn>32</m:mn><m:mo>,</m:mo><m:mn>50</m:mn><m:mo>,</m:mo><m:mo>...</m:mo></m:mrow></m:math></item><item id="uid39"><m:math overflow="scroll"><m:mrow><m:mn>7</m:mn><m:mo>,</m:mo><m:mn>13</m:mn><m:mo>,</m:mo><m:mn>23</m:mn><m:mo>,</m:mo><m:mn>37</m:mn><m:mo>,</m:mo><m:mn>55</m:mn><m:mo>,</m:mo><m:mo>...</m:mo></m:mrow></m:math></item><item id="uid40"><m:math overflow="scroll"><m:mrow><m:mn>5</m:mn><m:mo>,</m:mo><m:mn>14</m:mn><m:mo>,</m:mo><m:mn>29</m:mn><m:mo>,</m:mo><m:mn>50</m:mn><m:mo>,</m:mo><m:mn>77</m:mn><m:mo>,</m:mo><m:mo>...</m:mo></m:mrow></m:math></item><item id="uid41"><m:math overflow="scroll"><m:mrow><m:mn>7</m:mn><m:mo>,</m:mo><m:mn>22</m:mn><m:mo>,</m:mo><m:mn>47</m:mn><m:mo>,</m:mo><m:mn>82</m:mn><m:mo>,</m:mo><m:mn>127</m:mn><m:mo>,</m:mo><m:mo>...</m:mo></m:mrow></m:math></item><item id="uid42"><m:math overflow="scroll"><m:mrow><m:mn>3</m:mn><m:mo>,</m:mo><m:mn>10</m:mn><m:mo>,</m:mo><m:mn>21</m:mn><m:mo>,</m:mo><m:mn>36</m:mn><m:mo>,</m:mo><m:mn>55</m:mn><m:mo>,</m:mo><m:mo>...</m:mo></m:mrow></m:math></item><item id="uid43"><m:math overflow="scroll"><m:mrow><m:mn>3</m:mn><m:mo>,</m:mo><m:mn>7</m:mn><m:mo>,</m:mo><m:mn>13</m:mn><m:mo>,</m:mo><m:mn>21</m:mn><m:mo>,</m:mo><m:mn>31</m:mn><m:mo>,</m:mo><m:mo>...</m:mo></m:mrow></m:math></item><item id="uid44"><m:math overflow="scroll"><m:mrow><m:mn>3</m:mn><m:mo>,</m:mo><m:mn>9</m:mn><m:mo>,</m:mo><m:mn>17</m:mn><m:mo>,</m:mo><m:mn>27</m:mn><m:mo>,</m:mo><m:mn>39</m:mn><m:mo>,</m:mo><m:mo>...</m:mo></m:mrow></m:math></item></list></item>
+      </list>
+    </section>
+  </content>
+</document>

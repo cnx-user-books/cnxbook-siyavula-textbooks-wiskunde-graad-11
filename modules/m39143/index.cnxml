@@ -1,0 +1,305 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Die vind van die vergelyking</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m39143</md:content-id>
+  <md:title>Die vind van die vergelyking</md:title>
+  <md:abstract/>
+  <md:uuid>9b9576f9-89a2-4e4e-86b1-1a85951f08d2</md:uuid>
+</metadata>
+
+<content>
+<section id="cid6"><title>Hoe om 'n Vergelyking te kry as sy Wortels bekend is</title><para id="id72036">Ons het reeds genoem dat die <emphasis effect="italics">wortels</emphasis> van 'n kwadratiese vergelyking die oplossing of antwoorde is wat jy kry deur die kwadratiese vergelyking op te los. Deur terug te werk vanaf die antwoorde, sal jy 'n vergelyking kry.
+</para>
+<exercise id="secfhsst_id3098"><title>Kry 'n vergelyking wanneer wortels gegee is</title><problem id="probfhsst_id3099">
+      <para id="id72060">Kry 'n vergelyking met wortels 13 en -5. </para>
+      </problem>
+      <solution id="solfhsst_id3102"> <list id="listfhsst_id3102" list-type="enumerated" number-style="arabic" class="stepwise"><item> <label> Skryf neer as die produk van twee hakies</label>
+      <para id="id72084">Die stap voor die oplossings gegee word sou wees:</para>
+      <equation id="id72088">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mo>(</m:mo>
+            <m:mi>x</m:mi>
+            <m:mo>-</m:mo>
+            <m:mn>13</m:mn>
+            <m:mo>)</m:mo>
+            <m:mo>(</m:mo>
+            <m:mi>x</m:mi>
+            <m:mo>+</m:mo>
+            <m:mn>5</m:mn>
+            <m:mo>)</m:mo>
+            <m:mo>=</m:mo>
+            <m:mn>0</m:mn>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <para id="id72124">Let op dat die tekens in die hakies die teenoorgestelde is as die van die gegewe wortels.
+</para>
+      </item> <item> <label> Verwyder hakies deur uit te vermenigvuldig</label>
+      <equation id="id72133">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:msup>
+              <m:mi>x</m:mi>
+              <m:mn>2</m:mn>
+            </m:msup>
+            <m:mo>-</m:mo>
+            <m:mn>8</m:mn>
+            <m:mi>x</m:mi>
+            <m:mo>-</m:mo>
+            <m:mn>65</m:mn>
+            <m:mo>=</m:mo>
+            <m:mn>0</m:mn>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <para id="id72166">Daar is natuurlik ander moontlike vergelykings ook wat gekry word as elke term aan elke
+kant van die <emphasis effect="italics"> gelyk aan teken </emphasis> met 'n konstante vermenigvuldig word.
+</para>
+      </item> </list> </solution>
+</exercise>
+<exercise id="secfhsst_id3145"><title>Breukwortels </title><problem id="probfhsst_id3146">
+      <para id="id72202">Kry 'n vergelyking met wortels <m:math overflow="scroll"><m:mrow><m:mo>-</m:mo><m:mfrac><m:mn>3</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow></m:math> en 4 </para>
+      </problem>
+      <solution id="solfhsst_id3149"> <list id="listfhsst_id3149" list-type="enumerated" number-style="arabic" class="stepwise"><item> <label> Produk van twee hakies </label>
+      <para id="id72242">Let op dat as <m:math overflow="scroll"><m:mrow><m:mi>x</m:mi><m:mo>=</m:mo><m:mo>-</m:mo><m:mfrac><m:mn>3</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow></m:math> dan <m:math overflow="scroll"><m:mrow><m:mn>2</m:mn><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>3</m:mn><m:mo>=</m:mo><m:mn>0</m:mn></m:mrow></m:math></para>
+      <para id="id72286">Daarom sal die twee hakies wees:</para>
+      <equation id="id72292">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mo>(</m:mo>
+            <m:mn>2</m:mn>
+            <m:mi>x</m:mi>
+            <m:mo>+</m:mo>
+            <m:mn>3</m:mn>
+            <m:mo>)</m:mo>
+            <m:mo>(</m:mo>
+            <m:mi>x</m:mi>
+            <m:mo>-</m:mo>
+            <m:mn>4</m:mn>
+            <m:mo>)</m:mo>
+            <m:mo>=</m:mo>
+            <m:mn>0</m:mn>
+          </m:mrow>
+        </m:math>
+      </equation>
+      </item> <item> <label> Verwyder hakies </label>
+      <para id="id72333">Die vergelyking is:</para>
+      <equation id="id72336">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mn>2</m:mn>
+            <m:msup>
+              <m:mi>x</m:mi>
+              <m:mn>2</m:mn>
+            </m:msup>
+            <m:mo>-</m:mo>
+            <m:mn>5</m:mn>
+            <m:mi>x</m:mi>
+            <m:mo>-</m:mo>
+            <m:mn>12</m:mn>
+            <m:mo>=</m:mo>
+            <m:mn>0</m:mn>
+          </m:mrow>
+        </m:math>
+      </equation>
+      
+      </item> </list> </solution>
+</exercise>
+<section id="secfhsst_id3195"><title>Teorie van Kwadratiese Vergelykings - Gevorderd</title>
+      <para id="id72399">Hierdie afdeling is nie in die leerplan nie, maar dit gee mens 'n goeie begrip van party van die oplossings van die kwadratiese vergelykings.
+</para>
+      <section id="id72406">
+        <title>Wat is die Diskriminant van 'n Kwadratiese Vergelyking?</title>
+        <para id="id72413">Beskou 'n algemene kwadratiese funksie in die form <m:math overflow="scroll"><m:mrow><m:mi>f</m:mi><m:mrow><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>)</m:mo></m:mrow><m:mo>=</m:mo><m:mi>a</m:mi><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mi>b</m:mi><m:mi>x</m:mi><m:mo>+</m:mo><m:mi>c</m:mi></m:mrow></m:math>. Die <emphasis effect="italics">diskriminant</emphasis> word gedefinieer as:</para>
+        <equation id="uid59">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mi>Δ</m:mi>
+              <m:mo>=</m:mo>
+              <m:msup>
+                <m:mi>b</m:mi>
+                <m:mn>2</m:mn>
+              </m:msup>
+              <m:mo>-</m:mo>
+              <m:mn>4</m:mn>
+              <m:mi>a</m:mi>
+              <m:mi>c</m:mi>
+              <m:mo>.</m:mo>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id72499">Hierdie is die uitdrukking onder die vierkantswortel in die formule vir die wortels van die funksie. Ons het reeds gesien dat of die wortels bestaan ​​of nie daarvan afhang of die faktor <m:math overflow="scroll"><m:mi>Δ</m:mi></m:math> negatief of positief is nie.
+</para>
+      </section>
+      <section id="id72517">
+        <title>Die Aard van die Wortels</title>
+        <section id="id72523">
+          <title>Real Roots (<m:math overflow="scroll"><m:mrow><m:mi>Δ</m:mi><m:mo>≥</m:mo><m:mn>0</m:mn></m:mrow></m:math>)</title>
+          <para id="id72545">Beskou <m:math overflow="scroll"><m:mrow><m:mi>Δ</m:mi><m:mo>≥</m:mo><m:mn>0</m:mn></m:mrow></m:math> vir 'n kwadratiese funksie in die vorm <m:math overflow="scroll"><m:mrow><m:mi>f</m:mi><m:mrow><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>)</m:mo></m:mrow><m:mo>=</m:mo><m:mi>a</m:mi><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mi>b</m:mi><m:mi>x</m:mi><m:mo>+</m:mo><m:mi>c</m:mi></m:mrow></m:math>. In hierdie geval is daar oplossing vir die vergelyking <m:math overflow="scroll"><m:mrow><m:mi>f</m:mi><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>)</m:mo><m:mo>=</m:mo><m:mn>0</m:mn></m:mrow></m:math> gegee deur die formule</para>
+          <equation id="uid60">
+            <m:math overflow="scroll" mode="display">
+              <m:mrow>
+                <m:mi>x</m:mi>
+                <m:mo>=</m:mo>
+                <m:mfrac>
+                  <m:mrow>
+                    <m:mo>-</m:mo>
+                    <m:mi>b</m:mi>
+                    <m:mo>±</m:mo>
+                    <m:msqrt>
+                      <m:mrow>
+                        <m:msup>
+                          <m:mi>b</m:mi>
+                          <m:mn>2</m:mn>
+                        </m:msup>
+                        <m:mo>-</m:mo>
+                        <m:mn>4</m:mn>
+                        <m:mi>a</m:mi>
+                        <m:mi>c</m:mi>
+                      </m:mrow>
+                    </m:msqrt>
+                  </m:mrow>
+                  <m:mrow>
+                    <m:mn>2</m:mn>
+                    <m:mi>a</m:mi>
+                  </m:mrow>
+                </m:mfrac>
+                <m:mo>=</m:mo>
+                <m:mfrac>
+                  <m:mrow>
+                    <m:mo>-</m:mo>
+                    <m:mi>b</m:mi>
+                    <m:mo>±</m:mo>
+                    <m:msqrt>
+                      <m:mi>Δ</m:mi>
+                    </m:msqrt>
+                  </m:mrow>
+                  <m:mrow>
+                    <m:mn>2</m:mn>
+                    <m:mi>a</m:mi>
+                  </m:mrow>
+                </m:mfrac>
+              </m:mrow>
+            </m:math>
+          </equation>
+          <para id="id72695">As die uitdrukking onder die vierkantswortel nie-negatief is, dan bestaan die vierkantswortel. Hierdie is die wortels van die funksie <m:math overflow="scroll"><m:mrow><m:mi>f</m:mi><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>)</m:mo></m:mrow></m:math>.</para>
+          <para id="id72719">Die verskillende moontlikhede word opgesom in die figuur hieronder.</para>
+          <para id="id72723"><figure id="id72726"><media id="id72726_media" alt="">
+                <image mime-type="image/png" src="../../media/MG11C7_001.png" id="id72726_onlineimage" width="506"><!-- NOTE: attribute width changes image size online (pixels). original width is 196. --></image>
+                <image mime-type="application/postscript" for="pdf" src="../../media/MG11C7_001.eps" id="id72726_printimage"/>
+              </media>
+            </figure>
+          </para>
+        </section>
+        <section id="id72733">
+          <title>Gelyke Wortels (<m:math overflow="scroll"><m:mrow><m:mi>Δ</m:mi><m:mo>=</m:mo><m:mn>0</m:mn></m:mrow></m:math>)</title>
+          <para id="id72755">As <m:math overflow="scroll"><m:mrow><m:mi>Δ</m:mi><m:mo>=</m:mo><m:mn>0</m:mn></m:mrow></m:math>, dan is die wortels gelyk, en vanaf die formule word dit gegee deur</para>
+          <equation id="uid61">
+            <m:math overflow="scroll" mode="display">
+              <m:mrow>
+                <m:mi>x</m:mi>
+                <m:mo>=</m:mo>
+                <m:mo>-</m:mo>
+                <m:mfrac>
+                  <m:mi>b</m:mi>
+                  <m:mrow>
+                    <m:mn>2</m:mn>
+                    <m:mi>a</m:mi>
+                  </m:mrow>
+                </m:mfrac>
+              </m:mrow>
+            </m:math>
+          </equation>
+        </section>
+        <section id="id72804">
+          <title>Ongelyke Wortels (<m:math overflow="scroll"><m:mrow><m:mi>Δ</m:mi><m:mo>&gt;</m:mo><m:mn>0</m:mn></m:mrow></m:math>)</title>
+          <para id="id72825">Daar sal 2 ongelyke wortels wees as <m:math overflow="scroll"><m:mrow><m:mi>Δ</m:mi><m:mo>&gt;</m:mo><m:mn>0</m:mn></m:mrow></m:math>. Die wortels van <m:math overflow="scroll"><m:mrow><m:mi>f</m:mi><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>)</m:mo></m:mrow></m:math> is <emphasis effect="bold">rationaal</emphasis> as <m:math overflow="scroll"><m:mi>Δ</m:mi></m:math> 'n volmaakte vierkant ('n getal wat die vierkant van 'n rasionale getal is) is. Die rede is dat in hierdie geval <m:math overflow="scroll"><m:msqrt><m:mi>Δ</m:mi></m:msqrt></m:math> rasionaal is. Anders, as <m:math overflow="scroll"><m:mi>Δ</m:mi></m:math> nie 'n volmaakte vierkant is nie, dan is the wortels <emphasis effect="bold">irrasionaal</emphasis>.</para>
+        </section>
+        <section id="id72901"><title>Imaginêre Wortels (<m:math overflow="scroll"><m:mrow><m:mi>Δ</m:mi><m:mo>&lt;</m:mo><m:mn>0</m:mn></m:mrow></m:math>)</title><para id="id72923">As <m:math overflow="scroll"><m:mrow><m:mi>Δ</m:mi><m:mo>&lt;</m:mo><m:mn>0</m:mn></m:mrow></m:math>, dan bevat die oplossing van <m:math overflow="scroll"><m:mrow><m:mi>f</m:mi><m:mrow><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>)</m:mo></m:mrow><m:mo>=</m:mo><m:mi>a</m:mi><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mi>b</m:mi><m:mi>x</m:mi><m:mo>+</m:mo><m:mi>c</m:mi><m:mo>=</m:mo><m:mn>0</m:mn></m:mrow></m:math> die vierkantswortels van 'n negatiewe getal en daarom is daar geen reële oplossings nie. Ons sê daarom dat die wortels van <m:math overflow="scroll"><m:mrow><m:mi>f</m:mi><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>)</m:mo></m:mrow></m:math>  <emphasis effect="italics">imaginêr</emphasis> is (die grafiek van die funksie  <m:math overflow="scroll"><m:mrow><m:mi>f</m:mi><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>)</m:mo></m:mrow></m:math> sny nie die <m:math overflow="scroll"><m:mi>x</m:mi></m:math>-as nie).
+ </para>
+</section>
+<para id="eip-916"><figure id="quadratics-4" class="khanacademy">
+	  <title>Khan academy video on quadratics - 4</title>
+	  <media id="yt-media4" display="block" alt="video on quadratics 4">
+	  <flash id="yt-video4" mime-type="application/x-shockwave-flash" src="http://www.youtube.com/v/JBSDQLZtjFo&amp;rel=0&amp;hl=en_US&amp;feature=player_embedded&amp;version=3" width="425" height="344">
+	  <param name="allowscriptaccess" value="always"/>
+	  <param name="allowsfullscreen" value="true"/>
+	  </flash>
+	  </media>
+	  </figure></para><section id="secfhsst_id3313"><title>Teorie van Kwadrate - gevorderde oefeninge</title>
+<section id="secfhsst_id3315"><title>Vanaf ou vraestelle </title>
+          <list id="id73057" display="block" list-type="enumerated"><item id="uid62">[IEB, Nov. 2001, HG] Gegee:    <m:math overflow="scroll"><m:mrow><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mi>b</m:mi><m:mi>x</m:mi><m:mo>-</m:mo><m:mn>2</m:mn><m:mo>+</m:mo><m:mi>k</m:mi><m:mrow><m:mo>(</m:mo><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>3</m:mn><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>2</m:mn><m:mo>)</m:mo></m:mrow><m:mo>=</m:mo><m:mn>0</m:mn><m:mspace width="2.em"/><m:mrow><m:mo>(</m:mo><m:mi>k</m:mi><m:mo>≠</m:mo><m:mo>-</m:mo><m:mn>1</m:mn><m:mo>)</m:mo></m:mrow></m:mrow></m:math><list id="id73148" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid63">Wys dat die diskriminant gegee word deur
+<equation id="id73163"><m:math overflow="scroll" mode="display"><m:mrow><m:mi>Δ</m:mi><m:mo>=</m:mo><m:msup><m:mi>k</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>6</m:mn><m:mi>b</m:mi><m:mi>k</m:mi><m:mo>+</m:mo><m:msup><m:mi>b</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>8</m:mn></m:mrow></m:math></equation></item><item id="uid64">As <m:math overflow="scroll"><m:mrow><m:mi>b</m:mi><m:mo>=</m:mo><m:mn>0</m:mn></m:mrow></m:math>, bespreek die aard van die wortels van die vergelyking.
+</item><item id="uid65">As <m:math overflow="scroll"><m:mrow><m:mi>b</m:mi><m:mo>=</m:mo><m:mn>2</m:mn></m:mrow></m:math>, kry die waarde(s) van <m:math overflow="scroll"><m:mi>k</m:mi></m:math> waarvoor die wortels gelyk is.
+</item></list></item>
+            <item id="uid66">[IEB, Nov. 2002, HG] Wys dat <m:math overflow="scroll"><m:mrow><m:msup><m:mi>k</m:mi><m:mn>2</m:mn></m:msup><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>2</m:mn><m:mo>=</m:mo><m:mi>k</m:mi><m:mi>x</m:mi><m:mo>-</m:mo><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:math> nie-reële wortels het vir alle reele waardes van <m:math overflow="scroll"><m:mi>k</m:mi></m:math>.
+</item>
+            <item id="uid67">[IEB, Nov. 2003, HG] Die vergelyking <m:math overflow="scroll"><m:mrow><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>12</m:mn><m:mi>x</m:mi><m:mo>=</m:mo><m:mn>3</m:mn><m:mi>k</m:mi><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>2</m:mn></m:mrow></m:math> het reële wortels.
+<list id="id73386" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid68">Kry die grootste heeltallige waarde van <m:math overflow="scroll"><m:mi>k</m:mi></m:math>.
+</item><item id="uid69">Kry een rasionale waarde van <m:math overflow="scroll"><m:mi>k</m:mi></m:math> waarvoor die bostaande vergelyking rasionale wortels het.
+</item></list></item>
+            <item id="uid70">[IEB, Nov. 2003, HG] In die kwadratiese vergelyking <m:math overflow="scroll"><m:mrow><m:mi>p</m:mi><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mi>q</m:mi><m:mi>x</m:mi><m:mo>+</m:mo><m:mi>r</m:mi><m:mo>=</m:mo><m:mn>0</m:mn></m:mrow></m:math> is <m:math overflow="scroll"><m:mi>p</m:mi></m:math>, <m:math overflow="scroll"><m:mi>q</m:mi></m:math> en <m:math overflow="scroll"><m:mi>r</m:mi></m:math> positiewe reële getalle en vorm 'n meetkundige ry. Bespreek die aard van die wortels.
+</item>
+            <item id="uid71">[IEB, Nov. 2004, HG] Beskou die vergelyking
+<equation id="id73516"><m:math overflow="scroll" mode="display"><m:mrow><m:mi>k</m:mi><m:mo>=</m:mo><m:mstyle scriptlevel="0" displaystyle="true"><m:mfrac><m:mrow><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>-</m:mo><m:mn>4</m:mn></m:mrow><m:mrow><m:mn>2</m:mn><m:mi>x</m:mi><m:mo>-</m:mo><m:mn>5</m:mn></m:mrow></m:mfrac></m:mstyle><m:mspace width="2.em"/><m:mi> met </m:mi><m:mspace width="0.277778em"/><m:mspace width="0.277778em"/><m:mi>x</m:mi><m:mo>≠</m:mo><m:mstyle scriptlevel="0" displaystyle="false"><m:mfrac><m:mn>5</m:mn><m:mn>2</m:mn></m:mfrac></m:mstyle></m:mrow></m:math></equation><list id="id73588" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid72">Kry 'n waarde van <m:math overflow="scroll"><m:mi>k</m:mi></m:math> waarvoor die wortels gelyk is.
+</item><item id="uid73">Kry 'n heelgetal <m:math overflow="scroll"><m:mi>k</m:mi></m:math> waarvoor die wortels van die vergelyking rasionaal en ongelyk is.
+</item></list></item>
+            <item id="uid74">[IEB, Nov. 2005, HG]
+<list id="id73647" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid75">Bewys dat die wortels van die vergelyking <m:math overflow="scroll"><m:mrow><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>-</m:mo><m:mrow><m:mo>(</m:mo><m:mi>a</m:mi><m:mo>+</m:mo><m:mi>b</m:mi><m:mo>)</m:mo></m:mrow><m:mi>x</m:mi><m:mo>+</m:mo><m:mi>a</m:mi><m:mi>b</m:mi><m:mo>-</m:mo><m:msup><m:mi>p</m:mi><m:mn>2</m:mn></m:msup><m:mo>=</m:mo><m:mn>0</m:mn></m:mrow></m:math> reëel is vir alle reële waardes van <m:math overflow="scroll"><m:mi>a</m:mi></m:math>, <m:math overflow="scroll"><m:mi>b</m:mi></m:math> en <m:math overflow="scroll"><m:mi>p</m:mi></m:math>.
+</item><item id="uid76">Wanneer sal die wortels van die vergelyking gelyk wees?
+</item></list></item>
+            <item id="uid77">[IEB, Nov. 2005, HG] As <m:math overflow="scroll"><m:mi>b</m:mi></m:math> en <m:math overflow="scroll"><m:mi>c</m:mi></m:math> slegs die waardes 1, 2 of 3 kan aanneem, bepaal alle pare (<m:math overflow="scroll"><m:mrow><m:mi>b</m:mi><m:mo>;</m:mo><m:mspace width="0.222222em"/><m:mi>c</m:mi></m:mrow></m:math>) sodat <m:math overflow="scroll"><m:mrow><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mi>b</m:mi><m:mi>x</m:mi><m:mo>+</m:mo><m:mi>c</m:mi><m:mo>=</m:mo><m:mn>0</m:mn></m:mrow></m:math> reële wortels het.
+</item></list>
+          
+</section>
+          
+</section>
+        </section>
+      </section>
+    </section>
+    <section id="cid7"><title>Hoofstukoefeninge</title><list id="id73861" display="block" list-type="enumerated"><item id="uid78">Los op: <m:math overflow="scroll"><m:mrow><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>-</m:mo><m:mi>x</m:mi><m:mo>-</m:mo><m:mn>1</m:mn><m:mo>=</m:mo><m:mn>0</m:mn></m:mrow></m:math>    (Gee jou antwoord korrek tot twee desimale plekke.)
+</item>
+        <item id="uid79">Los op: <m:math overflow="scroll"><m:mrow><m:mn>16</m:mn><m:mrow><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>1</m:mn><m:mo>)</m:mo></m:mrow><m:mo>=</m:mo><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mrow><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>1</m:mn><m:mo>)</m:mo></m:mrow></m:mrow></m:math></item>
+        <item id="uid80">Los op: <m:math overflow="scroll"><m:mrow><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>3</m:mn><m:mo>+</m:mo><m:mstyle scriptlevel="0" displaystyle="true"><m:mfrac><m:mn>12</m:mn><m:mrow><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>3</m:mn></m:mrow></m:mfrac></m:mstyle><m:mo>=</m:mo><m:mn>7</m:mn></m:mrow></m:math>    (Wenk: Stel <m:math overflow="scroll"><m:mrow><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>3</m:mn><m:mo>=</m:mo><m:mi>k</m:mi></m:mrow></m:math>. Los eerste vir <m:math overflow="scroll"><m:mi>k</m:mi></m:math> op and gebruik die antwoord om <m:math overflow="scroll"><m:mi>y</m:mi></m:math> op te los.)
+</item>
+        <item id="uid81">Los op vir <m:math overflow="scroll"><m:mi>x</m:mi></m:math>: <m:math overflow="scroll"><m:mrow><m:mn>2</m:mn><m:msup><m:mi>x</m:mi><m:mn>4</m:mn></m:msup><m:mo>-</m:mo><m:mn>5</m:mn><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>-</m:mo><m:mn>12</m:mn><m:mo>=</m:mo><m:mn>0</m:mn></m:mrow></m:math></item>
+        <item id="uid82">Los op vir <m:math overflow="scroll"><m:mi>x</m:mi></m:math>:
+<list id="id74139" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid83"><m:math overflow="scroll"><m:mrow><m:mi>x</m:mi><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>-</m:mo><m:mn>9</m:mn><m:mo>)</m:mo><m:mo>+</m:mo><m:mn>14</m:mn><m:mo>=</m:mo><m:mn>0</m:mn></m:mrow></m:math></item><item id="uid84"><m:math overflow="scroll"><m:mrow><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>-</m:mo><m:mi>x</m:mi><m:mo>=</m:mo><m:mn>3</m:mn></m:mrow></m:math>    (Wys jou antwoord korrek tot EEN desimale plek.)
+</item><item id="uid85"><m:math overflow="scroll"><m:mrow><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>2</m:mn><m:mo>=</m:mo><m:mstyle scriptlevel="0" displaystyle="true"><m:mfrac><m:mn>6</m:mn><m:mi>x</m:mi></m:mfrac></m:mstyle></m:mrow></m:math>    (korrek tot twee desimale plekke)
+</item><item id="uid86"><m:math overflow="scroll"><m:mrow><m:mstyle scriptlevel="0" displaystyle="true"><m:mfrac><m:mn>1</m:mn><m:mrow><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>1</m:mn></m:mrow></m:mfrac></m:mstyle><m:mo>+</m:mo><m:mstyle scriptlevel="0" displaystyle="true"><m:mfrac><m:mrow><m:mn>2</m:mn><m:mi>x</m:mi></m:mrow><m:mrow><m:mi>x</m:mi><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:mfrac></m:mstyle><m:mo>=</m:mo><m:mn>1</m:mn></m:mrow></m:math></item></list></item>
+        <item id="uid87">Los op vir <m:math overflow="scroll"><m:mi>x</m:mi></m:math> deur kwadraatsvoltooiing: <m:math overflow="scroll"><m:mrow><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>-</m:mo><m:mi>p</m:mi><m:mi>x</m:mi><m:mo>-</m:mo><m:mn>4</m:mn><m:mo>=</m:mo><m:mn>0</m:mn></m:mrow></m:math></item>
+        <item id="uid88">Die vergelyking <m:math overflow="scroll"><m:mrow><m:mi>a</m:mi><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mi>b</m:mi><m:mi>x</m:mi><m:mo>+</m:mo><m:mi>c</m:mi><m:mo>=</m:mo><m:mn>0</m:mn></m:mrow></m:math> het wortels<m:math overflow="scroll"><m:mrow><m:mi>x</m:mi><m:mo>=</m:mo><m:mstyle scriptlevel="0" displaystyle="false"><m:mfrac><m:mn>2</m:mn><m:mn>3</m:mn></m:mfrac></m:mstyle></m:mrow></m:math> en <m:math overflow="scroll"><m:mrow><m:mi>x</m:mi><m:mo>=</m:mo><m:mo>-</m:mo><m:mn>4</m:mn></m:mrow></m:math>. Kry een stel moontlike waardes vir <m:math overflow="scroll"><m:mi>a</m:mi></m:math>, <m:math overflow="scroll"><m:mi>b</m:mi></m:math> en <m:math overflow="scroll"><m:mi>c</m:mi></m:math>.
+</item>
+        <item id="uid89"> Die twee wortels van die vergelyking <m:math overflow="scroll"><m:mrow><m:mn>4</m:mn><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mi>p</m:mi><m:mi>x</m:mi><m:mo>-</m:mo><m:mn>9</m:mn><m:mo>=</m:mo><m:mn>0</m:mn></m:mrow></m:math> verskil met 5. Bereken die waarde van <m:math overflow="scroll"><m:mi>p</m:mi></m:math>.
+</item>
+        <item id="uid90"> 'n Vergelyking van die vorm <m:math overflow="scroll"><m:mrow><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mi>b</m:mi><m:mi>x</m:mi><m:mo>+</m:mo><m:mi>c</m:mi><m:mo>=</m:mo><m:mn>0</m:mn></m:mrow></m:math> word geskryf op die bord. Saskia en Sven skryf dit verkeerd af. Saskia het 'n fout in die konstante term en kry die oplossings -4  en 2.
+Sven het 'n fout in die koëffisiënt van <m:math overflow="scroll"><m:mi>x</m:mi></m:math> en kry die oplossings 1 en -15. Bepaal die korrekte vergelyking wat op die bord was. 
+</item>
+        <item id="uid91">Bjorn kom in 'n oorsese handboek af op die volgende formule om die kwadratiese vergelyking <m:math overflow="scroll"><m:mrow><m:mi>a</m:mi><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mi>b</m:mi><m:mi>x</m:mi><m:mo>+</m:mo><m:mi>c</m:mi><m:mo>=</m:mo><m:mn>0</m:mn></m:mrow></m:math> op te los.
+<equation id="id74630"><m:math overflow="scroll" mode="display"><m:mrow><m:mi>x</m:mi><m:mo>=</m:mo><m:mstyle scriptlevel="0" displaystyle="true"><m:mfrac><m:mrow><m:mn>2</m:mn><m:mi>c</m:mi></m:mrow><m:mrow><m:mo>-</m:mo><m:mi>b</m:mi><m:mo>±</m:mo><m:msqrt><m:mrow><m:msup><m:mi>b</m:mi><m:mn>2</m:mn></m:msup><m:mo>-</m:mo><m:mn>4</m:mn><m:mi>a</m:mi><m:mi>c</m:mi></m:mrow></m:msqrt></m:mrow></m:mfrac></m:mstyle></m:mrow></m:math></equation><list id="id74682" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid92"> Gebruik hierdie formule om die volgende vergelyking op te los:
+<equation id="id74697"><m:math overflow="scroll" mode="display"><m:mrow><m:mn>2</m:mn><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mi>x</m:mi><m:mo>-</m:mo><m:mn>3</m:mn><m:mo>=</m:mo><m:mn>0</m:mn></m:mrow></m:math></equation></item><item id="uid93">Los die vergelyking weer op, die keer deur faktorisering, om te sien of die formule werk vir hierdie vergelyking.
+</item><item id="uid94">Bjorn probeer om hierdie formule af te lei om te bewys dat dit altyd werk, maar sit na 'n paar stappe vas. Hieronder is sy poging: 
+<equation id="id74755"><m:math overflow="scroll" mode="display"><m:mtable displaystyle="true"><m:mtr><m:mtd columnalign="right"><m:mrow><m:mi>a</m:mi><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mi>b</m:mi><m:mi>x</m:mi><m:mo>+</m:mo><m:mi>c</m:mi></m:mrow></m:mtd>
+<m:mtd><m:mo>=</m:mo></m:mtd>
+<m:mtd columnalign="left"><m:mn>0</m:mn></m:mtd><m:mtd/></m:mtr>
+<m:mtr><m:mtd columnalign="right"><m:mrow><m:mi>a</m:mi><m:mo>+</m:mo><m:mstyle scriptlevel="0" displaystyle="true"><m:mfrac><m:mi>b</m:mi><m:mi>x</m:mi></m:mfrac></m:mstyle><m:mo>+</m:mo><m:mstyle scriptlevel="0" displaystyle="true"><m:mfrac><m:mi>c</m:mi><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup></m:mfrac></m:mstyle></m:mrow></m:mtd>
+<m:mtd><m:mo>=</m:mo></m:mtd>
+<m:mtd columnalign="left"><m:mn>0</m:mn></m:mtd><m:mtd><m:mi> Deel deur</m:mi><m:mspace width="2pt"/><m:msup><m:mi mathvariant="normal">x</m:mi><m:mn>2</m:mn></m:msup><m:mspace width="2pt"/><m:mi> waar </m:mi><m:mspace width="2pt"/><m:mi mathvariant="normal">x</m:mi><m:mo>?</m:mo><m:mn>0</m:mn></m:mtd></m:mtr>
+<m:mtr><m:mtd columnalign="right"><m:mrow><m:mstyle scriptlevel="0" displaystyle="true"><m:mfrac><m:mi>c</m:mi><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup></m:mfrac></m:mstyle><m:mo>+</m:mo><m:mstyle scriptlevel="0" displaystyle="true"><m:mfrac><m:mi>b</m:mi><m:mi>x</m:mi></m:mfrac></m:mstyle><m:mo>+</m:mo><m:mi>a</m:mi></m:mrow></m:mtd>
+<m:mtd><m:mo>=</m:mo></m:mtd>
+<m:mtd columnalign="left"><m:mn>0</m:mn></m:mtd><m:mtd><m:mi> Herrangskik </m:mi></m:mtd></m:mtr>
+<m:mtr><m:mtd columnalign="right"><m:mrow><m:mstyle scriptlevel="0" displaystyle="true"><m:mfrac><m:mn>1</m:mn><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup></m:mfrac></m:mstyle><m:mo>+</m:mo><m:mstyle scriptlevel="0" displaystyle="true"><m:mfrac><m:mi>b</m:mi><m:mrow><m:mi>c</m:mi><m:mi>x</m:mi></m:mrow></m:mfrac></m:mstyle><m:mo>+</m:mo><m:mstyle scriptlevel="0" displaystyle="true"><m:mfrac><m:mi>a</m:mi><m:mi>c</m:mi></m:mfrac></m:mstyle></m:mrow></m:mtd>
+<m:mtd><m:mo>=</m:mo></m:mtd>
+<m:mtd columnalign="left"><m:mn>0</m:mn></m:mtd><m:mtd><m:mi> Deel deur </m:mi><m:mspace width="2pt"/><m:mi mathvariant="normal">c</m:mi><m:mspace width="2pt"/><m:mi> waar </m:mi><m:mspace width="2pt"/><m:mi mathvariant="normal">c</m:mi><m:mo>?</m:mo><m:mn>0</m:mn></m:mtd></m:mtr>
+<m:mtr><m:mtd columnalign="right"><m:mrow><m:mstyle scriptlevel="0" displaystyle="true"><m:mfrac><m:mn>1</m:mn><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup></m:mfrac></m:mstyle><m:mo>+</m:mo><m:mstyle scriptlevel="0" displaystyle="true"><m:mfrac><m:mi>b</m:mi><m:mrow><m:mi>c</m:mi><m:mi>x</m:mi></m:mrow></m:mfrac></m:mstyle></m:mrow></m:mtd>
+<m:mtd><m:mo>=</m:mo></m:mtd>
+<m:mtd columnalign="left"><m:mo>-</m:mo><m:mstyle scriptlevel="0" displaystyle="true"><m:mfrac><m:mi>a</m:mi><m:mi>c</m:mi></m:mfrac></m:mstyle></m:mtd><m:mtd><m:mi> Trek </m:mi><m:mspace width="2pt"/><m:mstyle scriptlevel="0" displaystyle="true"><m:mfrac><m:mi mathvariant="normal">a</m:mi><m:mi mathvariant="normal">c</m:mi></m:mfrac></m:mstyle><m:mspace width="2pt"/><m:mrow><m:mi> af van beide kante</m:mi></m:mrow></m:mtd></m:mtr>
+<m:mtr><m:mtd columnalign="right"><m:mrow><m:mo>?</m:mo><m:mspace width="3pt"/><m:mstyle scriptlevel="0" displaystyle="true"><m:mfrac><m:mn>1</m:mn><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup></m:mfrac></m:mstyle><m:mo>+</m:mo><m:mstyle scriptlevel="0" displaystyle="true"><m:mfrac><m:mi>b</m:mi><m:mrow><m:mi>c</m:mi><m:mi>x</m:mi></m:mrow></m:mfrac></m:mstyle></m:mrow></m:mtd><m:mtd><m:mo>+</m:mo></m:mtd>
+<m:mtd columnalign="left"><m:mo>...</m:mo></m:mtd><m:mtd><m:mi>  Sit vas</m:mi></m:mtd></m:mtr></m:mtable></m:math></equation>
+Voltooi sy afleiding.
+</item></list></item>
+      </list>
+    </section>
+  </content>
+</document>

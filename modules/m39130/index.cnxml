@@ -1,0 +1,750 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Saamgestelde depresiasie</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m39130</md:content-id>
+  <md:title>Saamgestelde depresiasie</md:title>
+  <md:abstract/>
+  <md:uuid>470ca1b5-8682-4763-905b-317fc8b128d6</md:uuid>
+</metadata>
+
+<content>
+    <section id="cid5"><title>Saamgestelde depresiasie</title><para id="id342034">Die tweede metode om waardevermindering te bereken is om te veronderstel dat die waarde van die bate afneem teen 'n sekere jaarlikse koers, maar dat die aanvanklike waarde van die bate hierdie jaar, is die boekwaarde van die bate aan die einde van verlede jaar.</para>
+      <para id="id342039">Byvoorbeeld, as ons tweedehandse motor 'n beperkte nuttige lewensduur van 5 jaar het en dit het  'n aanvanklike waarde van R60 000 , dan is die rentekoers van waardevermindering  20% (100% / 5 jaar). Na 1 jaar, is die motor werd :</para>
+      <equation id="id342046"><m:math overflow="scroll" mode="display">
+          <m:mtable displaystyle="true">
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mrow>
+                  <m:mi> Boekwaarde na eerste jaar</m:mi>
+                </m:mrow>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mi>P</m:mi>
+                  <m:mo>(</m:mo>
+                  <m:mn>1</m:mn>
+                  <m:mo>-</m:mo>
+                  <m:mi>n</m:mi>
+                  <m:mo>×</m:mo>
+                  <m:mi>i</m:mi>
+                  <m:mo>)</m:mo>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mi mathvariant="normal">R</m:mi>
+                  <m:mn>60</m:mn>
+                  <m:mspace width="3.33333pt"/>
+                  <m:mn>000</m:mn>
+                  <m:mo>(</m:mo>
+                  <m:mn>1</m:mn>
+                  <m:mo>-</m:mo>
+                  <m:mn>1</m:mn>
+                  <m:mo>×</m:mo>
+                  <m:mn>20</m:mn>
+                  <m:mo>%</m:mo>
+                  <m:mo>)</m:mo>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mi mathvariant="normal">R</m:mi>
+                  <m:mn>60</m:mn>
+                  <m:mspace width="3.33333pt"/>
+                  <m:mn>000</m:mn>
+                  <m:mo>(</m:mo>
+                  <m:mn>1</m:mn>
+                  <m:mo>-</m:mo>
+                  <m:mn>0</m:mn>
+                  <m:mo>,</m:mo>
+                  <m:mn>2</m:mn>
+                  <m:mo>)</m:mo>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mi mathvariant="normal">R</m:mi>
+                  <m:mn>60</m:mn>
+                  <m:mspace width="3.33333pt"/>
+                  <m:mn>000</m:mn>
+                  <m:mo>(</m:mo>
+                  <m:mn>0</m:mn>
+                  <m:mo>,</m:mo>
+                  <m:mn>8</m:mn>
+                  <m:mo>)</m:mo>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mi mathvariant="normal">R</m:mi>
+                  <m:mn>48</m:mn>
+                  <m:mspace width="3.33333pt"/>
+                  <m:mn>000</m:mn>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+          </m:mtable>
+        </m:math>
+      </equation>
+      <para id="id342230">Aan die begin van die tweede jaar is die motor se waarde nou R48 000; dus na twee jaar is die motor 
+se waarde :</para>
+      <equation id="id342235"><m:math overflow="scroll" mode="display">
+          <m:mtable displaystyle="true">
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mrow>
+                  <m:mi> Boekwaarde na tweede jaar</m:mi>
+                </m:mrow>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mi>P</m:mi>
+                  <m:mo>(</m:mo>
+                  <m:mn>1</m:mn>
+                  <m:mo>-</m:mo>
+                  <m:mi>n</m:mi>
+                  <m:mo>×</m:mo>
+                  <m:mi>i</m:mi>
+                  <m:mo>)</m:mo>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mi mathvariant="normal">R</m:mi>
+                  <m:mn>48</m:mn>
+                  <m:mspace width="3.33333pt"/>
+                  <m:mn>000</m:mn>
+                  <m:mo>(</m:mo>
+                  <m:mn>1</m:mn>
+                  <m:mo>-</m:mo>
+                  <m:mn>1</m:mn>
+                  <m:mo>×</m:mo>
+                  <m:mn>20</m:mn>
+                  <m:mo>%</m:mo>
+                  <m:mo>)</m:mo>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mi mathvariant="normal">R</m:mi>
+                  <m:mn>48</m:mn>
+                  <m:mspace width="3.33333pt"/>
+                  <m:mn>000</m:mn>
+                  <m:mo>(</m:mo>
+                  <m:mn>1</m:mn>
+                  <m:mo>-</m:mo>
+                  <m:mn>0</m:mn>
+                  <m:mo>,</m:mo>
+                  <m:mn>2</m:mn>
+                  <m:mo>)</m:mo>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mi mathvariant="normal">R</m:mi>
+                  <m:mn>48</m:mn>
+                  <m:mspace width="3.33333pt"/>
+                  <m:mn>000</m:mn>
+                  <m:mo>(</m:mo>
+                  <m:mn>0</m:mn>
+                  <m:mo>,</m:mo>
+                  <m:mn>8</m:mn>
+                  <m:mo>)</m:mo>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mi mathvariant="normal">R</m:mi>
+                  <m:mn>38</m:mn>
+                  <m:mspace width="3.33333pt"/>
+                  <m:mn>400</m:mn>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+          </m:mtable>
+        </m:math>
+      </equation>
+      <para id="id342420">Ons kan hierdie waardes tabelleer</para>
+      <table id="id342423" summary="Tabel 1"><label>Tabel</label>
+<tgroup cols="3"><tbody>
+            <row>
+              <entry>Einde van eerste jaar</entry>
+              <entry>R<m:math overflow="scroll"><m:mrow><m:mn>60</m:mn><m:mspace width="3.33333pt"/><m:mn>000</m:mn><m:mo>(</m:mo><m:mn>1</m:mn><m:mo>-</m:mo><m:mn>1</m:mn><m:mo>×</m:mo><m:mn>20</m:mn><m:mo>%</m:mo><m:mo>)</m:mo></m:mrow></m:math>=R<m:math overflow="scroll"><m:mrow><m:mn>60</m:mn><m:mspace width="3.33333pt"/><m:mn>000</m:mn><m:msup><m:mrow><m:mo>(</m:mo><m:mn>1</m:mn><m:mo>-</m:mo><m:mn>1</m:mn><m:mo>×</m:mo><m:mn>20</m:mn><m:mo>%</m:mo><m:mo>)</m:mo></m:mrow><m:mn>1</m:mn></m:msup></m:mrow></m:math></entry>
+              <entry>= R48 000,00</entry>
+            </row>
+            <row>
+              <entry>Einde van tweede jaar</entry>
+              <entry>R<m:math overflow="scroll"><m:mrow><m:mn>48</m:mn><m:mspace width="3.33333pt"/><m:mn>000</m:mn><m:mo>(</m:mo><m:mn>1</m:mn><m:mo>-</m:mo><m:mn>1</m:mn><m:mo>×</m:mo><m:mn>20</m:mn><m:mo>%</m:mo><m:mo>)</m:mo></m:mrow></m:math>=R<m:math overflow="scroll"><m:mrow><m:mn>60</m:mn><m:mspace width="3.33333pt"/><m:mn>000</m:mn><m:msup><m:mrow><m:mo>(</m:mo><m:mn>1</m:mn><m:mo>-</m:mo><m:mn>1</m:mn><m:mo>×</m:mo><m:mn>20</m:mn><m:mo>%</m:mo><m:mo>)</m:mo></m:mrow><m:mn>2</m:mn></m:msup></m:mrow></m:math></entry>
+              <entry>= R38 400,00</entry>
+            </row>
+            <row>
+              <entry>Einde van derde jaar</entry>
+              <entry>R38 400<m:math overflow="scroll"><m:mrow><m:mo>(</m:mo><m:mn>1</m:mn><m:mo>-</m:mo><m:mn>1</m:mn><m:mo>×</m:mo><m:mn>20</m:mn><m:mo>%</m:mo><m:mo>)</m:mo></m:mrow></m:math>=R<m:math overflow="scroll"><m:mrow><m:mn>60</m:mn><m:mspace width="3.33333pt"/><m:mn>000</m:mn><m:msup><m:mrow><m:mo>(</m:mo><m:mn>1</m:mn><m:mo>-</m:mo><m:mn>1</m:mn><m:mo>×</m:mo><m:mn>20</m:mn><m:mo>%</m:mo><m:mo>)</m:mo></m:mrow><m:mn>3</m:mn></m:msup></m:mrow></m:math></entry>
+              <entry>= R30 720,00</entry>
+            </row>
+            <row>
+              <entry>Einde van vierde jaar</entry>
+              <entry>R30 720<m:math overflow="scroll"><m:mrow><m:mo>(</m:mo><m:mn>1</m:mn><m:mo>-</m:mo><m:mn>1</m:mn><m:mo>×</m:mo><m:mn>20</m:mn><m:mo>%</m:mo><m:mo>)</m:mo></m:mrow></m:math>=R<m:math overflow="scroll"><m:mrow><m:mn>60</m:mn><m:mspace width="3.33333pt"/><m:mn>000</m:mn><m:msup><m:mrow><m:mo>(</m:mo><m:mn>1</m:mn><m:mo>-</m:mo><m:mn>1</m:mn><m:mo>×</m:mo><m:mn>20</m:mn><m:mo>%</m:mo><m:mo>)</m:mo></m:mrow><m:mn>4</m:mn></m:msup></m:mrow></m:math></entry>
+              <entry>= R24 576,00</entry>
+            </row>
+            <row>
+              <entry>Einde van vyfde jaar</entry>
+              <entry>R24 576<m:math overflow="scroll"><m:mrow><m:mo>(</m:mo><m:mn>1</m:mn><m:mo>-</m:mo><m:mn>1</m:mn><m:mo>×</m:mo><m:mn>20</m:mn><m:mo>%</m:mo><m:mo>)</m:mo></m:mrow></m:math>=R<m:math overflow="scroll"><m:mrow><m:mn>60</m:mn><m:mspace width="3.33333pt"/><m:mn>000</m:mn><m:msup><m:mrow><m:mo>(</m:mo><m:mn>1</m:mn><m:mo>-</m:mo><m:mn>1</m:mn><m:mo>×</m:mo><m:mn>20</m:mn><m:mo>%</m:mo><m:mo>)</m:mo></m:mrow><m:mn>5</m:mn></m:msup></m:mrow></m:math></entry>
+              <entry>= R19 608,80</entry>
+            </row>
+          </tbody>
+        
+
+
+</tgroup>
+</table>
+      <!--empty paragraphs get left behind.-->
+      <para id="id342852">Ons kan nou die algemene formule vir die boekwaarde van 'n bate neerskryf indien die waardevermindering saamgesteld is. </para>
+      <equation id="uid5"><m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mrow>
+              <m:mi> Oorspronklike waarde</m:mi>
+              <m:mo>-</m:mo>
+              <m:mi> Totale waardevermindering na n jaar</m:mi>
+            </m:mrow>
+            <m:mo>=</m:mo>
+            <m:mi mathvariant="normal">P</m:mi>
+            <m:msup>
+              <m:mrow>
+                <m:mo>(</m:mo>
+                <m:mn>1</m:mn>
+                <m:mo>-</m:mo>
+                <m:mi mathvariant="normal">i</m:mi>
+                <m:mo>)</m:mo>
+              </m:mrow>
+              <m:mi mathvariant="normal">n</m:mi>
+            </m:msup>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <para id="id342921">Byvoorbeeld, die boekwaarde van 'n motor na twee jaar kan eenvoudig soos volg bereken word:</para>
+      <equation id="id342925"><m:math overflow="scroll" mode="display">
+          <m:mtable displaystyle="true">
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mrow>
+                  <m:mi> Boekwaarde na</m:mi><m:mspace width="3pt"/>
+                  <m:mn>2</m:mn><m:mspace width="3pt"/>
+                  <m:mi> jaar </m:mi>
+                </m:mrow>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mi>P</m:mi>
+                  <m:msup>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mn>1</m:mn>
+                      <m:mo>-</m:mo>
+                      <m:mi>i</m:mi>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:mi>n</m:mi>
+                  </m:msup>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mi mathvariant="normal">R</m:mi>
+                  <m:mn>60</m:mn>
+                  <m:mspace width="3.33333pt"/>
+                  <m:mn>000</m:mn>
+                  <m:msup>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mn>1</m:mn>
+                      <m:mo>-</m:mo>
+                      <m:mn>20</m:mn>
+                      <m:mo>%</m:mo>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:mn>2</m:mn>
+                  </m:msup>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mi mathvariant="normal">R</m:mi>
+                  <m:mn>60</m:mn>
+                  <m:mspace width="3.33333pt"/>
+                  <m:mn>000</m:mn>
+                  <m:msup>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mn>1</m:mn>
+                      <m:mo>-</m:mo>
+                      <m:mn>0</m:mn>
+                      <m:mo>,</m:mo>
+                      <m:mn>2</m:mn>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:mn>2</m:mn>
+                  </m:msup>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mi mathvariant="normal">R</m:mi>
+                  <m:mn>60</m:mn>
+                  <m:mspace width="3.33333pt"/>
+                  <m:mn>000</m:mn>
+                  <m:msup>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mn>0</m:mn>
+                      <m:mo>,</m:mo>
+                      <m:mn>8</m:mn>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:mn>2</m:mn>
+                  </m:msup>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mi mathvariant="normal">R</m:mi>
+                  <m:mn>38</m:mn>
+                  <m:mspace width="3.33333pt"/>
+                  <m:mn>400</m:mn>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+          </m:mtable>
+        </m:math>
+      </equation>
+      <para id="id343125">soos verwag.</para>
+      <para id="id343131">Let daarop dat die verskil tussen die saamgestelde rente berekeninge en saamgestelde  waardevermindering berekeninge   is dat terwyl die rente waarde voeg by die aanvangsbedrag, die waardeverminderingbedrag die waarde verminder!</para>
+<exercise id="secfhsst_id1048"><title>Saamgestelde waardevermindering</title><problem id="probfhsst_id1049">
+      <para id="id343149">Die Flamingo bevolking van die Bergrivier mond verminder teen 'n koers  van 12% p.a. As daar nou 3 200 flaminke in die vleilande van die Bergrivier mond is, hoeveel sal daar wees na 5 jaar? Beantwoord tot drie beduidende syfers.</para>
+      </problem>
+      <solution id="solfhsst_id1052"> <list id="listfhsst_id1052" list-type="enumerated" number-style="arabic" class="stepwise"><item> <label> Bepaal wat gegee is en wat gevra word </label>
+      <equation id="id343177"><m:math overflow="scroll" mode="display">
+          <m:mtable displaystyle="true">
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mi>P</m:mi>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mi>R</m:mi>
+                  <m:mn>3</m:mn>
+                  <m:mspace width="3.33333pt"/>
+                  <m:mn>200</m:mn>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mi>i</m:mi>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mn>0</m:mn>
+                  <m:mo>,</m:mo>
+                  <m:mn>12</m:mn>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mi>n</m:mi>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mn>5</m:mn>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mrow>
+                  <m:mi>A</m:mi>
+                  <m:mspace width="3.33333pt"/>
+                </m:mrow>
+              </m:mtd>
+              <m:mtd>
+                <m:mi> word </m:mi>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mi> gevra </m:mi>
+              </m:mtd>
+            </m:mtr>
+          </m:mtable>
+        </m:math>
+      </equation>
+      </item> <item> <label> Bepaal hoe om die probleem te benader</label>
+      <equation id="id343273">
+        <m:math overflow="scroll" mode="display">
+          <m:mtable displaystyle="true">
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mi>A</m:mi>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mn>3</m:mn>
+                  <m:mspace width="3.33333pt"/>
+                  <m:mn>200</m:mn>
+                  <m:msup>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mn>1</m:mn>
+                      <m:mo>-</m:mo>
+                      <m:mn>0</m:mn>
+                      <m:mo>,</m:mo>
+                      <m:mn>12</m:mn>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:mn>5</m:mn>
+                  </m:msup>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+          </m:mtable>
+        </m:math>
+      </equation>
+      </item> <item> <label> Los die probleem op </label>
+      <equation id="id343332">
+        <m:math overflow="scroll" mode="display">
+          <m:mtable displaystyle="true">
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mi>A</m:mi>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mn>3</m:mn>
+                  <m:mspace width="3.33333pt"/>
+                  <m:mn>200</m:mn>
+                  <m:msup>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mn>0</m:mn>
+                      <m:mo>,</m:mo>
+                      <m:mn>88</m:mn>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:mn>5</m:mn>
+                  </m:msup>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mn>3</m:mn>
+                  <m:mspace width="3.33333pt"/>
+                  <m:mn>200</m:mn>
+                  <m:mo>×</m:mo>
+                  <m:mn>0</m:mn>
+                  <m:mo>,</m:mo>
+                  <m:mn>527731916</m:mn>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mn>1688</m:mn>
+                  <m:mo>,</m:mo>
+                  <m:mn>742134</m:mn>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+          </m:mtable>
+        </m:math>
+      </equation>
+      </item> <item> <label> Skryf finale antwoord neer </label>
+      Daar sal ongeveer 1690 flaminke na 5 jaar wees
+      </item> </list> </solution>
+</exercise>
+<exercise id="secfhsst_id1217"><title>Saamgestelde waardevermindering </title><problem id="probfhsst_id1218">
+      <para id="id343459"><title>Saamgestelde waardevermindering</title>Farmer Brown koop 'n trekker vir R250 000 en dit verminder in waarde teen  20% per jaar saamgestelde waardevermindering . Wat is die gedepresieerde waarde van die trekker na 5 jaar?</para>
+      </problem>
+      <solution id="solfhsst_id1221"> <list id="listfhsst_id1221" list-type="enumerated" number-style="arabic" class="stepwise"><title>Oplossing</title><item> <label> Bepaal wat gegee is en wat gevra word </label>
+      <equation id="id343486">
+        <m:math overflow="scroll" mode="display">
+          <m:mtable displaystyle="true">
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mi>P</m:mi>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mi>R</m:mi>
+                  <m:mn>250</m:mn>
+                  <m:mspace width="3.33333pt"/>
+                  <m:mn>000</m:mn>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mi>i</m:mi>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mn>0</m:mn>
+                  <m:mo>,</m:mo>
+                  <m:mn>2</m:mn>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mi>n</m:mi>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mn>5</m:mn>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mrow>
+                  <m:mi>A</m:mi>
+                  <m:mspace width="3.33333pt"/>
+                </m:mrow>
+              </m:mtd>
+              <m:mtd>
+                <m:mi> word </m:mi>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mi> gevra </m:mi>
+              </m:mtd>
+            </m:mtr>
+          </m:mtable>
+        </m:math>
+      </equation>
+      </item> <item> <label> Bepaal hoe om probleem te benader </label>
+      <equation id="id343582">
+        <m:math overflow="scroll" mode="display">
+          <m:mtable displaystyle="true">
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mi>A</m:mi>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mn>250</m:mn>
+                  <m:mspace width="3.33333pt"/>
+                  <m:mn>000</m:mn>
+                  <m:msup>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mn>1</m:mn>
+                      <m:mo>-</m:mo>
+                      <m:mn>0</m:mn>
+                      <m:mo>,</m:mo>
+                      <m:mn>2</m:mn>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:mn>5</m:mn>
+                  </m:msup>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+          </m:mtable>
+        </m:math>
+      </equation>
+      </item> <item> <label> Los probleem op </label>
+      <equation id="id343640">
+        <m:math overflow="scroll" mode="display">
+          <m:mtable displaystyle="true">
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mi>A</m:mi>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mn>250</m:mn>
+                  <m:mspace width="3.33333pt"/>
+                  <m:mn>000</m:mn>
+                  <m:msup>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mn>0</m:mn>
+                      <m:mo>,</m:mo>
+                      <m:mn>8</m:mn>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:mn>5</m:mn>
+                  </m:msup>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mn>250</m:mn>
+                  <m:mspace width="3.33333pt"/>
+                  <m:mn>000</m:mn>
+                  <m:mo>×</m:mo>
+                  <m:mn>0</m:mn>
+                  <m:mo>,</m:mo>
+                  <m:mn>32768</m:mn>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mn>81</m:mn>
+                  <m:mspace width="3.33333pt"/>
+                  <m:mn>920</m:mn>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+          </m:mtable>
+        </m:math>
+      </equation>
+      </item> <item> <label> Skryf finale antwoord neer </label>
+      <para id="id343739">Verminderde waarde na 5 jaar is R81 920 </para>
+      </item> </list> </solution>
+</exercise>
+<section id="secfhsst_id1385"><title>Saamgestelde Waardevermindering </title>
+      <list id="id343762" display="block" list-type="enumerated"><item id="uid6">Op 1 Januarie 2008 is die waarde van my Kia Sorento  R320 000.
+Elke jaar daarna, sal die motor se waarde verminder teen 20% van die vorige jaar se waarde. Wat is die waarde van die motor op 1 Januarie 2012?
+</item>
+        <item id="uid7">Die bevolking van Bonduel verminder teen 'n koers van 9,5% per jaar soos mense na die stede migreer. Bereken die afname in die bevolking oor 'n tydperk van 5 jaar indien die aanvanklike bevolking 2 178 000 is.
+</item>
+        <item id="uid8">'n 20 kg waatlemoen bestaan ​​uit 98% water. As dit buite in die son gelaat word, verloor dit 3% van sy water elke dag. Hoeveel sal dit weeg na 'n maand van 31 dae?
+</item>
+        <item id="uid9">'n Rekenaar verminder in waarde teen <m:math overflow="scroll"><m:mrow><m:mi>x</m:mi><m:mo>%</m:mo></m:mrow></m:math> per annum as die verminderde saldo metode gebruik word. Vier jaar gelede was die rekenaar se waarde R10 000 en dit is nou R4 520 werd. Bereken die waarde van <m:math overflow="scroll"><m:mi>x</m:mi></m:math> korrek tot twee desimale plekke.
+</item>
+      </list>
+      
+</section>
+    </section>
+
+  </content>
+</document>

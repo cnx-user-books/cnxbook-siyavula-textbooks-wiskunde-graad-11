@@ -1,0 +1,242 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Grafiese voorstelling van data</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m39268</md:content-id>
+  <md:title>Grafiese voorstelling van data</md:title>
+  <md:abstract/>
+  <md:uuid>39dccb25-3dfa-4d80-9e20-21aead52a8b5</md:uuid>
+</metadata>
+
+<content>
+<section id="cid4">
+      <title>Grafiese Voorstelling van Meeting van Sentrale Neiging en Verspreiding</title>
+      <para id="id165883">Die maatstawwe van sentrale neiging (gemiddelde, mediaan, modus) en die bepalers van verspreiding (reeks, semi-inter-kwartielreeks, kwartiele, persentiele, inter-kwartielreeks) is numeriese metodes om data op te som. Hierdie afdeling bied metodes wat die opgesomde data met behulp van grafieke voorstel.
+</para>
+      <section id="uid33">
+        <title>Vyf-Getal Opsomming</title>
+        <para id="id165897">Een metode om data voor te stel is met behulp van 'n <emphasis effect="italics">vyf-getal opsomming</emphasis>. Die vyf getalle is: minimum, eerste kwartiel, mediaan, derde kwartiel en maksimum.</para>
+      </section>
+      <section id="uid34">
+        <title>Houer-en-Puntdiagram</title>
+        <para id="id165918">'n <emphasis effect="italics">Houer-en-puntdiagram</emphasis> is 'n metode om die vyf-getal opsomming grafies voor te stel.</para>
+        <para id="id165927">Die hoof eienskappe van 'n houer-en-puntdiagram word getoon in <link target-id="id165951"/>. Die boks kan horisontaal lê (soos aangedui) of vertikaal. Vir 'n horisontale diagram, is die linkerkant van die boks geplaas by die eerste kwartiel en die regter kant van die boks is geplaas op die derde kwartiel. Die hoogte van die boks is arbitrêr, want daar is geen <m:math overflow="scroll"><m:mi>y</m:mi></m:math>-as. Binne-in die boks word die maatstawwe van sentrale neiging aangedui. Die mediaan word getoon met 'n vertikale lyn wat die boks in twee deel. Die gemiddeld word as 'n sterretjie aangeduien die minimum en maksimum waardes word met reguit lyne verbind aan die houer.</para>
+        <para id="id165948">
+          <figure id="id165951">
+            <media id="id165951_media" alt="">
+              <image mime-type="image/png" src="../../media/MG11C18_002.png" id="id165951_onlineimage" width="283"><!-- NOTE: attribute width changes image size online (pixels). original width is 283. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/MG11C18_002.eps" id="id165951_printimage"/>
+            </media>
+          </figure>
+        </para>
+<exercise id="secfhsst_id950"><title> Houer-en-Puntdiagram</title>
+        <problem id="probfhsst_id951">
+        <para id="id165970">Teken 'n houer-en-puntdiagram vir die datastel</para>
+        <para id="id165976"><m:math overflow="scroll"><m:mrow><m:mi>x</m:mi><m:mo>=</m:mo><m:mo>{</m:mo><m:mn>1</m:mn><m:mo>,</m:mo><m:mn>25</m:mn><m:mo>;</m:mo><m:mn>1</m:mn><m:mo>,</m:mo><m:mn>5</m:mn><m:mo>;</m:mo><m:mn>2</m:mn><m:mo>,</m:mo><m:mn>5</m:mn><m:mo>;</m:mo><m:mn>2</m:mn><m:mo>,</m:mo><m:mn>5</m:mn><m:mo>;</m:mo><m:mn>3</m:mn><m:mo>,</m:mo><m:mn>1</m:mn><m:mo>;</m:mo><m:mn>3</m:mn><m:mo>,</m:mo><m:mn>2</m:mn><m:mo>;</m:mo><m:mn>4</m:mn><m:mo>,</m:mo><m:mn>1</m:mn><m:mo>;</m:mo><m:mn>4</m:mn><m:mo>,</m:mo><m:mn>25</m:mn><m:mo>;</m:mo><m:mn>4</m:mn><m:mo>,</m:mo><m:mn>75</m:mn><m:mo>;</m:mo><m:mn>4</m:mn><m:mo>,</m:mo><m:mn>8</m:mn><m:mo>;</m:mo><m:mn>4</m:mn><m:mo>,</m:mo><m:mn>95</m:mn><m:mo>;</m:mo><m:mn>5</m:mn><m:mo>,</m:mo><m:mn>1</m:mn><m:mo>}</m:mo></m:mrow></m:math>. </para>
+        </problem>
+        <solution id="solfhsst_id955"> <list id="listfhsst_id955" list-type="enumerated" number-style="arabic" class="stepwise">
+        <item> <label> Bepaal die vyfgetal opsomming: </label>
+        <para id="id166116">Minimum = 1,25</para>
+        <para id="id166119">Maksimum = 5,10</para>
+        <para id="id166125">Posisie van eerste kwartiel = tuessen 3 en 4</para>
+        <para id="id166131">Posisie van tweede kwartiel = tussen 6 en 7</para>
+        <para id="id166137">Posisie van derde kwartiel = tussen 9 en 10</para>
+        <para id="id166143">Data punt tussen 3 en 4 = <m:math overflow="scroll"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mrow><m:mo>(</m:mo><m:mn>2</m:mn><m:mo>,</m:mo><m:mn>5</m:mn><m:mo>+</m:mo><m:mn>2</m:mn><m:mo>,</m:mo><m:mn>5</m:mn><m:mo>)</m:mo></m:mrow><m:mo>=</m:mo><m:mn>2</m:mn><m:mo>,</m:mo><m:mn>5</m:mn></m:mrow></m:math></para>
+        <para id="id166192">Data punt tussen between 6 en 7 = <m:math overflow="scroll"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mrow><m:mo>(</m:mo><m:mn>3</m:mn><m:mo>,</m:mo><m:mn>2</m:mn><m:mo>+</m:mo><m:mn>4</m:mn><m:mo>,</m:mo><m:mn>1</m:mn><m:mo>)</m:mo></m:mrow><m:mo>=</m:mo><m:mn>3</m:mn><m:mo>,</m:mo><m:mn>65</m:mn></m:mrow></m:math></para>
+        <para id="id166239">Data punt tussen between 9 en 10 = <m:math overflow="scroll"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mrow><m:mo>(</m:mo><m:mn>4</m:mn><m:mo>,</m:mo><m:mn>75</m:mn><m:mo>+</m:mo><m:mn>4</m:mn><m:mo>,</m:mo><m:mn>8</m:mn><m:mo>)</m:mo></m:mrow><m:mo>=</m:mo><m:mn>4</m:mn><m:mo>,</m:mo><m:mn>775</m:mn></m:mrow></m:math></para>
+        <para id="id166287">Die vyf-getal opsomming is dus: 1,25; 2,5; 3,65; 4,775; 5,10.</para>
+        </item> <item> <label> Teken 'n houer-en-puntdiagram en merk die posisies van die minimum, maksimum en kwartiele. </label>
+        <para id="id166297">
+          <figure id="id166300">
+            <media id="id166300_media" alt="">
+              <image mime-type="image/png" src="../../media/MG11C18_003.png" id="id166300_onlineimage" width="170"><!-- NOTE: attribute width changes image size online (pixels). original width is 170. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/MG11C18_003.eps" id="id166300_printimage"/>
+            </media>
+          </figure>
+        </para>
+        
+        </item> </list> </solution>
+</exercise>
+<para id="eip-752"><figure id="statistics-1" class="khanacademy">
+	  <title>Khan academy video oor houer-en-puntdiagramme</title>
+	  <media id="yt-media1" display="block" alt="video on statistics 1">
+	  <flash id="yt-video1" mime-type="application/x-shockwave-flash" src="http://www.youtube.com/v/BXq5TFLvsVw&amp;rel=0&amp;hl=en_US&amp;feature=player_embedded&amp;version=3" width="425" height="344">
+	  <param name="allowscriptaccess" value="always"/>
+	  <param name="allowsfullscreen" value="true"/>
+	  </flash>
+	  </media>
+	  </figure></para><section id="secfhsst_id978"><title>Houer-en-puntdiagram</title>
+        <list id="id166329" display="block" list-type="enumerated">
+          <item id="uid35">Lisa werk as 'n Televerkope persoon. Sy hou 'n rekord van die getal verkope wat sy elke maand maak. Die data hieronder toon hoeveel sy elke maand verkoop.
+
+<emphasis effect="bold">49; 12; 22; 35; 2; 45; 60; 48; 19; 1; 43; 12</emphasis>
+Gee 'n vyf-getal opsomming en 'n hour-en-puntdiagram van haar verkope.
+</item>
+          <item id="uid36">Jason werk in 'n rekenaar winkel. Hy verkoop die volgende aantal rekenaars per maand:
+<emphasis effect="bold">27; 39; 3; 15; 43; 27; 19; 54; 65; 23; 45; 16</emphasis>
+Gee 'n vyf-getal opsomming en 'n hour-en-puntdiagram van sy verkope,
+</item>
+          <item id="uid37">Die getal van rugby wedstryde bygewoon deur 36 seisoen kaartjie houers is soos volg:
+<emphasis effect="bold">15; 11; 7; 34; 24; 22; 31; 12; 9</emphasis><emphasis effect="bold">12; 9; 1; 3; 15; 5; 8; 11; 2</emphasis><emphasis effect="bold">25; 2; 6; 18; 16; 17; 20; 13; 17</emphasis><emphasis effect="bold">14; 13; 11; 5; 3; 2; 23; 26; 40</emphasis><list id="id166438" display="block" list-type="enumerated"><item id="uid38">Sommeer die data.
+</item><item id="uid39">Stel die data voor met behulp van 'n gepaste grafiese metode (gee redes).
+</item><item id="uid40">Bepaal die mediaan, modus en gemiddelde.
+</item><item id="uid41">Bereken die vyf-getal opsomming en maak 'n houer-en-puntdiagram.
+</item><item id="uid42">Wat is die variansie en standaardafwyking?
+</item><item id="uid43">Lewer kommentaar op die verspreiding van die data.
+</item><item id="uid44">Waar word 95% van die resultate verwag om te lê?
+</item></list></item>
+          <item id="uid45">Rose het vir nege maande in 'n bloemistewinkel gewerk. Sy verkoop die volgende aantal trou ruikers:
+<emphasis effect="bold">16; 14; 8; 12; 6; 5; 3; 5; 7</emphasis><list id="id166552" display="block" list-type="enumerated"><item id="uid46">Wat is die vyf-getal opsomming van die data?
+</item><item id="uid47">Aangesien daar 'n onewe aantal datapunte is, wat neem jy waar by die berekening van die vyf-getal opsomming?
+</item></list></item>
+        </list>
+        
+</section>
+      </section>
+      <section id="uid48">
+        <title>Kumulatiewe Histogramme</title>
+        <para id="id166601">Kumulatiewe histogramme, ook bekend as ogiewe, is 'n plot van kumulatiewe frekwensies en word gebruik om te bepaal hoeveel data waardes lê bo of onder 'n spesifieke waarde in 'n datastel. Die kumulatiewe frekwensie word bereken vanaf 'n frekwensie-tabel, deur die toevoeging van elke frekwensie van die totale van die frekwensies van al die data waardes voor dit in die datastel. Die laaste waarde vir die kumulatiewe frekwensie sal altyd gelyk wees aan die totale getal van data waardes, aangesien alle frekwensies reeds na die vorige totaal bygevoeg. Die kumulatiewe frekwensie is geplot by die boonste grens van die interval.
+</para>
+        <para id="id166610">Die kumulatiewe frekwensies van Data Stel 2 word as in voorbeeld vertoon in <link target-id="uid49"/> en grafies voorgestel in <link target-id=""/>.</para>
+        <table id="uid49" summary="">
+          <tgroup cols="7">
+            <tbody>
+              <row>
+                <entry>Intervalle</entry>
+                <entry>
+                  <m:math overflow="scroll">
+                    <m:mrow>
+                      <m:mn>0</m:mn>
+                      <m:mo>&lt;</m:mo>
+                      <m:mi>n</m:mi>
+                      <m:mo>≤</m:mo>
+                      <m:mn>1</m:mn>
+                    </m:mrow>
+                  </m:math>
+                </entry>
+                <entry>
+                  <m:math overflow="scroll">
+                    <m:mrow>
+                      <m:mn>1</m:mn>
+                      <m:mo>&lt;</m:mo>
+                      <m:mi>n</m:mi>
+                      <m:mo>≤</m:mo>
+                      <m:mn>2</m:mn>
+                    </m:mrow>
+                  </m:math>
+                </entry>
+                <entry>
+                  <m:math overflow="scroll">
+                    <m:mrow>
+                      <m:mn>2</m:mn>
+                      <m:mo>&lt;</m:mo>
+                      <m:mi>n</m:mi>
+                      <m:mo>≤</m:mo>
+                      <m:mn>3</m:mn>
+                    </m:mrow>
+                  </m:math>
+                </entry>
+                <entry>
+                  <m:math overflow="scroll">
+                    <m:mrow>
+                      <m:mn>3</m:mn>
+                      <m:mo>&lt;</m:mo>
+                      <m:mi>n</m:mi>
+                      <m:mo>≤</m:mo>
+                      <m:mn>4</m:mn>
+                    </m:mrow>
+                  </m:math>
+                </entry>
+                <entry>
+                  <m:math overflow="scroll">
+                    <m:mrow>
+                      <m:mn>4</m:mn>
+                      <m:mo>&lt;</m:mo>
+                      <m:mi>n</m:mi>
+                      <m:mo>≤</m:mo>
+                      <m:mn>5</m:mn>
+                    </m:mrow>
+                  </m:math>
+                </entry>
+                <entry>
+                  <m:math overflow="scroll">
+                    <m:mrow>
+                      <m:mn>5</m:mn>
+                      <m:mo>&lt;</m:mo>
+                      <m:mi>n</m:mi>
+                      <m:mo>≤</m:mo>
+                      <m:mn>6</m:mn>
+                    </m:mrow>
+                  </m:math>
+                </entry>
+              </row>
+              <row>
+                <entry>Frekwensie</entry>
+                <entry>30</entry>
+                <entry>32</entry>
+                <entry>35</entry>
+                <entry>34</entry>
+                <entry>37</entry>
+                <entry>32</entry>
+              </row>
+              <row>
+                <entry>Kumulatiewe Frekwensies</entry>
+                <entry>30</entry>
+                <entry>30 + 32</entry>
+                <entry>30 + 32 + 35</entry>
+                <entry>30 + 32 + 35 + 34</entry>
+                <entry>30 + 32 + 35 + 34 + 37</entry>
+                <entry>30 + 32 + 35 + 34 + 37 + 32</entry>
+              </row>
+              <row>
+                <entry/>
+                <entry>30</entry>
+                <entry>62</entry>
+                <entry>97</entry>
+                <entry>131</entry>
+                <entry>168</entry>
+                <entry>200</entry>
+              </row>
+            </tbody>
+          </tgroup>
+          <caption>Kumulatiewe Frekwensies vir Data Stel 2.</caption>
+        </table>
+        <para id="id166975">
+          <figure id="id166979">
+            <media id="id166979_media" alt="">
+              <image mime-type="image/png" src="../../media/MG11C18_004.png" id="id166979_onlineimage" width="210"><!-- NOTE: attribute width changes image size online (pixels). original width is 210. --></image>
+              <image mime-type="application/postscript" for="pdf" src="../../media/MG11C18_004.eps" id="id166979_printimage"/>
+            </media>
+          </figure>
+        </para>
+        <para id="id166985">Let op dat die frekwensies by die boonste limiet van die interval geplot word. Die punte (30;1) (62;2) (97;3) is dus geplot. Dit verskil van die frekwensieveelhoek waar ons frekwensies by die middelpunte van die intervalle plot.</para>
+<section id="secfhsst_id1121"><title> Intervalle </title>
+        <list id="id166998" display="block" list-type="enumerated"><item id="uid50">Gebruik die volgende inligting van mense se ouderdomme om die vrae te beantwoord.
+2; 5; 1; 76; 34; 23; 65; 22; 63; 45; 53; 38
+4; 28; 5; 73; 80; 17; 15; 5; 34; 37; 45; 56
+<list id="id167026" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid51">Met behulp van 'n interval breedte van 10 bou 'n kumulatiewe frekwensietabel
+</item><item id="uid52">Hoeveel is onder 30?
+</item><item id="uid53">Hoeveel is onder 60?
+</item><item id="uid54">Onder watter waarde val 50% van die ouderdomme? Gee 'n verduideliking.
+</item><item id="uid55">Onder watter waarde val die onderste 40%?
+</item><item id="uid56">Konstrueer 'n frekwensieveelhoek en 'n ogief.
+</item><item id="uid57">Vergelyk die twee grafieke.
+</item></list></item>
+          <item id="uid58">Die gewig van sakke sand in gram word hieronder gegee word (afgerond tot die naaste tiende):
+50,1; 40,4; 48,5; 29,4; 50,2; 55,3; 58,1; 35,3; 54,2; 43,5
+60,1; 43,9; 45,3; 49,2; 36,6; 31,5; 63,1; 49,3; 43,4; 54,1
+<list id="id167142" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid59">Besluit op 'n interval breedte en toon wat jy waarneem oor oor jou keuse.
+</item><item id="uid60">Gee jou laagste interval.
+</item><item id="uid61">Gee jou hoogste interval.
+</item><item id="uid62">Konstrueer 'n cumultative frekwensie grafiek en 'n frekwensieveelhoek
+</item><item id="uid63">Vergelyk hierdie twee grafieke.
+</item><item id="uid64">Onder watter waarde val 53% van die gevalle?
+</item><item id="uid65">Onder watter waarde val 60% van die gevalle?
+</item></list></item>
+        </list>
+        
+</section>
+      </section>
+    </section>
+ 
+  </content>
+</document>

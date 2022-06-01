@@ -1,0 +1,1601 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Wortelvorme</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m38237</md:content-id>
+  <md:title>Wortelvorme</md:title>
+  <md:abstract/>
+  <md:uuid>831c7565-9f7a-4471-bf09-ee5ebd2999d7</md:uuid>
+</metadata>
+
+<content>
+    
+    <section id="cid2">
+      <title>Berekening van wortelvorme</title>
+      <para id="id261728">Daar is verskeie reëls wat dit makliker maak om met wortelvorme te werk. Ons sal elkeen lys en dan in diepte verduidelik waar die reël vandaan kom.</para>
+      <equation id="uid1">
+        <m:math overflow="scroll" mode="display">
+          <m:mtable displaystyle="true">
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mrow>
+                  <m:mroot>
+                    <m:mi>a</m:mi>
+                    <m:mi>n</m:mi>
+                  </m:mroot>
+                  <m:mroot>
+                    <m:mi>b</m:mi>
+                    <m:mi>n</m:mi>
+                  </m:mroot>
+                </m:mrow>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mroot>
+                  <m:mrow>
+                    <m:mi>a</m:mi>
+                    <m:mi>b</m:mi>
+                  </m:mrow>
+                  <m:mi>n</m:mi>
+                </m:mroot>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mroot>
+                  <m:mfrac>
+                    <m:mi>a</m:mi>
+                    <m:mi>b</m:mi>
+                  </m:mfrac>
+                  <m:mi>n</m:mi>
+                </m:mroot>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mfrac>
+                  <m:mroot>
+                    <m:mi>a</m:mi>
+                    <m:mi>n</m:mi>
+                  </m:mroot>
+                  <m:mroot>
+                    <m:mi>b</m:mi>
+                    <m:mi>n</m:mi>
+                  </m:mroot>
+                </m:mfrac>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mroot>
+                  <m:msup>
+                    <m:mi>a</m:mi>
+                    <m:mi>m</m:mi>
+                  </m:msup>
+                  <m:mi>n</m:mi>
+                </m:mroot>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:msup>
+                  <m:mi>a</m:mi>
+                  <m:mfrac>
+                    <m:mi>m</m:mi>
+                    <m:mi>n</m:mi>
+                  </m:mfrac>
+                </m:msup>
+              </m:mtd>
+            </m:mtr>
+          </m:mtable>
+        </m:math>
+      </equation>
+      <section id="uid2">
+        <title>Wortelwet 1: <m:math overflow="scroll"><m:mrow><m:mroot><m:mi>a</m:mi><m:mi>n</m:mi></m:mroot><m:mroot><m:mi>b</m:mi><m:mi>n</m:mi></m:mroot><m:mo>=</m:mo><m:mroot><m:mrow><m:mi>a</m:mi><m:mi>b</m:mi></m:mrow><m:mi>n</m:mi></m:mroot></m:mrow></m:math></title>
+        <para id="id262236">Dit is gewoonlik nuttig om 'n wortelvorm in eksponensiaalnotasie te beskou, aangesien dit ons toelaat om die eksponentwette, wat ons in Graad 10 geleer het, te gebruik. In eksponensiaalnotasie, <m:math overflow="scroll"><m:mrow><m:mroot><m:mi>a</m:mi><m:mi>n</m:mi></m:mroot><m:mo>=</m:mo><m:msup><m:mi>a</m:mi><m:mfrac><m:mn>1</m:mn><m:mi>n</m:mi></m:mfrac></m:msup></m:mrow></m:math> en <m:math overflow="scroll"><m:mrow><m:mroot><m:mi>b</m:mi><m:mi>n</m:mi></m:mroot><m:mo>=</m:mo><m:msup><m:mi>b</m:mi><m:mfrac><m:mn>1</m:mn><m:mi>n</m:mi></m:mfrac></m:msup></m:mrow></m:math>. Vervolgens,
+
+</para>
+        <equation id="uid3">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mroot>
+                      <m:mi>a</m:mi>
+                      <m:mi>n</m:mi>
+                    </m:mroot>
+                    <m:mroot>
+                      <m:mi>b</m:mi>
+                      <m:mi>n</m:mi>
+                    </m:mroot>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:msup>
+                      <m:mi>a</m:mi>
+                      <m:mfrac>
+                        <m:mn>1</m:mn>
+                        <m:mi>n</m:mi>
+                      </m:mfrac>
+                    </m:msup>
+                    <m:msup>
+                      <m:mi>b</m:mi>
+                      <m:mfrac>
+                        <m:mn>1</m:mn>
+                        <m:mi>n</m:mi>
+                      </m:mfrac>
+                    </m:msup>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow/>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:msup>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mi>a</m:mi>
+                      <m:mi>b</m:mi>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:mfrac>
+                      <m:mn>1</m:mn>
+                      <m:mi>n</m:mi>
+                    </m:mfrac>
+                  </m:msup>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow/>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mroot>
+                    <m:mrow>
+                      <m:mi>a</m:mi>
+                      <m:mi>b</m:mi>
+                    </m:mrow>
+                    <m:mi>n</m:mi>
+                  </m:mroot>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <para id="id262411">'n Paar voorbeelde wat hierdie wet gebruik:</para>
+        <list id="id262414" display="block" list-type="enumerated">
+          <item id="uid4">
+            <m:math overflow="scroll">
+              <m:mrow>
+                <m:mroot>
+                  <m:mn>16</m:mn>
+                  <m:mn>3</m:mn>
+                </m:mroot>
+                <m:mo>×</m:mo>
+                <m:mroot>
+                  <m:mn>4</m:mn>
+                  <m:mn>3</m:mn>
+                </m:mroot>
+                <m:mo>=</m:mo>
+                <m:mroot>
+                  <m:mn>64</m:mn>
+                  <m:mn>3</m:mn>
+                </m:mroot>
+                <m:mo>=</m:mo>
+                <m:mn>4</m:mn>
+              </m:mrow>
+            </m:math>
+          </item>
+          <item id="uid5">
+            <m:math overflow="scroll">
+              <m:mrow>
+                <m:msqrt>
+                  <m:mn>2</m:mn>
+                </m:msqrt>
+                <m:mo>×</m:mo>
+                <m:msqrt>
+                  <m:mn>32</m:mn>
+                </m:msqrt>
+                <m:mo>=</m:mo>
+                <m:msqrt>
+                  <m:mn>64</m:mn>
+                </m:msqrt>
+                <m:mo>=</m:mo>
+                <m:mn>8</m:mn>
+              </m:mrow>
+            </m:math>
+          </item>
+          <item id="uid6">
+            <m:math overflow="scroll">
+              <m:mrow>
+                <m:msqrt>
+                  <m:mrow>
+                    <m:msup>
+                      <m:mi>a</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msup>
+                    <m:msup>
+                      <m:mi>b</m:mi>
+                      <m:mn>3</m:mn>
+                    </m:msup>
+                  </m:mrow>
+                </m:msqrt>
+                <m:mo>×</m:mo>
+                <m:msqrt>
+                  <m:mrow>
+                    <m:msup>
+                      <m:mi>b</m:mi>
+                      <m:mn>5</m:mn>
+                    </m:msup>
+                    <m:msup>
+                      <m:mi>c</m:mi>
+                      <m:mn>4</m:mn>
+                    </m:msup>
+                  </m:mrow>
+                </m:msqrt>
+                <m:mo>=</m:mo>
+                <m:msqrt>
+                  <m:mrow>
+                    <m:msup>
+                      <m:mi>a</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msup>
+                    <m:msup>
+                      <m:mi>b</m:mi>
+                      <m:mn>8</m:mn>
+                    </m:msup>
+                    <m:msup>
+                      <m:mi>c</m:mi>
+                      <m:mn>4</m:mn>
+                    </m:msup>
+                  </m:mrow>
+                </m:msqrt>
+                <m:mo>=</m:mo>
+                <m:mi>a</m:mi>
+                <m:msup>
+                  <m:mi>b</m:mi>
+                  <m:mn>4</m:mn>
+                </m:msup>
+                <m:msup>
+                  <m:mi>c</m:mi>
+                  <m:mn>2</m:mn>
+                </m:msup>
+              </m:mrow>
+            </m:math>
+          </item>
+        </list>
+      </section>
+      <section id="uid7">
+        <title>Wortelwet 2: <m:math overflow="scroll"><m:mrow><m:mroot><m:mfrac><m:mi>a</m:mi><m:mi>b</m:mi></m:mfrac><m:mi>n</m:mi></m:mroot><m:mo>=</m:mo><m:mfrac><m:mroot><m:mi>a</m:mi><m:mi>n</m:mi></m:mroot><m:mroot><m:mi>b</m:mi><m:mi>n</m:mi></m:mroot></m:mfrac></m:mrow></m:math></title>
+        <para id="id262817">Indien ons na <m:math overflow="scroll"><m:mroot><m:mfrac><m:mi>a</m:mi><m:mi>b</m:mi></m:mfrac><m:mi>n</m:mi></m:mroot></m:math> in eksponensieelnotasie kyk en die eksponentwette toepas, dan is</para>
+        <equation id="uid8">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mroot>
+                    <m:mfrac>
+                      <m:mi>a</m:mi>
+                      <m:mi>b</m:mi>
+                    </m:mfrac>
+                    <m:mi>n</m:mi>
+                  </m:mroot>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:msup>
+                    <m:mfenced separators="" open="(" close=")">
+                      <m:mfrac>
+                        <m:mi>a</m:mi>
+                        <m:mi>b</m:mi>
+                      </m:mfrac>
+                    </m:mfenced>
+                    <m:mfrac>
+                      <m:mn>1</m:mn>
+                      <m:mi>n</m:mi>
+                    </m:mfrac>
+                  </m:msup>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow/>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:msup>
+                      <m:mi>a</m:mi>
+                      <m:mfrac>
+                        <m:mn>1</m:mn>
+                        <m:mi>n</m:mi>
+                      </m:mfrac>
+                    </m:msup>
+                    <m:msup>
+                      <m:mi>b</m:mi>
+                      <m:mfrac>
+                        <m:mn>1</m:mn>
+                        <m:mi>n</m:mi>
+                      </m:mfrac>
+                    </m:msup>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow/>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:mroot>
+                      <m:mi>a</m:mi>
+                      <m:mi>n</m:mi>
+                    </m:mroot>
+                    <m:mroot>
+                      <m:mi>b</m:mi>
+                      <m:mi>n</m:mi>
+                    </m:mroot>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <para id="id262958">'n Paar voorbeelde wat hierdie wet gebruik:</para>
+        <list id="id262962" display="block" list-type="enumerated">
+          <item id="uid9">
+            <m:math overflow="scroll">
+              <m:mrow>
+                <m:msqrt>
+                  <m:mn>12</m:mn>
+                </m:msqrt>
+                <m:mo>÷</m:mo>
+                <m:msqrt>
+                  <m:mn>3</m:mn>
+                </m:msqrt>
+                <m:mo>=</m:mo>
+                <m:msqrt>
+                  <m:mn>4</m:mn>
+                </m:msqrt>
+                <m:mo>=</m:mo>
+                <m:mn>2</m:mn>
+              </m:mrow>
+            </m:math>
+          </item>
+          <item id="uid10">
+            <m:math overflow="scroll">
+              <m:mrow>
+                <m:mroot>
+                  <m:mn>24</m:mn>
+                  <m:mn>3</m:mn>
+                </m:mroot>
+                <m:mo>÷</m:mo>
+                <m:mroot>
+                  <m:mn>3</m:mn>
+                  <m:mn>3</m:mn>
+                </m:mroot>
+                <m:mo>=</m:mo>
+                <m:mroot>
+                  <m:mn>8</m:mn>
+                  <m:mn>3</m:mn>
+                </m:mroot>
+                <m:mo>=</m:mo>
+                <m:mn>2</m:mn>
+              </m:mrow>
+            </m:math>
+          </item>
+          <item id="uid11">
+            <m:math overflow="scroll">
+              <m:mrow>
+                <m:msqrt>
+                  <m:mrow>
+                    <m:msup>
+                      <m:mi>a</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msup>
+                    <m:msup>
+                      <m:mi>b</m:mi>
+                      <m:mn>13</m:mn>
+                    </m:msup>
+                  </m:mrow>
+                </m:msqrt>
+                <m:mo>÷</m:mo>
+                <m:msqrt>
+                  <m:msup>
+                    <m:mi>b</m:mi>
+                    <m:mn>5</m:mn>
+                  </m:msup>
+                </m:msqrt>
+                <m:mo>=</m:mo>
+                <m:msqrt>
+                  <m:mrow>
+                    <m:msup>
+                      <m:mi>a</m:mi>
+                      <m:mn>2</m:mn>
+                    </m:msup>
+                    <m:msup>
+                      <m:mi>b</m:mi>
+                      <m:mn>8</m:mn>
+                    </m:msup>
+                  </m:mrow>
+                </m:msqrt>
+                <m:mo>=</m:mo>
+                <m:mi>a</m:mi>
+                <m:msup>
+                  <m:mi>b</m:mi>
+                  <m:mn>4</m:mn>
+                </m:msup>
+              </m:mrow>
+            </m:math>
+          </item>
+        </list>
+      </section>
+      <section id="uid12">
+        <title>Wortelwet 3: <m:math overflow="scroll"><m:mrow><m:mroot><m:msup><m:mi>a</m:mi><m:mi>m</m:mi></m:msup><m:mi>n</m:mi></m:mroot><m:mo>=</m:mo><m:msup><m:mi>a</m:mi><m:mfrac><m:mi>m</m:mi><m:mi>n</m:mi></m:mfrac></m:msup></m:mrow></m:math></title>
+        <para id="id263159">Indien ons na <m:math overflow="scroll"><m:mroot><m:msup><m:mi>a</m:mi><m:mi>m</m:mi></m:msup><m:mi>n</m:mi></m:mroot></m:math> in eksponensiaalnotasie kyk en die eksponentwette toepas, dan is</para>
+        <equation id="uid13">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mroot>
+                    <m:msup>
+                      <m:mi>a</m:mi>
+                      <m:mi>m</m:mi>
+                    </m:msup>
+                    <m:mi>n</m:mi>
+                  </m:mroot>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:msup>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:msup>
+                        <m:mi>a</m:mi>
+                        <m:mi>m</m:mi>
+                      </m:msup>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:mfrac>
+                      <m:mn>1</m:mn>
+                      <m:mi>n</m:mi>
+                    </m:mfrac>
+                  </m:msup>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow/>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:msup>
+                    <m:mi>a</m:mi>
+                    <m:mfrac>
+                      <m:mi>m</m:mi>
+                      <m:mi>n</m:mi>
+                    </m:mfrac>
+                  </m:msup>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <para id="id263263">Byvoorbeeld</para>
+        <equation id="id263266">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mroot>
+                    <m:msup>
+                      <m:mn>2</m:mn>
+                      <m:mn>3</m:mn>
+                    </m:msup>
+                    <m:mn>6</m:mn>
+                  </m:mroot>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:msup>
+                    <m:mn>2</m:mn>
+                    <m:mfrac>
+                      <m:mn>3</m:mn>
+                      <m:mn>6</m:mn>
+                    </m:mfrac>
+                  </m:msup>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:msup>
+                    <m:mn>2</m:mn>
+                    <m:mfrac>
+                      <m:mn>1</m:mn>
+                      <m:mn>2</m:mn>
+                    </m:mfrac>
+                  </m:msup>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:msqrt>
+                    <m:mn>2</m:mn>
+                  </m:msqrt>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+      </section>
+      <section id="uid14">
+        <title>Gelyksoortige en ongelyksoortige wortelvorme</title>
+        <para id="id263352">Twee wortelvorme <m:math overflow="scroll"><m:mroot><m:mi>a</m:mi><m:mi>m</m:mi></m:mroot></m:math> en <m:math overflow="scroll"><m:mroot><m:mi>b</m:mi><m:mi>n</m:mi></m:mroot></m:math> word <emphasis effect="italics">gelyksoortige wortelvorme</emphasis> genoem indien
+<m:math overflow="scroll"><m:mrow><m:mi>m</m:mi><m:mo>=</m:mo><m:mi>n</m:mi></m:mrow></m:math>, andersins word hulle <emphasis effect="italics">ongelyksoortige wortelvorme</emphasis> genoem. Byvoorbeeld, <m:math overflow="scroll"><m:msqrt><m:mn>2</m:mn></m:msqrt></m:math> en <m:math overflow="scroll"><m:msqrt><m:mn>3</m:mn></m:msqrt></m:math> is gelyksoortig, terwyl <m:math overflow="scroll"><m:msqrt><m:mn>2</m:mn></m:msqrt></m:math> en <m:math overflow="scroll"><m:mroot><m:mn>2</m:mn><m:mn>3</m:mn></m:mroot></m:math> ongelyksoortig is. Dit is belangrik om op te let dat die wortelwette wat ons pas geleer het almal gelyksoortige wortelvorme is.</para>
+        <para id="id263443">Indien ons die wortelwette op ongelyksoortige wortelvorme wil toepas, moet ons hulle eers omskakel na gelyksoortige wortelvorme. Om hierdie reg te kry, gebruik ons die formule</para>
+        <equation id="uid15">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mroot>
+                <m:msup>
+                  <m:mi>a</m:mi>
+                  <m:mi>m</m:mi>
+                </m:msup>
+                <m:mi>n</m:mi>
+              </m:mroot>
+              <m:mo>=</m:mo>
+              <m:mroot>
+                <m:msup>
+                  <m:mi>a</m:mi>
+                  <m:mrow>
+                    <m:mi>b</m:mi>
+                    <m:mi>m</m:mi>
+                  </m:mrow>
+                </m:msup>
+                <m:mrow>
+                  <m:mi>b</m:mi>
+                  <m:mi>n</m:mi>
+                </m:mrow>
+              </m:mroot>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id263492">om die ongelyksoortige wortelvorme oor te skryf sodat <m:math overflow="scroll"><m:mrow><m:mi>b</m:mi><m:mi>n</m:mi></m:mrow></m:math> dieselfde is vir alle wortelvorme.</para>
+<exercise id="secfhsst_id649"><title>Gelyksoortige en ongelyksoortige wortelvorme</title><problem id="probfhsst_id650">
+        <para id="id263521">Vereenvoudig die gelyksoortige wortelvorme so ver moontlik, en wys alle stappe: <m:math overflow="scroll"><m:mrow><m:mroot><m:mn>3</m:mn><m:mn>3</m:mn></m:mroot><m:mo>×</m:mo><m:mroot><m:mn>5</m:mn><m:mn>5</m:mn></m:mroot></m:mrow></m:math> </para>
+        </problem>
+        <solution id="solfhsst_id653"> <list id="listfhsst_id653" list-type="enumerated" number-style="arabic" class="stepwise">
+        <item> <label> Vind die gemene wortel </label>
+        <equation id="id263565">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mroot>
+                      <m:msup>
+                        <m:mn>3</m:mn>
+                        <m:mn>5</m:mn>
+                      </m:msup>
+                      <m:mn>15</m:mn>
+                    </m:mroot>
+                    <m:mo>×</m:mo>
+                    <m:mroot>
+                      <m:msup>
+                        <m:mn>5</m:mn>
+                        <m:mn>3</m:mn>
+                      </m:msup>
+                      <m:mn>15</m:mn>
+                    </m:mroot>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        </item> <item> <label> Gebruik wortelwet 1 </label>
+        <equation id="id263614">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mroot>
+                    <m:mrow>
+                      <m:msup>
+                        <m:mn>3</m:mn>
+                        <m:mn>5</m:mn>
+                      </m:msup>
+                      <m:mo>.</m:mo>
+                      <m:msup>
+                        <m:mn>5</m:mn>
+                        <m:mn>3</m:mn>
+                      </m:msup>
+                    </m:mrow>
+                    <m:mn>15</m:mn>
+                  </m:mroot>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mroot>
+                    <m:mrow>
+                      <m:mn>243</m:mn>
+                      <m:mo>×</m:mo>
+                      <m:mn>125</m:mn>
+                    </m:mrow>
+                    <m:mn>15</m:mn>
+                  </m:mroot>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mroot>
+                    <m:mrow>
+                      <m:mn>30</m:mn>
+                      <m:mn>375</m:mn>
+                    </m:mrow>
+                    <m:mn>15</m:mn>
+                  </m:mroot>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        
+        </item> </list> </solution>
+</exercise>
+      </section>
+      <section id="uid16">
+        <title>Eenvoudigste wortelvorm</title>
+        <para id="id263720">Wanneer daar gewerk word met wortelvorme, word antwoorde meestal in die eenvoudigste wortelvorm gegee. Byvoorbeeld</para>
+        <equation id="id263724">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:msqrt>
+                    <m:mn>50</m:mn>
+                  </m:msqrt>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:msqrt>
+                    <m:mrow>
+                      <m:mn>25</m:mn>
+                      <m:mo>×</m:mo>
+                      <m:mn>2</m:mn>
+                    </m:mrow>
+                  </m:msqrt>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:msqrt>
+                      <m:mn>25</m:mn>
+                    </m:msqrt>
+                    <m:mo>×</m:mo>
+                    <m:msqrt>
+                      <m:mn>2</m:mn>
+                    </m:msqrt>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>5</m:mn>
+                    <m:msqrt>
+                      <m:mn>2</m:mn>
+                    </m:msqrt>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <para id="id263790"><m:math overflow="scroll"><m:mrow><m:mn>5</m:mn><m:msqrt><m:mn>2</m:mn></m:msqrt></m:mrow></m:math> is die eenvoudigste wortelvorm van <m:math overflow="scroll"><m:msqrt><m:mn>50</m:mn></m:msqrt></m:math>.</para>
+<exercise id="secfhsst_id811"><title>Eenvoudigste wortelvorm</title><problem id="probfhsst_id812">
+        <para id="id263827">Herskryf <m:math overflow="scroll"><m:msqrt><m:mn>18</m:mn></m:msqrt></m:math> in die eenvoudigste wortelvorm:</para>
+        </problem>
+        <solution id="solfhsst_id815"> <list id="listfhsst_id815" list-type="enumerated" number-style="arabic" class="stepwise"><item> <label> Breek die getal 18 op in sy kleinste faktore</label>
+        <equation id="id263858">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:msqrt>
+                    <m:mn>18</m:mn>
+                  </m:msqrt>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:msqrt>
+                    <m:mrow>
+                      <m:mn>2</m:mn>
+                      <m:mo>×</m:mo>
+                      <m:mn>9</m:mn>
+                    </m:mrow>
+                  </m:msqrt>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:msqrt>
+                    <m:mrow>
+                      <m:mn>2</m:mn>
+                      <m:mo>×</m:mo>
+                      <m:mn>3</m:mn>
+                      <m:mo>×</m:mo>
+                      <m:mn>3</m:mn>
+                    </m:mrow>
+                  </m:msqrt>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:msqrt>
+                      <m:mn>2</m:mn>
+                    </m:msqrt>
+                    <m:mo>×</m:mo>
+                    <m:msqrt>
+                      <m:mrow>
+                        <m:mn>3</m:mn>
+                        <m:mo>×</m:mo>
+                        <m:mn>3</m:mn>
+                      </m:mrow>
+                    </m:msqrt>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:msqrt>
+                      <m:mn>2</m:mn>
+                    </m:msqrt>
+                    <m:mo>×</m:mo>
+                    <m:msqrt>
+                      <m:msup>
+                        <m:mn>3</m:mn>
+                        <m:mn>2</m:mn>
+                      </m:msup>
+                    </m:msqrt>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>3</m:mn>
+                    <m:msqrt>
+                      <m:mn>2</m:mn>
+                    </m:msqrt>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        
+        </item> </list> </solution>
+</exercise>
+<exercise id="secfhsst_id917"><title>Eenvoudigste wortelvorm</title><problem id="probfhsst_id918">
+        <para id="id264001">Vereenvoudig: <m:math overflow="scroll"><m:mrow><m:msqrt><m:mn>147</m:mn></m:msqrt><m:mo>+</m:mo><m:msqrt><m:mn>108</m:mn></m:msqrt></m:mrow></m:math> </para>
+        </problem>
+        <solution id="solfhsst_id921"> <list id="listfhsst_id921" list-type="enumerated" number-style="arabic" class="stepwise"><item> <label> Vereenvoudig elke vierkantswortel afsonderlik </label>
+        <equation id="id264038">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:msqrt>
+                      <m:mn>147</m:mn>
+                    </m:msqrt>
+                    <m:mo>+</m:mo>
+                    <m:msqrt>
+                      <m:mn>108</m:mn>
+                    </m:msqrt>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:msqrt>
+                      <m:mrow>
+                        <m:mn>49</m:mn>
+                        <m:mo>×</m:mo>
+                        <m:mn>3</m:mn>
+                      </m:mrow>
+                    </m:msqrt>
+                    <m:mo>+</m:mo>
+                    <m:msqrt>
+                      <m:mrow>
+                        <m:mn>36</m:mn>
+                        <m:mo>×</m:mo>
+                        <m:mn>3</m:mn>
+                      </m:mrow>
+                    </m:msqrt>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:msqrt>
+                      <m:mrow>
+                        <m:msup>
+                          <m:mn>7</m:mn>
+                          <m:mn>2</m:mn>
+                        </m:msup>
+                        <m:mo>×</m:mo>
+                        <m:mn>3</m:mn>
+                      </m:mrow>
+                    </m:msqrt>
+                    <m:mo>+</m:mo>
+                    <m:msqrt>
+                      <m:mrow>
+                        <m:msup>
+                          <m:mn>6</m:mn>
+                          <m:mn>2</m:mn>
+                        </m:msup>
+                        <m:mo>×</m:mo>
+                        <m:mn>3</m:mn>
+                      </m:mrow>
+                    </m:msqrt>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        </item> <item> <label> Neem die waardes wat <m:math overflow="scroll"><m:msup><m:mrow/><m:mn>2</m:mn></m:msup></m:math> het onder die wortelvorm na die buitekant van die vierkantswortelteken </label>
+        <equation id="id264145">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>7</m:mn>
+                    <m:msqrt>
+                      <m:mn>3</m:mn>
+                    </m:msqrt>
+                    <m:mo>+</m:mo>
+                    <m:mn>6</m:mn>
+                    <m:msqrt>
+                      <m:mn>3</m:mn>
+                    </m:msqrt>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        </item> <item> <label> Die wortelvorme wat presies dieselfde is kan as "gelyksoortige terme" geneem word en bymekaar getel word </label>
+        <equation id="id264183">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>13</m:mn>
+                    <m:msqrt>
+                      <m:mn>3</m:mn>
+                    </m:msqrt>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        
+        </item> </list> </solution>
+</exercise>
+      </section>
+      <section id="uid17">
+        <title>Rasionaliserende delers</title>
+        <para id="id264234">Dit is nuttig om met breuke te werk wat rasionale delers het eerder as wortelvormige delers. Dit is moontlik om enige breuk wat 'n wortelvorm as deler het oor te skryf as 'n breuk met rasionale deleter. Ons sal nou sien hoe dit gedoen kan word.</para>
+        <para id="id264239">Enige uitdrukking van die vorm <m:math overflow="scroll"><m:mrow><m:msqrt><m:mi>a</m:mi></m:msqrt><m:mo>+</m:mo><m:msqrt><m:mi>b</m:mi></m:msqrt></m:mrow></m:math> (waar <m:math overflow="scroll"><m:mi>a</m:mi></m:math> and <m:math overflow="scroll"><m:mi>b</m:mi></m:math> rasionaal is)
+kan verander word in 'n rasionale getal deur dit te vermenigvuldig met <m:math overflow="scroll"><m:mrow><m:msqrt><m:mi>a</m:mi></m:msqrt><m:mo>-</m:mo><m:msqrt><m:mi>b</m:mi></m:msqrt></m:mrow></m:math>
+(soortgelyk kan <m:math overflow="scroll"><m:mrow><m:msqrt><m:mi>a</m:mi></m:msqrt><m:mo>-</m:mo><m:msqrt><m:mi>b</m:mi></m:msqrt></m:mrow></m:math> gerasionaliseer word deur dit te vermenigvuldig met
+<m:math overflow="scroll"><m:mrow><m:msqrt><m:mi>a</m:mi></m:msqrt><m:mo>+</m:mo><m:msqrt><m:mi>b</m:mi></m:msqrt></m:mrow></m:math>). Dit is omdat</para>
+        <equation id="uid18">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mrow>
+                <m:mo>(</m:mo>
+                <m:msqrt>
+                  <m:mi>a</m:mi>
+                </m:msqrt>
+                <m:mo>+</m:mo>
+                <m:msqrt>
+                  <m:mi>b</m:mi>
+                </m:msqrt>
+                <m:mo>)</m:mo>
+              </m:mrow>
+              <m:mrow>
+                <m:mo>(</m:mo>
+                <m:msqrt>
+                  <m:mi>a</m:mi>
+                </m:msqrt>
+                <m:mo>-</m:mo>
+                <m:msqrt>
+                  <m:mi>b</m:mi>
+                </m:msqrt>
+                <m:mo>)</m:mo>
+              </m:mrow>
+              <m:mo>=</m:mo>
+              <m:mi>a</m:mi>
+              <m:mo>-</m:mo>
+              <m:mi>b</m:mi>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id264374">wat rasionaal is (aangesien <m:math overflow="scroll"><m:mi>a</m:mi></m:math> en <m:math overflow="scroll"><m:mi>b</m:mi></m:math> rasionaal is).</para>
+        <para id="id264397">Indien ons 'n breuk het met 'n deler wat soos
+<m:math overflow="scroll"><m:mrow><m:msqrt><m:mi>a</m:mi></m:msqrt><m:mo>+</m:mo><m:msqrt><m:mi>b</m:mi></m:msqrt></m:mrow></m:math> lyk, kan ons bloot bo en onder vermenigvuldig met
+<m:math overflow="scroll"><m:mrow><m:msqrt><m:mi>a</m:mi></m:msqrt><m:mo>-</m:mo><m:msqrt><m:mi>b</m:mi></m:msqrt></m:mrow></m:math> en kry sodoende 'n rasionale deler.</para>
+        <equation id="uid19">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mfrac>
+                    <m:mi>c</m:mi>
+                    <m:mrow>
+                      <m:msqrt>
+                        <m:mi>a</m:mi>
+                      </m:msqrt>
+                      <m:mo>+</m:mo>
+                      <m:msqrt>
+                        <m:mi>b</m:mi>
+                      </m:msqrt>
+                    </m:mrow>
+                  </m:mfrac>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mfrac>
+                      <m:mrow>
+                        <m:msqrt>
+                          <m:mi>a</m:mi>
+                        </m:msqrt>
+                        <m:mo>-</m:mo>
+                        <m:msqrt>
+                          <m:mi>b</m:mi>
+                        </m:msqrt>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:msqrt>
+                          <m:mi>a</m:mi>
+                        </m:msqrt>
+                        <m:mo>-</m:mo>
+                        <m:msqrt>
+                          <m:mi>b</m:mi>
+                        </m:msqrt>
+                      </m:mrow>
+                    </m:mfrac>
+                    <m:mo>×</m:mo>
+                    <m:mfrac>
+                      <m:mi>c</m:mi>
+                      <m:mrow>
+                        <m:msqrt>
+                          <m:mi>a</m:mi>
+                        </m:msqrt>
+                        <m:mo>+</m:mo>
+                        <m:msqrt>
+                          <m:mi>b</m:mi>
+                        </m:msqrt>
+                      </m:mrow>
+                    </m:mfrac>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow/>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:mrow>
+                      <m:mi>c</m:mi>
+                      <m:msqrt>
+                        <m:mi>a</m:mi>
+                      </m:msqrt>
+                      <m:mo>-</m:mo>
+                      <m:mi>c</m:mi>
+                      <m:msqrt>
+                        <m:mi>b</m:mi>
+                      </m:msqrt>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mi>a</m:mi>
+                      <m:mo>-</m:mo>
+                      <m:mi>b</m:mi>
+                    </m:mrow>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <para id="id264548">of soortgelyk</para>
+        <equation id="uid20">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mfrac>
+                    <m:mi>c</m:mi>
+                    <m:mrow>
+                      <m:msqrt>
+                        <m:mi>a</m:mi>
+                      </m:msqrt>
+                      <m:mo>-</m:mo>
+                      <m:msqrt>
+                        <m:mi>b</m:mi>
+                      </m:msqrt>
+                    </m:mrow>
+                  </m:mfrac>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mfrac>
+                      <m:mrow>
+                        <m:msqrt>
+                          <m:mi>a</m:mi>
+                        </m:msqrt>
+                        <m:mo>+</m:mo>
+                        <m:msqrt>
+                          <m:mi>b</m:mi>
+                        </m:msqrt>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:msqrt>
+                          <m:mi>a</m:mi>
+                        </m:msqrt>
+                        <m:mo>+</m:mo>
+                        <m:msqrt>
+                          <m:mi>b</m:mi>
+                        </m:msqrt>
+                      </m:mrow>
+                    </m:mfrac>
+                    <m:mo>×</m:mo>
+                    <m:mfrac>
+                      <m:mi>c</m:mi>
+                      <m:mrow>
+                        <m:msqrt>
+                          <m:mi>a</m:mi>
+                        </m:msqrt>
+                        <m:mo>-</m:mo>
+                        <m:msqrt>
+                          <m:mi>b</m:mi>
+                        </m:msqrt>
+                      </m:mrow>
+                    </m:mfrac>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow/>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:mrow>
+                      <m:mi>c</m:mi>
+                      <m:msqrt>
+                        <m:mi>a</m:mi>
+                      </m:msqrt>
+                      <m:mo>+</m:mo>
+                      <m:mi>c</m:mi>
+                      <m:msqrt>
+                        <m:mi>b</m:mi>
+                      </m:msqrt>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mi>a</m:mi>
+                      <m:mo>-</m:mo>
+                      <m:mi>b</m:mi>
+                    </m:mrow>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+<exercise id="secfhsst_id1270"><title>Rasionalisering van die deler</title><problem id="probfhsst_id1271">
+        <para id="id264682">Rasionaliseer die deler: <m:math overflow="scroll"><m:mfrac><m:mrow><m:mn>5</m:mn><m:mi>x</m:mi><m:mo>-</m:mo><m:mn>16</m:mn></m:mrow><m:msqrt><m:mi>x</m:mi></m:msqrt></m:mfrac></m:math> </para>
+        </problem>
+        <solution id="solfhsst_id1274"> <list id="listfhsst_id1274" list-type="enumerated" number-style="arabic" class="stepwise">
+        <item> <label> Raak ontslae van die vierkantswortel onder die deler </label>
+        <para id="id264728">Om ontslae te raak van die <m:math overflow="scroll"><m:msqrt><m:mi>x</m:mi></m:msqrt></m:math> in die deler, kan 'n mens dit uitvermenigvuldig met nog 'n <m:math overflow="scroll"><m:msqrt><m:mi>x</m:mi></m:msqrt></m:math>. Dit "rasionaliseer" die wortelvorm in die deler. Let op dat <m:math overflow="scroll"><m:mfrac><m:msqrt><m:mi>x</m:mi></m:msqrt><m:msqrt><m:mi>x</m:mi></m:msqrt></m:mfrac></m:math> = 1, en dus word die vergelyking gerasionaliseer deur met 1 te vermenigvuldig en bly dit dieselfde ding.</para>
+        <equation id="id264769">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mfrac>
+                      <m:mrow>
+                        <m:mn>5</m:mn>
+                        <m:mi>x</m:mi>
+                        <m:mo>-</m:mo>
+                        <m:mn>16</m:mn>
+                      </m:mrow>
+                      <m:msqrt>
+                        <m:mi>x</m:mi>
+                      </m:msqrt>
+                    </m:mfrac>
+                    <m:mo>×</m:mo>
+                    <m:mfrac>
+                      <m:msqrt>
+                        <m:mi>x</m:mi>
+                      </m:msqrt>
+                      <m:msqrt>
+                        <m:mi>x</m:mi>
+                      </m:msqrt>
+                    </m:mfrac>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        </item> <item> <label> Daar is nie meer 'n wortelvorm in die deler nie. </label>
+        <para id="id264815">Die wortelvorm is uitgedruk in die noemer, wat die verkose manier is om wortelvorme te skryf. (Dit is hoekom noemers nie gerasionaliseer word nie.)</para>
+        <equation id="id264820">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd/>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:mrow>
+                      <m:mn>5</m:mn>
+                      <m:mi>x</m:mi>
+                      <m:msqrt>
+                        <m:mi>x</m:mi>
+                      </m:msqrt>
+                      <m:mo>-</m:mo>
+                      <m:mn>16</m:mn>
+                      <m:msqrt>
+                        <m:mi>x</m:mi>
+                      </m:msqrt>
+                    </m:mrow>
+                    <m:mi>x</m:mi>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:msqrt>
+                          <m:mi>x</m:mi>
+                        </m:msqrt>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:mn>5</m:mn>
+                        <m:mi>x</m:mi>
+                        <m:mo>-</m:mo>
+                        <m:mn>16</m:mn>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                    </m:mrow>
+                    <m:mi>x</m:mi>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        
+        </item> </list> </solution>
+</exercise>
+<exercise id="secfhsst_id1369"><title>Rasionalisering van die deler</title><problem id="probfhsst_id1370">
+        <para id="id264926">Rasionaliseer die volgende: <m:math overflow="scroll"><m:mfrac><m:mrow><m:mn>5</m:mn><m:mi>x</m:mi><m:mo>-</m:mo><m:mn>16</m:mn></m:mrow><m:mrow><m:msqrt><m:mi>y</m:mi></m:msqrt><m:mo>-</m:mo><m:mn>10</m:mn></m:mrow></m:mfrac></m:math> </para>
+        </problem>
+        <solution id="solfhsst_id1373"> <list id="listfhsst_id1373" list-type="enumerated" number-style="arabic" class="stepwise"><item> <label> Rasionaliseer hierdie deler deur gebruik te maak van 'n slim "1" </label>
+        <equation id="id264977">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mfrac>
+                      <m:mrow>
+                        <m:mn>5</m:mn>
+                        <m:mi>x</m:mi>
+                        <m:mo>-</m:mo>
+                        <m:mn>16</m:mn>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:msqrt>
+                          <m:mi>y</m:mi>
+                        </m:msqrt>
+                        <m:mo>-</m:mo>
+                        <m:mn>10</m:mn>
+                      </m:mrow>
+                    </m:mfrac>
+                    <m:mo>×</m:mo>
+                    <m:mfrac>
+                      <m:mrow>
+                        <m:msqrt>
+                          <m:mi>y</m:mi>
+                        </m:msqrt>
+                        <m:mo>+</m:mo>
+                        <m:mn>10</m:mn>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:msqrt>
+                          <m:mi>y</m:mi>
+                        </m:msqrt>
+                        <m:mo>+</m:mo>
+                        <m:mn>10</m:mn>
+                      </m:mrow>
+                    </m:mfrac>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        </item> <item> <label> Vermenigvuldig die noemers en delers</label>
+        <equation id="id265040">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mfrac>
+                    <m:mrow>
+                      <m:mn>5</m:mn>
+                      <m:mi>x</m:mi>
+                      <m:msqrt>
+                        <m:mi>y</m:mi>
+                      </m:msqrt>
+                      <m:mo>-</m:mo>
+                      <m:mn>16</m:mn>
+                      <m:msqrt>
+                        <m:mi>y</m:mi>
+                      </m:msqrt>
+                      <m:mo>+</m:mo>
+                      <m:mn>50</m:mn>
+                      <m:mi>x</m:mi>
+                      <m:mo>-</m:mo>
+                      <m:mn>160</m:mn>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mi>y</m:mi>
+                      <m:mo>-</m:mo>
+                      <m:mn>100</m:mn>
+                    </m:mrow>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        </item> <item> <label> In hierdie geval is daar geen volgende stap nie </label>
+        <para id="id265097">Al die terme in die noemer is verskillend en kan nie verder vereenvoudig word nie en daar is geen wortelvorme meer in die deler nie. </para>
+        </item> </list> </solution>
+</exercise>
+<exercise id="secfhsst_id1458"><title>Rasionaliseer die deler</title><problem id="probfhsst_id1459">
+        <para id="id265127">Vereenvoudig die volgende: <m:math overflow="scroll"><m:mfrac><m:mrow><m:mi>y</m:mi><m:mo>-</m:mo><m:mn>25</m:mn></m:mrow><m:mrow><m:msqrt><m:mi>y</m:mi></m:msqrt><m:mo>+</m:mo><m:mn>5</m:mn></m:mrow></m:mfrac></m:math> </para>
+        </problem>
+        <solution id="solfhsst_id1462"> <list id="listfhsst_id1462" list-type="enumerated" number-style="arabic" class="stepwise"><item> <label> Vermenigvuldig hierdie vergelykings met 'n slim vorm van "1" wat dit sal rasionaliseer</label>
+        <equation id="id265176">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mfrac>
+                <m:mrow>
+                  <m:mi>y</m:mi>
+                  <m:mo>-</m:mo>
+                  <m:mn>25</m:mn>
+                </m:mrow>
+                <m:mrow>
+                  <m:msqrt>
+                    <m:mi>y</m:mi>
+                  </m:msqrt>
+                  <m:mo>+</m:mo>
+                  <m:mn>5</m:mn>
+                </m:mrow>
+              </m:mfrac>
+              <m:mo>×</m:mo>
+              <m:mfrac>
+                <m:mrow>
+                  <m:msqrt>
+                    <m:mi>y</m:mi>
+                  </m:msqrt>
+                  <m:mo>-</m:mo>
+                  <m:mn>5</m:mn>
+                </m:mrow>
+                <m:mrow>
+                  <m:msqrt>
+                    <m:mi>y</m:mi>
+                  </m:msqrt>
+                  <m:mo>-</m:mo>
+                  <m:mn>5</m:mn>
+                </m:mrow>
+              </m:mfrac>
+            </m:mrow>
+          </m:math>
+        </equation>
+        </item> <item> <label> Vermenigvuldig die noemers en delers</label>
+        <equation id="id265230">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mfrac>
+                    <m:mrow>
+                      <m:mi>y</m:mi>
+                      <m:msqrt>
+                        <m:mi>y</m:mi>
+                      </m:msqrt>
+                      <m:mo>-</m:mo>
+                      <m:mn>25</m:mn>
+                      <m:msqrt>
+                        <m:mi>y</m:mi>
+                      </m:msqrt>
+                      <m:mo>-</m:mo>
+                      <m:mn>5</m:mn>
+                      <m:mi>y</m:mi>
+                      <m:mo>+</m:mo>
+                      <m:mn>125</m:mn>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mi>y</m:mi>
+                      <m:mo>-</m:mo>
+                      <m:mn>25</m:mn>
+                    </m:mrow>
+                  </m:mfrac>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:mrow>
+                      <m:msqrt>
+                        <m:mi>y</m:mi>
+                      </m:msqrt>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:mi>y</m:mi>
+                        <m:mo>-</m:mo>
+                        <m:mn>25</m:mn>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                      <m:mo>-</m:mo>
+                      <m:mn>5</m:mn>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:mi>y</m:mi>
+                        <m:mo>-</m:mo>
+                        <m:mn>25</m:mn>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mi>y</m:mi>
+                      <m:mo>-</m:mo>
+                      <m:mn>25</m:mn>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:mi>y</m:mi>
+                        <m:mo>-</m:mo>
+                        <m:mn>25</m:mn>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:msqrt>
+                          <m:mi>y</m:mi>
+                        </m:msqrt>
+                        <m:mo>-</m:mo>
+                        <m:mn>25</m:mn>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mi>y</m:mi>
+                      <m:mo>-</m:mo>
+                      <m:mn>25</m:mn>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:msqrt>
+                      <m:mi>y</m:mi>
+                    </m:msqrt>
+                    <m:mo>-</m:mo>
+                    <m:mn>25</m:mn>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        
+        </item> </list> </solution>
+</exercise>
+      </section>
+    </section>
+    <section id="cid3"><title>Oefeninge</title><list id="id265425" display="block" list-type="enumerated"><item id="uid21">Brei uit:
+<equation id="id265440"><m:math overflow="scroll" mode="display"><m:mrow><m:mrow><m:mo>(</m:mo><m:msqrt><m:mi>x</m:mi></m:msqrt><m:mo>-</m:mo><m:msqrt><m:mn>2</m:mn></m:msqrt><m:mo>)</m:mo></m:mrow><m:mrow><m:mo>(</m:mo><m:msqrt><m:mi>x</m:mi></m:msqrt><m:mo>+</m:mo><m:msqrt><m:mn>2</m:mn></m:msqrt><m:mo>)</m:mo></m:mrow></m:mrow></m:math></equation></item>
+        <item id="uid22">Rasionaliseer die deler:
+<equation id="id265490"><m:math overflow="scroll" mode="display"><m:mfrac><m:mn>10</m:mn><m:mrow><m:msqrt><m:mi>x</m:mi></m:msqrt><m:mo>-</m:mo><m:mfrac><m:mn>1</m:mn><m:mi>x</m:mi></m:mfrac></m:mrow></m:mfrac></m:math></equation></item>
+        <item id="uid23">Skryf as 'n enkele breuk:
+<equation id="id265528"><m:math overflow="scroll" mode="display"><m:mrow><m:mfrac><m:mn>3</m:mn><m:mrow><m:mn>2</m:mn><m:msqrt><m:mi>x</m:mi></m:msqrt></m:mrow></m:mfrac><m:mo>+</m:mo><m:msqrt><m:mi>x</m:mi></m:msqrt></m:mrow></m:math></equation></item>
+        <item id="uid24">Skryf in die eenvoudigste wortelvorm:
+<table id="id265566" summary=""><tgroup cols="2"><tbody><row><entry>(a) <m:math overflow="scroll"><m:msqrt><m:mn>72</m:mn></m:msqrt></m:math></entry><entry>(b) <m:math overflow="scroll"><m:mrow><m:msqrt><m:mn>45</m:mn></m:msqrt><m:mo>+</m:mo><m:msqrt><m:mn>80</m:mn></m:msqrt></m:mrow></m:math></entry></row><row><entry>(c) <m:math overflow="scroll"><m:mfrac><m:msqrt><m:mn>48</m:mn></m:msqrt><m:msqrt><m:mn>12</m:mn></m:msqrt></m:mfrac></m:math></entry><entry>(d) <m:math overflow="scroll"><m:mfrac><m:mrow><m:msqrt><m:mn>18</m:mn></m:msqrt><m:mo>÷</m:mo><m:msqrt><m:mn>72</m:mn></m:msqrt></m:mrow><m:msqrt><m:mn>8</m:mn></m:msqrt></m:mfrac></m:math></entry></row><row><entry>(e) <m:math overflow="scroll"><m:mfrac><m:mn>4</m:mn><m:mrow><m:mo>(</m:mo><m:msqrt><m:mn>8</m:mn></m:msqrt><m:mo>÷</m:mo><m:msqrt><m:mn>2</m:mn></m:msqrt><m:mo>)</m:mo></m:mrow></m:mfrac></m:math></entry><entry>(f) <m:math overflow="scroll"><m:mfrac><m:mn>16</m:mn><m:mrow><m:mo>(</m:mo><m:msqrt><m:mn>20</m:mn></m:msqrt><m:mo>÷</m:mo><m:msqrt><m:mn>12</m:mn></m:msqrt><m:mo>)</m:mo></m:mrow></m:mfrac></m:math></entry></row></tbody></tgroup></table></item>
+        <item id="uid25">Brei uit en vereenvoudig:
+<equation id="id265729"><m:math overflow="scroll" mode="display"><m:msup><m:mrow><m:mo>(</m:mo><m:mn>2</m:mn><m:mo>+</m:mo><m:msqrt><m:mn>2</m:mn></m:msqrt><m:mo>)</m:mo></m:mrow><m:mn>2</m:mn></m:msup></m:math></equation></item>
+        <item id="uid26">Brei uit en vereenvoudig:
+<equation id="id265768"><m:math overflow="scroll" mode="display"><m:mrow><m:mrow><m:mo>(</m:mo><m:mn>2</m:mn><m:mo>+</m:mo><m:msqrt><m:mn>2</m:mn></m:msqrt><m:mo>)</m:mo></m:mrow><m:mrow><m:mo>(</m:mo><m:mn>1</m:mn><m:mo>+</m:mo><m:msqrt><m:mn>8</m:mn></m:msqrt><m:mo>)</m:mo></m:mrow></m:mrow></m:math></equation></item>
+        <item id="uid27">Brei uit en vereenvoudig:
+<equation id="id265815"><m:math overflow="scroll" mode="display"><m:mrow><m:mrow><m:mo>(</m:mo><m:mn>1</m:mn><m:mo>+</m:mo><m:msqrt><m:mn>3</m:mn></m:msqrt><m:mo>)</m:mo></m:mrow><m:mrow><m:mo>(</m:mo><m:mn>1</m:mn><m:mo>+</m:mo><m:msqrt><m:mn>8</m:mn></m:msqrt><m:mo>+</m:mo><m:msqrt><m:mn>3</m:mn></m:msqrt><m:mo>)</m:mo></m:mrow></m:mrow></m:math></equation></item>
+        <item id="uid28">Rasionaliseer die deler:
+<equation id="id265868"><m:math overflow="scroll" mode="display"><m:mfrac><m:mrow><m:mi>y</m:mi><m:mo>-</m:mo><m:mn>4</m:mn></m:mrow><m:mrow><m:msqrt><m:mi>y</m:mi></m:msqrt><m:mo>-</m:mo><m:mn>2</m:mn></m:mrow></m:mfrac></m:math></equation></item>
+        <item id="uid29">Rasionaliseer die deler:
+<equation id="id265908"><m:math overflow="scroll" mode="display"><m:mfrac><m:mrow><m:mn>2</m:mn><m:mi>x</m:mi><m:mo>-</m:mo><m:mn>20</m:mn></m:mrow><m:mrow><m:msqrt><m:mi>y</m:mi></m:msqrt><m:mo>-</m:mo><m:msqrt><m:mn>10</m:mn></m:msqrt></m:mrow></m:mfrac></m:math></equation></item>
+        <item id="uid30">Bewys, sonder die gebruik van 'n sakrekenaar, dat:
+<equation id="id265950"><m:math overflow="scroll" mode="display"><m:mrow><m:msqrt><m:mfrac><m:mn>8</m:mn><m:mn>3</m:mn></m:mfrac></m:msqrt><m:mo>+</m:mo><m:mn>5</m:mn><m:msqrt><m:mfrac><m:mn>5</m:mn><m:mn>3</m:mn></m:mfrac></m:msqrt><m:mo>-</m:mo><m:msqrt><m:mfrac><m:mn>1</m:mn><m:mn>6</m:mn></m:mfrac></m:msqrt><m:mo>=</m:mo><m:mfrac><m:mn>13</m:mn><m:mn>2</m:mn></m:mfrac><m:msqrt><m:mfrac><m:mn>2</m:mn><m:mn>3</m:mn></m:mfrac></m:msqrt></m:mrow></m:math></equation></item>
+        <item id="uid31">Vereenvoudig, sonder die gebruik van 'n sakrekenaar:
+<equation id="id266017"><m:math overflow="scroll" mode="display"><m:mfrac><m:mrow><m:msqrt><m:mn>98</m:mn></m:msqrt><m:mo>-</m:mo><m:msqrt><m:mn>8</m:mn></m:msqrt></m:mrow><m:msqrt><m:mn>50</m:mn></m:msqrt></m:mfrac></m:math></equation></item>
+        <item id="uid32">Vereenvoudig, sonder die gebruik van 'n sakrekenaar:
+<equation id="id266053"><m:math overflow="scroll" mode="display"><m:mrow><m:msqrt><m:mn>5</m:mn></m:msqrt><m:mrow><m:mo>(</m:mo><m:msqrt><m:mn>45</m:mn></m:msqrt><m:mo>+</m:mo><m:mn>2</m:mn><m:msqrt><m:mn>80</m:mn></m:msqrt><m:mo>)</m:mo></m:mrow></m:mrow></m:math></equation></item>
+        <item id="uid33">Skryf die volgende met 'n rasionale deler:
+<equation id="id266094"><m:math overflow="scroll" mode="display"><m:mfrac><m:mrow><m:msqrt><m:mn>5</m:mn></m:msqrt><m:mo>+</m:mo><m:mn>2</m:mn></m:mrow><m:msqrt><m:mn>5</m:mn></m:msqrt></m:mfrac></m:math></equation></item>
+        <item id="uid34">Vereenvoudig:
+<equation id="id266128"><m:math overflow="scroll" mode="display"><m:mrow><m:msqrt><m:mrow><m:mn>98</m:mn><m:msup><m:mi>x</m:mi><m:mn>6</m:mn></m:msup></m:mrow></m:msqrt><m:mo>+</m:mo><m:msqrt><m:mrow><m:mn>128</m:mn><m:msup><m:mi>x</m:mi><m:mn>6</m:mn></m:msup></m:mrow></m:msqrt></m:mrow></m:math></equation></item>
+        <item id="uid35">Evalueer, sonder die gebruik van 'n sakrekenaar: <m:math overflow="scroll"><m:mrow><m:msup><m:mfenced separators="" open="(" close=")"><m:mn>2</m:mn><m:mo>-</m:mo><m:mstyle scriptlevel="0" displaystyle="true"><m:mfrac><m:msqrt><m:mn>7</m:mn></m:msqrt><m:mn>2</m:mn></m:mfrac></m:mstyle></m:mfenced><m:mstyle scriptlevel="0" displaystyle="false"><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:mstyle></m:msup><m:mspace width="0.222222em"/><m:mo>.</m:mo><m:mspace width="0.222222em"/><m:msup><m:mfenced separators="" open="(" close=")"><m:mn>2</m:mn><m:mo>+</m:mo><m:mstyle scriptlevel="0" displaystyle="true"><m:mfrac><m:msqrt><m:mn>7</m:mn></m:msqrt><m:mn>2</m:mn></m:mfrac></m:mstyle></m:mfenced><m:mstyle scriptlevel="0" displaystyle="false"><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:mstyle></m:msup></m:mrow></m:math></item>
+        <item id="uid36">Die gebruik van 'n sakrekenaar word toegelaat in hierdie vraag. Vereenvoudig volledig en wys alle stappe: <m:math overflow="scroll"><m:mrow><m:msup><m:mn>3</m:mn><m:mrow><m:mo>-</m:mo><m:mstyle scriptlevel="0" displaystyle="false"><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:mstyle></m:mrow></m:msup><m:mfenced separators="" open="[" close="]"><m:msqrt><m:mn>12</m:mn></m:msqrt><m:mo>+</m:mo><m:mroot><m:mrow><m:mo>(</m:mo><m:mn>3</m:mn><m:msqrt><m:mn>3</m:mn></m:msqrt><m:mo>)</m:mo></m:mrow><m:mn>3</m:mn></m:mroot></m:mfenced></m:mrow></m:math></item>
+        <item id="uid37">Vul in die ontbrekende wortelvormgetal wat die volgende vergelyking waar sal maak: <m:math overflow="scroll"><m:mrow><m:mo>-</m:mo><m:mn>3</m:mn><m:msqrt><m:mn>6</m:mn></m:msqrt><m:mo>×</m:mo><m:mo>-</m:mo><m:mn>2</m:mn><m:msqrt><m:mn>24</m:mn></m:msqrt><m:mo>=</m:mo><m:mo>-</m:mo><m:msqrt><m:mn>18</m:mn></m:msqrt><m:mo>×</m:mo><m:mo>.</m:mo><m:mo>.</m:mo><m:mo>.</m:mo><m:mo>.</m:mo><m:mo>.</m:mo><m:mo>.</m:mo><m:mo>.</m:mo><m:mo>.</m:mo><m:mo>.</m:mo><m:mo>.</m:mo><m:mo>.</m:mo></m:mrow></m:math></item>
+      </list>
+    </section>
+  </content>
+</document>

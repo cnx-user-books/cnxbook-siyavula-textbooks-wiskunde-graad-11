@@ -1,0 +1,655 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Foutgrense</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m38241</md:content-id>
+  <md:title>Foutgrense</md:title>
+  <md:abstract/>
+  <md:uuid>28b12684-8194-47b4-8753-0376c8694973</md:uuid>
+</metadata>
+
+<content>
+    <section id="cid1"><title>Foutgrense - Graad 11</title><para id="id227414">Ons het gesien dat getalle rasionaal of irrasionaal kan wees en ons het gesien hoe om getalle af te rond. In 'n berekening wat meer as een stap het, is dit beter om die afronding in die heel laaste stap te doen.</para>
+      <para id="id227420">By voorbeeld, as jy gevra word om 
+<m:math overflow="scroll"><m:mrow><m:mn>3</m:mn><m:msqrt><m:mn>3</m:mn></m:msqrt><m:mo>+</m:mo><m:msqrt><m:mn>12</m:mn></m:msqrt></m:mrow></m:math>
+te skryf as 'n desimale getal afgerond tot twee desimale plekke, is daar twee maniere om dit te doen.</para>
+      <para id="id227780"><emphasis effect="bold">Metode 1</emphasis>
+      </para>
+      <equation id="id227787">
+        <m:math overflow="scroll" mode="display">
+          <m:mtable displaystyle="true">
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mrow>
+                  <m:mn>3</m:mn>
+                  <m:msqrt>
+                    <m:mn>3</m:mn>
+                  </m:msqrt>
+                  <m:mo>+</m:mo>
+                  <m:msqrt>
+                    <m:mn>12</m:mn>
+                  </m:msqrt>
+                </m:mrow>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mn>3</m:mn>
+                  <m:msqrt>
+                    <m:mn>3</m:mn>
+                  </m:msqrt>
+                  <m:mo>+</m:mo>
+                  <m:msqrt>
+                    <m:mrow>
+                      <m:mn>4</m:mn>
+                      <m:mo>·</m:mo>
+                      <m:mn>3</m:mn>
+                    </m:mrow>
+                  </m:msqrt>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mn>3</m:mn>
+                  <m:msqrt>
+                    <m:mn>3</m:mn>
+                  </m:msqrt>
+                  <m:mo>+</m:mo>
+                  <m:mn>2</m:mn>
+                  <m:msqrt>
+                    <m:mn>3</m:mn>
+                  </m:msqrt>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mn>5</m:mn>
+                  <m:msqrt>
+                    <m:mn>3</m:mn>
+                  </m:msqrt>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mn>5</m:mn>
+                  <m:mo>×</m:mo>
+                  <m:mn>1</m:mn>
+                  <m:mo>,</m:mo>
+                  <m:mn>732050808</m:mn>
+                  <m:mo>...</m:mo>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mn>8</m:mn>
+                  <m:mo>,</m:mo>
+                  <m:mn>660254038</m:mn>
+                  <m:mo>...</m:mo>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mn>8</m:mn>
+                  <m:mo>,</m:mo>
+                  <m:mn>66</m:mn>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+          </m:mtable>
+        </m:math>
+      </equation>
+      <para id="id227932"><emphasis effect="bold">Metode 2</emphasis>
+      </para>
+      <equation id="id227938">
+        <m:math overflow="scroll" mode="display">
+          <m:mtable displaystyle="true">
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mrow>
+                  <m:mn>3</m:mn>
+                  <m:msqrt>
+                    <m:mn>3</m:mn>
+                  </m:msqrt>
+                  <m:mo>+</m:mo>
+                  <m:msqrt>
+                    <m:mn>12</m:mn>
+                  </m:msqrt>
+                </m:mrow>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mn>3</m:mn>
+                  <m:mo>×</m:mo>
+                  <m:mn>1</m:mn>
+                  <m:mo>,</m:mo>
+                  <m:mn>73</m:mn>
+                  <m:mo>+</m:mo>
+                  <m:mn>3</m:mn>
+                  <m:mo>,</m:mo>
+                  <m:mn>46</m:mn>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mn>5</m:mn>
+                  <m:mo>,</m:mo>
+                  <m:mn>19</m:mn>
+                  <m:mo>+</m:mo>
+                  <m:mn>3</m:mn>
+                  <m:mo>,</m:mo>
+                  <m:mn>46</m:mn>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mn>8</m:mn>
+                  <m:mo>,</m:mo>
+                  <m:mn>65</m:mn>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+          </m:mtable>
+        </m:math>
+      </equation>
+      <para id="id228031">In hierdie voorbeeld sien ons dat Metode 1 die antwoord gee as 8,66 terwyl Metode 2 die antwoord gee as 8,65. Die antwoord van Metode 1 is meer akkuraat want die uitdrukking is so ver as moontlik vereenvoudig voordat die antwoord afgerond is.
+</para>
+      <para id="id228037">In die algemeen is dit beter om 'n uitdrukking sover as moontlik te vereenvoduig voordat jy jou sakrekenaar gebruik om die antwoord in desimale vorm te gee.
+</para>
+<note id="notfhsst_id257" type="tip">Vereenvoudiging en Akkuraatheid</note>
+      <para id="id228046">Dit is nodig om alle uitdrukkings sover as moontlik te vereenvoudig voordat antwoorde afgerond word. Dit het 'n invloed op die akkuraatheid van jou antwoord.
+</para>
+<exercise id="secfhsst_id259"><title>Vereenvoudiging en Akkuraatheid</title><problem id="probfhsst_id260">
+      <para id="id228063">Bereken <m:math overflow="scroll"><m:mrow><m:mroot><m:mn>54</m:mn><m:mn>3</m:mn></m:mroot><m:mo>+</m:mo><m:mroot><m:mn>16</m:mn><m:mn>3</m:mn></m:mroot></m:mrow></m:math>. Gee die antwoord korrek tot drie desimale plekke. </para>
+      </problem>
+      <solution id="solfhsst_id263"> <list id="listfhsst_id263" list-type="enumerated" number-style="arabic" class="stepwise"><item> <label> Vereenvoudig die uitdrukking </label>
+      <equation id="id228107">
+        <m:math overflow="scroll" mode="display">
+          <m:mtable displaystyle="true">
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mrow>
+                  <m:mroot>
+                    <m:mn>54</m:mn>
+                    <m:mn>3</m:mn>
+                  </m:mroot>
+                  <m:mo>+</m:mo>
+                  <m:mroot>
+                    <m:mn>16</m:mn>
+                    <m:mn>3</m:mn>
+                  </m:mroot>
+                </m:mrow>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mroot>
+                    <m:mrow>
+                      <m:mn>27</m:mn>
+                      <m:mo>·</m:mo>
+                      <m:mn>2</m:mn>
+                    </m:mrow>
+                    <m:mn>3</m:mn>
+                  </m:mroot>
+                  <m:mo>+</m:mo>
+                  <m:mroot>
+                    <m:mrow>
+                      <m:mn>8</m:mn>
+                      <m:mo>·</m:mo>
+                      <m:mn>2</m:mn>
+                    </m:mrow>
+                    <m:mn>3</m:mn>
+                  </m:mroot>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mroot>
+                    <m:mn>27</m:mn>
+                    <m:mn>3</m:mn>
+                  </m:mroot>
+                  <m:mo>·</m:mo>
+                  <m:mroot>
+                    <m:mn>2</m:mn>
+                    <m:mn>3</m:mn>
+                  </m:mroot>
+                  <m:mo>+</m:mo>
+                  <m:mroot>
+                    <m:mn>8</m:mn>
+                    <m:mn>3</m:mn>
+                  </m:mroot>
+                  <m:mo>·</m:mo>
+                  <m:mroot>
+                    <m:mn>2</m:mn>
+                    <m:mn>3</m:mn>
+                  </m:mroot>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mn>3</m:mn>
+                  <m:mroot>
+                    <m:mn>2</m:mn>
+                    <m:mn>3</m:mn>
+                  </m:mroot>
+                  <m:mo>+</m:mo>
+                  <m:mn>2</m:mn>
+                  <m:mroot>
+                    <m:mn>2</m:mn>
+                    <m:mn>3</m:mn>
+                  </m:mroot>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mn>5</m:mn>
+                  <m:mroot>
+                    <m:mn>2</m:mn>
+                    <m:mn>3</m:mn>
+                  </m:mroot>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+          </m:mtable>
+        </m:math>
+      </equation>
+      </item> <item> <label> Herskryf enige irrasionale getalle as desimale getalle </label>
+      <equation id="id228263">
+        <m:math overflow="scroll" mode="display">
+          <m:mtable displaystyle="true">
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mrow>
+                  <m:mn>5</m:mn>
+                  <m:mroot>
+                    <m:mn>2</m:mn>
+                    <m:mn>3</m:mn>
+                  </m:mroot>
+                </m:mrow>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mn>5</m:mn>
+                  <m:mo>×</m:mo>
+                  <m:mn>1</m:mn>
+                  <m:mo>,</m:mo>
+                  <m:mn>25992105</m:mn>
+                  <m:mo>...</m:mo>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mn>6</m:mn>
+                  <m:mo>,</m:mo>
+                  <m:mn>299605249</m:mn>
+                  <m:mo>...</m:mo>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mn>6</m:mn>
+                  <m:mo>,</m:mo>
+                  <m:mn>300</m:mn>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+          </m:mtable>
+        </m:math>
+      </equation>
+      </item> <item> <label> Skryf die finale antwoord tot die gevraagde aantal desimale plekke. </label>
+      <equation id="id228346">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mn>6</m:mn>
+            <m:mo>,</m:mo>
+            <m:mn>299605249</m:mn>
+            <m:mo>...</m:mo>
+            <m:mo>=</m:mo>
+            <m:mn>6</m:mn>
+            <m:mo>,</m:mo>
+            <m:mn>300</m:mn>
+            <m:mspace width="1.em"/>
+            <m:mrow>
+              <m:mi> tot </m:mi>
+              <m:mi> drie </m:mi>
+              <m:mi> desimal </m:mi>
+              <m:mi> plekke </m:mi>
+            </m:mrow>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <para id="id228384"><m:math overflow="scroll"><m:mrow><m:mo>∴</m:mo><m:mspace width="1.em"/><m:mroot><m:mn>54</m:mn><m:mn>3</m:mn></m:mroot><m:mo>+</m:mo><m:mroot><m:mn>16</m:mn><m:mn>3</m:mn></m:mroot><m:mo>=</m:mo><m:mn>6</m:mn><m:mo>,</m:mo><m:mn>300</m:mn></m:mrow></m:math> tot drie desimale plekke. </para>
+      </item> </list> </solution>
+</exercise>
+<exercise id="secfhsst_id458"><title>Vereenvoudiging en Akkuraatheid 2</title><problem id="probfhsst_id459">
+      <para id="id228447">Bereken <m:math overflow="scroll"><m:mrow><m:msqrt><m:mrow><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>1</m:mn></m:mrow></m:msqrt><m:mo>+</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>3</m:mn></m:mfrac><m:msqrt><m:mrow><m:mo>(</m:mo><m:mn>2</m:mn><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>2</m:mn><m:mo>)</m:mo><m:mo>-</m:mo><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>1</m:mn><m:mo>)</m:mo></m:mrow></m:msqrt></m:mrow></m:math> as <m:math overflow="scroll"><m:mrow><m:mi>x</m:mi><m:mo>=</m:mo><m:mn>3</m:mn><m:mo>,</m:mo><m:mn>6</m:mn></m:mrow></m:math>. Gee die antwoord korrek tot twee desimale plekke. </para>
+      </problem>
+      <solution id="solfhsst_id462"> <list id="listfhsst_id462" list-type="enumerated" number-style="arabic" class="stepwise"><item> <label> Vereenvoudig die uitdrukking </label>
+      <equation id="id228717">
+        <m:math overflow="scroll" mode="display">
+          <m:mtable displaystyle="true">
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mrow>
+                  <m:msqrt>
+                    <m:mrow>
+                      <m:mi>x</m:mi>
+                      <m:mo>+</m:mo>
+                      <m:mn>1</m:mn>
+                    </m:mrow>
+                  </m:msqrt>
+                  <m:mo>+</m:mo>
+                  <m:mfrac>
+                    <m:mn>1</m:mn>
+                    <m:mn>3</m:mn>
+                  </m:mfrac>
+                  <m:msqrt>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mn>2</m:mn>
+                      <m:mi>x</m:mi>
+                      <m:mo>+</m:mo>
+                      <m:mn>2</m:mn>
+                      <m:mo>)</m:mo>
+                      <m:mo>-</m:mo>
+                      <m:mo>(</m:mo>
+                      <m:mi>x</m:mi>
+                      <m:mo>+</m:mo>
+                      <m:mn>1</m:mn>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                  </m:msqrt>
+                </m:mrow>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:msqrt>
+                    <m:mrow>
+                      <m:mi>x</m:mi>
+                      <m:mo>+</m:mo>
+                      <m:mn>1</m:mn>
+                    </m:mrow>
+                  </m:msqrt>
+                  <m:mo>+</m:mo>
+                  <m:mfrac>
+                    <m:mn>1</m:mn>
+                    <m:mn>3</m:mn>
+                  </m:mfrac>
+                  <m:msqrt>
+                    <m:mrow>
+                      <m:mn>2</m:mn>
+                      <m:mi>x</m:mi>
+                      <m:mo>+</m:mo>
+                      <m:mn>2</m:mn>
+                      <m:mo>-</m:mo>
+                      <m:mi>x</m:mi>
+                      <m:mo>-</m:mo>
+                      <m:mn>1</m:mn>
+                    </m:mrow>
+                  </m:msqrt>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:msqrt>
+                    <m:mrow>
+                      <m:mi>x</m:mi>
+                      <m:mo>+</m:mo>
+                      <m:mn>1</m:mn>
+                    </m:mrow>
+                  </m:msqrt>
+                  <m:mo>+</m:mo>
+                  <m:mfrac>
+                    <m:mn>1</m:mn>
+                    <m:mn>3</m:mn>
+                  </m:mfrac>
+                  <m:msqrt>
+                    <m:mrow>
+                      <m:mi>x</m:mi>
+                      <m:mo>+</m:mo>
+                      <m:mn>1</m:mn>
+                    </m:mrow>
+                  </m:msqrt>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mfrac>
+                    <m:mn>4</m:mn>
+                    <m:mn>3</m:mn>
+                  </m:mfrac>
+                  <m:msqrt>
+                    <m:mrow>
+                      <m:mi>x</m:mi>
+                      <m:mo>+</m:mo>
+                      <m:mn>1</m:mn>
+                    </m:mrow>
+                  </m:msqrt>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+          </m:mtable>
+        </m:math>
+      </equation>
+      </item> <item> <label> Vervang die waarde van <m:math overflow="scroll"><m:mi>x</m:mi></m:math> in die vereenvoudigde uitdrukking </label>
+      <equation id="id228894">
+        <m:math overflow="scroll" mode="display">
+          <m:mtable displaystyle="true">
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mrow>
+                  <m:mfrac>
+                    <m:mn>4</m:mn>
+                    <m:mn>3</m:mn>
+                  </m:mfrac>
+                  <m:msqrt>
+                    <m:mrow>
+                      <m:mi>x</m:mi>
+                      <m:mo>+</m:mo>
+                      <m:mn>1</m:mn>
+                    </m:mrow>
+                  </m:msqrt>
+                </m:mrow>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mfrac>
+                    <m:mn>4</m:mn>
+                    <m:mn>3</m:mn>
+                  </m:mfrac>
+                  <m:msqrt>
+                    <m:mrow>
+                      <m:mn>3</m:mn>
+                      <m:mo>,</m:mo>
+                      <m:mn>6</m:mn>
+                      <m:mo>+</m:mo>
+                      <m:mn>1</m:mn>
+                    </m:mrow>
+                  </m:msqrt>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mfrac>
+                    <m:mn>4</m:mn>
+                    <m:mn>3</m:mn>
+                  </m:mfrac>
+                  <m:msqrt>
+                    <m:mrow>
+                      <m:mn>4</m:mn>
+                      <m:mo>,</m:mo>
+                      <m:mn>6</m:mn>
+                    </m:mrow>
+                  </m:msqrt>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mn>2</m:mn>
+                  <m:mo>,</m:mo>
+                  <m:mn>144761059</m:mn>
+                  <m:mo>...</m:mo>
+                  <m:mo>×</m:mo>
+                  <m:mn>4</m:mn>
+                  <m:mo>÷</m:mo>
+                  <m:mn>3</m:mn>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mn>2</m:mn>
+                  <m:mo>,</m:mo>
+                  <m:mn>859681412</m:mn>
+                  <m:mo>...</m:mo>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+          </m:mtable>
+        </m:math>
+      </equation>
+      </item> <item> <label> Gee die finale antwoord tot die gevraagde aantal desimale plekke </label>
+      <equation id="id229024"><m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mn>2</m:mn>
+            <m:mo>,</m:mo>
+            <m:mn>859681412</m:mn>
+            <m:mo>...</m:mo>
+            <m:mo>=</m:mo>
+            <m:mn>2</m:mn>
+            <m:mo>,</m:mo>
+            <m:mn>86</m:mn>
+            <m:mspace width="1.em"/>
+            <m:mrow>
+              <m:mi> tot twee desimale plekke </m:mi>
+            </m:mrow>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <para id="id229063"><m:math overflow="scroll"><m:mrow><m:mo>∴</m:mo><m:msqrt><m:mrow><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>1</m:mn></m:mrow></m:msqrt><m:mo>+</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>3</m:mn></m:mfrac><m:msqrt><m:mrow><m:mo>(</m:mo><m:mn>2</m:mn><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>2</m:mn><m:mo>)</m:mo><m:mo>-</m:mo><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>1</m:mn><m:mo>)</m:mo></m:mrow></m:msqrt><m:mo>=</m:mo><m:mn>2</m:mn><m:mo>,</m:mo><m:mn>86</m:mn></m:mrow></m:math> (tot twee desimale plekke) as <m:math overflow="scroll"><m:mrow><m:mi>x</m:mi><m:mo>=</m:mo><m:mn>3</m:mn><m:mo>,</m:mo><m:mn>6</m:mn></m:mrow></m:math>. </para>
+      </item> </list> </solution>
+</exercise>
+<section id="secfhsst_id707"><title>Beduidende syfers</title><para id="id229164">In enige getal is elke syfer wat nie nul is nie, 'n beduidende syfer.
+Nulle word slegs getel indien hulle tussen twee nie-nul syfers is of aan die einde van die desimale gedeelte van die getal.
+
+By voorbeeld, die getal 2000 het 1 beduidende syfer (die 2), maar <m:math overflow="scroll"><m:mrow><m:mn>2000</m:mn><m:mo>,</m:mo><m:mn>0</m:mn></m:mrow></m:math> het 5 beduidende syfers. Skatting van 'n getal word gedoen deur die beduidende syfers uit jou getal (begin by syfer aan regterkant) te verwyder totdat jy die verlangde aantal beduidende syfers het. Rond af soos jy voortgaan. By voorbeeld <m:math overflow="scroll"><m:mrow><m:mn>6</m:mn><m:mo>,</m:mo><m:mn>827</m:mn></m:mrow></m:math> het 4 beduidende syfers, maar as jy dit wil skryf as 'n getal met 3 beduidende syfers, beteken dit dat jy die 7 moet verwyder en oprond, so dit word <m:math overflow="scroll"><m:mrow><m:mn>6</m:mn><m:mo>,</m:mo><m:mn>83</m:mn></m:mrow></m:math>. Dit is belangrik om te weet wanneer om 'n getal te benader en wanneer nie. Dit is gewoonlik goeie praktyk om slegs getalle te benader wanneer dit absoluut noodsaaklik is, en liewer simbole te gebruik om sekere irrasionale getalle voor te stel (byvoorbeeld <m:math overflow="scroll"><m:mi>π</m:mi></m:math>). Benadering gebeur eers aan die einde van die berekening.  As dit nodig is om 'n getal in die middel van 'n berekening te benader, is dit dikwels goed genoeg om te benader tot 'n aantal desimale plekke.
+</para>
+</section>
+    </section>
+  </content>
+</document>

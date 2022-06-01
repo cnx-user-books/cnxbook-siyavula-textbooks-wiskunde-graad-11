@@ -1,0 +1,1327 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Nominale en effektiewe rentekoerse</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m39145</md:content-id>
+  <md:title>Nominale en effektiewe rentekoerse</md:title>
+  <md:abstract/>
+  <md:uuid>6d63c9d8-b4eb-4d53-a655-de91d85bcd45</md:uuid>
+</metadata>
+
+<content>
+    <section id="cid9">
+      <title>Nominale en Effektiewe Rentekoers</title>
+      <para id="id346114">So ver het ons die jaarlikse rentekoerse bespreek, waar die rente aangehaal word as 'n per jaar bedrag.  Hoewel dit nie uitdruklik vermeld was nie, het ons aanvaar dat die rente aangehaal word op 'n jaarlikse basis.  Dit bedoel dat die rente betaal word een keer per jaar.</para>
+      <para id="id346119">Rente mag meer as een keer per jaar betaal word, byvoorbeeld, ons kan rente ontvang op 'n maandlikse basis, d.w.z. 12 keer per jaar.  Nou, hoe vergelyk ons maandlikse rentkoers met jaarlikse rentekoers?  Dit bring vir ons nader aan die konsep van effektiewe jaarlikse rentkoers.</para>
+      <para id="id346125">Een manier om verskillende tariewe en metodes van rente betaling te vergelky sou wees om die Eindsaldo's onder die verskillende opsies te vergelyk, vir 'n gegewe Openingsbalans.  'n Ander, meer algemeen manier is om die "effektiewe jaarlikse rentekoers" te bereken en vergelyk op elke opsie.  Op hierdie manier, ongeag van die verskille in hoe die rente betaal word, kan ons apples met apples vergelyk.</para>
+      <para id="id346135">Byvoorbeeld, 'n spaarrekening met 'n opening saldo van R1000.00 bied 'n saamgestelde rentekoers van 1% per maand wat aan die einde van elke maand betaal word.  Ons kan die opgehoopte balans bereken aan die einde van die jaar met die gebruik van die formules van die vorige afdeling.  Maar wees versigtig, want ons rentekoers is gegee as 'n maandlikse koers, so ons moet dieselfde eenhede (in maande) vir ons tydperk van meting gebruik.</para>
+<note id="notfhsst_id2164" type="tip">Onthou, die wenk om die formule te gebruik is om die tydperk te omskryf, en die rentekoers wat relevant is vir die tydperk te gebruik. </note>
+      <para id="id346151">So ons kan die bedrag wat opgehoop sal word aan die einde van jaar een bereken soos volg:</para>
+      <equation id="id346155"><m:math overflow="scroll" mode="display">
+          <m:mtable displaystyle="true">
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mrow>
+                  <m:mi> Eindosaldo na</m:mi><m:mspace width="3pt"/>                  <m:mn>12</m:mn><m:mspace width="3pt"/>
+                  <m:mi> maande</m:mi>
+                </m:mrow>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mi>P</m:mi>
+                  <m:mo>×</m:mo>
+                  <m:msup>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mn>1</m:mn>
+                      <m:mo>+</m:mo>
+                      <m:mi>i</m:mi>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:mi>n</m:mi>
+                  </m:msup>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mi mathvariant="normal">R</m:mi>
+                  <m:mn>1</m:mn>
+                  <m:mspace width="3.33333pt"/>
+                  <m:mn>000</m:mn>
+                  <m:mo>×</m:mo>
+                  <m:msup>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mn>1</m:mn>
+                      <m:mo>+</m:mo>
+                      <m:mn>1</m:mn>
+                      <m:mo>%</m:mo>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:mn>12</m:mn>
+                  </m:msup>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mi mathvariant="normal">R</m:mi>
+                  <m:mn>1</m:mn>
+                  <m:mspace width="3.33333pt"/>
+                  <m:mn>126</m:mn>
+                  <m:mo>,</m:mo>
+                  <m:mn>83</m:mn>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+          </m:mtable>
+        </m:math>
+      </equation>
+      <para id="id346283">Letop, omdat ons 'n maandlikse tydperk gebruik, het ons gebruik <m:math overflow="scroll"><m:mi>n</m:mi></m:math> = 12 maande om die balans aan die einde van een jaar te bereken.</para>
+      <para id="id346299">Die effetiewe jaarlikse rentkoers is 'n jaarlikse rentekoers wat die ekwivalent per-jaar-rentekoers aanvaar saamgestelde</para>
+      <para id="id346304">Dit is die jaarlikse rentekoers in ons Saamgestelde Rente vergelyking wat gelykstaan aan dieselfde opgehoopte balans na een jaar.  Ons moet dus die effektiewe jaarlikse rentekoers op los sodat die opgehoopte balans gelyk is aan ons berekende bedrag van R1 126,83.</para>
+      <para id="id346309">Ons gebruik <m:math overflow="scroll"><m:msub><m:mi>i</m:mi><m:mn>12</m:mn></m:msub></m:math> om die maandlikse rentekoers aan te dui. Ons het hierdie notasie hier om te onderskei tussen die jaarlikse rentekoers, <m:math overflow="scroll"><m:mi>i</m:mi></m:math>. Spesifiek, moet ons vir <m:math overflow="scroll"><m:mi>i</m:mi></m:math> oplos in die volgende vergelyking:</para>
+      <equation id="id346346"><m:math overflow="scroll" mode="display">
+          <m:mtable displaystyle="true">
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mrow>
+                  <m:mi>P</m:mi>
+                  <m:mo>×</m:mo>
+                  <m:msup>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mn>1</m:mn>
+                      <m:mo>+</m:mo>
+                      <m:mi>i</m:mi>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:mn>1</m:mn>
+                  </m:msup>
+                </m:mrow>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mi>P</m:mi>
+                  <m:mo>×</m:mo>
+                  <m:msup>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mn>1</m:mn>
+                      <m:mo>+</m:mo>
+                      <m:msub>
+                        <m:mi>i</m:mi>
+                        <m:mn>12</m:mn>
+                      </m:msub>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:mn>12</m:mn>
+                  </m:msup>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mrow>
+                  <m:mo>(</m:mo>
+                  <m:mn>1</m:mn>
+                  <m:mo>+</m:mo>
+                  <m:mi>i</m:mi>
+                  <m:mo>)</m:mo>
+                </m:mrow>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:msup>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mn>1</m:mn>
+                      <m:mo>+</m:mo>
+                      <m:msub>
+                        <m:mi>i</m:mi>
+                        <m:mn>12</m:mn>
+                      </m:msub>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:mn>12</m:mn>
+                  </m:msup><m:mspace width="2em"/>
+                  <m:mrow>
+                    <m:mi> deel beide kante met P</m:mi>
+                  </m:mrow>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mi>i</m:mi>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:msup>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mn>1</m:mn>
+                      <m:mo>+</m:mo>
+                      <m:msub>
+                        <m:mi>i</m:mi>
+                        <m:mn>12</m:mn>
+                      </m:msub>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:mn>12</m:mn>
+                  </m:msup>
+                  <m:mo>-</m:mo>
+                  <m:mn>1</m:mn><m:mspace width="2em"/>
+                  <m:mrow>
+                    <m:mi> trek af</m:mi><m:mspace width="3pt"/>
+                    <m:mn>1</m:mn><m:mspace width="3pt"/>
+                    <m:mi> van beide kante</m:mi>
+                  </m:mrow>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+          </m:mtable>
+        </m:math>
+      </equation>
+      <para id="id346533">Byvoorbeeld, dit beteken dat die effektiewe jaarlikse koers vir 'n maandelikse tarief <m:math overflow="scroll"><m:mrow><m:msub><m:mi>i</m:mi><m:mn>12</m:mn></m:msub><m:mo>=</m:mo><m:mn>1</m:mn><m:mo>%</m:mo></m:mrow></m:math> is:</para>
+      <equation id="id346559">
+        <m:math overflow="scroll" mode="display">
+          <m:mtable displaystyle="true">
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mi>i</m:mi>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:msup>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mn>1</m:mn>
+                      <m:mo>+</m:mo>
+                      <m:msub>
+                        <m:mi>i</m:mi>
+                        <m:mn>12</m:mn>
+                      </m:msub>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:mn>12</m:mn>
+                  </m:msup>
+                  <m:mo>-</m:mo>
+                  <m:mn>1</m:mn>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:msup>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mn>1</m:mn>
+                      <m:mo>+</m:mo>
+                      <m:mn>1</m:mn>
+                      <m:mo>%</m:mo>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:mn>12</m:mn>
+                  </m:msup>
+                  <m:mo>-</m:mo>
+                  <m:mn>1</m:mn>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mn>0</m:mn>
+                  <m:mo>,</m:mo>
+                  <m:mn>12683</m:mn>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mn>12</m:mn>
+                  <m:mo>,</m:mo>
+                  <m:mn>683</m:mn>
+                  <m:mo>%</m:mo>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+          </m:mtable>
+        </m:math>
+      </equation>
+      <para id="id346679">As ons die eindsaldo herbereken met die gebruik van hierdie jaarlikse koers kry ons:</para>
+      <equation id="id346683"><m:math overflow="scroll" mode="display">
+          <m:mtable displaystyle="true">
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mrow>
+                  <m:mi> Eindsaldo na</m:mi><m:mspace width="3pt"/>
+                  <m:mn>1</m:mn><m:mspace width="3pt"/>
+                  <m:mi> jaar</m:mi>
+                </m:mrow>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mi>P</m:mi>
+                  <m:mo>×</m:mo>
+                  <m:msup>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mn>1</m:mn>
+                      <m:mo>+</m:mo>
+                      <m:mi>i</m:mi>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:mi>n</m:mi>
+                  </m:msup>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mi mathvariant="normal">R</m:mi>
+                  <m:mn>1</m:mn>
+                  <m:mspace width="3.33333pt"/>
+                  <m:mn>000</m:mn>
+                  <m:mo>×</m:mo>
+                  <m:msup>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mn>1</m:mn>
+                      <m:mo>+</m:mo>
+                      <m:mn>12</m:mn>
+                      <m:mo>,</m:mo>
+                      <m:mn>683</m:mn>
+                      <m:mo>%</m:mo>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:mn>1</m:mn>
+                  </m:msup>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mi mathvariant="normal">R</m:mi>
+                  <m:mn>1</m:mn>
+                  <m:mspace width="3.33333pt"/>
+                  <m:mn>126</m:mn>
+                  <m:mo>,</m:mo>
+                  <m:mn>83</m:mn>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+          </m:mtable>
+        </m:math>
+      </equation>
+      <para id="id346815">en dit is dieselfde antwoord wat ons kry vir 12 maande.</para>
+      <para id="id346821">Letop dat dit meer grooter is as waneer jy net maandlikse bedrag met 12 maal (<m:math overflow="scroll"><m:mrow><m:mn>12</m:mn><m:mo>×</m:mo><m:mn>1</m:mn><m:mo>%</m:mo><m:mo>=</m:mo><m:mn>12</m:mn><m:mo>%</m:mo></m:mrow></m:math>) as gevolg van die effek van saamestelling. Die verskil is te wyte aan rente op rente. Ons het dit al gesien, maar dit is 'n belangrik.</para>
+      <section id="uid29">
+        <title>Die Algemene Formule</title>
+        <para id="id346858">So ons weet hoe om 'n maandlikse rentekoers omteskep in 'n effektiewe jaarlikse rente.  Net so kan ons 'n kwartaallikse belangstelling, of 'n semi-jaarlikse rentekoers of 'n rentkoers van enige frekwensie omteskep in 'n effektiewe jaarlikse rentkoers.</para>
+        <para id="id346864">Vir 'n kwartaallikse rentekoers van ongeveer 3% perkwartaal, sal die rente betaal word vier keer per jaar (elke drie maande). Ons kan die effetiewe jaarlikse rentekoers bereken deur die oplos van <m:math overflow="scroll"><m:mi>i</m:mi></m:math>:
+</para>
+        <equation id="id346878">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mi>P</m:mi>
+              <m:mrow>
+                <m:mo>(</m:mo>
+                <m:mn>1</m:mn>
+                <m:mo>+</m:mo>
+                <m:mi>i</m:mi>
+                <m:mo>)</m:mo>
+              </m:mrow>
+              <m:mo>=</m:mo>
+              <m:mi>P</m:mi>
+              <m:msup>
+                <m:mrow>
+                  <m:mo>(</m:mo>
+                  <m:mn>1</m:mn>
+                  <m:mo>+</m:mo>
+                  <m:msub>
+                    <m:mi>i</m:mi>
+                    <m:mn>4</m:mn>
+                  </m:msub>
+                  <m:mo>)</m:mo>
+                </m:mrow>
+                <m:mn>4</m:mn>
+              </m:msup>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id346928">waar <m:math overflow="scroll"><m:msub><m:mi>i</m:mi><m:mn>4</m:mn></m:msub></m:math> die kwartaallikse rentekoers is.</para>
+        <para id="id346946">So
+<m:math overflow="scroll"><m:mrow><m:mrow><m:mo>(</m:mo><m:mn>1</m:mn><m:mo>+</m:mo><m:mi>i</m:mi><m:mo>)</m:mo></m:mrow><m:mo>=</m:mo><m:msup><m:mrow><m:mo>(</m:mo><m:mn>1</m:mn><m:mo>,</m:mo><m:mn>03</m:mn><m:mo>)</m:mo></m:mrow><m:mn>4</m:mn></m:msup></m:mrow></m:math> , en so <m:math overflow="scroll"><m:mrow><m:mi>i</m:mi><m:mo>=</m:mo><m:mn>12</m:mn><m:mo>,</m:mo><m:mn>55</m:mn><m:mo>%</m:mo></m:mrow></m:math>. Dit is die effektiewe jaarlikse rentkoers.</para>
+        <para id="id347009">In die algemeen, vir rente betaal teen 'n frekwensie van <m:math overflow="scroll"><m:mi>T</m:mi></m:math> keer per jaar, hou die volgende vergelyking:</para>
+        <equation id="uid30">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mi>P</m:mi>
+              <m:mrow>
+                <m:mo>(</m:mo>
+                <m:mn>1</m:mn>
+                <m:mo>+</m:mo>
+                <m:mi>i</m:mi>
+                <m:mo>)</m:mo>
+              </m:mrow>
+              <m:mo>=</m:mo>
+              <m:mi>P</m:mi>
+              <m:msup>
+                <m:mrow>
+                  <m:mo>(</m:mo>
+                  <m:mn>1</m:mn>
+                  <m:mo>+</m:mo>
+                  <m:msub>
+                    <m:mi>i</m:mi>
+                    <m:mi>T</m:mi>
+                  </m:msub>
+                  <m:mo>)</m:mo>
+                </m:mrow>
+                <m:mi>T</m:mi>
+              </m:msup>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id347076">waar<m:math overflow="scroll"><m:msub><m:mi>i</m:mi><m:mi>T</m:mi></m:msub></m:math> is die betaalde rentkoers <m:math overflow="scroll"><m:mi>T</m:mi></m:math> keer per jaar.</para>
+      </section>
+      <section id="uid31">
+        <title>De-kodering van die Terminologie</title>
+        <para id="id347114">Mark konvensie is egter nie om die rentekoers te stel as sê 1% per maand, meer eerder om hierdie bedrag uit te druk as 'n jaarlikse bedrag wat in hierdie voorbeeld sal maandliks betaal word.  Hierdie jaarlikse bedrag word aan die nominale bedrag genoem.</para>
+        <para id="id347119">Die mark-ooreenkoms is 'n nominale rentkoers van "12% per jaar wat maandeliks betaal word" in plaas van te sê ('n effektiewe) 1% per maand aan te haal. Ons weet van die voorige voorbeeld, dat 'n nominale rentkoers van 12% per jaar maandeliks betaal gelykstaande aan 'n effektiewe jaarlikse rentkoers van 12,68%, en die verskil is as gevolg van die rente-op-rente.</para>
+        <para id="id347129">So as jy 'n rentekoers uitdruk as 'n jaarlikse koers, maar meer dikwels as jaarlikse betaal, moet ons eers die werklike rente betaal per periode te bereken om die ffektiewe jaarlikse rentekoers te bereken.</para>
+        <equation id="uid32"><m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mrow>
+                <m:mi> maandelikse rentekoers</m:mi>
+              </m:mrow>
+              <m:mo>=</m:mo>
+              <m:mfrac>
+                <m:mrow>
+                  <m:mi> Nominale rentekoers per jaar</m:mi>
+                </m:mrow>
+                <m:mrow>
+                  <m:mi> aantal periodes per jaar</m:mi>
+                </m:mrow>
+              </m:mfrac>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id347186">Byvoorbeeld, die maandelikse rente-koers op 12% rente per jaar wat maandeliks betaal word, is:</para>
+        <equation id="id347190"><m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mi> maandelikse rentekoers</m:mi>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:mrow>
+                      <m:mi> Nominale rentekoers per jaar</m:mi>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mi> aantal periodes per jaar</m:mi>
+                    </m:mrow>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:mrow>
+                      <m:mn>12</m:mn>
+                      <m:mo>%</m:mo>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mn>12</m:mn>
+                      <m:mspace width="3.33333pt"/>
+                      <m:mi> maande</m:mi>
+                    </m:mrow>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>1</m:mn>
+                    <m:mo>%</m:mo>
+                    <m:mspace width="3.33333pt"/>
+                    <m:mrow>
+                      <m:mi> per maand</m:mi>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <para id="id347298">Dieselfde beginsel is van toepassing op ander frekwensies van betaling.</para>
+<exercise id="secfhsst_id2708"><title>Nominale Rentekoers</title><problem id="probfhsst_id2709">
+        <para id="id347317">Dink aan 'n spaarrekening wat 'n nominale rente teen 8% per jaarbetaal, kwartaalliks betaal. Bereken (a) die rente bedrag wat elke kwartaal betaal word, en (b) die effektiewe jaarlikse rentekoers.</para>
+        </problem>
+        <solution id="solfhsst_id2712"> <list id="listfhsst_id2712" list-type="enumerated" number-style="arabic" class="stepwise"><item> <label> Bepaal wat gegee word en wat vereis word </label>
+        <para id="id347342">Ons is gegee dat 'n spaarrekening 'n nominale rentekoers van 8% per kwartaal het. Ons is verplig om uit te vind:</para>
+        <list id="id347346" display="block" list-type="bulleted">
+          <item id="uid33">die kwartaallikse rentekoers, <m:math overflow="scroll"><m:msub><m:mi>i</m:mi><m:mn>4</m:mn></m:msub></m:math></item>
+          <item id="uid34">die effektiewe jaarlikse rentekoers, <m:math overflow="scroll"><m:mi>i</m:mi></m:math></item>
+        </list>
+        </item> <item> <label> Bepaal hoe om die probleem te benader </label>
+        <para id="id347401">Ons weet dat:</para>
+        <equation id="id347404"><m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mrow>
+                <m:mi> kwartlikse rente-koers </m:mi>
+              </m:mrow>
+              <m:mo>=</m:mo>
+              <m:mfrac>
+                <m:mrow>
+                  <m:mi> Nominale rente-koers per jaar </m:mi>
+                </m:mrow>
+                <m:mrow>
+                  <m:mi> aantel kwartale per jaar</m:mi>
+                </m:mrow>
+              </m:mfrac>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id347452">en</para>
+        <equation id="id347457">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mi>P</m:mi>
+              <m:mrow>
+                <m:mo>(</m:mo>
+                <m:mn>1</m:mn>
+                <m:mo>+</m:mo>
+                <m:mi>i</m:mi>
+                <m:mo>)</m:mo>
+              </m:mrow>
+              <m:mo>=</m:mo>
+              <m:mi>P</m:mi>
+              <m:msup>
+                <m:mrow>
+                  <m:mo>(</m:mo>
+                  <m:mn>1</m:mn>
+                  <m:mo>+</m:mo>
+                  <m:msub>
+                    <m:mi>i</m:mi>
+                    <m:mi>T</m:mi>
+                  </m:msub>
+                  <m:mo>)</m:mo>
+                </m:mrow>
+                <m:mi>T</m:mi>
+              </m:msup>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id347508">waar <m:math overflow="scroll"><m:mi>T</m:mi></m:math> 4 is omdat daar 4 betalings is elke jaar.</para>
+        </item> <item> <label> Bereken die maandelikse rentekoers </label>
+        <equation id="id347527"><m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mi> kwartaallikse rente koers</m:mi>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:mrow>
+                      <m:mi> Nominale rentekoers per jaar</m:mi>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mi> aantal periodes per jaar</m:mi>
+                    </m:mrow>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:mrow>
+                      <m:mn>8</m:mn>
+                      <m:mo>%</m:mo>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mn>4</m:mn>
+                      <m:mspace width="3.33333pt"/>
+                      <m:mi> kwartale</m:mi>
+                    </m:mrow>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>2</m:mn>
+                    <m:mo>%</m:mo>
+                    <m:mspace width="3.33333pt"/>
+                    <m:mrow>
+                      <m:mi> per kwartaal</m:mi>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        </item> <item> <label> Bereken die effektiewe jaarlikse rente-koers </label>
+        <para id="id347638">Die effektiewe jaarlikse rente-koers (<m:math overflow="scroll"><m:mi>i</m:mi></m:math>) word bereken as:</para>
+        <equation id="id347651">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mo>(</m:mo>
+                    <m:mn>1</m:mn>
+                    <m:mo>+</m:mo>
+                    <m:mi>i</m:mi>
+                    <m:mo>)</m:mo>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:msup>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mn>1</m:mn>
+                      <m:mo>+</m:mo>
+                      <m:msub>
+                        <m:mi>i</m:mi>
+                        <m:mn>4</m:mn>
+                      </m:msub>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:mn>4</m:mn>
+                  </m:msup>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mo>(</m:mo>
+                    <m:mn>1</m:mn>
+                    <m:mo>+</m:mo>
+                    <m:mi>i</m:mi>
+                    <m:mo>)</m:mo>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:msup>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mn>1</m:mn>
+                      <m:mo>+</m:mo>
+                      <m:mn>2</m:mn>
+                      <m:mo>%</m:mo>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:mn>4</m:mn>
+                  </m:msup>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mi>i</m:mi>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:msup>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:mn>1</m:mn>
+                        <m:mo>+</m:mo>
+                        <m:mn>2</m:mn>
+                        <m:mo>%</m:mo>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                      <m:mn>4</m:mn>
+                    </m:msup>
+                    <m:mo>-</m:mo>
+                    <m:mn>1</m:mn>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>8</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>24</m:mn>
+                    <m:mo>%</m:mo>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        </item> <item> <label> Skryf die finale antwoord </label>
+        <para id="id347809">Die kwartaallikse rentekoers is 2% en die effektiewe jaarlikse rentekoers is 8,24%, vir 'n nominale rentekoers van 8% per kwartaal. </para>
+        </item> </list> </solution>
+</exercise>
+<exercise id="secfhsst_id2960"><title>Nominale Rentekoers</title><problem id="probfhsst_id2961">
+        <para id="id347838">Op hul spaar rekeninge, bied Echo Bank 'n rentekoers van 18% nominaal
+wat maandeliks betaal word. As jy R100 nou stoor in so 'n rekening, hoeveel sal die bedrag
+ophoop in 3 jaar se tyd?</para>
+        </problem>
+        <solution id="solfhsst_id2966"> <list id="listfhsst_id2966" list-type="enumerated" number-style="arabic" class="stepwise"><item> <label> Bepaal wat gegee is en wat verwag word </label>
+        <para id="id347863">Rente-koers is 18%
+nominaal wat maandliks betaal word. Daar is 12 maande in een jaar. Ons is besig met 'n
+jaarlikse tydperk, so <m:math overflow="scroll"><m:mrow><m:mi>n</m:mi><m:mo>=</m:mo><m:mn>3</m:mn></m:mrow></m:math>. Die bedrag wat ons gespaar het, is R100, so <m:math overflow="scroll"><m:mrow><m:mi>P</m:mi><m:mo>=</m:mo><m:mn>100</m:mn></m:mrow></m:math>. Ons kort die opgehoopte waarde, <m:math overflow="scroll"><m:mi>A</m:mi></m:math>.</para>
+        </item> <item> <label> Herroep toepaslike formules </label>
+        <para id="id347910">Ons weet dat</para>
+        <equation id="id347913"><m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mi> monthly interest rate </m:mi>
+              <m:mo>=</m:mo>
+              <m:mfrac>
+                <m:mrow>
+                  <m:mi> Nominale rentekoers per jaar</m:mi>
+                </m:mrow>
+                <m:mrow>
+                  <m:mi> aantal periodes per jaar</m:mi>
+                </m:mrow>
+              </m:mfrac>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id347955">vir die omskakeling van die nominale rentekoers tot effektiewe rentekoers, het ons</para>
+        <equation id="id347959">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mn>1</m:mn>
+              <m:mo>+</m:mo>
+              <m:mi>i</m:mi>
+              <m:mo>=</m:mo>
+              <m:msup>
+                <m:mrow>
+                  <m:mo>(</m:mo>
+                  <m:mn>1</m:mn>
+                  <m:mo>+</m:mo>
+                  <m:msub>
+                    <m:mi>i</m:mi>
+                    <m:mi>T</m:mi>
+                  </m:msub>
+                  <m:mo>)</m:mo>
+                </m:mrow>
+                <m:mi>T</m:mi>
+              </m:msup>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id348000">en vir die berekening van opgehoopte waarde, het ons</para>
+        <equation id="id348004">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mi>A</m:mi>
+              <m:mo>=</m:mo>
+              <m:mi>P</m:mi>
+              <m:mo>×</m:mo>
+              <m:msup>
+                <m:mrow>
+                  <m:mo>(</m:mo>
+                  <m:mn>1</m:mn>
+                  <m:mo>+</m:mo>
+                  <m:mi>i</m:mi>
+                  <m:mo>)</m:mo>
+                </m:mrow>
+                <m:mi>n</m:mi>
+              </m:msup>
+            </m:mrow>
+          </m:math>
+        </equation>
+        </item> <item> <label> Bereken die effektiewe rentekoers </label>
+        <para id="id348044">Daar is 12 maande in 'n jaar, so</para>
+        <equation id="id348047"><m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:msub>
+                    <m:mi>i</m:mi>
+                    <m:mn>12</m:mn>
+                  </m:msub>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:mrow>
+                      <m:mi> Nominale jaarlikse rentekoers</m:mi>
+                    </m:mrow>
+                    <m:mn>12</m:mn>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:mrow>
+                      <m:mn>18</m:mn>
+                      <m:mo>%</m:mo>
+                    </m:mrow>
+                    <m:mn>12</m:mn>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>1</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>5</m:mn>
+                    <m:mo>%</m:mo><m:mspace width="3.333pt"/>
+                    <m:mi> per maand</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <para id="id348133">en dan het ons</para>
+        <equation id="id348139">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mn>1</m:mn>
+                    <m:mo>+</m:mo>
+                    <m:mi>i</m:mi>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:msup>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mn>1</m:mn>
+                      <m:mo>+</m:mo>
+                      <m:msub>
+                        <m:mi>i</m:mi>
+                        <m:mn>12</m:mn>
+                      </m:msub>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:mn>12</m:mn>
+                  </m:msup>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mi>i</m:mi>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:msup>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:mn>1</m:mn>
+                        <m:mo>+</m:mo>
+                        <m:msub>
+                          <m:mi>i</m:mi>
+                          <m:mn>12</m:mn>
+                        </m:msub>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                      <m:mn>12</m:mn>
+                    </m:msup>
+                    <m:mo>-</m:mo>
+                    <m:mn>1</m:mn>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:msup>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:mn>1</m:mn>
+                        <m:mo>+</m:mo>
+                        <m:mn>1</m:mn>
+                        <m:mo>,</m:mo>
+                        <m:mn>5</m:mn>
+                        <m:mo>%</m:mo>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                      <m:mn>12</m:mn>
+                    </m:msup>
+                    <m:mo>-</m:mo>
+                    <m:mn>1</m:mn>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:msup>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:mn>1</m:mn>
+                        <m:mo>,</m:mo>
+                        <m:mn>015</m:mn>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                      <m:mn>12</m:mn>
+                    </m:msup>
+                    <m:mo>-</m:mo>
+                    <m:mn>1</m:mn>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>19</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>56</m:mn>
+                    <m:mo>%</m:mo>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        </item> <item> <label> Die finale antwoord te bereik </label>
+        <equation id="id348324">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mi>A</m:mi>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mi>P</m:mi>
+                    <m:mo>×</m:mo>
+                    <m:msup>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:mn>1</m:mn>
+                        <m:mo>+</m:mo>
+                        <m:mi>i</m:mi>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                      <m:mi>n</m:mi>
+                    </m:msup>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>100</m:mn>
+                    <m:mo>×</m:mo>
+                    <m:msup>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:mn>1</m:mn>
+                        <m:mo>+</m:mo>
+                        <m:mn>19</m:mn>
+                        <m:mo>,</m:mo>
+                        <m:mn>56</m:mn>
+                        <m:mo>%</m:mo>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                      <m:mn>3</m:mn>
+                    </m:msup>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>100</m:mn>
+                    <m:mo>×</m:mo>
+                    <m:mn>1</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>7091</m:mn>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>170</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>91</m:mn>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        </item> <item> <label> Skryf die finale antwoord </label>
+        <para id="id348450">Die geakkumuleerde waarde is R<m:math overflow="scroll"><m:mrow><m:mn>170</m:mn><m:mo>,</m:mo><m:mn>91</m:mn></m:mrow></m:math>. (Onthou om af te rond tot die naaste cent.)
+ </para>
+        </item> </list> </solution>
+</exercise>
+<section id="secfhsst_id3315"><title>Nominale en Effectiewe Rentekoerse </title>
+        <list id="id348487" display="block" list-type="enumerated"><item id="uid35">Bereken die effektiewe koers gelykstaande aan 'n nominale rentekoers van 8,75% pj maandeliks saamgestel.
+</item>
+          <item id="uid36">Cebela kry 'n kwotasie vir 'n nominale rentekoers van 9,15% per jaar op haar belegging van elke vier maande saamgestel R 85 000. Bereken die effektiewe koers per jaar.
+</item>
+        </list>
+        
+</section>
+      </section>
+    </section>
+    <section id="cid10">
+      <title>Formuleblad</title>
+      <para id="id348538">As 'n maklike verwysing, hier is die belangrikste formules dat ons afgelei en wat gebruik word in hierdie hoofstuk. Terwyl die memorisering van hulle mooi is(daar is nie baie), is dit die toepassing wat nuttig is. Finansiële kundiges kry nie 'n salaris om formules te verkondig nie, 'n salaris word betaal om die regte metodes te gebruik om die finansiële probleme op te los.</para>
+      <section id="uid37">
+        <title>Definisies</title>
+        <table id="id348556" summary="die definisies van Finansies terme">
+<tgroup cols="2"><tbody>
+              <row>
+                <entry>
+                  <m:math overflow="scroll">
+                    <m:mi>P</m:mi>
+                  </m:math>
+                </entry>
+                <entry>Principal (die bedrag geld by die beginpunt van die berekening)</entry>
+              </row>
+              <row>
+                <entry>
+                  <m:math overflow="scroll">
+                    <m:mi>i</m:mi>
+                  </m:math>
+                </entry>
+                <entry>rentekoers, gewoonlik die effektiewe koers per jaar</entry>
+              </row>
+              <row>
+                <entry>
+                  <m:math overflow="scroll">
+                    <m:mi>n</m:mi>
+                  </m:math>
+                </entry>
+                <entry>tydperk waarvoor die belegging gemaak word</entry>
+              </row>
+              <row>
+                <entry>
+                  <m:math overflow="scroll">
+                    <m:msub>
+                      <m:mi>i</m:mi>
+                      <m:mi>T</m:mi>
+                    </m:msub>
+                  </m:math>
+                </entry>
+                <entry>die rentekoers betaal <m:math overflow="scroll"><m:mi>T</m:mi></m:math> keer per jaar, i.e. <m:math overflow="scroll"><m:mrow><m:msub><m:mi>i</m:mi><m:mi>T</m:mi></m:msub><m:mo>=</m:mo><m:mfrac><m:mrow><m:mi> Nominale rentekoers</m:mi></m:mrow><m:mi>T</m:mi></m:mfrac></m:mrow></m:math></entry>
+              </row>
+            </tbody>
+          
+
+</tgroup>
+</table>
+      </section>
+      <section id="uid38">
+        <title>Vergelykings</title>
+        <equation id="id348688"><m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mi>Gewone toename</m:mi>
+                    <m:mo>:</m:mo><m:mspace width="3pt"/>
+                    <m:mi>A</m:mi>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mi>P</m:mi>
+                    <m:mo>(</m:mo>
+                    <m:mn>1</m:mn>
+                    <m:mo>+</m:mo>
+                    <m:mi>i</m:mi>
+                    <m:mo>×</m:mo>
+                    <m:mi>n</m:mi>
+                    <m:mo>)</m:mo>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mi>Saamgestelde vermeerdering</m:mi>
+                    <m:mo>:</m:mo><m:mspace width="3pt"/>
+                    <m:mi>A</m:mi>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mi>P</m:mi>
+                    <m:msup>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:mn>1</m:mn>
+                        <m:mo>+</m:mo>
+                        <m:mi>i</m:mi>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                      <m:mi>n</m:mi>
+                    </m:msup>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mi>Gewone afname</m:mi>
+                    <m:mo>:</m:mo><m:mspace width="3pt"/>
+                    <m:mi>A</m:mi>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mi>P</m:mi>
+                    <m:mo>(</m:mo>
+                    <m:mn>1</m:mn>
+                    <m:mo>-</m:mo>
+                    <m:mi>i</m:mi>
+                    <m:mo>×</m:mo>
+                    <m:mi>n</m:mi>
+                    <m:mo>)</m:mo>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mi>Saamgestelde vermindering</m:mi>
+                    <m:mo>:</m:mo><m:mspace width="3pt"/>
+                    <m:mi>A</m:mi>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mi>P</m:mi>
+                    <m:msup>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:mn>1</m:mn>
+                        <m:mo>-</m:mo>
+                        <m:mi>i</m:mi>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                      <m:mi>n</m:mi>
+                    </m:msup>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mrow>
+                    <m:mi>Effektiewe jaarlikse rentekoers</m:mi>
+                    <m:mo>(</m:mo>
+                    <m:mi>i</m:mi>
+                    <m:mo>)</m:mo>
+                    <m:mo>:</m:mo>
+                    <m:mo>(</m:mo>
+                    <m:mn>1</m:mn>
+                    <m:mo>+</m:mo>
+                    <m:mi>i</m:mi>
+                    <m:mo>)</m:mo>
+                  </m:mrow>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:msup>
+                    <m:mrow>
+                      <m:mo>(</m:mo>
+                      <m:mn>1</m:mn>
+                      <m:mo>+</m:mo>
+                      <m:msub>
+                        <m:mi>i</m:mi>
+                        <m:mi>T</m:mi>
+                      </m:msub>
+                      <m:mo>)</m:mo>
+                    </m:mrow>
+                    <m:mi>T</m:mi>
+                  </m:msup>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+      </section>
+    </section>
+    <section id="cid11">
+      <title>Einde van Hoofstuk Oefeninge</title>
+      <list id="id349119" display="block" list-type="enumerated"><item id="uid39">Shrek koop 'n Mercedes werd R385 000 in 2007. Wat sal die waarde van die Mercedes wees teen die einde van 2013 as
+<list id="id349136" display="block" list-type="enumerated"><item id="uid40">die motor depresieer teen 6% p.a. reguit-lyn waardevermindering
+</item><item id="uid41">die motor depresieer teen 12% p.a. die vermindering van-balans waardevermindering.
+</item></list></item>
+        <item id="uid42">Greg tree in 'n 5-jaar huurkoop ooreenkoms om' n rekenaar te koop vir R8 900. Die rentekoers is aangehaal as 11% per jaar enkelvoudige rente. Bereken die maandelikse paaiement vir hierdie kontrak.
+</item>
+        <item id="uid43">'n Rekenaar is gekoop vir R16 000. Dit depresieer teen 15% per jaar.
+<list id="id349193" display="block" list-type="enumerated"><item id="uid44">Bereken die boekwaarde van die rekenaar na 3 jaar indien waardevermindering
+bereken word volgens die reguitlyn-metode.
+</item><item id="uid45">Bepaal die rentekoers, volgens die afnemende-saldo-metode, wat jou sal
+opbrengs van die selfde boekwaarde as in <link target-id="uid44"/> na 3 jaar.
+</item></list></item>
+        <item id="uid46">Maggie belê R12 500,00 vir 5 jaar teen 12% per jaar maandeliks saamgestel vir
+die eerste 2 jaar en 14% per jaar, halfjaarliks ​​saamgestel vir die volgende 3
+jaar. Hoe baie sal Maggie na 5 jaar in totaal ontvang?
+</item>
+        <item id="uid47">Kuifie belê R120 000. Hy is aangehaal word 'n nominale rentekoers van 7,2% per jaar maandeliks saamgestel.
+<list id="id349255" display="block" list-type="enumerated"><item id="uid48">Bereken die effektiewe koers per jaar korrek tot DRIE desimale
+plekke.
+</item><item id="uid49">Gebruik die effektiewe koers om die waarde te bereken van Kuifie se belegging indien
+Hy belê die geld vir 3 jaar.
+</item><item id="uid50">Veronderstel Kuifie belê sy geld vir 'n totale tydperk van 4 jaar, maar
+na 18 maande 'n onttrekking van R20 000, hoeveel sal hy
+ontvang aan die einde van die 4 jaar?
+</item></list></item>
+        <item id="uid51">Paris maak rekeninge oop by 'n aantal klerewinkels en spandeer vrylik. Sy kry heself in vreeslike skuld en sy kan nie haar rekeninge betaal nie. Sy skuld Hilton mode-wêreld R5 000, en die winkel laat Paris die wetsontwerp teen 'n nominale rentekoers van 24% betaal maandeliks saamgestel.
+<list id="id349315" display="block" list-type="enumerated"><item id="uid52">Hoeveel geld sal sy skuld Hilton mode-wêreld na twee jaar?
+</item><item id="uid53">Wat is die effektiewe rentekoers wat Hilton mode-wêreld haar hef?
+</item></list></item>
+      </list>
+    </section>
+  </content>
+</document>

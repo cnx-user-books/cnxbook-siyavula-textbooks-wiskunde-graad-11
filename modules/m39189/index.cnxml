@@ -1,0 +1,548 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Enkelvoudige depresiasie</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m39189</md:content-id>
+  <md:title>Enkelvoudige depresiasie</md:title>
+  <md:abstract/>
+  <md:uuid>31817b94-137a-494d-acf6-79edc13e1658</md:uuid>
+</metadata>
+
+<content>
+    
+    <section id="cid2">
+      <title>Inleiding</title>
+      <para id="id340064">In Graad 10 was die konsepte van enkelvoudige en saamgestelde rente bekendgestel. In hierdie hoofstuk gaan ons hierdie konsepte verder uitbrei, en dus is dit 'n goeie idee om weer terug te gaan na die Finasiële hoofstuk en die inhoud wat jy in Graad 10 geleer het, te hersien. As jy die tegnieke in hierdie hoofstuk bemeester, dan sal jy waardevermindering verstaan en in staat wees om te kan bepaal watter bank die beste rentekoers bied.    </para>
+    </section>
+    <section id="cid3">
+      <title>Waardevermindering</title>
+      <para id="id340080">Daar word gesê dat wanneer jy met 'n nuwe motor vanaf die motorhandelaar wegry, die motor 20% van sy waarde verloor, want dit is nou "tweedehands". En met verloop van tyd daal die waarde, of <emphasis effect="italics">verminder</emphasis> die waarde. Tweedehandse motors is goedkoper as nuwe motors, en gewoontlik hoe ouer die motor is, hoe goedkoper is dit. As jy 'n tweedehandse motor vanaf 'n handelaar koop, dan sal hulle die prys op iets baseer wat ons die <emphasis effect="italics">boekwaarde</emphasis> van die motor, noem. </para>
+      <para id="id340442">Die boekwaarde van 'n motor is die waarde van die motor na verlies aan waarde as gevolg van slytasie, veroudering en gebruik daarvan, in ag geneem is. Ons noem hierdie verlies aan waarde <emphasis effect="italics">waardevermindering</emphasis>, en in hierdie afdeling gaan ons twee metodes om waardevermindering te bepaal, bestudeer. Net soos met rentekoers, is die twee metodes om waardevermindering te bepaal, <emphasis effect="italics">enkelvoudige</emphasis> en <emphasis effect="italics">saamgestelde</emphasis> metodes.</para>
+      <para id="id340463">Die terminologie verbonde aan enkelvoudige waardevermindering is <emphasis effect="bold">reglynige waardevermindering</emphasis> en vir saamgestelde waardevermindering is dit <emphasis effect="bold">verminderende balans/saldo waardevermindering</emphasis>. Met die reglynige metode word die waarde van die bate elke jaar met dieselfde vaste bedrag verminder. Met die saamgestelde metode word die waarde elke jaar met dieselfde persentasie verminder. Dit beteken dat die waarde van die bate nie elke jaar met 'n vaste bedrag verminder nie, maar die verlies is die grootste in die eerste jaar, dan met 'n kleiner bedrag in die tweede jaar en met nog 'n kleiner bedrag in die derde jaar, en so voorts. </para>
+<section id="secfhsst_id75"><title>Waardevermindering</title>
+      <para id="id340491">Jy mag dalk wonder hoekom ons waardevermindering moet kan bereken. Een rede is om die waarde van 'n bate (soos in die voorbeeld met die tweedehandse motor) te bepaal, maar daar is 'n meer finansiële rede vir die berekening van waardevermindering - belasting! Maatskappye mag waardevermindering in ag neem as 'n uitgawe, en sodoende hulle belasbare inkomste verminder. 'n Laer belasbare inkomste beteken dat die maatskappy sal minder inkomstebelasting aan die Inkomstediens betaal.</para>
+</section>
+    </section>
+    <section id="cid4"><title>Enkelvoudige Waardevermindering</title><para id="id340514">Kom ons keer terug na tweedehandse motors. Een manier om waardevermindering te bepaal is om te veronderstel dat die motor 'n beperkte bruikbare leeftyd het. Enkelvoudige waardevermindering neem aan dat die waarde van die motor met 'n vaste bedrag elke jaar verminder. Byvoorbeeld, veronderstel die beperkte bruikbare leeftyd van 'n motor is 5 jaar, en die motor kos R60 000 vandag. Dit beteken dat na 5 jaar sal jy 'n nuwe motor moet koop, wat beteken die oue sal geen waarde op daardie tydstip meer hê nie. Daarom bereken ons die waardevermindering soos volg:</para>
+      <equation id="id340522"><m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mfrac>
+              <m:mrow>
+                <m:mi mathvariant="normal">R</m:mi>
+                <m:mn>60</m:mn>
+                <m:mspace width="3.33333pt"/>
+                <m:mn>000</m:mn>
+              </m:mrow>
+              <m:mrow>
+                <m:mn>5</m:mn>
+                <m:mspace width="3.33333pt"/>
+                <m:mi> jaar </m:mi>
+              </m:mrow>
+            </m:mfrac>
+            <m:mo>=</m:mo>
+            <m:mi mathvariant="normal">R</m:mi>
+            <m:mn>12</m:mn>
+            <m:mspace width="3.33333pt"/>
+            <m:mn>000</m:mn>
+            <m:mspace width="1.em"/>
+            <m:mrow>
+              <m:mi>per jaar</m:mi>
+              
+            </m:mrow>
+            <m:mo>.</m:mo>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <para id="id340579">Die waarde van die motor is dan:</para>
+      <table id="id340582" summary="Tabel 1"><label>Tabel</label>
+<tgroup cols="3"><tbody>
+            <row>
+              <entry>Aan die einde van Jaar 1</entry>
+              <entry>R60 000 - 1<m:math overflow="scroll"><m:mo>×</m:mo></m:math>(R12 000)</entry>
+              <entry>= R48 000</entry>
+            </row>
+            <row>
+              <entry>Aan die einde van Jaar 2</entry>
+              <entry>R60 000 - 2<m:math overflow="scroll"><m:mo>×</m:mo></m:math>(R12 000)</entry>
+              <entry>= R36 000</entry>
+            </row>
+            <row>
+              <entry>Aan die einde van Jaar 3</entry>
+              <entry>R60 000 - 3<m:math overflow="scroll"><m:mo>×</m:mo></m:math>(R12 000)</entry>
+              <entry>= R24 000</entry>
+            </row>
+            <row>
+              <entry>Aan die einde van Jaar 4</entry>
+              <entry>R60 000 - 4<m:math overflow="scroll"><m:mo>×</m:mo></m:math>(R12 000)</entry>
+              <entry>= R12 000</entry>
+            </row>
+            <row>
+              <entry>Aan die einde van Jaar 5</entry>
+              <entry>R60 000 - 5<m:math overflow="scroll"><m:mo>×</m:mo></m:math>(R12 000)</entry>
+              <entry>= R0</entry>
+            </row>
+          </tbody>
+        
+
+
+</tgroup>
+</table>
+      <!--empty paragraphs get left behind.-->
+      <para id="id340712">Dit lyk baie soos die formule vir enkelvoudige rente:</para>
+      <equation id="id340716"><m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mrow>
+              <m:mi> Totale rente na n jaar</m:mi>
+            </m:mrow>
+            <m:mo>=</m:mo>
+            <m:mi mathvariant="normal">n</m:mi>
+            <m:mo>×</m:mo>
+            <m:mo>(</m:mo>
+            <m:mi>P</m:mi>
+            <m:mo>×</m:mo>
+            <m:mi>i</m:mi>
+            <m:mo>)</m:mo>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <para id="id340761">waar <m:math overflow="scroll"><m:mi>i</m:mi></m:math> die jaarlikse persentasie rentekoers en <m:math overflow="scroll"><m:mi>P</m:mi></m:math> die hoofsom of kapitaal is.</para>
+      <para id="id340783">As ons die woord <emphasis effect="italics">rente</emphasis> met die woord <emphasis effect="italics">waardevermindering</emphasis> vervang, en die woord <emphasis effect="italics">hoofsom</emphasis> met die woorde <emphasis effect="italics">oorspronklike waarde</emphasis>, dan kan ons die formule gebruik:</para>
+      <equation id="id340807"><m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mrow>
+              <m:mi> Totale waardevermindering na n jaar</m:mi>
+            </m:mrow>
+            <m:mo>=</m:mo>
+            <m:mi mathvariant="normal">n</m:mi>
+            <m:mo>×</m:mo>
+            <m:mo>(</m:mo>
+            <m:mi>P</m:mi>
+            <m:mo>×</m:mo>
+            <m:mi>i</m:mi>
+            <m:mo>)</m:mo>
+          </m:mrow>
+        </m:math>
+      </equation>
+      <para id="id340852">Dan is die boekwaarde van die bate na <m:math overflow="scroll"><m:mi>n</m:mi></m:math> jaar: </para>
+      <equation id="id340866"><m:math overflow="scroll" mode="display">
+          <m:mtable displaystyle="true">
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mrow>
+                  <m:mi> Oorspronklike waarde</m:mi>
+                  <m:mo>-</m:mo>
+                  <m:mi> Totale waardevermindering na n jaar</m:mi>
+                </m:mrow>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mi>P</m:mi>
+                  <m:mo>-</m:mo>
+                  <m:mi>n</m:mi>
+                  <m:mo>×</m:mo>
+                  <m:mo>(</m:mo>
+                  <m:mi>P</m:mi>
+                  <m:mo>×</m:mo>
+                  <m:mi>i</m:mi>
+                  <m:mo>)</m:mo>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mi>P</m:mi>
+                  <m:mo>(</m:mo>
+                  <m:mn>1</m:mn>
+                  <m:mo>-</m:mo>
+                  <m:mi>n</m:mi>
+                  <m:mo>×</m:mo>
+                  <m:mi>i</m:mi>
+                  <m:mo>)</m:mo>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+          </m:mtable>
+        </m:math>
+      </equation>
+      <para id="id340954">Byvoorbeeld, die boekwaarde van 'n motor na 2 jaar kan eenvoudig bereken word as volg:</para>
+      <equation id="id340958"><m:math overflow="scroll" mode="display">
+          <m:mtable displaystyle="true">
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mrow>
+                  <m:mi> Boekwaarde na </m:mi><m:mspace width="3pt"/>
+                  <m:mn>2</m:mn><m:mspace width="3pt"/>
+                  <m:mi> jaar </m:mi>
+                </m:mrow>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mi>P</m:mi>
+                  <m:mo>(</m:mo>
+                  <m:mn>1</m:mn>
+                  <m:mo>-</m:mo>
+                  <m:mi>n</m:mi>
+                  <m:mo>×</m:mo>
+                  <m:mi>i</m:mi>
+                  <m:mo>)</m:mo>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mi mathvariant="normal">R</m:mi>
+                  <m:mn>60</m:mn>
+                  <m:mspace width="3.33333pt"/>
+                  <m:mn>000</m:mn>
+                  <m:mo>(</m:mo>
+                  <m:mn>1</m:mn>
+                  <m:mo>-</m:mo>
+                  <m:mn>2</m:mn>
+                  <m:mo>×</m:mo>
+                  <m:mn>20</m:mn>
+                  <m:mo>%</m:mo>
+                  <m:mo>)</m:mo>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mi mathvariant="normal">R</m:mi>
+                  <m:mn>60</m:mn>
+                  <m:mspace width="3.33333pt"/>
+                  <m:mn>000</m:mn>
+                  <m:mo>(</m:mo>
+                  <m:mn>1</m:mn>
+                  <m:mo>-</m:mo>
+                  <m:mn>0</m:mn>
+                  <m:mo>,</m:mo>
+                  <m:mn>4</m:mn>
+                  <m:mo>)</m:mo>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mi mathvariant="normal">R</m:mi>
+                  <m:mn>60</m:mn>
+                  <m:mspace width="3.33333pt"/>
+                  <m:mn>000</m:mn>
+                  <m:mo>(</m:mo>
+                  <m:mn>0</m:mn>
+                  <m:mo>,</m:mo>
+                  <m:mn>6</m:mn>
+                  <m:mo>)</m:mo>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mi mathvariant="normal">R</m:mi>
+                  <m:mn>36</m:mn>
+                  <m:mspace width="3.33333pt"/>
+                  <m:mn>000</m:mn>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+          </m:mtable>
+        </m:math>
+      </equation>
+      <para id="id341315">soos verwag is.</para>
+      <para id="id341320">Let op die verskil tussen die enkelvoudige rente berekeninge en die enkelvoudige waardevermindering berekeninge: rente voeg waarde tot die oorspronklike bedrag by, terwyl waardevermindering die waarde laat daal!</para>
+<exercise id="secfhsst_id362"><label>Oefening</label><title>Enkelvoudige Rente metode</title><problem id="probfhsst_id363">
+      <para id="id341338">'n Motor het 'n waarde van R<m:math overflow="scroll"><m:mrow><m:mn>240</m:mn><m:mspace width="3.33333pt"/><m:mn>000</m:mn></m:mrow></m:math> nou. As die waarde teen 'n tempo van <m:math overflow="scroll"><m:mrow><m:mn>15</m:mn><m:mo>%</m:mo></m:mrow></m:math> p.j. verminder met reglynige waardevermindering, wat is die motor na 5 jaar werd? </para>
+      </problem>
+      <solution id="solfhsst_id366"><label>Oplossing</label> <list id="listfhsst_id366" list-type="enumerated" number-style="arabic" class="stepwise"><item> <label> Bepaal wat gegee is en wat benodig word </label>
+      <equation id="id341385"><m:math overflow="scroll" mode="display">
+          <m:mtable displaystyle="true">
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mi>P</m:mi>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mi>R</m:mi>
+                  <m:mn>240</m:mn>
+                  <m:mspace width="3.33333pt"/>
+                  <m:mn>000</m:mn>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mi>i</m:mi>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mn>0</m:mn>
+                  <m:mo>,</m:mo>
+                  <m:mn>15</m:mn>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mi>n</m:mi>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mn>5</m:mn>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mrow>
+                  <m:mi>A</m:mi>
+                  <m:mspace width="3.33333pt"/>
+                </m:mrow>
+              </m:mtd>
+              <m:mtd>
+                <m:mi> word </m:mi>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mi> benodig </m:mi>
+              </m:mtd>
+            </m:mtr>
+          </m:mtable>
+        </m:math>
+      </equation>
+      </item> <item> <label> Bepaal hoe om die probleem te benader </label>
+      <equation id="id341476">
+        <m:math overflow="scroll" mode="display">
+          <m:mtable displaystyle="true">
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mi>A</m:mi>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mn>240</m:mn>
+                  <m:mspace width="3.33333pt"/>
+                  <m:mn>000</m:mn>
+                  <m:mo>(</m:mo>
+                  <m:mn>1</m:mn>
+                  <m:mo>-</m:mo>
+                  <m:mn>0</m:mn>
+                  <m:mo>,</m:mo>
+                  <m:mn>15</m:mn>
+                  <m:mo>×</m:mo>
+                  <m:mn>5</m:mn>
+                  <m:mo>)</m:mo>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+          </m:mtable>
+        </m:math>
+      </equation>
+      </item> <item> <label> Los die probleem op </label>
+      <equation id="id341531">
+        <m:math overflow="scroll" mode="display">
+          <m:mtable displaystyle="true">
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mi>A</m:mi>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mn>240</m:mn>
+                  <m:mspace width="3.33333pt"/>
+                  <m:mn>000</m:mn>
+                  <m:mo>(</m:mo>
+                  <m:mn>1</m:mn>
+                  <m:mo>-</m:mo>
+                  <m:mn>0</m:mn>
+                  <m:mo>,</m:mo>
+                  <m:mn>75</m:mn>
+                  <m:mo>)</m:mo>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mn>240</m:mn>
+                  <m:mspace width="3.33333pt"/>
+                  <m:mn>000</m:mn>
+                  <m:mo>×</m:mo>
+                  <m:mn>0</m:mn>
+                  <m:mo>,</m:mo>
+                  <m:mn>25</m:mn>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mrow>
+                  <m:mn>60</m:mn>
+                  <m:mspace width="3.33333pt"/>
+                  <m:mn>000</m:mn>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+          </m:mtable>
+        </m:math>
+      </equation>
+      </item> <item> <label> Skryf die finale antwoord neer </label>
+      <para id="id341624">Oor 5 jaar is die motor R<m:math overflow="scroll"><m:mrow><m:mn>60</m:mn><m:mspace width="3.33333pt"/><m:mn>000</m:mn></m:mrow></m:math> werd.
+</para>
+      </item> </list> </solution>
+</exercise>
+<exercise id="secfhsst_id524"><label>Oefening</label><title>Enkelvoudige waardevermindering</title><problem id="probfhsst_id525">
+      <para id="id341664">'n Klein besigheid koop 'n fotokopieermasjien teen R12 000. Vir belastingopgawe verminder die eienaar die bate oor 3 jaar met die reglynige waardevermindering metode. Watter bedrag sal hy op die belastingsvorm invul na 1 jaar, na 2 jaar en dan na 3 jaar?</para>
+      </problem>
+      <solution id="solfhsst_id528"><label>Oplossing</label> <list id="listfhsst_id528" list-type="enumerated" number-style="arabic" class="stepwise"><item> <label> Verstaan wat gevra word </label>
+      <para id="id341688">Die eienaar wil hê dat die waarde van die kopieermasjien na 3 jaar tot R0 verminder moet word. Dus, die waarde van die kopieermasjien sal met <m:math overflow="scroll"><m:mrow><m:mn>12</m:mn><m:mspace width="3.33333pt"/><m:mn>000</m:mn><m:mo>÷</m:mo><m:mn>3</m:mn><m:mo>=</m:mo><m:mi mathvariant="normal">R</m:mi><m:mn>4</m:mn><m:mspace width="3.33333pt"/><m:mn>000</m:mn></m:mrow></m:math> per jaar verminder.</para>
+      </item> <item> <label> Waarde van die kopieermasjien na 1 jaar </label>
+      <para id="id341728">
+        <m:math overflow="scroll">
+          <m:mrow>
+            <m:mn>12</m:mn>
+            <m:mspace width="3.33333pt"/>
+            <m:mn>000</m:mn>
+            <m:mo>-</m:mo>
+            <m:mn>4</m:mn>
+            <m:mspace width="3.33333pt"/>
+            <m:mn>000</m:mn>
+            <m:mo>=</m:mo>
+            <m:mi mathvariant="normal">R</m:mi>
+            <m:mn>8</m:mn>
+            <m:mspace width="3.33333pt"/>
+            <m:mn>000</m:mn>
+          </m:mrow>
+        </m:math>
+      </para>
+      </item> <item> <label> Waarde van die masjien na 2 jaar </label>
+      <para id="id341770">
+        <m:math overflow="scroll">
+          <m:mrow>
+            <m:mn>8</m:mn>
+            <m:mspace width="3.33333pt"/>
+            <m:mn>000</m:mn>
+            <m:mo>-</m:mo>
+            <m:mn>4</m:mn>
+            <m:mspace width="3.33333pt"/>
+            <m:mn>000</m:mn>
+            <m:mo>=</m:mo>
+            <m:mi mathvariant="normal">R</m:mi>
+            <m:mn>4</m:mn>
+            <m:mspace width="3.33333pt"/>
+            <m:mn>000</m:mn>
+          </m:mrow>
+        </m:math>
+      </para>
+      </item> <item> <label> Skryf die finale antwoord neer </label>
+      <para id="id341813">
+        <m:math overflow="scroll">
+          <m:mrow>
+            <m:mn>4</m:mn>
+            <m:mspace width="3.33333pt"/>
+            <m:mn>000</m:mn>
+            <m:mo>-</m:mo>
+            <m:mn>4</m:mn>
+            <m:mspace width="3.33333pt"/>
+            <m:mn>000</m:mn>
+            <m:mo>=</m:mo>
+            <m:mn>0</m:mn>
+          </m:mrow>
+        </m:math>
+      </para>
+      <para id="id341842">Na 3 jaar is die kopieermasjien niks werd nie. </para>
+      </item> </list> </solution>
+</exercise>
+<section id="secfhsst_id589"><title>Herwinningswaarde</title>
+      <para id="id341869">As ons dieselfde voorbeeld van die motor met 'n oorspronklike waarde van R60 000 beskou, en veronderstel ons kan die motor aan die einde van 'n 5 jaar periode vir R10 000 verkoop. Ons noem hierdie bedrag die "Herwinningswaarde".</para>
+      <para id="id341878">Ons veronderstel nogsteeds enkelvoudige waardevermindering oor 'n bruikbare tydperk van 5 jaar, maar in plaas van waardevermindering op die volle waarde van die bate, neem ons nou die herwinningswaarde in ag. Dus word waardevermindering bereken op die bedrag wat ons verwag om nie te verhaal nie, i.e. R60 000 - R10 000 = R50 000.</para>
+      <para id="id341886">Die jaarlikse waardevermindering kan dan bereken word: (R60 000 - R10 000) / 5 = R10 000.</para>
+      <para id="id341891">In die algemeen, die formule vir enkelvoudige (reglynige) waardevermindering is:</para>
+      <equation id="id341895"><m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mrow>
+              <m:mi> Jaarlikse waardevermindering</m:mi>
+           
+            </m:mrow>
+            <m:mo>=</m:mo>
+            <m:mfrac>
+              <m:mrow>
+                <m:mi> Oorspronklike waarde</m:mi>
+                
+                <m:mo>-</m:mo>
+                <m:mi> Herwinningswaarde</m:mi>
+               
+              </m:mrow>
+              <m:mrow>
+                <m:mi> Bruikbare leeftyd</m:mi>
+   
+              </m:mrow>
+            </m:mfrac>
+          </m:mrow>
+        </m:math>
+      </equation>
+      
+</section>
+<section id="secfhsst_id624"><title>Enkelvoudige Waardevermindering</title>
+      <list id="id341952" display="block" list-type="enumerated"><item id="uid1">'n Besigheid koop 'n vragmotor vir R560 000. Oor 'n tydperk van 10 jaar verminder die waarde (met die reglynige metode) van die vragmotor tot R0. Wat is die vragmotor na 8 jaar werd?
+</item>
+        <item id="uid2"> Shrek wil sy oupa se donkie vir R800 koop. Sy oupa is te vrede met hierdie aanbod, aangesien die waarde van die donkie teen 3% per jaar, met die reglynige metode, verminder het. Sy oupa het die donkie 5 jaar terug gekoop. Wat het sy oupa oorspronklik vir die donkie betaal?
+</item>
+        <item id="uid3">Sewe jaar gelede het Rocco se dromstel hom R12 500. Dit is nou R2 300 werd. Watter koers van enkelvoudige waardevermindering word hierdeur voorgestel? 
+</item>
+        <item id="uid4"> Fiona koop 'n DStv satellietskottel vir R3 000.  Weens verwering verminder die waarde daarvan enkelvoudig teen 15% per jaar. Hoe lank neem dit vir die skottel om geen waarde te hê nie?
+</item>
+      </list>
+      
+</section>
+    </section>
+  </content>
+</document>

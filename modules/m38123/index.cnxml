@@ -1,0 +1,764 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Oplossing van Kwadratiese Ongelykhede</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m38123</md:content-id>
+  <md:title>Oplossing van Kwadratiese Ongelykhede</md:title>
+  <md:abstract/>
+  <md:uuid>6e997f55-61cb-4e0e-b556-ffbc3f6481ee</md:uuid>
+</metadata>
+
+<content>
+    <section id="cid1">
+      <title>Oplossing van Kwadratiese Ongelykhede - Graad 11</title>
+      <para id="cid1_para"/>
+    </section>
+    <section id="cid2">
+      <title>Inleiding</title>
+      <para id="id299240">Nou dat jy weet hoe om kwadratiese vergelykings op te los, is jy gereed om te leer hoe om kwadratiese <emphasis effect="italics">ongelykhede</emphasis> op te los.</para>
+    </section>
+    <section id="cid3">
+      <title>Kwadratiese Ongelykhede</title>
+      <para id="id299254">'n <emphasis effect="italics">Kwadratiese ongelykheid</emphasis> is ongelykheid van die vorm</para>
+      <equation id="id299601">
+        <m:math overflow="scroll" mode="display">
+          <m:mtable displaystyle="true">
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mrow>
+                  <m:mi>a</m:mi>
+                  <m:msup>
+                    <m:mi>x</m:mi>
+                    <m:mn>2</m:mn>
+                  </m:msup>
+                  <m:mo>+</m:mo>
+                  <m:mi>b</m:mi>
+                  <m:mi>x</m:mi>
+                  <m:mo>+</m:mo>
+                  <m:mi>c</m:mi>
+                  <m:mo>&gt;</m:mo>
+                  <m:mn>0</m:mn>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mrow>
+                  <m:mi>a</m:mi>
+                  <m:msup>
+                    <m:mi>x</m:mi>
+                    <m:mn>2</m:mn>
+                  </m:msup>
+                  <m:mo>+</m:mo>
+                  <m:mi>b</m:mi>
+                  <m:mi>x</m:mi>
+                  <m:mo>+</m:mo>
+                  <m:mi>c</m:mi>
+                  <m:mo>≥</m:mo>
+                  <m:mn>0</m:mn>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mrow>
+                  <m:mi>a</m:mi>
+                  <m:msup>
+                    <m:mi>x</m:mi>
+                    <m:mn>2</m:mn>
+                  </m:msup>
+                  <m:mo>+</m:mo>
+                  <m:mi>b</m:mi>
+                  <m:mi>x</m:mi>
+                  <m:mo>+</m:mo>
+                  <m:mi>c</m:mi>
+                  <m:mo>&lt;</m:mo>
+                  <m:mn>0</m:mn>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mrow>
+                  <m:mi>a</m:mi>
+                  <m:msup>
+                    <m:mi>x</m:mi>
+                    <m:mn>2</m:mn>
+                  </m:msup>
+                  <m:mo>+</m:mo>
+                  <m:mi>b</m:mi>
+                  <m:mi>x</m:mi>
+                  <m:mo>+</m:mo>
+                  <m:mi>c</m:mi>
+                  <m:mo>≤</m:mo>
+                  <m:mn>0</m:mn>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+          </m:mtable>
+        </m:math>
+      </equation>
+      <para id="id299732">Om 'n kwadratiese ongelykheid op te los is dieselfde as om uit te werk watter dele van die grafiek bo of onder die <m:math overflow="scroll"><m:mi>x</m:mi></m:math>-as is.</para>
+<exercise id="secfhsst_id144"><title> Kwadratiese Ongelykhede </title>
+      <problem id="probfhsst_id145">
+      <para id="id299756">Los die ongelykheid <m:math overflow="scroll"><m:mrow><m:mn>4</m:mn><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>-</m:mo><m:mn>4</m:mn><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>1</m:mn><m:mo>≤</m:mo><m:mn>0</m:mn></m:mrow></m:math> op en interpreteer die oplossing grafies. </para>
+      </problem>
+      <solution id="solfhsst_id148"> <list id="listfhsst_id148" list-type="enumerated" number-style="arabic" class="stepwise">
+      <item> <label> Faktoriseer die kwadratiese funksie </label>
+      <para id="id299809">Laat <m:math overflow="scroll"><m:mrow><m:mi>f</m:mi><m:mrow><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>)</m:mo></m:mrow><m:mo>=</m:mo><m:mn>4</m:mn><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>-</m:mo><m:mn>4</m:mn><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>1</m:mn></m:mrow></m:math>. Faktorisering van die funksie lewer <m:math overflow="scroll"><m:mrow><m:mi>f</m:mi><m:mrow><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>)</m:mo></m:mrow><m:mo>=</m:mo><m:msup><m:mrow><m:mo>(</m:mo><m:mn>2</m:mn><m:mi>x</m:mi><m:mo>-</m:mo><m:mn>1</m:mn><m:mo>)</m:mo></m:mrow><m:mn>2</m:mn></m:msup></m:mrow></m:math>.</para>
+      </item> <item> <label> Vervang die oorspronklike ongelykheid met die faktore </label>
+      <equation id="id300073">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:msup>
+              <m:mrow>
+                <m:mo>(</m:mo>
+                <m:mn>2</m:mn>
+                <m:mi>x</m:mi>
+                <m:mo>-</m:mo>
+                <m:mn>1</m:mn>
+                <m:mo>)</m:mo>
+              </m:mrow>
+              <m:mn>2</m:mn>
+            </m:msup>
+            <m:mo>≤</m:mo>
+            <m:mn>0</m:mn>
+          </m:mrow>
+        </m:math>
+      </equation>
+      </item> <item> <label> Vind die wortels van die funksie </label>
+      <para id="id300109"><m:math overflow="scroll"><m:mrow><m:mi>f</m:mi><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>)</m:mo><m:mo>=</m:mo><m:mn>0</m:mn></m:mrow></m:math> slegs as <m:math overflow="scroll"><m:mrow><m:mi>x</m:mi><m:mo>=</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow></m:math>.</para>
+      </item> <item> <label> Skryf die finale antwoord neer </label>
+      <para id="id300152">Dit beteken dat die grafiek van <m:math overflow="scroll"><m:mrow><m:mi>f</m:mi><m:mrow><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>)</m:mo></m:mrow><m:mo>=</m:mo><m:mn>4</m:mn><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>-</m:mo><m:mn>4</m:mn><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>1</m:mn></m:mrow></m:math> die <m:math overflow="scroll"><m:mi>x</m:mi></m:math>-as raak by <m:math overflow="scroll"><m:mrow><m:mi>x</m:mi><m:mo>=</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow></m:math>, maar daar is geen areas waar die grafiek onder die <m:math overflow="scroll"><m:mi>x</m:mi></m:math>-as is nie.</para>
+      </item> <item> <label> Grafiese interpretasie van die oplossing </label>
+      <para id="id300232">
+        <figure id="id300235">
+          <media id="id300235_media" alt="">
+            <image mime-type="image/png" src="../../media/MG11C8_001.png" id="id300235_onlineimage" width="159"><!-- NOTE: attribute width changes image size online (pixels). original width is 159. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/MG11C8_001.eps" id="id300235_printimage"/>
+          </media>
+        </figure>
+      </para>
+      
+      </item> </list> </solution>
+</exercise>
+<exercise id="secfhsst_id187"><title> Oplossing van Kwadratiese Ongelykhede </title>
+      <problem id="probfhsst_id188">
+      <para id="id300267">Vind al die oplossings van die ongelykheid <m:math overflow="scroll"><m:mrow><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>-</m:mo><m:mn>5</m:mn><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>6</m:mn><m:mo>≥</m:mo><m:mn>0</m:mn></m:mrow></m:math>. </para>
+      </problem>
+      <solution id="solfhsst_id191"> <list id="listfhsst_id191" list-type="enumerated" number-style="arabic" class="stepwise">
+      <item> <label> Faktoriseer die kwadratiese funksie </label>
+      <para id="id300318">Die faktore van <m:math overflow="scroll"><m:mrow><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>-</m:mo><m:mn>5</m:mn><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>6</m:mn></m:mrow></m:math> is <m:math overflow="scroll"><m:mrow><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>-</m:mo><m:mn>3</m:mn><m:mo>)</m:mo><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>-</m:mo><m:mn>2</m:mn><m:mo>)</m:mo></m:mrow></m:math>.</para>
+      </item> <item> <label> Skryf die ongelykheid met die faktore </label>
+      <equation id="id300379">
+        <m:math overflow="scroll" mode="display">
+          <m:mtable displaystyle="true">
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mrow>
+                  <m:msup>
+                    <m:mi>x</m:mi>
+                    <m:mn>2</m:mn>
+                  </m:msup>
+                  <m:mo>-</m:mo>
+                  <m:mn>5</m:mn>
+                  <m:mi>x</m:mi>
+                  <m:mo>+</m:mo>
+                  <m:mn>6</m:mn>
+                </m:mrow>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>≥</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mn>0</m:mn>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mrow>
+                  <m:mo>(</m:mo>
+                  <m:mi>x</m:mi>
+                  <m:mo>-</m:mo>
+                  <m:mn>3</m:mn>
+                  <m:mo>)</m:mo>
+                  <m:mo>(</m:mo>
+                  <m:mi>x</m:mi>
+                  <m:mo>-</m:mo>
+                  <m:mn>2</m:mn>
+                  <m:mo>)</m:mo>
+                </m:mrow>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>≥</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mn>0</m:mn>
+              </m:mtd>
+            </m:mtr>
+          </m:mtable>
+        </m:math>
+      </equation>
+      </item> <item> <label> Bepaal watter intervalle ooreenstem met die ongelykheid </label>
+      <para id="id300460">Ons moet bepaal watter waardes van <m:math overflow="scroll"><m:mi>x</m:mi></m:math> die ongelykheid bevredig. Vanaf die faktorisering is daar vyf areas om na te kyk.</para>
+      <para id="id300472">
+        <figure id="id300475">
+          <media id="id300475_media" alt="">
+            <image mime-type="image/png" src="../../media/MG11C8_002.png" id="id300475_onlineimage" width="142"><!-- NOTE: attribute width changes image size online (pixels). original width is 142. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/MG11C8_002.eps" id="id300475_printimage"/>
+          </media>
+        </figure>
+      </para>
+      </item> <item> <label> Bepaal of die funksie positief of negatief is in elkeen van die areas </label>
+      <para id="id300486">Laat <m:math overflow="scroll"><m:mrow><m:mi>f</m:mi><m:mrow><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>)</m:mo></m:mrow><m:mo>=</m:mo><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>-</m:mo><m:mn>5</m:mn><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>6</m:mn></m:mrow></m:math>. Kies 'n punt in elkeen van areas en evalueer die funksie.</para>
+      <table id="id300526" summary="">
+        <tgroup cols="4">
+          <tbody>
+            <row>
+              <entry/>
+              <entry/>
+              <entry>
+                <m:math overflow="scroll">
+                  <m:mrow>
+                    <m:mi>f</m:mi>
+                    <m:mo>(</m:mo>
+                    <m:mi>x</m:mi>
+                    <m:mo>)</m:mo>
+                  </m:mrow>
+                </m:math>
+              </entry>
+              <entry>teken van <m:math overflow="scroll"><m:mrow><m:mi>f</m:mi><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>)</m:mo></m:mrow></m:math></entry>
+            </row>
+            <row>
+              <entry>Area A</entry>
+              <entry>
+                <m:math overflow="scroll">
+                  <m:mrow>
+                    <m:mi>x</m:mi>
+                    <m:mo>&lt;</m:mo>
+                    <m:mn>2</m:mn>
+                  </m:mrow>
+                </m:math>
+              </entry>
+              <entry>
+                <m:math overflow="scroll">
+                  <m:mrow>
+                    <m:mi>f</m:mi>
+                    <m:mo>(</m:mo>
+                    <m:mn>1</m:mn>
+                    <m:mo>)</m:mo>
+                    <m:mo>=</m:mo>
+                    <m:mn>2</m:mn>
+                  </m:mrow>
+                </m:math>
+              </entry>
+              <entry>+</entry>
+            </row>
+            <row>
+              <entry>Area B</entry>
+              <entry>
+                <m:math overflow="scroll">
+                  <m:mrow>
+                    <m:mi>x</m:mi>
+                    <m:mo>=</m:mo>
+                    <m:mn>2</m:mn>
+                  </m:mrow>
+                </m:math>
+              </entry>
+              <entry>
+                <m:math overflow="scroll">
+                  <m:mrow>
+                    <m:mi>f</m:mi>
+                    <m:mo>(</m:mo>
+                    <m:mn>2</m:mn>
+                    <m:mo>)</m:mo>
+                    <m:mo>=</m:mo>
+                    <m:mn>0</m:mn>
+                  </m:mrow>
+                </m:math>
+              </entry>
+              <entry>+</entry>
+            </row>
+            <row>
+              <entry>Area C</entry>
+              <entry>
+                <m:math overflow="scroll">
+                  <m:mrow>
+                    <m:mn>2</m:mn>
+                    <m:mo>&lt;</m:mo>
+                    <m:mi>x</m:mi>
+                    <m:mo>&lt;</m:mo>
+                    <m:mn>3</m:mn>
+                  </m:mrow>
+                </m:math>
+              </entry>
+              <entry>
+                <m:math overflow="scroll">
+                  <m:mrow>
+                    <m:mi>f</m:mi>
+                    <m:mo>(</m:mo>
+                    <m:mn>2</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>5</m:mn>
+                    <m:mo>)</m:mo>
+                    <m:mo>=</m:mo>
+                    <m:mo>-</m:mo>
+                    <m:mn>2</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>5</m:mn>
+                  </m:mrow>
+                </m:math>
+              </entry>
+              <entry>-</entry>
+            </row>
+            <row>
+              <entry>Area D</entry>
+              <entry>
+                <m:math overflow="scroll">
+                  <m:mrow>
+                    <m:mi>x</m:mi>
+                    <m:mo>=</m:mo>
+                    <m:mn>3</m:mn>
+                  </m:mrow>
+                </m:math>
+              </entry>
+              <entry>
+                <m:math overflow="scroll">
+                  <m:mrow>
+                    <m:mi>f</m:mi>
+                    <m:mo>(</m:mo>
+                    <m:mn>3</m:mn>
+                    <m:mo>)</m:mo>
+                    <m:mo>=</m:mo>
+                    <m:mn>0</m:mn>
+                  </m:mrow>
+                </m:math>
+              </entry>
+              <entry>+</entry>
+            </row>
+            <row>
+              <entry>Area E</entry>
+              <entry>
+                <m:math overflow="scroll">
+                  <m:mrow>
+                    <m:mi>x</m:mi>
+                    <m:mo>&gt;</m:mo>
+                    <m:mn>3</m:mn>
+                  </m:mrow>
+                </m:math>
+              </entry>
+              <entry>
+                <m:math overflow="scroll">
+                  <m:mrow>
+                    <m:mi>f</m:mi>
+                    <m:mo>(</m:mo>
+                    <m:mn>4</m:mn>
+                    <m:mo>)</m:mo>
+                    <m:mo>=</m:mo>
+                    <m:mn>2</m:mn>
+                  </m:mrow>
+                </m:math>
+              </entry>
+              <entry>+</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <!--empty paragraphs get left behind.-->
+      <para id="id300848">Ons kan sien dat die funksie positief is vir <m:math overflow="scroll"><m:mrow><m:mi>x</m:mi><m:mo>≤</m:mo><m:mn>2</m:mn></m:mrow></m:math> en <m:math overflow="scroll"><m:mrow><m:mi>x</m:mi><m:mo>≥</m:mo><m:mn>3</m:mn></m:mrow></m:math>.</para>
+      </item> <item> <label> Skryf die finale antwoord neer en stel dit voor op 'n getallelyn </label>
+      <para id="id300882">Ons sien dat <m:math overflow="scroll"><m:mrow><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>-</m:mo><m:mn>5</m:mn><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>6</m:mn><m:mo>≥</m:mo><m:mn>0</m:mn></m:mrow></m:math> waar is vir <m:math overflow="scroll"><m:mrow><m:mi>x</m:mi><m:mo>≤</m:mo><m:mn>2</m:mn></m:mrow></m:math> en <m:math overflow="scroll"><m:mrow><m:mi>x</m:mi><m:mo>≥</m:mo><m:mn>3</m:mn></m:mrow></m:math>.</para>
+      <para id="id300941">
+        <figure id="id300944">
+          <media id="id300944_media" alt="">
+            <image mime-type="image/png" src="../../media/MG11C8_003.png" id="id300944_onlineimage" width="142"><!-- NOTE: attribute width changes image size online (pixels). original width is 142. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/MG11C8_003.eps" id="id300944_printimage"/>
+          </media>
+        </figure>
+      </para>
+      
+      </item> </list> </solution>
+</exercise>
+<exercise id="secfhsst_id424"><title> Oplossing van Kwadratiese Ongelykhede </title>
+      <problem id="probfhsst_id425">
+      <para id="id300976">Los die kwadratiese ongelykheid <m:math overflow="scroll"><m:mrow><m:mo>-</m:mo><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>-</m:mo><m:mn>3</m:mn><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>5</m:mn><m:mo>&gt;</m:mo><m:mn>0</m:mn></m:mrow></m:math> op. </para>
+      </problem>
+      <solution id="solfhsst_id428"> <list id="listfhsst_id428" list-type="enumerated" number-style="arabic" class="stepwise">
+      <item> <label> Bepaal hoe om die probleem te benader </label>
+      <para id="id301029">Laat <m:math overflow="scroll"><m:mrow><m:mi>f</m:mi><m:mrow><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>)</m:mo></m:mrow><m:mo>=</m:mo><m:mo>-</m:mo><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>-</m:mo><m:mn>3</m:mn><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>5</m:mn></m:mrow></m:math>. <m:math overflow="scroll"><m:mrow><m:mi>f</m:mi><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>)</m:mo></m:mrow></m:math> kan nie deur inspeksie gefaktoriseer word nie, dus gebruik ons die formule vir kwadratiese vergelykings. Die <m:math overflow="scroll"><m:mi>x</m:mi></m:math>-afsnitte is die oplossings van die kwadratiese funksie.</para>
+      <equation id="id301111">
+        <m:math overflow="scroll" mode="display">
+          <m:mtable displaystyle="true">
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mrow>
+                  <m:mo>-</m:mo>
+                  <m:msup>
+                    <m:mi>x</m:mi>
+                    <m:mn>2</m:mn>
+                  </m:msup>
+                  <m:mo>-</m:mo>
+                  <m:mn>3</m:mn>
+                  <m:mi>x</m:mi>
+                  <m:mo>+</m:mo>
+                  <m:mn>5</m:mn>
+                </m:mrow>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mn>0</m:mn>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mrow>
+                  <m:msup>
+                    <m:mi>x</m:mi>
+                    <m:mn>2</m:mn>
+                  </m:msup>
+                  <m:mo>+</m:mo>
+                  <m:mn>3</m:mn>
+                  <m:mi>x</m:mi>
+                  <m:mo>-</m:mo>
+                  <m:mn>5</m:mn>
+                </m:mrow>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mn>0</m:mn>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mrow>
+                  <m:mo>∴</m:mo>
+                  <m:mi>x</m:mi>
+                </m:mrow>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mfrac>
+                  <m:mrow>
+                    <m:mo>-</m:mo>
+                    <m:mn>3</m:mn>
+                    <m:mo>±</m:mo>
+                    <m:msqrt>
+                      <m:mrow>
+                        <m:msup>
+                          <m:mrow>
+                            <m:mo>(</m:mo>
+                            <m:mn>3</m:mn>
+                            <m:mo>)</m:mo>
+                          </m:mrow>
+                          <m:mn>2</m:mn>
+                        </m:msup>
+                        <m:mo>-</m:mo>
+                        <m:mn>4</m:mn>
+                        <m:mrow>
+                          <m:mo>(</m:mo>
+                          <m:mn>1</m:mn>
+                          <m:mo>)</m:mo>
+                        </m:mrow>
+                        <m:mrow>
+                          <m:mo>(</m:mo>
+                          <m:mo>-</m:mo>
+                          <m:mn>5</m:mn>
+                          <m:mo>)</m:mo>
+                        </m:mrow>
+                      </m:mrow>
+                    </m:msqrt>
+                  </m:mrow>
+                  <m:mrow>
+                    <m:mn>2</m:mn>
+                    <m:mo>(</m:mo>
+                    <m:mn>1</m:mn>
+                    <m:mo>)</m:mo>
+                  </m:mrow>
+                </m:mfrac>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd/>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mfrac>
+                  <m:mrow>
+                    <m:mo>-</m:mo>
+                    <m:mn>3</m:mn>
+                    <m:mo>±</m:mo>
+                    <m:msqrt>
+                      <m:mn>29</m:mn>
+                    </m:msqrt>
+                  </m:mrow>
+                  <m:mn>2</m:mn>
+                </m:mfrac>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:msub>
+                  <m:mi>x</m:mi>
+                  <m:mn>1</m:mn>
+                </m:msub>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mfrac>
+                  <m:mrow>
+                    <m:mo>-</m:mo>
+                    <m:mn>3</m:mn>
+                    <m:mo>-</m:mo>
+                    <m:msqrt>
+                      <m:mn>29</m:mn>
+                    </m:msqrt>
+                  </m:mrow>
+                  <m:mn>2</m:mn>
+                </m:mfrac>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:msub>
+                  <m:mi>x</m:mi>
+                  <m:mn>2</m:mn>
+                </m:msub>
+              </m:mtd>
+              <m:mtd>
+                <m:mo>=</m:mo>
+              </m:mtd>
+              <m:mtd columnalign="left">
+                <m:mfrac>
+                  <m:mrow>
+                    <m:mo>-</m:mo>
+                    <m:mn>3</m:mn>
+                    <m:mo>+</m:mo>
+                    <m:msqrt>
+                      <m:mn>29</m:mn>
+                    </m:msqrt>
+                  </m:mrow>
+                  <m:mn>2</m:mn>
+                </m:mfrac>
+              </m:mtd>
+            </m:mtr>
+          </m:mtable>
+        </m:math>
+      </equation>
+      </item> <item> <label> Bepaal watter intervalle ooreenstem met die ongelykheid </label>
+      <para id="id301354">Ons moet bepaal watter waardes van <m:math overflow="scroll"><m:mi>x</m:mi></m:math> die ongelykheid bevredig. Vanaf die antwoorde het ons vyf areas om te ondersoek.</para>
+      <para id="id301365">
+        <figure id="id301368">
+          <media id="id301368_media" alt="">
+            <image mime-type="image/png" src="../../media/MG11C8_004.png" id="id301368_onlineimage" width="142"><!-- NOTE: attribute width changes image size online (pixels). original width is 142. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/MG11C8_004.eps" id="id301368_printimage"/>
+          </media>
+        </figure>
+      </para>
+      </item> <item> <label> Bepaal of die funksie negative of positief is in elkeen van die areas </label>
+      <para id="id301379">Daar is nog 'n manier om die teken van die funksie te bepaal in verskillende areas: deur 'n rowwe skets van die grafiek van die funksie te maak. Ons weet dat die wortels van die funksie ooreenstem met die <m:math overflow="scroll"><m:mi>x</m:mi></m:math>-afsnitte van die grafiek. Laat <m:math overflow="scroll"><m:mrow><m:mi>g</m:mi><m:mrow><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>)</m:mo></m:mrow><m:mo>=</m:mo><m:mo>-</m:mo><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>-</m:mo><m:mn>3</m:mn><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>5</m:mn></m:mrow></m:math>. Ons kan sien dat die die funksie 'n parabool is met 'n maksimum draaipunt en wat die <m:math overflow="scroll"><m:mi>x</m:mi></m:math>-as by <m:math overflow="scroll"><m:msub><m:mi>x</m:mi><m:mn>1</m:mn></m:msub></m:math> en <m:math overflow="scroll"><m:msub><m:mi>x</m:mi><m:mn>2</m:mn></m:msub></m:math> sny.</para>
+      <para id="id301466">
+        <figure id="id301469">
+          <media id="id301469_media" alt="">
+            <image mime-type="image/png" src="../../media/MG11C8_005.png" id="id301469_onlineimage" width="85"><!-- NOTE: attribute width changes image size online (pixels). original width is 85. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/MG11C8_005.eps" id="id301469_printimage"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id301475">Dit is duidelik dat <m:math overflow="scroll"><m:mrow><m:mi>g</m:mi><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>)</m:mo><m:mo>&gt;</m:mo><m:mn>0</m:mn></m:mrow></m:math> vir <m:math overflow="scroll"><m:mrow><m:msub><m:mi>x</m:mi><m:mn>1</m:mn></m:msub><m:mo>&lt;</m:mo><m:mi>x</m:mi><m:mo>&lt;</m:mo><m:msub><m:mi>x</m:mi><m:mn>2</m:mn></m:msub></m:mrow></m:math></para>
+      </item> <item> <label> Skryf die finale antwoord neer en stel die oplossing grafies voor </label>
+      <para id="id301529"><m:math overflow="scroll"><m:mrow><m:mo>-</m:mo><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>-</m:mo><m:mn>3</m:mn><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>5</m:mn><m:mo>&gt;</m:mo><m:mn>0</m:mn></m:mrow></m:math> vir <m:math overflow="scroll"><m:mrow><m:msub><m:mi>x</m:mi><m:mn>1</m:mn></m:msub><m:mo>&lt;</m:mo><m:mi>x</m:mi><m:mo>&lt;</m:mo><m:msub><m:mi>x</m:mi><m:mn>2</m:mn></m:msub></m:mrow></m:math></para>
+      <para id="id301589">
+        <figure id="id301593">
+          <media id="id301593_media" alt="">
+            <image mime-type="image/png" src="../../media/MG11C8_006.png" id="id301593_onlineimage" width="142"><!-- NOTE: attribute width changes image size online (pixels). original width is 142. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/MG11C8_006.eps" id="id301593_printimage"/>
+          </media>
+        </figure>
+      </para>
+      
+      </item> </list> </solution>
+</exercise>
+      <para id="id301615">Wanneer die veranderlike van die ongelykheid in die noemer eerder as die teller is, is 'n ander benadering nodig.</para>
+<exercise id="secfhsst_id633"><title> Nie-lineêre ongelykhede met die veranderlike in die noemer </title>
+      <problem id="probfhsst_id634">
+      <para id="id301632">Los op: <m:math overflow="scroll"><m:mrow><m:mstyle scriptlevel="0" displaystyle="true"><m:mfrac><m:mn>2</m:mn><m:mrow><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>3</m:mn></m:mrow></m:mfrac></m:mstyle><m:mo>≤</m:mo><m:mstyle scriptlevel="0" displaystyle="true"><m:mfrac><m:mn>1</m:mn><m:mrow><m:mi>x</m:mi><m:mo>-</m:mo><m:mn>3</m:mn></m:mrow></m:mfrac></m:mstyle></m:mrow></m:math> </para>
+      </problem>
+      <solution id="solfhsst_id637"> <list id="listfhsst_id637" list-type="enumerated" number-style="arabic" class="stepwise">
+      <item> <label> Trek <m:math overflow="scroll"><m:mfrac><m:mn>1</m:mn><m:mrow><m:mi>x</m:mi><m:mo>-</m:mo><m:mn>3</m:mn></m:mrow></m:mfrac></m:math> af aan beide kante </label>
+      <equation id="id301718">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mstyle scriptlevel="0" displaystyle="true">
+              <m:mfrac>
+                <m:mn>2</m:mn>
+                <m:mrow>
+                  <m:mi>x</m:mi>
+                  <m:mo>+</m:mo>
+                  <m:mn>3</m:mn>
+                </m:mrow>
+              </m:mfrac>
+            </m:mstyle>
+            <m:mo>-</m:mo>
+            <m:mstyle scriptlevel="0" displaystyle="true">
+              <m:mfrac>
+                <m:mn>1</m:mn>
+                <m:mrow>
+                  <m:mi>x</m:mi>
+                  <m:mo>-</m:mo>
+                  <m:mn>3</m:mn>
+                </m:mrow>
+              </m:mfrac>
+            </m:mstyle>
+            <m:mo>≤</m:mo>
+            <m:mn>0</m:mn>
+          </m:mrow>
+        </m:math>
+      </equation>
+      </item> <item> <label> Vereenvoudig die breuk deur die KGD te vind </label>
+      <equation id="id301771">
+        <m:math overflow="scroll" mode="display">
+          <m:mtable displaystyle="true">
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mrow>
+                  <m:mstyle scriptlevel="0" displaystyle="true">
+                    <m:mfrac>
+                      <m:mrow>
+                        <m:mn>2</m:mn>
+                        <m:mo>(</m:mo>
+                        <m:mi>x</m:mi>
+                        <m:mo>-</m:mo>
+                        <m:mn>3</m:mn>
+                        <m:mo>)</m:mo>
+                        <m:mo>-</m:mo>
+                        <m:mo>(</m:mo>
+                        <m:mi>x</m:mi>
+                        <m:mo>+</m:mo>
+                        <m:mn>3</m:mn>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:mi>x</m:mi>
+                        <m:mo>+</m:mo>
+                        <m:mn>3</m:mn>
+                        <m:mo>)</m:mo>
+                        <m:mo>(</m:mo>
+                        <m:mi>x</m:mi>
+                        <m:mo>-</m:mo>
+                        <m:mn>3</m:mn>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                    </m:mfrac>
+                  </m:mstyle>
+                  <m:mo>≤</m:mo>
+                  <m:mn>0</m:mn>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+            <m:mtr>
+              <m:mtd columnalign="right">
+                <m:mrow>
+                  <m:mstyle scriptlevel="0" displaystyle="true">
+                    <m:mfrac>
+                      <m:mrow>
+                        <m:mi>x</m:mi>
+                        <m:mo>-</m:mo>
+                        <m:mn>9</m:mn>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:mi>x</m:mi>
+                        <m:mo>+</m:mo>
+                        <m:mn>3</m:mn>
+                        <m:mo>)</m:mo>
+                        <m:mo>(</m:mo>
+                        <m:mi>x</m:mi>
+                        <m:mo>-</m:mo>
+                        <m:mn>3</m:mn>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                    </m:mfrac>
+                  </m:mstyle>
+                  <m:mo>≤</m:mo>
+                  <m:mn>0</m:mn>
+                </m:mrow>
+              </m:mtd>
+            </m:mtr>
+          </m:mtable>
+        </m:math>
+      </equation>
+      </item> <item> <label> Teken 'n getallelyn vir die ongelykheid </label>
+      <para id="id301900">
+        <figure id="id301904">
+          <media id="id301904_media" alt="">
+            <image mime-type="image/png" src="../../media/MG11C8_007.png" id="id301904_onlineimage" width="402"><!-- NOTE: attribute width changes image size online (pixels). original width is 402. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/MG11C8_007.eps" id="id301904_printimage"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id301910">Ons sien dat die uitdrukking negatief is vir <m:math overflow="scroll"><m:mrow><m:mi>x</m:mi><m:mo>&lt;</m:mo><m:mo>-</m:mo><m:mn>3</m:mn></m:mrow></m:math> en <m:math overflow="scroll"><m:mrow><m:mn>3</m:mn><m:mo>&lt;</m:mo><m:mi>x</m:mi><m:mo>≤</m:mo><m:mn>9</m:mn></m:mrow></m:math>.</para>
+      </item> <item> <label> Skryf die finale antwoord </label>
+      <equation id="id301953">
+        <m:math overflow="scroll" mode="display">
+          <m:mrow>
+            <m:mi>x</m:mi>
+            <m:mo>&lt;</m:mo>
+            <m:mo>-</m:mo>
+            <m:mn>3</m:mn>
+            <m:mspace width="1.em"/>
+            <m:mi>o</m:mi>
+            <m:mi>f</m:mi>
+            <m:mspace width="1.em"/>
+            <m:mn>3</m:mn>
+            <m:mo>&lt;</m:mo>
+            <m:mi>x</m:mi>
+            <m:mo>≤</m:mo>
+            <m:mn>9</m:mn>
+          </m:mrow>
+        </m:math>
+      </equation>
+      
+      </item> </list> </solution>
+</exercise>
+    </section>
+    <section id="cid4">
+      <title>Hoofstuksoefeninge</title>
+      <para id="id302019">Los die volgende ongelykhede op en wys jou antwoord of 'n getallelyn.</para>
+      <list id="id302023" display="block" list-type="enumerated">
+        <item id="uid1">Los op: <m:math overflow="scroll"><m:mrow><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>-</m:mo><m:mi>x</m:mi><m:mo>&lt;</m:mo><m:mn>12</m:mn></m:mrow></m:math>.
+</item>
+        <item id="uid2">Los op: <m:math overflow="scroll"><m:mrow><m:mn>3</m:mn><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>&gt;</m:mo><m:mo>-</m:mo><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>4</m:mn></m:mrow></m:math></item>
+        <item id="uid3">Los op: <m:math overflow="scroll"><m:mrow><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup><m:mo>&lt;</m:mo><m:mo>-</m:mo><m:mi>y</m:mi><m:mo>-</m:mo><m:mn>2</m:mn></m:mrow></m:math></item>
+        <item id="uid4">Los op: <m:math overflow="scroll"><m:mrow><m:mo>-</m:mo><m:msup><m:mi>t</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>2</m:mn><m:mi>t</m:mi><m:mo>&gt;</m:mo><m:mo>-</m:mo><m:mn>3</m:mn></m:mrow></m:math></item>
+        <item id="uid5">Los op: <m:math overflow="scroll"><m:mrow><m:msup><m:mi>s</m:mi><m:mn>2</m:mn></m:msup><m:mo>-</m:mo><m:mn>4</m:mn><m:mi>s</m:mi><m:mo>&gt;</m:mo><m:mo>-</m:mo><m:mn>6</m:mn></m:mrow></m:math></item>
+        <item id="uid6">Los op: <m:math overflow="scroll"><m:mrow><m:mn>0</m:mn><m:mo>≥</m:mo><m:mn>7</m:mn><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>-</m:mo><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>8</m:mn></m:mrow></m:math></item>
+        <item id="uid7">Los op: <m:math overflow="scroll"><m:mrow><m:mn>0</m:mn><m:mo>≥</m:mo><m:mo>-</m:mo><m:mn>4</m:mn><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>-</m:mo><m:mi>x</m:mi></m:mrow></m:math></item>
+        <item id="uid8">Los op: <m:math overflow="scroll"><m:mrow><m:mn>0</m:mn><m:mo>≥</m:mo><m:mn>6</m:mn><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:math></item>
+        <item id="uid9">Los op: <m:math overflow="scroll"><m:mrow><m:mn>2</m:mn><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>6</m:mn><m:mo>≤</m:mo><m:mn>0</m:mn></m:mrow></m:math></item>
+        <item id="uid10">Los op: <m:math overflow="scroll"><m:mrow><m:mstyle scriptlevel="0" displaystyle="true"><m:mfrac><m:mi>x</m:mi><m:mrow><m:mi>x</m:mi><m:mo>-</m:mo><m:mn>3</m:mn></m:mrow></m:mfrac></m:mstyle><m:mo>&lt;</m:mo><m:mn>2</m:mn></m:mrow></m:math> en <m:math overflow="scroll"><m:mrow><m:mi>x</m:mi><m:mo>≠</m:mo><m:mn>3</m:mn></m:mrow></m:math>.
+</item>
+        <item id="uid11">Los op: <m:math overflow="scroll"><m:mrow><m:mstyle scriptlevel="0" displaystyle="true"><m:mfrac><m:mn>4</m:mn><m:mrow><m:mi>x</m:mi><m:mo>-</m:mo><m:mn>3</m:mn></m:mrow></m:mfrac></m:mstyle><m:mo>≤</m:mo><m:mn>1</m:mn></m:mrow></m:math>.
+</item>
+        <item id="uid12">Los op: <m:math overflow="scroll"><m:mrow><m:mstyle scriptlevel="0" displaystyle="true"><m:mfrac><m:mn>4</m:mn><m:msup><m:mrow><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>-</m:mo><m:mn>3</m:mn><m:mo>)</m:mo></m:mrow><m:mn>2</m:mn></m:msup></m:mfrac></m:mstyle><m:mo>&lt;</m:mo><m:mn>1</m:mn></m:mrow></m:math>.
+</item>
+        <item id="uid13">Los op: <m:math overflow="scroll"><m:mrow><m:mstyle scriptlevel="0" displaystyle="true"><m:mfrac><m:mrow><m:mn>2</m:mn><m:mi>x</m:mi><m:mo>-</m:mo><m:mn>2</m:mn></m:mrow><m:mrow><m:mi>x</m:mi><m:mo>-</m:mo><m:mn>3</m:mn></m:mrow></m:mfrac></m:mstyle><m:mo>&gt;</m:mo><m:mn>3</m:mn></m:mrow></m:math></item>
+        <item id="uid14">Los op: <m:math overflow="scroll"><m:mrow><m:mstyle scriptlevel="0" displaystyle="true"><m:mfrac><m:mrow><m:mo>-</m:mo><m:mn>3</m:mn></m:mrow><m:mrow><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>-</m:mo><m:mn>3</m:mn><m:mo>)</m:mo><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>1</m:mn><m:mo>)</m:mo></m:mrow></m:mfrac></m:mstyle><m:mo>&lt;</m:mo><m:mn>0</m:mn></m:mrow></m:math></item>
+        <item id="uid15">Los op: <m:math overflow="scroll"><m:mrow><m:msup><m:mrow><m:mo>(</m:mo><m:mn>2</m:mn><m:mi>x</m:mi><m:mo>-</m:mo><m:mn>3</m:mn><m:mo>)</m:mo></m:mrow><m:mn>2</m:mn></m:msup><m:mo>&lt;</m:mo><m:mn>4</m:mn></m:mrow></m:math></item>
+        <item id="uid16">Los op: <m:math overflow="scroll"><m:mrow><m:mn>2</m:mn><m:mi>x</m:mi><m:mo>≤</m:mo><m:mstyle scriptlevel="0" displaystyle="true"><m:mfrac><m:mrow><m:mn>15</m:mn><m:mo>-</m:mo><m:mi>x</m:mi></m:mrow><m:mi>x</m:mi></m:mfrac></m:mstyle></m:mrow></m:math></item>
+        <item id="uid17">Los op: <m:math overflow="scroll"><m:mrow><m:mstyle scriptlevel="0" displaystyle="true"><m:mfrac><m:mrow><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>3</m:mn></m:mrow><m:mrow><m:mn>3</m:mn><m:mi>x</m:mi><m:mo>-</m:mo><m:mn>2</m:mn></m:mrow></m:mfrac></m:mstyle><m:mo>≤</m:mo><m:mn>0</m:mn></m:mrow></m:math></item>
+        <item id="uid18">Los op: <m:math overflow="scroll"><m:mrow><m:mi>x</m:mi><m:mo>-</m:mo><m:mn>2</m:mn><m:mo>≥</m:mo><m:mstyle scriptlevel="0" displaystyle="true"><m:mfrac><m:mn>3</m:mn><m:mi>x</m:mi></m:mfrac></m:mstyle></m:mrow></m:math></item>
+        <item id="uid19">Los op: <m:math overflow="scroll"><m:mrow><m:mstyle scriptlevel="0" displaystyle="true"><m:mfrac><m:mrow><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>3</m:mn><m:mi>x</m:mi><m:mo>-</m:mo><m:mn>4</m:mn></m:mrow><m:mrow><m:mn>5</m:mn><m:mo>+</m:mo><m:msup><m:mi>x</m:mi><m:mn>4</m:mn></m:msup></m:mrow></m:mfrac></m:mstyle><m:mo>≤</m:mo><m:mn>0</m:mn></m:mrow></m:math></item>
+        <item id="uid20">Bepaal alle reële oplossings: <m:math overflow="scroll"><m:mrow><m:mstyle scriptlevel="0" displaystyle="true"><m:mfrac><m:mrow><m:mi>x</m:mi><m:mo>-</m:mo><m:mn>2</m:mn></m:mrow><m:mrow><m:mn>3</m:mn><m:mo>-</m:mo><m:mi>x</m:mi></m:mrow></m:mfrac></m:mstyle><m:mo>≥</m:mo><m:mn>1</m:mn></m:mrow></m:math></item>
+      </list>
+    </section>
+  </content>
+</document>

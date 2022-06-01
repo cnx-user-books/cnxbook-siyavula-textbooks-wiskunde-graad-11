@@ -1,0 +1,745 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Exponente</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m38256</md:content-id>
+  <md:title>Exponente</md:title>
+  <md:abstract/>
+  <md:uuid>6a5108e8-5e6b-4a87-b493-be089289f067</md:uuid>
+</metadata>
+
+<content>
+    <section id="cid1">
+      <title>Eksponente - Graad 11</title>
+      <para id="cid1_para"/>
+    </section>
+    <section id="cid2"><title>Inleiding</title><para id="id74916">In Graad 11 het ons eksponensiële getalle bestudeer en ons het die ses wette geleer wat bewerking met eksponensiële getalle baie makliker gemaak het. Daar is een wet wat ons nie in Graad 11 gedoen het nie.  Dit sal ons hier beskryf.</para>
+</section>
+    <section id="cid3"><title>Wette van Eksponente</title><para id="id74930">In Graad 11 het ons net met indekse gewerk wat in heelgetalle was.  Wat gebeur is die indeks nie 'n heelgetal is nie, maar 'n rasionele getal?  Dit lei ons na die finale wet van eksponente,</para>
+	<equation id="uid1">
+		<m:math overflow="scroll" mode="display">
+			<m:mrow>
+				<m:msup>
+					<m:mi>a</m:mi>
+					<m:mfrac>
+						<m:mi>m</m:mi>
+						<m:mi>n</m:mi>
+					</m:mfrac>
+				</m:msup>
+				<m:mo>=</m:mo>
+				<m:mroot>
+					<m:msup>
+						<m:mi>a</m:mi>
+						<m:mi>m</m:mi>
+					</m:msup>
+					<m:mi>n</m:mi>
+				</m:mroot>
+			</m:mrow>
+		</m:math>
+	</equation>
+	<section id="uid2">
+		<title>Eksponensiële Wet 7: <m:math overflow="scroll"><m:mrow><m:msup><m:mi>a</m:mi><m:mfrac><m:mi>m</m:mi><m:mi>n</m:mi></m:mfrac></m:msup><m:mo>=</m:mo><m:mroot><m:msup><m:mi>a</m:mi><m:mi>m</m:mi></m:msup><m:mi>n</m:mi></m:mroot></m:mrow></m:math></title>
+		<para id="id75352">Ons sê dat <m:math overflow="scroll"><m:mi>x</m:mi></m:math> is 'n <m:math overflow="scroll"><m:mi>n</m:mi></m:math>de wortel van <m:math overflow="scroll"><m:mi>b</m:mi></m:math> as <m:math overflow="scroll"><m:mrow><m:msup><m:mi>x</m:mi><m:mi>n</m:mi></m:msup><m:mo>=</m:mo><m:mi>b</m:mi></m:mrow></m:math> en ons kan skryf <m:math overflow="scroll"><m:mrow><m:mi>x</m:mi><m:mo>=</m:mo><m:mroot><m:mi>b</m:mi><m:mi>n</m:mi></m:mroot></m:mrow></m:math>. <m:math overflow="scroll"><m:msup><m:mi>n</m:mi><m:mi> de </m:mi></m:msup></m:math> wortels geskryf met die radikale simbool, <m:math overflow="scroll"><m:msqrt><m:mspace width="3.33333pt"/></m:msqrt></m:math>, word verwys as wortelvorme.  Byvoorbeeld, <m:math overflow="scroll"><m:mrow><m:msup><m:mrow><m:mo>(</m:mo><m:mo>-</m:mo><m:mn>1</m:mn><m:mo>)</m:mo></m:mrow><m:mn>4</m:mn></m:msup><m:mo>=</m:mo><m:mn>1</m:mn></m:mrow></m:math>, so <m:math overflow="scroll"><m:mrow><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:math> is 'n 4de wortel van 1.  Waneer ons wet 6 gebruik sien ons dat,</para>
+		<equation id="uid3">
+			<m:math overflow="scroll" mode="display">
+				<m:mrow>
+					<m:msup>
+						<m:mrow>
+							<m:mo>(</m:mo>
+							<m:msup>
+								<m:mi>a</m:mi>
+								<m:mfrac>
+									<m:mi>m</m:mi>
+									<m:mi>n</m:mi>
+								</m:mfrac>
+							</m:msup>
+							<m:mo>)</m:mo>
+						</m:mrow>
+						<m:mi>n</m:mi>
+					</m:msup>
+					<m:mo>=</m:mo>
+					<m:msup>
+						<m:mi>a</m:mi>
+						<m:mrow>
+							<m:mfrac>
+								<m:mi>m</m:mi>
+								<m:mi>n</m:mi>
+							</m:mfrac>
+							<m:mo>×</m:mo>
+							<m:mi>n</m:mi>
+						</m:mrow>
+					</m:msup>
+					<m:mo>=</m:mo>
+					<m:msup>
+						<m:mi>a</m:mi>
+						<m:mi>m</m:mi>
+					</m:msup>
+				</m:mrow>
+			</m:math>
+		</equation>
+		<para id="id75542">dus <m:math overflow="scroll"><m:msup><m:mi>a</m:mi><m:mfrac><m:mi>m</m:mi><m:mi>n</m:mi></m:mfrac></m:msup></m:math> moet 'n <m:math overflow="scroll"><m:mi>n</m:mi></m:math>de wortel van <m:math overflow="scroll"><m:msup><m:mi>a</m:mi><m:mi>m</m:mi></m:msup></m:math> wees. Ons kan dus sê,</para>
+		<equation id="uid4">
+			<m:math overflow="scroll" mode="display">
+				<m:mrow>
+					<m:msup>
+						<m:mi>a</m:mi>
+						<m:mfrac>
+							<m:mi>m</m:mi>
+							<m:mi>n</m:mi>
+						</m:mfrac>
+					</m:msup>
+					<m:mo>=</m:mo>
+					<m:mroot>
+						<m:msup>
+							<m:mi>a</m:mi>
+							<m:mi>m</m:mi>
+						</m:msup>
+						<m:mi>n</m:mi>
+					</m:mroot>
+				</m:mrow>
+			</m:math>
+		</equation>
+		<para id="id75624">Byvoorbeeld,</para>
+		<equation id="id75627">
+			<m:math overflow="scroll" mode="display">
+				<m:mrow>
+					<m:msup>
+						<m:mn>2</m:mn>
+						<m:mfrac>
+							<m:mn>2</m:mn>
+							<m:mn>3</m:mn>
+						</m:mfrac>
+					</m:msup>
+					<m:mo>=</m:mo>
+					<m:mroot>
+						<m:msup>
+							<m:mn>2</m:mn>
+							<m:mn>2</m:mn>
+						</m:msup>
+						<m:mn>3</m:mn>
+					</m:mroot>
+				</m:mrow>
+			</m:math>
+		</equation>
+		<para id="id75661">'n Getal mag nie altyd 'n rasionele <m:math overflow="scroll"><m:mi>n</m:mi></m:math>de wortel hê nie. Byvoorbeeld, as <m:math overflow="scroll"><m:mrow><m:mi>n</m:mi><m:mo>=</m:mo><m:mn>2</m:mn></m:mrow></m:math> en
+<m:math overflow="scroll"><m:mrow><m:mi>a</m:mi><m:mo>=</m:mo><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:math>, dan is daar geen rasionele getal so dat <m:math overflow="scroll"><m:mrow><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>=</m:mo><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:math> omdat <m:math overflow="scroll"><m:mrow><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>≥</m:mo><m:mn>0</m:mn></m:mrow></m:math> vir alle rasionele getalle van <m:math overflow="scroll"><m:mi>x</m:mi></m:math>.</para>
+		<section id="secfhsst_id180"><title>
+        Komplekse Getalle </title>
+			<para id="id74855">Daar is getalle wat probleme kan oplos soos
+<m:math overflow="scroll"><m:mrow><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>=</m:mo><m:mo>-</m:mo><m:mn>1</m:mn></m:mrow></m:math>, maar dit is buite die omvang van hierdie boek.  Hulle word genoem
+<emphasis effect="italics">komplekse getalle</emphasis>. </para>
+		</section>
+		<para id="id75976">Dit is ook moentlik vir meer as een <m:math overflow="scroll"><m:mi>n</m:mi></m:math>de wortel vir 'n gegewe getal om te bestaan.  Byvoorbeeld, <m:math overflow="scroll"><m:mrow><m:msup><m:mrow><m:mo>(</m:mo><m:mo>-</m:mo><m:mn>2</m:mn><m:mo>)</m:mo></m:mrow><m:mn>2</m:mn></m:msup><m:mo>=</m:mo><m:mn>4</m:mn></m:mrow></m:math> en <m:math overflow="scroll"><m:mrow><m:msup><m:mn>2</m:mn><m:mn>2</m:mn></m:msup><m:mo>=</m:mo><m:mn>4</m:mn></m:mrow></m:math>, so beide -2 en 2 is 2de (vierkants) wortels van 4.  Gewoonlik, as daar meer as een wortel is, dan kies ons die positiewe reële getal en ons gaan aan.</para>
+		<exercise id="secfhsst_id187"><title> Rasionele Eksponente </title>
+			<problem id="probfhsst_id188">
+				<para id="id76045">Vereenvoudig sonder die gebruik van 'n sakrekenaar:</para>
+				<equation id="id76051">
+					<m:math overflow="scroll" mode="display">
+						<m:msup>
+							<m:mfenced separators="" open="(" close=")">
+								<m:mfrac>
+									<m:mn>5</m:mn>
+									<m:mrow>
+										<m:msup>
+											<m:mn>4</m:mn>
+											<m:mrow>
+												<m:mo>-</m:mo>
+												<m:mn>1</m:mn>
+											</m:mrow>
+										</m:msup>
+										<m:mo>-</m:mo>
+										<m:msup>
+											<m:mn>9</m:mn>
+											<m:mrow>
+												<m:mo>-</m:mo>
+												<m:mn>1</m:mn>
+											</m:mrow>
+										</m:msup>
+									</m:mrow>
+								</m:mfrac>
+							</m:mfenced>
+							<m:mfrac>
+								<m:mn>1</m:mn>
+								<m:mn>2</m:mn>
+							</m:mfrac>
+						</m:msup>
+					</m:math>
+				</equation>
+			</problem>
+			<solution id="solfhsst_id224">
+				<list id="listfhsst_id224" list-type="enumerated" number-style="arabic" class="stepwise">
+					<item>
+						<label> Herskryf negatiewe eksponente as getalle met positiewe indukse </label>
+						<equation id="id76126">
+							<m:math overflow="scroll" mode="display">
+								<m:mtable displaystyle="true">
+									<m:mtr>
+										<m:mtd/>
+										<m:mtd>
+											<m:mo>=</m:mo>
+										</m:mtd>
+										<m:mtd columnalign="left">
+											<m:msup>
+												<m:mfenced separators="" open="(" close=")">
+													<m:mfrac>
+														<m:mn>5</m:mn>
+														<m:mrow>
+															<m:mfrac>
+																<m:mn>1</m:mn>
+																<m:mn>4</m:mn>
+															</m:mfrac>
+															<m:mo>-</m:mo>
+															<m:mfrac>
+																<m:mn>1</m:mn>
+																<m:mn>9</m:mn>
+															</m:mfrac>
+														</m:mrow>
+													</m:mfrac>
+												</m:mfenced>
+												<m:mfrac>
+													<m:mn>1</m:mn>
+													<m:mn>2</m:mn>
+												</m:mfrac>
+											</m:msup>
+										</m:mtd>
+									</m:mtr>
+								</m:mtable>
+							</m:math>
+						</equation>
+					</item>
+					<item>
+						<label> Vereenvoudig tussen hakies </label>
+						<equation id="id76186">
+							<m:math overflow="scroll" mode="display">
+								<m:mtable displaystyle="true">
+									<m:mtr>
+										<m:mtd/>
+										<m:mtd>
+											<m:mo>=</m:mo>
+										</m:mtd>
+										<m:mtd columnalign="left">
+											<m:msup>
+												<m:mfenced separators="" open="(" close=")">
+													<m:mfrac>
+														<m:mn>5</m:mn>
+														<m:mn>1</m:mn>
+													</m:mfrac>
+													<m:mo>÷</m:mo>
+													<m:mfrac>
+														<m:mrow>
+															<m:mn>9</m:mn>
+															<m:mo>-</m:mo>
+															<m:mn>4</m:mn>
+														</m:mrow>
+														<m:mn>36</m:mn>
+													</m:mfrac>
+												</m:mfenced>
+												<m:mfrac>
+													<m:mn>1</m:mn>
+													<m:mn>2</m:mn>
+												</m:mfrac>
+											</m:msup>
+										</m:mtd>
+									</m:mtr>
+									<m:mtr>
+										<m:mtd/>
+										<m:mtd>
+											<m:mo>=</m:mo>
+										</m:mtd>
+										<m:mtd columnalign="left">
+											<m:msup>
+												<m:mfenced separators="" open="(" close=")">
+													<m:mfrac>
+														<m:mn>5</m:mn>
+														<m:mn>1</m:mn>
+													</m:mfrac>
+													<m:mo>×</m:mo>
+													<m:mfrac>
+														<m:mn>36</m:mn>
+														<m:mn>5</m:mn>
+													</m:mfrac>
+												</m:mfenced>
+												<m:mfrac>
+													<m:mn>1</m:mn>
+													<m:mn>2</m:mn>
+												</m:mfrac>
+											</m:msup>
+										</m:mtd>
+									</m:mtr>
+									<m:mtr>
+										<m:mtd/>
+										<m:mtd>
+											<m:mo>=</m:mo>
+										</m:mtd>
+										<m:mtd columnalign="left">
+											<m:msup>
+												<m:mrow>
+													<m:mo>(</m:mo>
+													<m:msup>
+														<m:mn>6</m:mn>
+														<m:mn>2</m:mn>
+													</m:msup>
+													<m:mo>)</m:mo>
+												</m:mrow>
+												<m:mfrac>
+													<m:mn>1</m:mn>
+													<m:mn>2</m:mn>
+												</m:mfrac>
+											</m:msup>
+										</m:mtd>
+									</m:mtr>
+								</m:mtable>
+							</m:math>
+						</equation>
+					</item>
+					<item>
+						<label> Gebruik eksponensiële wet 6 </label>
+						<equation id="id76317">
+							<m:math overflow="scroll" mode="display">
+								<m:mtable displaystyle="true">
+									<m:mtr>
+										<m:mtd/>
+										<m:mtd>
+											<m:mo>=</m:mo>
+										</m:mtd>
+										<m:mtd columnalign="left">
+											<m:mn>6</m:mn>
+										</m:mtd>
+									</m:mtr>
+								</m:mtable>
+							</m:math>
+						</equation>
+					</item>
+				</list>
+			</solution>
+		</exercise>
+		<exercise id="secfhsst_id364"><title> Meer Rasionele Eksponente </title>
+			<problem id="probfhsst_id365">
+				<para id="id76366">Vereenvoudig:</para>
+				<equation id="id76372">
+					<m:math overflow="scroll" mode="display">
+						<m:msup>
+							<m:mrow>
+								<m:mo>(</m:mo>
+								<m:mn>16</m:mn>
+								<m:msup>
+									<m:mi>x</m:mi>
+									<m:mn>4</m:mn>
+								</m:msup>
+								<m:mo>)</m:mo>
+							</m:mrow>
+							<m:mfrac>
+								<m:mn>3</m:mn>
+								<m:mn>4</m:mn>
+							</m:mfrac>
+						</m:msup>
+					</m:math>
+				</equation>
+			</problem>
+			<solution id="solfhsst_id388">
+				<list id="listfhsst_id388" list-type="enumerated" number-style="arabic" class="stepwise">
+					<item>
+						<label> Omskep die getal koëffisiënt na indeks-vorm met 'n prima basis </label>
+						<equation id="id76426">
+							<m:math overflow="scroll" mode="display">
+								<m:mtable displaystyle="true">
+									<m:mtr>
+										<m:mtd/>
+										<m:mtd>
+											<m:mo>=</m:mo>
+										</m:mtd>
+										<m:mtd columnalign="left">
+											<m:msup>
+												<m:mrow>
+													<m:mo>(</m:mo>
+													<m:msup>
+														<m:mn>2</m:mn>
+														<m:mn>4</m:mn>
+													</m:msup>
+													<m:msup>
+														<m:mi>x</m:mi>
+														<m:mn>4</m:mn>
+													</m:msup>
+													<m:mo>)</m:mo>
+												</m:mrow>
+												<m:mfrac>
+													<m:mn>3</m:mn>
+													<m:mn>4</m:mn>
+												</m:mfrac>
+											</m:msup>
+										</m:mtd>
+									</m:mtr>
+								</m:mtable>
+							</m:math>
+						</equation>
+					</item>
+					<item>
+						<label> Gebruik eksponensiële wette </label>
+						<equation id="id76479">
+							<m:math overflow="scroll" mode="display">
+								<m:mtable displaystyle="true">
+									<m:mtr>
+										<m:mtd/>
+										<m:mtd>
+											<m:mo>=</m:mo>
+										</m:mtd>
+										<m:mtd columnalign="left">
+											<m:mrow>
+												<m:msup>
+													<m:mn>2</m:mn>
+													<m:mrow>
+														<m:mn>4</m:mn>
+														<m:mo>×</m:mo>
+														<m:mfrac>
+															<m:mn>3</m:mn>
+															<m:mn>4</m:mn>
+														</m:mfrac>
+													</m:mrow>
+												</m:msup>
+												<m:mo>.</m:mo>
+												<m:msup>
+													<m:mi>x</m:mi>
+													<m:mrow>
+														<m:mn>4</m:mn>
+														<m:mo>×</m:mo>
+														<m:mfrac>
+															<m:mn>3</m:mn>
+															<m:mn>4</m:mn>
+														</m:mfrac>
+													</m:mrow>
+												</m:msup>
+											</m:mrow>
+										</m:mtd>
+									</m:mtr>
+									<m:mtr>
+										<m:mtd/>
+										<m:mtd>
+											<m:mo>=</m:mo>
+										</m:mtd>
+										<m:mtd columnalign="left">
+											<m:mrow>
+												<m:msup>
+													<m:mn>2</m:mn>
+													<m:mn>3</m:mn>
+												</m:msup>
+												<m:mo>.</m:mo>
+												<m:msup>
+													<m:mi>x</m:mi>
+													<m:mn>3</m:mn>
+												</m:msup>
+											</m:mrow>
+										</m:mtd>
+									</m:mtr>
+									<m:mtr>
+										<m:mtd/>
+										<m:mtd>
+											<m:mo>=</m:mo>
+										</m:mtd>
+										<m:mtd columnalign="left">
+											<m:mrow>
+												<m:mn>8</m:mn>
+												<m:msup>
+													<m:mi>x</m:mi>
+													<m:mn>3</m:mn>
+												</m:msup>
+											</m:mrow>
+										</m:mtd>
+									</m:mtr>
+								</m:mtable>
+							</m:math>
+						</equation>
+					</item>
+				</list>
+			</solution>
+		</exercise>
+		<section id="secfhsst_id499"><title> Toepassing van Wette </title>
+			<para id="id76604">Gebruik al die wette om:</para>
+			<list id="id76609" display="block" list-type="enumerated">
+				<item id="uid5">Vereenvoudig:
+<table id="id76623" summary=""><tgroup cols="2"><tbody><row><entry>(a) <m:math overflow="scroll"><m:mrow><m:mrow><m:mo>(</m:mo><m:msup><m:mi>x</m:mi><m:mn>0</m:mn></m:msup><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:mn>5</m:mn><m:msup><m:mi>x</m:mi><m:mn>0</m:mn></m:msup><m:mo>-</m:mo><m:msup><m:mrow><m:mo>(</m:mo><m:mn>0</m:mn><m:mo>,</m:mo><m:mn>25</m:mn><m:mo>)</m:mo></m:mrow><m:mrow><m:mo>-</m:mo><m:mn>0</m:mn><m:mo>,</m:mo><m:mn>5</m:mn></m:mrow></m:msup><m:mo>+</m:mo><m:msup><m:mn>8</m:mn><m:mfrac><m:mn>2</m:mn><m:mn>3</m:mn></m:mfrac></m:msup></m:mrow></m:math></entry><entry>(b) <m:math overflow="scroll"><m:mrow><m:msup><m:mi>s</m:mi><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:msup><m:mo>÷</m:mo><m:msup><m:mi>s</m:mi><m:mfrac><m:mn>1</m:mn><m:mn>3</m:mn></m:mfrac></m:msup></m:mrow></m:math></entry></row><row><entry>(c) <m:math overflow="scroll"><m:mfrac><m:mrow><m:mn>12</m:mn><m:msup><m:mi>m</m:mi><m:mfrac><m:mn>7</m:mn><m:mn>9</m:mn></m:mfrac></m:msup></m:mrow><m:mrow><m:mn>8</m:mn><m:msup><m:mi>m</m:mi><m:mrow><m:mo>-</m:mo><m:mfrac><m:mn>11</m:mn><m:mn>9</m:mn></m:mfrac></m:mrow></m:msup></m:mrow></m:mfrac></m:math></entry><entry>(d) <m:math overflow="scroll"><m:msup><m:mrow><m:mo>(</m:mo><m:mn>64</m:mn><m:msup><m:mi>m</m:mi><m:mn>6</m:mn></m:msup><m:mo>)</m:mo></m:mrow><m:mfrac><m:mn>2</m:mn><m:mn>3</m:mn></m:mfrac></m:msup></m:math></entry></row></tbody></tgroup></table></item>
+				<item id="uid6">Her-skryf die volgende uitdrukking as 'n krag van
+ <m:math overflow="scroll"><m:mi>x</m:mi></m:math>:
+<equation id="id76844"><m:math overflow="scroll" mode="display"><m:mrow><m:mi>x</m:mi><m:msqrt><m:mrow><m:mi>x</m:mi><m:msqrt><m:mrow><m:mi>x</m:mi><m:msqrt><m:mrow><m:mi>x</m:mi><m:msqrt><m:mi>x</m:mi></m:msqrt></m:mrow></m:msqrt></m:mrow></m:msqrt></m:mrow></m:msqrt></m:mrow></m:math></equation></item>
+			</list>
+		</section>
+	</section>
+</section>
+    <section id="cid4">
+      <title>Eksponensiële in die Werklike Wêreld</title>
+      <para id="id76890">In Graad 10 Finansies, het julle eksponensiële gebruik om verskillende tipe rente te bereken.  Byvoorbeeld op 'n spaarrekening of op 'n lening en saamgestelde groei.</para>
+<exercise id="secfhsst_id514"><title>Eksponensiële in die Werklike Wêreld</title><problem id="probfhsst_id515">
+		<para id="id76907">'n Spesifike tipe bakterieë het 'n baie hoë eksponensiële groei koers teen 80% elke uur. As daar 10 bakterieë is, bepaal hoeveel daar sal wees na 5 uur, 'n dag en na 1 week? </para>
+	</problem>
+	<solution id="solfhsst_id518">
+		<list id="listfhsst_id518" list-type="enumerated" number-style="arabic" class="stepwise">
+			<item>
+				<label>
+					<m:math overflow="scroll"><m:mrow><m:mi>P</m:mi><m:mi>o</m:mi><m:mi>p</m:mi><m:mi>u</m:mi><m:mi>l</m:mi><m:mi>a</m:mi><m:mi>t</m:mi><m:mi>i</m:mi><m:mi>o</m:mi><m:mi>n</m:mi><m:mo>=</m:mo><m:mi>I</m:mi><m:mi>n</m:mi><m:mi>i</m:mi><m:mi>t</m:mi><m:mi>i</m:mi><m:mi>a</m:mi><m:mi>l</m:mi><m:mspace width="3.33333pt"/><m:mi>p</m:mi><m:mi>o</m:mi><m:mi>p</m:mi><m:mi>u</m:mi><m:mi>l</m:mi><m:mi>a</m:mi><m:mi>t</m:mi><m:mi>i</m:mi><m:mi>o</m:mi><m:mi>n</m:mi><m:mo>×</m:mo><m:msup><m:mrow><m:mo>(</m:mo><m:mn>1</m:mn><m:mo>+</m:mo><m:mi>g</m:mi><m:mi>r</m:mi><m:mi>o</m:mi><m:mi>w</m:mi><m:mi>t</m:mi><m:mi>h</m:mi><m:mspace width="3.33333pt"/><m:mi>p</m:mi><m:mi>e</m:mi><m:mi>r</m:mi><m:mi>c</m:mi><m:mi>e</m:mi><m:mi>n</m:mi><m:mi>t</m:mi><m:mi>a</m:mi><m:mi>g</m:mi><m:mi>e</m:mi><m:mo>)</m:mo></m:mrow><m:mrow><m:mi>t</m:mi><m:mi>i</m:mi><m:mi>m</m:mi><m:mi>e</m:mi><m:mspace width="3.33333pt"/><m:mi>p</m:mi><m:mi>e</m:mi><m:mi>r</m:mi><m:mi>i</m:mi><m:mi>o</m:mi><m:mi>d</m:mi><m:mspace width="3.33333pt"/><m:mi>i</m:mi><m:mi>n</m:mi><m:mspace width="3.33333pt"/><m:mi>h</m:mi><m:mi>o</m:mi><m:mi>u</m:mi><m:mi>r</m:mi><m:mi>s</m:mi></m:mrow></m:msup></m:mrow></m:math>
+				</label>
+				<para id="id77098">Daarom, in hierdie geval:</para>
+				<para id="id77101"><m:math overflow="scroll"><m:mrow><m:mi>P</m:mi><m:mi>o</m:mi><m:mi>p</m:mi><m:mi>u</m:mi><m:mi>l</m:mi><m:mi>a</m:mi><m:mi>t</m:mi><m:mi>i</m:mi><m:mi>o</m:mi><m:mi>n</m:mi><m:mo>=</m:mo><m:mn>10</m:mn><m:msup><m:mrow><m:mo>(</m:mo><m:mn>1</m:mn><m:mo>,</m:mo><m:mn>8</m:mn><m:mo>)</m:mo></m:mrow><m:mi>n</m:mi></m:msup></m:mrow></m:math>, waar <m:math overflow="scroll"><m:mi>n</m:mi></m:math> = aantel ure</para>
+			</item>
+			<item>
+				<label> In 5 ure</label>
+				<para id="id77166">
+					<m:math overflow="scroll">
+						<m:mrow>
+							<m:mi>P</m:mi>
+							<m:mi>o</m:mi>
+							<m:mi>p</m:mi>
+							<m:mi>u</m:mi>
+							<m:mi>l</m:mi>
+							<m:mi>a</m:mi>
+							<m:mi>t</m:mi>
+							<m:mi>i</m:mi>
+							<m:mi>o</m:mi>
+							<m:mi>n</m:mi>
+							<m:mo>=</m:mo>
+							<m:mn>10</m:mn>
+							<m:msup>
+								<m:mrow>
+									<m:mo>(</m:mo>
+									<m:mn>1</m:mn>
+									<m:mo>,</m:mo>
+									<m:mn>8</m:mn>
+									<m:mo>)</m:mo>
+								</m:mrow>
+								<m:mn>5</m:mn>
+							</m:msup>
+							<m:mo>=</m:mo>
+							<m:mn>189</m:mn>
+						</m:mrow>
+					</m:math>
+				</para>
+			</item>
+			<item>
+				<label> In 1 dag = 24 ure</label>
+				<para id="id77225">
+					<m:math overflow="scroll">
+						<m:mrow>
+							<m:mi>P</m:mi>
+							<m:mi>o</m:mi>
+							<m:mi>p</m:mi>
+							<m:mi>u</m:mi>
+							<m:mi>l</m:mi>
+							<m:mi>a</m:mi>
+							<m:mi>t</m:mi>
+							<m:mi>i</m:mi>
+							<m:mi>o</m:mi>
+							<m:mi>n</m:mi>
+							<m:mo>=</m:mo>
+							<m:mn>10</m:mn>
+							<m:msup>
+								<m:mrow>
+									<m:mo>(</m:mo>
+									<m:mn>1</m:mn>
+									<m:mo>,</m:mo>
+									<m:mn>8</m:mn>
+									<m:mo>)</m:mo>
+								</m:mrow>
+								<m:mn>24</m:mn>
+							</m:msup>
+							<m:mo>=</m:mo>
+							<m:mn>13</m:mn>
+							<m:mspace width="3.33333pt"/>
+							<m:mn>382</m:mn>
+							<m:mspace width="3.33333pt"/>
+							<m:mn>588</m:mn>
+						</m:mrow>
+					</m:math>
+				</para>
+			</item>
+			<item>
+				<label> In 1 week = 168 ure</label>
+				<para id="id77294">
+					<m:math overflow="scroll">
+						<m:mrow>
+							<m:mi>P</m:mi>
+							<m:mi>o</m:mi>
+							<m:mi>p</m:mi>
+							<m:mi>u</m:mi>
+							<m:mi>l</m:mi>
+							<m:mi>a</m:mi>
+							<m:mi>t</m:mi>
+							<m:mi>i</m:mi>
+							<m:mi>o</m:mi>
+							<m:mi>n</m:mi>
+							<m:mo>=</m:mo>
+							<m:mn>10</m:mn>
+							<m:msup>
+								<m:mrow>
+									<m:mo>(</m:mo>
+									<m:mn>1</m:mn>
+									<m:mo>,</m:mo>
+									<m:mn>8</m:mn>
+									<m:mo>)</m:mo>
+								</m:mrow>
+								<m:mn>168</m:mn>
+							</m:msup>
+							<m:mo>=</m:mo>
+							<m:mn>7</m:mn>
+							<m:mo>,</m:mo>
+							<m:mn>687</m:mn>
+							<m:mo>×</m:mo>
+							<m:msup>
+								<m:mn>10</m:mn>
+								<m:mn>43</m:mn>
+							</m:msup>
+						</m:mrow>
+					</m:math>
+				</para>
+				<para id="id77363">Let op dat hierdie antwoord in wetenskaplike notasie aangedei woord want dit is 'n baie groot getal. </para>
+			</item>
+		</list>
+	</solution>
+</exercise>
+<exercise id="secfhsst_id629"><title>Meer Eksponensiële in die Werklike Wêreld</title><problem id="probfhsst_id630">
+		<para id="id77392">'n Spesifike soort van uiters skaars diep water vis het 'n baie lang leeftyd en het slede kinders. As daar 'n totaal van 821 van hierdie tipe vis is en hulle groei koers is 2% per mannd, hoeveel sal daar wees by die helfte van 'n gegewe jaar? Wat sal de bevolking wees in 10 jaar en in 'n 100 jaar wees? </para>
+	</problem>
+	<solution id="solfhsst_id633">
+		<list id="listfhsst_id633" list-type="enumerated" number-style="arabic" class="stepwise">
+			<item>
+				<label>
+					<m:math overflow="scroll"><m:mrow><m:mi>P</m:mi><m:mi>o</m:mi><m:mi>p</m:mi><m:mi>u</m:mi><m:mi>l</m:mi><m:mi>a</m:mi><m:mi>t</m:mi><m:mi>i</m:mi><m:mi>o</m:mi><m:mi>n</m:mi><m:mo>=</m:mo><m:mi>I</m:mi><m:mi>n</m:mi><m:mi>i</m:mi><m:mi>t</m:mi><m:mi>i</m:mi><m:mi>a</m:mi><m:mi>l</m:mi><m:mspace width="3.33333pt"/><m:mi>p</m:mi><m:mi>o</m:mi><m:mi>p</m:mi><m:mi>u</m:mi><m:mi>l</m:mi><m:mi>a</m:mi><m:mi>t</m:mi><m:mi>i</m:mi><m:mi>o</m:mi><m:mi>n</m:mi><m:mo>×</m:mo><m:msup><m:mrow><m:mo>(</m:mo><m:mn>1</m:mn><m:mo>+</m:mo><m:mi>g</m:mi><m:mi>r</m:mi><m:mi>o</m:mi><m:mi>w</m:mi><m:mi>t</m:mi><m:mi>h</m:mi><m:mspace width="3.33333pt"/><m:mi>p</m:mi><m:mi>e</m:mi><m:mi>r</m:mi><m:mi>c</m:mi><m:mi>e</m:mi><m:mi>n</m:mi><m:mi>t</m:mi><m:mi>a</m:mi><m:mi>g</m:mi><m:mi>e</m:mi><m:mo>)</m:mo></m:mrow><m:mrow><m:mi>t</m:mi><m:mi>i</m:mi><m:mi>m</m:mi><m:mi>e</m:mi><m:mspace width="3.33333pt"/><m:mi>p</m:mi><m:mi>e</m:mi><m:mi>r</m:mi><m:mi>i</m:mi><m:mi>o</m:mi><m:mi>d</m:mi><m:mspace width="3.33333pt"/><m:mi>i</m:mi><m:mi>n</m:mi><m:mspace width="3.33333pt"/><m:mi>m</m:mi><m:mi>o</m:mi><m:mi>n</m:mi><m:mi>t</m:mi><m:mi>h</m:mi><m:mi>s</m:mi></m:mrow></m:msup></m:mrow></m:math>
+				</label>
+				<para id="id77587">Daarom, in hierdie geval:</para>
+				<para id="id77590"><m:math overflow="scroll"><m:mrow><m:mi>P</m:mi><m:mi>o</m:mi><m:mi>p</m:mi><m:mi>u</m:mi><m:mi>l</m:mi><m:mi>a</m:mi><m:mi>t</m:mi><m:mi>i</m:mi><m:mi>o</m:mi><m:mi>n</m:mi><m:mo>=</m:mo><m:mn>821</m:mn><m:msup><m:mrow><m:mo>(</m:mo><m:mn>1</m:mn><m:mo>,</m:mo><m:mn>02</m:mn><m:mo>)</m:mo></m:mrow><m:mi>n</m:mi></m:msup></m:mrow></m:math>, waar<m:math overflow="scroll"><m:mi>n</m:mi></m:math> = aantal maande</para>
+			</item>
+			<item>
+				<label> 'n half jaar = 6 mande</label>
+				<para id="id77656">
+					<m:math overflow="scroll">
+						<m:mrow>
+							<m:mi>P</m:mi>
+							<m:mi>o</m:mi>
+							<m:mi>p</m:mi>
+							<m:mi>u</m:mi>
+							<m:mi>l</m:mi>
+							<m:mi>a</m:mi>
+							<m:mi>t</m:mi>
+							<m:mi>i</m:mi>
+							<m:mi>o</m:mi>
+							<m:mi>n</m:mi>
+							<m:mo>=</m:mo>
+							<m:mn>821</m:mn>
+							<m:msup>
+								<m:mrow>
+									<m:mo>(</m:mo>
+									<m:mn>1</m:mn>
+									<m:mo>,</m:mo>
+									<m:mn>02</m:mn>
+									<m:mo>)</m:mo>
+								</m:mrow>
+								<m:mn>6</m:mn>
+							</m:msup>
+							<m:mo>=</m:mo>
+							<m:mn>925</m:mn>
+						</m:mrow>
+					</m:math>
+				</para>
+			</item>
+			<item>
+				<label> 10 jaar = 120 mande</label>
+				<para id="id77715">
+					<m:math overflow="scroll">
+						<m:mrow>
+							<m:mi>P</m:mi>
+							<m:mi>o</m:mi>
+							<m:mi>p</m:mi>
+							<m:mi>u</m:mi>
+							<m:mi>l</m:mi>
+							<m:mi>a</m:mi>
+							<m:mi>t</m:mi>
+							<m:mi>i</m:mi>
+							<m:mi>o</m:mi>
+							<m:mi>n</m:mi>
+							<m:mo>=</m:mo>
+							<m:mn>821</m:mn>
+							<m:msup>
+								<m:mrow>
+									<m:mo>(</m:mo>
+									<m:mn>1</m:mn>
+									<m:mo>,</m:mo>
+									<m:mn>02</m:mn>
+									<m:mo>)</m:mo>
+								</m:mrow>
+								<m:mn>120</m:mn>
+							</m:msup>
+							<m:mo>=</m:mo>
+							<m:mn>8</m:mn>
+							<m:mspace width="3.33333pt"/>
+							<m:mn>838</m:mn>
+						</m:mrow>
+					</m:math>
+				</para>
+			</item>
+			<item>
+				<label> 'n 100 jaar= 1 200 mande</label>
+				<para id="id77781">
+					<m:math overflow="scroll">
+						<m:mrow>
+							<m:mi>P</m:mi>
+							<m:mi>o</m:mi>
+							<m:mi>p</m:mi>
+							<m:mi>u</m:mi>
+							<m:mi>l</m:mi>
+							<m:mi>a</m:mi>
+							<m:mi>t</m:mi>
+							<m:mi>i</m:mi>
+							<m:mi>o</m:mi>
+							<m:mi>n</m:mi>
+							<m:mo>=</m:mo>
+							<m:mn>821</m:mn>
+							<m:msup>
+								<m:mrow>
+									<m:mo>(</m:mo>
+									<m:mn>1</m:mn>
+									<m:mo>,</m:mo>
+									<m:mn>02</m:mn>
+									<m:mo>)</m:mo>
+								</m:mrow>
+								<m:mrow>
+									<m:mn>1</m:mn>
+									<m:mspace width="3.33333pt"/>
+									<m:mn>200</m:mn>
+								</m:mrow>
+							</m:msup>
+							<m:mo>=</m:mo>
+							<m:mn>1</m:mn>
+							<m:mo>,</m:mo>
+							<m:mn>716</m:mn>
+							<m:mo>×</m:mo>
+							<m:msup>
+								<m:mn>10</m:mn>
+								<m:mn>13</m:mn>
+							</m:msup>
+						</m:mrow>
+					</m:math>
+				</para>
+				<para id="id77857">Let op dat hierdie antwoord in wetenskaplike notasie aangedui woord want dit is 'n baie groot getal. </para>
+			</item>
+		</list>
+	</solution>
+</exercise>
+    </section>
+    <section id="cid5">
+      <title>Einde van Hoofstuk Oefeninge</title>
+      <list id="id77884" display="block" list-type="enumerated"><item id="uid7">Vereenvoudig so ver as moontlik:
+<list id="id77900" display="block" list-type="enumerated"><item id="uid8"><m:math overflow="scroll"><m:msup><m:mn>8</m:mn><m:mrow><m:mo>-</m:mo><m:mfrac><m:mn>2</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:msup></m:math></item><item id="uid9"><m:math overflow="scroll"><m:mrow><m:msqrt><m:mn>16</m:mn></m:msqrt><m:mo>+</m:mo><m:msup><m:mn>8</m:mn><m:mrow><m:mo>-</m:mo><m:mfrac><m:mn>2</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:msup></m:mrow></m:math></item></list></item>
+	<item id="uid10">Vereenvoudig:
+<table id="id77985" summary=""><tgroup cols="2"><tbody><row><entry>(a) <m:math overflow="scroll"><m:msup><m:mrow><m:mo>(</m:mo><m:msup><m:mi>x</m:mi><m:mn>3</m:mn></m:msup><m:mo>)</m:mo></m:mrow><m:mfrac><m:mn>4</m:mn><m:mn>3</m:mn></m:mfrac></m:msup></m:math></entry><entry>(b) <m:math overflow="scroll"><m:msup><m:mrow><m:mo>(</m:mo><m:msup><m:mi>s</m:mi><m:mn>2</m:mn></m:msup><m:mo>)</m:mo></m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:msup></m:math></entry></row><row><entry>(c) <m:math overflow="scroll"><m:msup><m:mrow><m:mo>(</m:mo><m:msup><m:mi>m</m:mi><m:mn>5</m:mn></m:msup><m:mo>)</m:mo></m:mrow><m:mfrac><m:mn>5</m:mn><m:mn>3</m:mn></m:mfrac></m:msup></m:math></entry><entry>(d) <m:math overflow="scroll"><m:msup><m:mrow><m:mo>(</m:mo><m:mo>-</m:mo><m:msup><m:mi>m</m:mi><m:mn>2</m:mn></m:msup><m:mo>)</m:mo></m:mrow><m:mfrac><m:mn>4</m:mn><m:mn>3</m:mn></m:mfrac></m:msup></m:math></entry></row><row><entry>(e) <m:math overflow="scroll"><m:mrow><m:mo>-</m:mo><m:msup><m:mrow><m:mo>(</m:mo><m:msup><m:mi>m</m:mi><m:mn>2</m:mn></m:msup><m:mo>)</m:mo></m:mrow><m:mfrac><m:mn>4</m:mn><m:mn>3</m:mn></m:mfrac></m:msup></m:mrow></m:math></entry><entry>(f) <m:math overflow="scroll"><m:msup><m:mrow><m:mo>(</m:mo><m:mn>3</m:mn><m:msup><m:mi>y</m:mi><m:mfrac><m:mn>4</m:mn><m:mn>3</m:mn></m:mfrac></m:msup><m:mo>)</m:mo></m:mrow><m:mn>4</m:mn></m:msup></m:math></entry></row></tbody></tgroup></table></item>
+	<item id="uid11">Vereenvoudig so veel as wat jy kan:
+<equation id="id78217"><m:math overflow="scroll" mode="display"><m:mfrac><m:mrow><m:mn>3</m:mn><m:msup><m:mi>a</m:mi><m:mrow><m:mo>-</m:mo><m:mn>2</m:mn></m:mrow></m:msup><m:msup><m:mi>b</m:mi><m:mn>15</m:mn></m:msup><m:msup><m:mi>c</m:mi><m:mrow><m:mo>-</m:mo><m:mn>5</m:mn></m:mrow></m:msup></m:mrow><m:msup><m:mfenced separators="" open="(" close=")"><m:msup><m:mi>a</m:mi><m:mrow><m:mo>-</m:mo><m:mn>4</m:mn></m:mrow></m:msup><m:msup><m:mi>b</m:mi><m:mn>3</m:mn></m:msup><m:mi>c</m:mi></m:mfenced><m:mfrac><m:mrow><m:mo>-</m:mo><m:mn>5</m:mn></m:mrow><m:mn>2</m:mn></m:mfrac></m:msup></m:mfrac></m:math></equation></item>
+	<item id="uid12">Vereenvoudig so veel as wat jy kan:
+<equation id="id78312"><m:math overflow="scroll" mode="display"><m:msup><m:mfenced separators="" open="(" close=")"><m:mn>9</m:mn><m:msup><m:mi>a</m:mi><m:mn>6</m:mn></m:msup><m:msup><m:mi>b</m:mi><m:mn>4</m:mn></m:msup></m:mfenced><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:msup></m:math></equation></item>
+	<item id="uid13">Vereenvoudig so veel as wat jy kan:
+<equation id="id78367"><m:math overflow="scroll" mode="display"><m:msup><m:mfenced separators="" open="(" close=")"><m:msup><m:mi>a</m:mi><m:mfrac><m:mn>3</m:mn><m:mn>2</m:mn></m:mfrac></m:msup><m:msup><m:mi>b</m:mi><m:mfrac><m:mn>3</m:mn><m:mn>4</m:mn></m:mfrac></m:msup></m:mfenced><m:mn>16</m:mn></m:msup></m:math></equation></item>
+	<item id="uid14">Vereenvoudig:
+<equation id="id78423"><m:math overflow="scroll" mode="display"><m:mrow><m:msup><m:mi>x</m:mi><m:mn>3</m:mn></m:msup><m:msqrt><m:mi>x</m:mi></m:msqrt></m:mrow></m:math></equation></item>
+	<item id="uid15">Vereenvoudig:
+<equation id="id78456"><m:math overflow="scroll" mode="display"><m:mroot><m:mrow><m:msup><m:mi>x</m:mi><m:mn>4</m:mn></m:msup><m:msup><m:mi>b</m:mi><m:mn>5</m:mn></m:msup></m:mrow><m:mn>3</m:mn></m:mroot></m:math></equation></item>
+	<item id="uid16">Herskryf die volgende uitdrukking as 'n krag van<m:math overflow="scroll"><m:mi>x</m:mi></m:math>:
+<equation id="id78507"><m:math overflow="scroll" mode="display"><m:mfrac><m:mrow><m:mi>x</m:mi><m:msqrt><m:mrow><m:mi>x</m:mi><m:msqrt><m:mrow><m:mi>x</m:mi><m:msqrt><m:mrow><m:mi>x</m:mi><m:msqrt><m:mi>x</m:mi></m:msqrt></m:mrow></m:msqrt></m:mrow></m:msqrt></m:mrow></m:msqrt></m:mrow><m:mroot><m:mi>x</m:mi><m:mn>3</m:mn></m:mroot></m:mfrac></m:math></equation></item>
+</list>
+    </section>
+  </content>
+</document>

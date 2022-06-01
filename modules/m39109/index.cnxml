@@ -1,0 +1,377 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Huidige en toekomstige waardes</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m39109</md:content-id>
+  <md:title>Huidige en toekomstige waardes</md:title>
+  <md:abstract/>
+  <md:uuid>a0673a52-3c93-402f-b607-756d526a257b</md:uuid>
+</metadata>
+
+<content>
+    <section id="cid6">
+      <title>Huidige  Waarde of Toekomstige Waarde van 'n Belegging of Lening</title>
+      <section id="uid10">
+        <title>Nou of later</title>
+        <para id="id343875">Toe ons enkelvoudige en saamgestelde rente gedoen het, het ons begin met 'n bedrag geld wat ons nou het, en toe bereken wat dit werd sal wees oor 'n tydperk in die toekoms. 
+Of die geld geleen of belê was, ons het bereken hoeveel die totale waarde sal wees op 'n spesifieke dag in die toekoms. Ons noem hierdie waardes <emphasis effect="italics">toekomstige waardes</emphasis>. 
+
+
+ </para>
+        <para id="id343886">Dit is egter ook moontlik om te kyk na 'n bedrag geld in die toekoms, en dan uit te werk wat sy waarde nou is.
+Dit word 'n <emphasis effect="italics">huidige waarde</emphasis> genoem.</para>
+        <para id="id343896">Byvoorbeeld, as R1 000 nou belê word in 'n bankrekening, is die toekomstige waarde die bedrag wat dit werd sal wees op 'n spesifieke dag in die toekoms. Aan die ander kant, as R1 000 benodig word op 'n sekere tydstip in die toekoms, dan kan die huidige waarde bereken word deur terug te werk - met ander woorde, hoeveel geld moet nou belê word om aan te groei tot R1 000 op die spesifieke dag in die toekoms? 
+
+
+</para>
+        <para id="id343904">Die vergelyking wat ons tot dusver gebruik het vir saamgestelde rente, wat die verband gee tussen die beginsaldo (<m:math overflow="scroll"><m:mi>P</m:mi></m:math>), die eindsaldo (<m:math overflow="scroll"><m:mi>A</m:mi></m:math>), die rentekoers (<m:math overflow="scroll"><m:mi>i</m:mi></m:math> as 'n koers per jaar) en die tydperk (<m:math overflow="scroll"><m:mi>n</m:mi></m:math> in jare) is:</para>
+        <equation id="uid11">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mi>A</m:mi>
+              <m:mo>=</m:mo>
+              <m:mi>P</m:mi>
+              <m:mo>·</m:mo>
+              <m:msup>
+                <m:mrow>
+                  <m:mo>(</m:mo>
+                  <m:mn>1</m:mn>
+                  <m:mo>+</m:mo>
+                  <m:mi>i</m:mi>
+                  <m:mo>)</m:mo>
+                </m:mrow>
+                <m:mi>n</m:mi>
+              </m:msup>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id343984">Deur eenvoudig <m:math overflow="scroll"><m:mi>P</m:mi></m:math> op te los in plaas van <m:math overflow="scroll"><m:mi>A</m:mi></m:math>, kry ons dat:</para>
+        <equation id="uid12">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mi>P</m:mi>
+              <m:mo>=</m:mo>
+              <m:mi>A</m:mi>
+              <m:mo>·</m:mo>
+              <m:msup>
+                <m:mrow>
+                  <m:mo>(</m:mo>
+                  <m:mn>1</m:mn>
+                  <m:mo>+</m:mo>
+                  <m:mi>i</m:mi>
+                  <m:mo>)</m:mo>
+                </m:mrow>
+                <m:mrow>
+                  <m:mo>-</m:mo>
+                  <m:mi>n</m:mi>
+                </m:mrow>
+              </m:msup>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id344048">Dit kan ook soos volg geskryf word, alhoewel die vorige vorm gewoonlik verkies word. 
+
+</para>
+        <equation id="uid13"><m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mi>P</m:mi>
+              <m:mo>=</m:mo><m:mfrac>
+              <m:mi>A</m:mi>
+              <m:mrow>
+              <m:msup>
+                <m:mrow>
+                  <m:mo>(</m:mo>
+                  <m:mn>1</m:mn>
+                  <m:mo>+</m:mo>
+                  <m:mi>i</m:mi>
+                  <m:mo>)</m:mo>
+                </m:mrow>
+                <m:mi>n</m:mi>
+              </m:msup></m:mrow></m:mfrac>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id344092">Kom ons dink nou wat hier gebeur. In vergelyking <link target-id="uid11"/>, begin ons met 'n bedrag geld en laat dit aangroei vir <m:math overflow="scroll"><m:mi>n</m:mi></m:math>  jaar.
+In vergelyking <link target-id="uid12"/> het ons die waarde van die geld oor <m:math overflow="scroll"><m:mi>n</m:mi></m:math> jaar, en ons neem die rente weg vir <m:math overflow="scroll"><m:mi>n</m:mi></m:math> jaar, om die bedrag te kry wat dit nou werd is.
+
+
+</para>
+        <para id="id344134">Ons kan dit soos volg toets. As ek nou R1 000 het wat ek belê vir 5 jaar teen 10% per jaar, dan het ek:
+</para>
+        <equation id="id344139">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mi>A</m:mi>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mi>P</m:mi>
+                    <m:mo>·</m:mo>
+                    <m:msup>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:mn>1</m:mn>
+                        <m:mo>+</m:mo>
+                        <m:mi>i</m:mi>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                      <m:mi>n</m:mi>
+                    </m:msup>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mi mathvariant="normal">R</m:mi>
+                    <m:mn>1</m:mn>
+                    <m:mspace width="3.33333pt"/>
+                    <m:mn>000</m:mn>
+                    <m:msup>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:mn>1</m:mn>
+                        <m:mo>+</m:mo>
+                        <m:mn>10</m:mn>
+                        <m:mo>%</m:mo>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                      <m:mn>5</m:mn>
+                    </m:msup>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mi mathvariant="normal">R</m:mi>
+                    <m:mn>1</m:mn>
+                    <m:mspace width="3.33333pt"/>
+                    <m:mn>610</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>51</m:mn>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <para id="id344253">aan die einde. MAAR, as ek weet dat ek oor 5 jaar R1 610,51 nodig het, moet ek nou belê:
+
+</para>
+        <equation id="id344260">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mi>P</m:mi>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mi>A</m:mi>
+                    <m:mo>·</m:mo>
+                    <m:msup>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:mn>1</m:mn>
+                        <m:mo>+</m:mo>
+                        <m:mi>i</m:mi>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mi>n</m:mi>
+                      </m:mrow>
+                    </m:msup>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mi mathvariant="normal">R</m:mi>
+                    <m:mn>1</m:mn>
+                    <m:mspace width="3.33333pt"/>
+                    <m:mn>610</m:mn>
+                    <m:mo>,</m:mo>
+                    <m:mn>51</m:mn>
+                    <m:msup>
+                      <m:mrow>
+                        <m:mo>(</m:mo>
+                        <m:mn>1</m:mn>
+                        <m:mo>+</m:mo>
+                        <m:mn>10</m:mn>
+                        <m:mo>%</m:mo>
+                        <m:mo>)</m:mo>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:mo>-</m:mo>
+                        <m:mn>5</m:mn>
+                      </m:mrow>
+                    </m:msup>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mi mathvariant="normal">R</m:mi>
+                    <m:mn>1</m:mn>
+                    <m:mspace width="3.33333pt"/>
+                    <m:mn>000</m:mn>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <para id="id344381">Ons eindig met R1 000 wat - as jy daaraan dink - dieselfde is as waarmee ons begin het. Kan jy dit sien?
+
+</para>
+        <para id="id344388">Natuurlik kan ons dieselfde tegnieke gebruik om 'n huidige waarde te bereken as die belegging teen enkelvoudige rente was - ons gebruik net die vergelyking vir enkelvoudige rente en los die beginsaldo op.
+
+</para>
+        <equation id="uid14">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mi>A</m:mi>
+              <m:mo>=</m:mo>
+              <m:mi>P</m:mi>
+              <m:mo>(</m:mo>
+              <m:mn>1</m:mn>
+              <m:mo>+</m:mo>
+              <m:mi>i</m:mi>
+              <m:mo>×</m:mo>
+              <m:mi>n</m:mi>
+              <m:mo>)</m:mo>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id344429">Deur <m:math overflow="scroll"><m:mi>P</m:mi></m:math> op te los, kry ons:
+        </para>
+        <equation id="uid15">
+          <m:math overflow="scroll" mode="display">
+            <m:mrow>
+              <m:mi>P</m:mi>
+              <m:mo>=</m:mo>
+              <m:mi>A</m:mi>
+              <m:mo>/</m:mo>
+              <m:mo>(</m:mo>
+              <m:mn>1</m:mn>
+              <m:mo>+</m:mo>
+              <m:mi>i</m:mi>
+              <m:mo>×</m:mo>
+              <m:mi>n</m:mi>
+              <m:mo>)</m:mo>
+            </m:mrow>
+          </m:math>
+        </equation>
+        <para id="id344482">Kom ons sê jy benodig 'n bedrag van R1 210 oor 3 jaar, en die bank betaal <emphasis effect="italics">Enkelvoudige Rente</emphasis> teen 7% per jaar. Hoeveel moet jy dan vandag in hierdie bankrekening belê?
+
+</para>
+        <equation id="id344494">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:mi>P</m:mi>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:mi>A</m:mi>
+                    <m:mrow>
+                      <m:mn>1</m:mn>
+                      <m:mo>+</m:mo>
+                      <m:mi>n</m:mi>
+                      <m:mo>·</m:mo>
+                      <m:mi>i</m:mi>
+                    </m:mrow>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mfrac>
+                    <m:mrow>
+                      <m:mi mathvariant="normal">R</m:mi>
+                      <m:mn>1</m:mn>
+                      <m:mspace width="3.33333pt"/>
+                      <m:mn>210</m:mn>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mn>1</m:mn>
+                      <m:mo>+</m:mo>
+                      <m:mn>3</m:mn>
+                      <m:mo>×</m:mo>
+                      <m:mn>7</m:mn>
+                      <m:mo>%</m:mo>
+                    </m:mrow>
+                  </m:mfrac>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mi mathvariant="normal">R</m:mi>
+                    <m:mn>1</m:mn>
+                    <m:mspace width="3.33333pt"/>
+                    <m:mn>000</m:mn>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <para id="id344596">Lyk dit bekend? Gaan terug na die uitgewerkte voorbeeld by enkelvoudige rente in Graad 10. 
+Daar het ons begin met 'n bedrag van R1 000 en gekyk wat die waarde sal wees na 3 jaar teen enkelvoudige rente. Nou het ons teruggewerk om te sien hoeveel geld ek nou benodig as 'n beginsaldo om te groei na 'n eindsaldo van R1 210. 
+
+
+</para>
+        <para id="id344609">In die praktyk word huidige waardes meestal bereken teen saamgestelde rente. Dus, tensy jy spesifiek gevra word om 'n huidige waarde te bereken teen enkelvoudige rente, maak seker jy gebruik die saamgestelde rente formule!
+
+</para>
+<section id="secfhsst_id1733"><title>Huidige en Toekomstige Waardes</title>
+        <list id="id344622" display="block" list-type="enumerated"><item id="uid16"> Na 'n tydperk van 20 jaar, het Josh se belegging gegroei na 'n eindbedrag van R313 550. Hoeveel het hy belê as rente bereken is teen 13,65% p.j. haljaarliks saamgestel vir die eerste 10 jaar, daarna teen 8,4% p.j. kwartaalliks saamgestel vir die volgende vyf jaar, en 7,2% p.j. maandeliks saamgestel vir die oorblywende tydperk? </item>
+	<item id="uid17">'n Lening moet terugbetaal word in twee gelyke haljaarlikse paaimente. As die rentekoers 16% per jaar, halfjaarliks saamgestel, is en elke paaiement is R1 458, bepaal die bedrag wat geleen is.</item>
+</list>
+        
+</section>
+      </section>
+    </section>
+
+  </content>
+</document>
