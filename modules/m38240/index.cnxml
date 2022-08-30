@@ -460,7 +460,7 @@
                 <entry/>
               </row>
               <row>
-                <entry><m:math overflow="scroll"><m:msup><m:mn>1</m:mn><m:mi mathvariant="sans-serif">ste</m:mi></m:msup></m:math> verskil</entry>
+                <entry><m:math overflow="scroll"><m:msup><m:mn>1</m:mn><m:mi mathvariant="bold-sans-serif">ste</m:mi></m:msup></m:math> verskil</entry>
                 <entry/>
                 <entry>
                   <m:math overflow="scroll">
@@ -496,7 +496,7 @@
                 </entry>
               </row>
               <row>
-                <entry><m:math overflow="scroll"><m:msup><m:mn>2</m:mn><m:mi mathvariant="sans-serif">de</m:mi></m:msup></m:math> verskil</entry>
+                <entry><m:math overflow="scroll"><m:msup><m:mn>2</m:mn><m:mi mathvariant="bold-sans-serif">de</m:mi></m:msup></m:math> verskil</entry>
                 <entry/>
                 <entry/>
                 <entry>
@@ -546,7 +546,7 @@ Vind die formule. </para>
                 <entry/>
               </row>
               <row>
-                <entry><m:math overflow="scroll"><m:msup><m:mn>1</m:mn><m:mi mathvariant="sans-serif">ste</m:mi></m:msup></m:math> verskil</entry>
+                <entry><m:math overflow="scroll"><m:msup><m:mn>1</m:mn><m:mi mathvariant="bold-sans-serif">ste</m:mi></m:msup></m:math> verskil</entry>
                 <entry/>
                 <entry>14</entry>
                 <entry/>
@@ -555,7 +555,7 @@ Vind die formule. </para>
                 <entry>26</entry>
               </row>
               <row>
-                <entry><m:math overflow="scroll"><m:msup><m:mn>2</m:mn><m:mi mathvariant="sans-serif">de</m:mi></m:msup></m:math> verskil</entry>
+                <entry><m:math overflow="scroll"><m:msup><m:mn>2</m:mn><m:mi mathvariant="bold-sans-serif">de</m:mi></m:msup></m:math> verskil</entry>
                 <entry/>
                 <entry/>
                 <entry>6</entry>
@@ -1330,7 +1330,7 @@ Vind die formule. </para>
                 <entry/>
               </row>
               <row>
-                <entry><m:math overflow="scroll"><m:msup><m:mn>1</m:mn><m:mi mathvariant="sans-serif">ste</m:mi></m:msup></m:math> verskil</entry>
+                <entry><m:math overflow="scroll"><m:msup><m:mn>1</m:mn><m:mi mathvariant="bold-sans-serif">ste</m:mi></m:msup></m:math> verskil</entry>
                 <entry/>
                 <entry>6</entry>
                 <entry/>
@@ -1341,7 +1341,7 @@ Vind die formule. </para>
                 <entry>24</entry>
               </row>
               <row>
-                <entry><m:math overflow="scroll"><m:msup><m:mn>2</m:mn><m:mi mathvariant="sans-serif">de</m:mi></m:msup></m:math> verskil</entry>
+                <entry><m:math overflow="scroll"><m:msup><m:mn>2</m:mn><m:mi mathvariant="bold-sans-serif">de</m:mi></m:msup></m:math> verskil</entry>
                 <entry/>
                 <entry/>
                 <entry>6</entry>

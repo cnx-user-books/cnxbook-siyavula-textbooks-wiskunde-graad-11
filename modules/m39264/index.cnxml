@@ -24,7 +24,7 @@ bestudeer was. </para>
         
       <caption>Algemene vorm en posisie van die grafiek van 'n funksie van die vorm <m:math overflow="scroll"><m:mrow><m:mi>f</m:mi><m:mrow><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>)</m:mo></m:mrow><m:mo>=</m:mo><m:mi>a</m:mi><m:msup><m:mi>b</m:mi><m:mrow><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>+</m:mo><m:mi>p</m:mi><m:mo>)</m:mo></m:mrow></m:msup><m:mo>+</m:mo><m:mi>q</m:mi></m:mrow></m:math>.</caption></figure>
 <section id="secfhsst_id73"><title>Ondersoek : Funksies van die Vorm <m:math overflow="scroll"><m:mrow><m:mi>y</m:mi><m:mo>=</m:mo><m:mi>a</m:mi><m:msup><m:mi>b</m:mi><m:mrow><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>+</m:mo><m:mi>p</m:mi><m:mo>)</m:mo></m:mrow></m:msup><m:mo>+</m:mo><m:mi>q</m:mi></m:mrow></m:math> </title>
-      <list id="id62684" display="block" list-type="enumerated"><item id="uid2">Op dieselfde assestelsel met <m:math display="display">
+      <list id="id62684" display="block" list-type="enumerated"><item id="uid2">Op dieselfde assestelsel met <m:math>
   <m:apply>
     <m:leq/>
     <m:apply>
@@ -34,7 +34,7 @@ bestudeer was. </para>
     <m:ci>x</m:ci>
     <m:cn>3</m:cn>
   </m:apply>
-</m:math> en <m:math display="display">
+</m:math> en <m:math>
   <m:apply>
     <m:leq/>
     <m:apply>
@@ -50,7 +50,7 @@ Gebruik jou resultate om te verstaan ​​wat gebeur wanneer jy die waarde vera
 
 Jy sal vind dat die waarde van <m:math overflow="scroll"><m:mi>a</m:mi></m:math> beïnvloed of die grafiek opwaarts buig (<m:math overflow="scroll"><m:mrow><m:mi>a</m:mi><m:mo>&gt;</m:mo><m:mn>0</m:mn></m:mrow></m:math>) of afwaarts buig (<m:math overflow="scroll"><m:mrow><m:mi>a</m:mi><m:mo>&lt;</m:mo><m:mn>0</m:mn></m:mrow></m:math>). Jy sal ook vind dat 'n groter waarde van<m:math overflow="scroll"><m:mi>a</m:mi></m:math> (wanneer <m:math overflow="scroll"><m:mi>a</m:mi></m:math> positief is) sal die grafiek opwaarts uitrek. Maar wanneer <m:math overflow="scroll"><m:mi>a</m:mi></m:math> negatief is, sal 'n laer waarde van <m:math overflow="scroll"><m:mi>a</m:mi></m:math> (soos -2 in plaas van -1) die grafiek afwaarts uitrek. Ten slotte, let daarop dat wanneer <m:math overflow="scroll"><m:mrow><m:mi>a</m:mi><m:mo>=</m:mo><m:mn>0</m:mn></m:mrow></m:math> is die grafiek 'n eenvoudige horisontale lyn. Dit is waarom ons <m:math overflow="scroll"><m:mrow><m:mi>a</m:mi><m:mo>≠</m:mo><m:mn>0</m:mn></m:mrow></m:math> stel in die oorspronklike definisies van hierdie funksies.
 </item>
-        <item id="uid8">Op dieselfde assestelsel met <m:math display="display">
+        <item id="uid8">Op dieselfde assestelsel met <m:math>
   <m:apply>
     <m:leq/>
     <m:apply>
@@ -60,7 +60,7 @@ Jy sal vind dat die waarde van <m:math overflow="scroll"><m:mi>a</m:mi></m:math>
     <m:ci>x</m:ci>
     <m:cn>3</m:cn>
   </m:apply>
-</m:math> en <m:math display="display">
+</m:math> en <m:math>
   <m:apply>
     <m:leq/>
     <m:apply>
@@ -79,7 +79,7 @@ Jy sal vind dat wanneer <m:math overflow="scroll"><m:mi>q</m:mi></m:math> toenee
 
 </item>
 
-<item id="uid211">Op dieselfde assestelsel met <m:math display="display">
+<item id="uid211">Op dieselfde assestelsel met <m:math>
   <m:apply>
     <m:leq/>
     <m:apply>
@@ -89,7 +89,7 @@ Jy sal vind dat wanneer <m:math overflow="scroll"><m:mi>q</m:mi></m:math> toenee
     <m:ci>x</m:ci>
     <m:cn>3</m:cn>
   </m:apply>
-</m:math> en <m:math display="display">
+</m:math> en <m:math>
   <m:apply>
     <m:leq/>
     <m:apply>
